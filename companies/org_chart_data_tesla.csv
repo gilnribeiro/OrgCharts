@@ -1,0 +1,307 @@
+name,title,image_src,reports_to,chart_status
+Elon Musk, CEO & Technology, https://cdn.theorg.com/c86347f1-5355-489e-a0ea-404684b90c85_thumb.jpg, 1
+Nagesh Saldi,CIO,https://cdn.theorg.com/ad9e8d67-7475-4569-ac2a-1b1c6dc5d88e_thumb.jpg,Elon Musk,2
+Vaibhav Taneja,CFO,https://cdn.theorg.com/7a9c3ec5-622e-443e-b371-0c217f839e0e_thumb.jpg,Elon Musk,2
+Brandon Ehrhart,General Counsel &amp; Corporate Secretary,https://cdn.theorg.com/fd4c7bcd-232d-48b2-bdf2-3e16bd925d0e_thumb.jpg,Elon Musk,2
+Tom Zhu,"Head of Greater China &amp; Senior Executive, Sales Operations - US, Europe",https://cdn.theorg.com/bd0cbccf-da0e-4fc1-ba79-0a9dbf266b08_thumb.jpg,Elon Musk,2
+Karn Budhiraj,"VP, Supply Chain",https://cdn.theorg.com/16d84327-d366-4bcd-809c-55e8379be83b_thumb.jpg,Elon Musk,2
+Laurie Shelby,"VP, Environmental, Health &amp; Safety",https://cdn.theorg.com/9b7eb929-17aa-45bb-ad1b-342245aeca5a_thumb.jpg,Elon Musk,2
+Lothar Thommes,"VP, MD - Tesla Automation",no_match,Elon Musk,2
+Troy Jones,"VP, North America Sales",no_match,Elon Musk,2
+Lars Moravy,"VP, Vehicle Engineering",https://cdn.theorg.com/746e40b3-71fa-48d1-94b7-41d65407edab_thumb.jpg,Elon Musk,2
+Cleve Schupp,Head of Marketing &amp; Direct Sales - APAC &amp; EMEA,https://cdn.theorg.com/5d643dfe-dec7-4af8-bce9-56ad62b04f4f_thumb.jpg,Elon Musk,2
+David Lau,"VP, Software Engineering",https://cdn.theorg.com/fb57ca5f-ed5d-497a-bd8e-332ae27c53b9_thumb.jpg,Nagesh Saldi,3
+Pete Bannon,"VP, Low Voltage &amp; Silicon Engineering",https://cdn.theorg.com/a3b87d86-c10f-4f21-bbbf-4ef2785988a2_thumb.jpg,Nagesh Saldi,3
+Thorhild S.,VP Software Engineering,https://cdn.theorg.com/103e16e6-20e8-45a1-ba7b-0a6174553cd7_thumb.jpg,Nagesh Saldi,3
+Divya Shetty,Sr Staff Technical Program Manager,no_match,Nagesh Saldi,3
+Stuart Saunders,Chief Engineer,no_match,Nagesh Saldi,3
+Nadezhda Beck,Quality Lead,https://cdn.theorg.com/777612d9-ca2e-4a0d-81d8-d8ea4356ff61_thumb.jpg,David Lau,4
+Dimitris Pantelakis,Staff Software Engineer,no_match,David Lau,4
+Himanshu Phul,Associate Engineering Manager,https://cdn.theorg.com/4f0b68a3-7a5a-458b-a5eb-8dc2c4c5e646_thumb.jpg,David Lau,4
+Mohd Yaqzan,Senior Engineer,https://cdn.theorg.com/ba906770-1ca5-4c7e-a811-dd593833353f_thumb.jpg,David Lau,4
+Patti Lonsbury,Associate Recruiting Manager,https://cdn.theorg.com/c856d479-37b7-4981-9169-1d10e3b5e431_thumb.jpg,David Lau,4
+Sogol Teschler,Senior Test Engineer,https://cdn.theorg.com/d5217211-769d-4310-b984-6f3cb0aff97e_thumb.jpg,David Lau,4
+Avinash Varidireddy,"Director, Software Engineering",no_match,David Lau,4
+Kostya Serebryany,Principal Software Engineer,https://cdn.theorg.com/cbb32b1d-a1fb-4ea9-80e0-9fe7f7cb1f80_thumb.jpg,David Lau,4
+Travis Good,"Manager, Information Security",https://cdn.theorg.com/01ce36b3-b14b-4432-8943-bd4ec9f80110_thumb.jpg,David Lau,4
+Markus Koch,Lead Audio Engineer,https://cdn.theorg.com/90c431cb-5b24-4bb9-b5db-62d555024ddb_thumb.jpg,David Lau,4
+Jatin Arora,Sr Staff Network Engineering Lead,https://cdn.theorg.com/d0790f09-2eba-499d-88f0-76858673fb3f_thumb.jpg,David Lau,4
+Tony O'Connor,Service Manager,https://cdn.theorg.com/f9542c2b-7bb2-47e9-9698-a5772ede1cfc_thumb.jpg,Nadezhda Beck,5
+Brian Trimboli,Staff Technical Writer,https://cdn.theorg.com/69b271cb-26dc-420c-951b-3890551a46b2_thumb.jpg,Nadezhda Beck,5
+Vincent Hong,Senior Designer,https://cdn.theorg.com/5b3f5984-2837-4c41-936f-d7ab152923a5_thumb.jpg,Nadezhda Beck,5
+Hieu Duong,"Director, Electrode Engineering",https://cdn.theorg.com/bbfa0a60-083f-467b-80d9-52a77ef407ad_thumb.jpg,Himanshu Phul,5
+Vineet Mehta,Director of Battery Technology &amp; Powertrain Architecture/Modeling,https://cdn.theorg.com/bbc24e6d-84c7-4ba1-a0fe-9e3ad1b539d6_thumb.jpg,Himanshu Phul,5
+Ahmed Eldesoky,Senior Cell Engineer,https://cdn.theorg.com/d3ef7613-a28b-40f2-ae9b-58ea231f409c_thumb.jpg,Hieu Duong,6
+Anjaneya Bandekar,Staff EHS Engineer,https://cdn.theorg.com/ebfdad36-ec5c-4960-8411-e1d536ff1d6d_thumb.jpg,Vineet Mehta,6
+Rahul Khandur Bhanuprakash,Senior Energy Trading Analyst,no_match,Vineet Mehta,6
+Amy M.y. Wong,Sr. Systems Modeling Engineer - Cell Engineering,no_match,Vineet Mehta,6
+Kit Schimandle,"Sr. Manufacturing Engineer, HV Battery",no_match,Vineet Mehta,6
+Oleksii Sosevych,Factory Software Engineering Manager,https://cdn.theorg.com/59e995bb-9bb2-40f3-bacf-f9705cc032fa_thumb.jpg,Avinash Varidireddy,5
+Terence Heinrich,"Manager, Software QA Engineering",https://cdn.theorg.com/5fc4d180-fe11-4941-b2ed-5f81bd6fc8e9_thumb.jpg,Avinash Varidireddy,5
+Coralie Touati,Senior Software Algorithm Engineer | Energy Optimization,https://cdn.theorg.com/9e040472-5ecb-4f10-8762-e1e7be9e89ca_thumb.jpg,Avinash Varidireddy,5
+Lane McIntosh,Senior Staff Machine Learning Scientist,https://cdn.theorg.com/2dba268d-8486-4805-ac17-a9e84154f191_thumb.jpg,Avinash Varidireddy,5
+Rishma Chitnis,Senior Software QA Engineer,no_match,Terence Heinrich,6
+Gaurang Patel,Sr QA Engineer,no_match,Terence Heinrich,6
+Hanusharana Arunan,Sr Software QA Engineer,no_match,Terence Heinrich,6
+Sunil Kumar,Sr Software QA Engineer,https://cdn.theorg.com/ef620afa-222e-44a2-9ac0-4622c944f95f_thumb.jpg,Terence Heinrich,6
+Mayur Guhe,Senior Quality Assurance Engineer,https://cdn.theorg.com/97399cce-b824-4ae0-811c-18aa26327a4b_thumb.jpg,Terence Heinrich,6
+Kanan Khokhani,Senior Software QA Engineer,https://cdn.theorg.com/4364b9a9-e762-443f-b715-976a2058b33f_thumb.jpg,Terence Heinrich,6
+Anna Zaslavsky,Sr. Software QA Engineer,no_match,Terence Heinrich,6
+Sergey Kolokolov,Senior Software QA Engineer,https://cdn.theorg.com/5d951d90-8999-4c2a-8c6e-bcbefd77ea9b_thumb.jpg,Terence Heinrich,6
+Dong Eun Lee,Sr Test Engineer L Abuse Test &amp; Engineering,https://cdn.theorg.com/9d512582-e6f8-4410-9ca8-2e286584f035_thumb.jpg,Terence Heinrich,6
+Debjit Das Sarma,Principal Autopilot Hardware Architect,https://cdn.theorg.com/ac3e9dae-80e8-4e2d-8b46-ea13ac48531f_thumb.jpg,Pete Bannon,4
+In Jae Chung,Director Of Electronic Design Engineering,https://cdn.theorg.com/2978907f-b19a-4b72-9321-0b1f6bb04999_thumb.jpg,Pete Bannon,4
+Digant Gupta,Head Of Engineering Technology &amp; Operations,https://cdn.theorg.com/e136083e-e50c-4268-9ad9-73219f0f9356_thumb.jpg,Pete Bannon,4
+Cameron Bresn,Senior Interior Designer,https://cdn.theorg.com/318840a2-fffa-4069-8377-ae3232365a46_thumb.jpg,Pete Bannon,4
+Ram Krishan Bharti,Sr. Manager Hardware Development @ Tesla (dojo),https://cdn.theorg.com/5052ba6e-c4be-4c79-b6b3-fe387ed74853_thumb.jpg,Pete Bannon,4
+Koen van Mierlo,Security Team Lead,https://cdn.theorg.com/235b6a83-e91c-423e-b6a9-ef38a5aff088_thumb.jpg,Debjit Das Sarma,5
+Mark Thompson,Equipment Engineer Team Lead,https://cdn.theorg.com/c5053e73-5b0c-486f-8d52-db2ad0a5d5aa_thumb.jpg,Debjit Das Sarma,5
+Weston Smallwood,Senior Electronics Design Engineer,https://cdn.theorg.com/cee5c82a-8967-4cc4-9921-d32f98c62045_thumb.jpg,In Jae Chung,5
+Ian Kettle,Senior Vehicle Design Manager,https://cdn.theorg.com/3d362b29-ced1-4a02-908b-36b501d75d8d_thumb.jpg,In Jae Chung,5
+Pavneet Singh,Senior Design Verification Engineer,https://cdn.theorg.com/2774a8e7-1bcf-4f0f-8a53-cd7ac11949bf_thumb.jpg,In Jae Chung,5
+Hadi Goudarzi,Principal Autopilot Engineer,https://cdn.theorg.com/2aefb592-717a-4ad0-8790-29a1a812fb8f_thumb.jpg,Thorhild S.,4
+Rajiv Kurian,Principal Engineer,https://cdn.theorg.com/be357d73-ae27-4942-ad02-8a0d4086c49d_thumb.jpg,Thorhild S.,4
+Yekeun Jeong,Principal Software Engineer | Technical Director,https://cdn.theorg.com/6a138022-6cc2-4ed6-b6c6-c5fbf9aea29e_thumb.jpg,Thorhild S.,4
+Hugh Janus,Software Engineering Team Lead,no_match,Thorhild S.,4
+Ian Wu,Staff Engineer (team Lead),no_match,Thorhild S.,4
+Lichao Geng,Data Team Lead (ai/bigdata/bi),https://cdn.theorg.com/662e1a31-77e7-4298-8fa9-3b3da14ad2ab_thumb.jpg,Thorhild S.,4
+Senthil Velmurugan,Director Of Software Engineering,https://cdn.theorg.com/208a244e-bdf7-4dd3-bfd9-dd4005365020_thumb.jpg,Thorhild S.,4
+Arden Urycki,Senior Analyst,https://cdn.theorg.com/5af7c96f-ef9e-4de7-b242-53f4bf972e5a_thumb.jpg,Thorhild S.,4
+Christian Sasam,Senior Software Development Engineer,https://cdn.theorg.com/07f56b2a-320f-421b-b93d-ba663ac9fa86_thumb.jpg,Thorhild S.,4
+Shruti Singhal,Senior Data Engineer,https://cdn.theorg.com/eb55a81e-37ee-45bd-839e-42c698581be3_thumb.jpg,Thorhild S.,4
+Prasath Ramakrishnan,Director - Data &amp; Analytics,https://cdn.theorg.com/078ce559-25a4-4c4f-8ee7-3ae2f6f71e33_thumb.jpg,Thorhild S.,4
+Ashok Elluswamy,Vice President - AI Software,https://cdn.theorg.com/67e58ccc-6edf-447a-b9f5-df8daf5f7438_thumb.jpg,Thorhild S.,4
+Jake Gough,Senior Software Engineering Manager,https://cdn.theorg.com/6d2ac8a1-73c6-4c01-94c0-3bb44211c03a_thumb.jpg,Thorhild S.,4
+Rajasekar Jegannathan,"Sr. Director - AI Infrastructure, Platform Engineering, Cloud And Infosec",no_match,Thorhild S.,4
+Srihari Sampathkumar,Senior Engineering Manager - AI Infrastructure &amp; Software Engineering,https://cdn.theorg.com/047bb12f-0747-45ef-8949-3a0dc266e445_thumb.jpg,Thorhild S.,4
+Liang Yi Qun,"Director, APAC IT",https://cdn.theorg.com/891e8948-f6fe-4478-b482-a01829c2ac1b_thumb.jpg,Thorhild S.,4
+Ed Sinek,Principal Software Engineer,no_match,Thorhild S.,4
+Evan Small,Principal Software Engineer,no_match,Thorhild S.,4
+Godfrey Sikha,Principal Engineer,no_match,Thorhild S.,4
+Paul Venhovens,Principal New Programs Engineer,no_match,Thorhild S.,4
+David Painton,Warehouse Lead,https://cdn.theorg.com/27864466-118f-4ceb-89d6-0fa4a05fa0c1_thumb.jpg,Rajiv Kurian,5
+Shahnawaz Bagdadi,Lead Engineer,https://cdn.theorg.com/1de58851-c1a1-4f7d-afef-2dd42e2eb928_thumb.jpg,Rajiv Kurian,5
+Spencer Smith,Senior Manufacturing Equipment Engineer,https://cdn.theorg.com/d472dd15-613f-41ad-8aef-9b1920e51930_thumb.jpg,Rajiv Kurian,5
+Pandor Cai,Staff Software Engineer Team Lead,https://cdn.theorg.com/e377a773-aafd-431a-bef3-2572331a4842_thumb.jpg,Yekeun Jeong,5
+Sanjana Gs,Senior Software Development Engineer,no_match,Hugh Janus,5
+Hai Lan,Sr Data Analyst,https://cdn.theorg.com/94673e19-5e09-4b9e-845f-78ccab928c47_thumb.jpg,Lichao Geng,5
+Ananya Kalkuli Hegde,Senior Analyst,https://cdn.theorg.com/09e60210-e1c7-4f6f-8299-07ed329c6dfe_thumb.jpg,Senthil Velmurugan,5
+Joel Lewis,Senior Engineer,no_match,Senthil Velmurugan,5
+Jonathan Sitter,Senior Analyst,https://cdn.theorg.com/a9291d03-f573-4713-a8af-f7eb01fa3d97_thumb.jpg,Senthil Velmurugan,5
+Luis Antillon,Associate,https://cdn.theorg.com/85f5ced3-e0d8-467a-9ab0-30b26c810e33_thumb.jpg,Senthil Velmurugan,5
+Meena B.,Senior Product Analyst,https://cdn.theorg.com/10af3ec0-5da9-47c8-b6ca-6dba13e9b093_thumb.jpg,Senthil Velmurugan,5
+Veronica Tan,Senior AI Scientist,https://cdn.theorg.com/b3c288a7-559e-4277-b21a-1819be233b3a_thumb.jpg,Senthil Velmurugan,5
+Xiaodi Yu,Senior Software Engineer,https://cdn.theorg.com/ff9a80cb-5397-4fef-95f6-b898316ba95c_thumb.jpg,Senthil Velmurugan,5
+Gopal Rao Kolli,Senior Software Development Engineer,no_match,Senthil Velmurugan,5
+Mufaddal Motiwala,Senior Product Engineer,https://cdn.theorg.com/d48c5203-3c49-4b6f-85db-6d2a7b27bd4f_thumb.jpg,Senthil Velmurugan,5
+Shivani Gambhir,Senior Software QA Engineer,https://cdn.theorg.com/fb14a87e-bcaf-4e32-baa5-d870580c800a_thumb.jpg,Senthil Velmurugan,5
+Vanisri Venkatesh,Senior Software QA Engineer,no_match,Senthil Velmurugan,5
+Atmeeya Vanakudre,Senior Software QA Engineer,https://cdn.theorg.com/d27b5669-cff0-4459-b801-a50b66c4ea1a_thumb.jpg,Senthil Velmurugan,5
+Mounika Chintanippu,Senior Software QA Engineer,https://cdn.theorg.com/0b821377-5e5c-499d-b8fd-fdc16b2c07dd_thumb.jpg,Senthil Velmurugan,5
+Pradeep Dsilva,Sr. Site Reliability Engineer,no_match,Senthil Velmurugan,5
+Shrivathsa Bendrala,Senior QA Engineer,https://cdn.theorg.com/86badb44-c9af-4406-a53e-539bb90fb2be_thumb.jpg,Senthil Velmurugan,5
+Supratik Maitra,Software Engineering Manager,no_match,Senthil Velmurugan,5
+Karan Gupta,Sr. Software Application Engineer,no_match,Senthil Velmurugan,5
+Islam Menshawy,Sr Engineering Manager,no_match,Senthil Velmurugan,5
+Kent Knox,Sr. Staff Software Engineer,https://cdn.theorg.com/dae798f1-8e51-4812-9e20-1d898b87d560_thumb.jpg,Supratik Maitra,6
+Dipen Limbu,Senior Software Engineer,https://cdn.theorg.com/241265cc-b201-48bd-913c-9daee8b8664e_thumb.jpg,Supratik Maitra,6
+Xian Kai Ng,Senior Software Engineer,https://cdn.theorg.com/73096fe4-aa5d-4ded-b802-15cf3d8fa456_thumb.jpg,Supratik Maitra,6
+Sam Charles,Senior Software Engineer,no_match,Supratik Maitra,6
+Shubham Agrawal,Senior Robotics Engineer,https://cdn.theorg.com/0edded9d-626a-4f61-97c4-50550d51a4d6_thumb.jpg,Supratik Maitra,6
+Pinky Mathew,Senior Software Engineer,https://cdn.theorg.com/792b27f6-6f11-4530-a1d4-c4e4e4a9a25e_thumb.jpg,Supratik Maitra,6
+Stephen Safaeih,Staff Vision Development Engineer,https://cdn.theorg.com/f08978e3-9545-478e-ad20-862d82b0c2d1_thumb.jpg,Islam Menshawy,6
+Bruno Diaz Silva,Senior Process Engineer,https://cdn.theorg.com/35de43ae-dbe2-4fcb-9757-29663a475a6c_thumb.jpg,Islam Menshawy,6
+Sohaib Nadeem,Sr Manufacturing Equipment Engineer,https://cdn.theorg.com/54eb200b-bfb2-47f7-be3b-ae9aa1ff3989_thumb.jpg,Islam Menshawy,6
+Yaqi Tu,Senior Engineer,no_match,Islam Menshawy,6
+Dhruv Gambhir,Senior Supplier Industrialization Engineer,https://cdn.theorg.com/68b98229-0ccb-4a46-bbd7-4008761b3849_thumb.jpg,Islam Menshawy,6
+Srikanth Kotipalli,"Senior Manager, Data Engineering And Analytics",https://cdn.theorg.com/876f5c27-c836-4ecd-89ce-526c50b6755e_thumb.jpg,Prasath Ramakrishnan,5
+Sengathir Subbarayan,Sr Manager Data Engineering And Analytics,https://cdn.theorg.com/47521bb2-b12d-405d-a17e-c5044a76b2ba_thumb.jpg,Prasath Ramakrishnan,5
+Aishwarya Nagaraj,Manager &amp; Senior Analyst (consumer Insights &amp; Market Research),https://cdn.theorg.com/3c0fe4bb-5f2a-4d41-8ce4-2fbb91162017_thumb.jpg,Prasath Ramakrishnan,5
+Scott Spethman,"Sr. Staff Program Manager, Learning Analytics, Strategy, Technology, &amp; B2b",https://cdn.theorg.com/74bb407d-d350-4d8c-9838-5a53ac7a8e63_thumb.jpg,Prasath Ramakrishnan,5
+Peter-Klemens Grafe,"Senior Data Scientist, Global Growth",https://cdn.theorg.com/9e04d0b4-f649-4487-9a2e-e379ef8698a5_thumb.jpg,Prasath Ramakrishnan,5
+Pritish S Adiga,Senior Data Analyst,https://cdn.theorg.com/b2e54ff0-844e-4d40-a836-b6575ed5b968_thumb.jpg,Srikanth Kotipalli,6
+Arjun Athipathi,"Senior Analyst, Analytics",no_match,Srikanth Kotipalli,6
+Evgenii Karimov,Senior Data Engineer,https://cdn.theorg.com/3bdc8b94-2c38-49df-9709-a631942719af_thumb.jpg,Srikanth Kotipalli,6
+Abouzar Abbaspour,Senior Data Engineer,https://cdn.theorg.com/094f320c-f6cf-4ec4-9c79-9ac0631f378a_thumb.jpg,Srikanth Kotipalli,6
+Suriya Mohan,Sr. Staff Data Engineer,https://cdn.theorg.com/ad32ed2a-fded-441f-82b1-e4d6f8ac1589_thumb.jpg,Srikanth Kotipalli,6
+Sharad Singh,Senior Analytics Engineer,https://cdn.theorg.com/07aba12d-e555-48b1-9709-397876eee889_thumb.jpg,Sengathir Subbarayan,6
+Phil Duan,"Sr. Staff Software Engineer, Autopilot",https://cdn.theorg.com/788037c4-206c-4c5a-961a-98a6558356ad_thumb.jpg,Ashok Elluswamy,5
+Niloofar Khoshsiyar,Senior Autopilot Engineer,https://cdn.theorg.com/2719af52-1f35-4483-b843-8dece1ed9c0c_thumb.jpg,Ashok Elluswamy,5
+Alvin Mendoza,Fleet Manager - AI Robotics,https://cdn.theorg.com/4237df60-56c1-44cf-b7ee-94bf4f56f417_thumb.jpg,Ashok Elluswamy,5
+Robert Harrison,Senior Software Engineer,https://cdn.theorg.com/2f960226-885b-4219-ad61-0d1173bd6261_thumb.jpg,Jake Gough,5
+Caylie Taylor,Senior Software Engineer,https://cdn.theorg.com/2f51ae79-a124-455a-8232-3ba13c692274_thumb.jpg,Jake Gough,5
+Leandro Guilherme Goncalves,Senior Staff Software Engineer,no_match,Jake Gough,5
+Vamshi Krishna P.,Senior Application Support Engineer,https://cdn.theorg.com/69414949-f479-4ebb-9b09-706effa7ca2d_thumb.jpg,Jake Gough,5
+Ashkan Paya,Senior Staff Software Engineer,https://cdn.theorg.com/0a0c0eec-16ee-47dc-9934-b1a1fe31c1de_thumb.jpg,Jake Gough,5
+Chao Ren,Sr. Software Engineer,https://cdn.theorg.com/4279b7b7-d537-4269-bce9-9aeb5f431f8d_thumb.jpg,Jake Gough,5
+Zach Borst,Senior Software Engineer,https://cdn.theorg.com/3cd5b34a-b844-4da7-80dd-14d3d460f62e_thumb.jpg,Jake Gough,5
+Sunit Shukla,Sr Software QA Engineer,https://cdn.theorg.com/23dc2391-0330-4820-8ab0-6c1229186b8c_thumb.jpg,Jake Gough,5
+Praveena Boppudi,Sr. Staff Software QA Engineer,https://cdn.theorg.com/100652f3-6f99-4285-b562-62e547430939_thumb.jpg,Jake Gough,5
+Ameya Kamat,"Sr Software Engineer, Infotainment Tools",https://cdn.theorg.com/efbd1331-051f-43ba-9c36-dcaa2e4fa351_thumb.jpg,Jake Gough,5
+Fan Yang,Senior Software Engineer,no_match,Jake Gough,5
+Abdul Hadi Khan,Senior Software Engineer,https://cdn.theorg.com/4ac581ad-45d6-47d8-ade3-445fbd6f09f1_thumb.jpg,Jake Gough,5
+Abhishek Patro,Senior Software Engineer,https://cdn.theorg.com/49b89878-2391-496c-9d78-c4b9b2757158_thumb.jpg,Jake Gough,5
+Rishab Bansal,Senior Software Engineer,no_match,Jake Gough,5
+Bhavyansh Mishra,Senior Autopilot Software Engineer,no_match,Jake Gough,5
+Yuanqin Deng,Senior Devops Engineer,https://cdn.theorg.com/21e72266-62a8-4705-a808-a6f67dfb83ce_thumb.jpg,Srihari Sampathkumar,5
+Supriya Das,Sr. Engineering Sourcer,no_match,Srihari Sampathkumar,5
+James Scala,"Sr. Staff Data Center Design Engineer, Infrastructure Engineering",no_match,Srihari Sampathkumar,5
+Ed Forhan,Manager - IT Operations At Tesla,https://cdn.theorg.com/e2577b00-01d1-4d6f-9065-d4851d6065a4_thumb.jpg,Liang Yi Qun,5
+Steven Barbato,"Manager, IT Infrastructure Engineering",https://cdn.theorg.com/b7fb1e65-64ce-4597-ad42-a7c40b78727f_thumb.jpg,Liang Yi Qun,5
+Bob Havens,"Sr IT Network Design, Manufacturing And Data Centers, North America",no_match,Ed Forhan,6
+Ajay Deep Chauhan,Senior Datacenter Engineer,https://cdn.theorg.com/041c28cf-2df1-45fd-92eb-eecc02ecb1c1_thumb.jpg,Steven Barbato,6
+Patrick Argy,"Sr. Network Engineer, IT Infrastructure Engineering, Manufacturing",https://cdn.theorg.com/88d56af6-0afa-4586-94d2-df446ff45ef1_thumb.jpg,Steven Barbato,6
+Sophia Leon Guerrero,Senior Technical Program Manager,https://cdn.theorg.com/e4705199-5637-4b54-8089-a765851c1c73_thumb.jpg,Divya Shetty,4
+David Jon Feinstein,"Senior Director, Global Trade &amp; New Markets - Finance",https://cdn.theorg.com/74ec4883-efd0-4d05-801e-be693dcb07fe_thumb.jpg,Vaibhav Taneja,3
+Nelson Wong,Director of FP&amp;A &amp; Business Operations,https://cdn.theorg.com/6ab30e5c-ac70-4c6c-a5e0-b1126254623d_thumb.jpg,Vaibhav Taneja,3
+Gabrielle Bressack,Director of Finance &amp; Business Operations,https://cdn.theorg.com/c2312c81-bc3f-43f1-b09e-a02b76f13533_thumb.jpg,Vaibhav Taneja,3
+Sendil Palani,"Vice President, Finance",https://cdn.theorg.com/733c789c-8a44-49e8-832f-ed1da8c819b7_thumb.jpg,Vaibhav Taneja,3
+Charlie Haley,"Director, Business Operations &amp; Finance At Tesla",https://cdn.theorg.com/e51b5c86-03de-4f09-a2ca-80e8717bb639_thumb.jpg,Vaibhav Taneja,3
+Swapnil Bhatnagar,"VP, Internal Audit, Project Controls &amp; Advisory",https://cdn.theorg.com/771a85a4-a21c-4630-beae-f38dafed9aa3_thumb.jpg,Vaibhav Taneja,3
+Karthik Sajikumar,Business Planning Manager,https://cdn.theorg.com/163e5489-d79c-4d25-a242-36a05b4970f6_thumb.jpg,Nelson Wong,4
+Gary Kunzendorf,Business Planning &amp; Strategy – Charging | Sr. Analyst,https://cdn.theorg.com/63aded76-a8fb-4c6f-b085-1e8c452d819a_thumb.jpg,Karthik Sajikumar,5
+Alex Chin,Senior Accountant,https://cdn.theorg.com/317955c4-c320-4437-9053-52ca317f3903_thumb.jpg,Gabrielle Bressack,4
+Donald Jones,Senior Accountant,no_match,Gabrielle Bressack,4
+Gobinder Walia,Sr. Manager Business Systems,no_match,Gabrielle Bressack,4
+Charissa Sanders,Staff Cost Accountant,no_match,Gabrielle Bressack,4
+Annette Hardy,Sr Corporate Accountant,https://cdn.theorg.com/46a34de0-5322-4792-9cbd-a3cb454966de_thumb.jpg,Gabrielle Bressack,4
+Meriem Allouch,"Senior Director, EMEA Controller",https://cdn.theorg.com/11dec44e-1e64-4335-9a3b-2b9778c0b1b9_thumb.jpg,Sendil Palani,4
+Mingming Liu,Head Of Global Tax Operation,no_match,Sendil Palani,4
+Shaheryar Mahmood,Accounts Payable Lead,https://cdn.theorg.com/b946e333-6ee9-48d4-bc79-2b5d9900f45c_thumb.jpg,Sendil Palani,4
+Dalton Myas,"Senior Technical Program Manager, Launch &amp; Strategy",no_match,Charlie Haley,4
+Janet H.,Senior Technical Program Manager,https://cdn.theorg.com/897bc4d6-c0d2-4a52-a8dc-4eab5825b0a0_thumb.jpg,Charlie Haley,4
+Nastya Sysoeva,Project Lead,https://cdn.theorg.com/efa5876e-e367-4cb3-ae94-aea3754b6a67_thumb.jpg,Swapnil Bhatnagar,4
+Angelique Bell,Lead Technician,https://cdn.theorg.com/c7fb17e2-cd41-4e45-8f2c-ec74b6361e0f_thumb.jpg,Swapnil Bhatnagar,4
+Eric Schweiker,Director Of Global Compliance,https://cdn.theorg.com/ef879292-2f9a-4ce9-828f-472fd69a5b39_thumb.jpg,Swapnil Bhatnagar,4
+Jens S.,Lead Technician,https://cdn.theorg.com/4c3479ad-a1e9-4da1-9c86-f09fa86075ef_thumb.jpg,Swapnil Bhatnagar,4
+Joe Manzione,"Service Technician, Team Lead",https://cdn.theorg.com/c842aa33-5712-4633-92cf-01efac5d2de2_thumb.jpg,Swapnil Bhatnagar,4
+Kasiviswanathan Panchatsharam,Senior Project Lead,https://cdn.theorg.com/58dedae6-0a84-4812-83b4-beb475908977_thumb.jpg,Swapnil Bhatnagar,4
+Lennart Mugler,Lead Project Manager EMEA,https://cdn.theorg.com/6914b7f5-7a53-44e9-9f4f-8f35bebd6b93_thumb.jpg,Swapnil Bhatnagar,4
+Rhett Sing,Staff Compliance Analyst,https://cdn.theorg.com/718e27f4-dac8-49ac-8c91-da0fd2578287_thumb.jpg,Eric Schweiker,4
+Sebastiaan Wiewel,"Claims, Quality &amp; Compliance Manager - Supply Chain EMEA",https://cdn.theorg.com/e39e2c0f-5bb4-4f3c-ab5d-6574d5f429e6_thumb.jpg,Eric Schweiker,4
+Claudia Stamer,Compliance And Regulatory Manager,https://cdn.theorg.com/b447458d-9497-497c-b1ab-b64ad393ae85_thumb.jpg,Eric Schweiker,4
+Elizabeth Dussan,DOT Compliance Manager,https://cdn.theorg.com/fc06650d-7307-44e9-8630-e9289c3b5612_thumb.jpg,Eric Schweiker,4
+Shirley Z.,Sr. Technical Project Manager,https://cdn.theorg.com/f494e982-f0af-4142-a460-4ae3f116a013_thumb.jpg,Kasiviswanathan Panchatsharam,5
+Dinna Eskin,"Vp, Legal",no_match,Brandon Ehrhart,3
+JT Boone,Deputy General Counsel,https://cdn.theorg.com/9bbbcfc8-ad42-4041-bfdf-8531ab15bbae_thumb.jpg,Brandon Ehrhart,3
+Ryan McCarthy,"Deputy General Counsel, Product Litigation",https://cdn.theorg.com/4e38982f-02d1-4ffe-a42d-f921de6fb05e_thumb.jpg,Brandon Ehrhart,3
+Brian Jazaeri,Sr. Director - Head Of Litigation,https://cdn.theorg.com/cf7f5e42-e90d-473a-b68f-e7a1c5967afb_thumb.jpg,Dinna Eskin,4
+Daniel A.,Senior Counsel,https://cdn.theorg.com/7ad017d6-55a7-41dd-8f24-07c2b37f315e_thumb.jpg,Dinna Eskin,4
+Natasha Hyman,Managing Counsel,https://cdn.theorg.com/071d390d-5d0d-4ef5-a508-a2d46258a017_thumb.jpg,Dinna Eskin,4
+Lauren Miller,Senior Counsel,https://cdn.theorg.com/c9958603-1397-4b74-ba39-adac3989b6ba_thumb.jpg,Dinna Eskin,4
+Roman Haselmann,Senior Counsel,https://cdn.theorg.com/b10ea018-6626-4f24-88c2-236c630062bf_thumb.jpg,Dinna Eskin,4
+Collin Szeto,Senior Paralegal,https://cdn.theorg.com/1cd9f67e-7877-4c87-93ac-227c1c5589c8_thumb.jpg,Dinna Eskin,4
+Lance A. Woods,"Operations Compliance, Charging",no_match,JT Boone,4
+Kate Buccieri,Managing Counsel,https://cdn.theorg.com/482f67e5-c575-4f7b-9f86-36a52dec63b4_thumb.jpg,Ryan McCarthy,4
+Camille Falières,Team Lead - Global Supply Manager - Professional Services,no_match,Karn Budhiraj,3
+Daniel J. Universal,Senior Operations Lead,https://cdn.theorg.com/cdfba282-0e35-4af6-af1d-eae4647d8f29_thumb.jpg,Karn Budhiraj,3
+Hekuran Jashari,Lead Technician,https://cdn.theorg.com/8ccf02cc-5f83-4472-b33e-7c676518683b_thumb.jpg,Karn Budhiraj,3
+Brandon Tye,Group Manager,https://cdn.theorg.com/9cbdd243-0afb-4508-bac9-c935bc4e29a2_thumb.jpg,Karn Budhiraj,3
+Deepak Gupta,Global Supply Manager,https://cdn.theorg.com/e07dd332-93d5-4245-8bc3-bc75efa71522_thumb.jpg,Karn Budhiraj,3
+Hannan Chishti,Global Supply Manager (staff),https://cdn.theorg.com/6adbdf86-c91e-4637-8d28-0a71d21423ea_thumb.jpg,Karn Budhiraj,3
+John Isaac Gonzales,Global Supply Manager,no_match,Karn Budhiraj,3
+John Zhang,Global Supply Manager,https://cdn.theorg.com/3bb9256b-ae0a-4fca-b6d7-e32ffc883435_thumb.jpg,Karn Budhiraj,3
+Melike Aslan Coskun,Group Manager - Supply Chain,https://cdn.theorg.com/7e4f7b0e-1abf-4507-828f-644aba08657e_thumb.jpg,Karn Budhiraj,3
+Mit J Rajani,Global Supply Manager,https://cdn.theorg.com/7e5bbd56-76b8-4fff-bbde-dbbd840a8abc_thumb.jpg,Karn Budhiraj,3
+Roshan Thomas,Vice President Supply Chain,no_match,Karn Budhiraj,3
+Siddhanth Vashisht,Senior Global Supply Manager/sourcing Engineer,https://cdn.theorg.com/ed7cf649-fa5b-4a7a-9eba-0bdd768a750d_thumb.jpg,Karn Budhiraj,3
+Yuting Hsu,Global Supply Manager,no_match,Karn Budhiraj,3
+Dhruman Gohil,"Supply Chain Manager, PCBA",no_match,Karn Budhiraj,3
+Adewale Fadipe,Lead Equipment Maintenance Technician,no_match,Karn Budhiraj,3
+Chad Knight,Senior Supply Chain Manager,https://cdn.theorg.com/a6c695a2-b7b5-490f-a663-cfecb3ecc053_thumb.jpg,Camille Falières,4
+Young Kim,Staff Global Supply Manager,https://cdn.theorg.com/7e01538f-5d24-45d5-af85-02a884eb49a3_thumb.jpg,Camille Falières,4
+Alexander Fleissner,Lead Technician,https://cdn.theorg.com/57031146-4bcb-4e6c-97bd-75521a11d83a_thumb.jpg,Daniel J. Universal,4
+Chandler Wendt,Senior Technician,https://cdn.theorg.com/2bec7feb-10d5-4c92-ad46-6359ba2f2657_thumb.jpg,Daniel J. Universal,4
+Chuck Fernandez,Senior Technician,https://cdn.theorg.com/be3f349b-bc9e-4a88-979a-3bc3d8eb936f_thumb.jpg,Daniel J. Universal,4
+Samantha Barrett,Senior Technical Program Manager,https://cdn.theorg.com/2fcbd08d-e3a2-4443-ab34-19e5174b36a4_thumb.jpg,Daniel J. Universal,4
+Pojen Suhendra,"Director, Electronics Supply Chain",https://cdn.theorg.com/769e5043-98d7-4a46-980e-af25e2fccde0_thumb.jpg,Roshan Thomas,4
+Lily Li,Head Of Testing And Automation Supply Chain,https://cdn.theorg.com/807f84d4-fdba-4ce4-89bd-d091c5f3e520_thumb.jpg,Roshan Thomas,4
+Hannah Y.,Global Supply Manager,no_match,Roshan Thomas,4
+Edwin R.,"Manager, Supplier Quality And Operations",https://cdn.theorg.com/1f4059ed-217e-41cc-927d-3e3918093b56_thumb.jpg,Roshan Thomas,4
+Adil Doshayev,"Senior Global Supply Chain Manager, Packaging Purchasing",https://cdn.theorg.com/09e94e49-a723-471e-85a4-b516970bc2aa_thumb.jpg,Roshan Thomas,4
+Michele Ne+,Supply Chain Manager - Power Distribution / Electronics / Battery,https://cdn.theorg.com/83502995-4847-4a2c-98a5-72715a65112c_thumb.jpg,Roshan Thomas,4
+Diana Rosenberg,"Technical Lead, Environmental Management, Battery Supply Chain",https://cdn.theorg.com/6bd4e0da-d5e8-4d97-ae9d-35efa3367dcf_thumb.jpg,Roshan Thomas,4
+Giancristoforo Camillo,Senior Supply Operations Manager - Direct Vehicle Parts,https://cdn.theorg.com/de7abfcb-87ba-468c-8460-39224a9decb8_thumb.jpg,Roshan Thomas,4
+Julien Proust,France Operations Lead / Directeur Des Opérations,https://cdn.theorg.com/ceb39fc0-c3ca-414f-9dba-8752f19353ae_thumb.jpg,Roshan Thomas,4
+Rigo Pedraza,Lead Project / Program Manager,https://cdn.theorg.com/27778920-b12b-44d8-a772-0ec01ba43eaa_thumb.jpg,Roshan Thomas,4
+Tanmay Neve,Global Supply Chain Manager,https://cdn.theorg.com/72f907f8-9b7e-4eea-8178-cca5bdddfe48_thumb.jpg,Roshan Thomas,4
+Joe Peloquin,"Head Of Energy Warehousing, Logistics, And Fleet Management",https://cdn.theorg.com/4c9d012d-08f3-49c4-aab4-7f9e3dce592d_thumb.jpg,Roshan Thomas,4
+Carolina Ery W. Nakaya,"Senior Program Manager, NPI Materials",https://cdn.theorg.com/b447d642-d2d7-4bf6-98e7-19d452e4344a_thumb.jpg,Pojen Suhendra,5
+Gaurav Chhabra+,Sr. Manager- Battery Supply Chain,https://cdn.theorg.com/174be777-9b31-4748-8c5b-8268e75cf8da_thumb.jpg,Pojen Suhendra,5
+Gonzalo Salem,Global Supply Manager,https://cdn.theorg.com/808db7f7-65ff-487d-9b8c-04a3dd87c9c9_thumb.jpg,Pojen Suhendra,5
+Ian Langtry,"Senior Director, Environmental Health &amp; Safety",https://cdn.theorg.com/33671f1f-0f21-4cf0-b5c5-dae7085d13d3_thumb.jpg,Laurie Shelby,3
+Jens Stark,Market Lead,https://cdn.theorg.com/3eb82273-c8bb-4c1f-865a-6a501244a3e9_thumb.jpg,Troy Jones,3
+Jason Sampson,Regional Inbound Manager (mid-atlantic &amp; Central),https://cdn.theorg.com/0ec24f30-4551-4a57-a9ef-2bd49b32c793_thumb.jpg,Troy Jones,3
+Izabela Miric,"Director Sales, Service And Delivery Operations | Transformational Leader",https://cdn.theorg.com/61db9cec-70e7-473c-b25b-f810bafb2b34_thumb.jpg,Troy Jones,3
+Fereshteh Zeineddin,"Director, Sales &amp; Service, Canada, Mexico, Latam &amp; Northwest US",https://cdn.theorg.com/250ca1bf-aba4-41fe-8279-9d1102ee3474_thumb.jpg,Troy Jones,3
+Teresa Gutierrez,"Country Manager, Sales &amp; Service",https://cdn.theorg.com/68c238ef-59ab-4653-9f68-54370b9a7944_thumb.jpg,Troy Jones,3
+Linda Han-Dizon,"Director, Sales &amp; Finance Operations",no_match,Troy Jones,3
+Argeen Ghazarian,"General Manager - Sales, Service, Delivery Operations",https://cdn.theorg.com/19463a6d-3c77-4d76-af21-35cb94ef3849_thumb.jpg,Izabela Miric,4
+Saedah Salhia,"Senior Leader, North America Sales &amp; Delivery Operations",https://cdn.theorg.com/7bfad9fe-9bff-41cb-9644-ac6a7310b120_thumb.jpg,Izabela Miric,4
+Richi Hashimoto,Country Director - Japan,https://cdn.theorg.com/e78dd3fa-e242-4acc-a968-13adfecb53dd_thumb.jpg,Izabela Miric,4
+George Bahadue,"Sr. Manager, Site Acquisition And Business Development -commercial Charging",https://cdn.theorg.com/312130c4-0827-4726-a670-40bbd19bb762_thumb.jpg,Linda Han-Dizon,4
+Rosalie Nathans,"Sr. Manager, Used Cars And Online Sales",no_match,Linda Han-Dizon,4
+Maggie Edmunds,"Sr. Product Content Manager, Industrial Energy Products",no_match,Linda Han-Dizon,4
+Suraj Nagaraj,Sr Director - Homologation Engineering,https://cdn.theorg.com/575dd046-c104-4cd4-8768-f61d96dff78c_thumb.jpg,Lars Moravy,3
+Yanbo Qi,Staff Data Scientist,https://cdn.theorg.com/89a8ce6f-a8f3-45e1-86d3-0cff1fd2d476_thumb.jpg,Lars Moravy,3
+Jorge Luis Hernández Montes,Staff Manufacturing Engineer,no_match,Lars Moravy,3
+Milan Kovac,"Vice President, Optimus (tesla Bot)",https://cdn.theorg.com/7a0803a2-756a-45d7-b5b8-c90e69acd192_thumb.jpg,Lars Moravy,3
+Ralf Gomm,Director Of Engineering,https://cdn.theorg.com/0b6a50f7-5d79-4047-be79-ed0d592921bb_thumb.jpg,Lars Moravy,3
+Ismail Guneydas,"Global Lead, Manufacturing Security",no_match,Lars Moravy,3
+Konstantinos Laskaris,Director Of Engineering,no_match,Lars Moravy,3
+Silvio Brugada,Director Of Engineering,https://cdn.theorg.com/8ca890ae-3748-42e2-99b6-11040fe9acfa_thumb.jpg,Lars Moravy,3
+Naga Alla,Senior Engineering Manager,https://cdn.theorg.com/160330a6-d3bf-412b-94f3-f265a9b66e33_thumb.jpg,Lars Moravy,3
+Matt Reddick,Director of Operations,https://cdn.theorg.com/f7450e51-0fe4-4660-ace5-bd7075a33758_thumb.jpg,Lars Moravy,3
+Nick Ostrom,Humanoid Robotics Sr. Engineer,https://cdn.theorg.com/d54ad50d-718c-4322-9727-8ec7eba253da_thumb.jpg,Milan Kovac,4
+Nirmalya Mukherjee,Sr. Engineering Program Manager,no_match,Ralf Gomm,4
+Dazhao Liu,Senior Staff Signal And Power Integrity Engineer,https://cdn.theorg.com/564d422f-06e7-4a53-a5b8-2c08e85b736d_thumb.jpg,Ralf Gomm,4
+Yiyuan Liao,Senior Supplier Industrialization Engineer,https://cdn.theorg.com/f6ecf1f1-38e4-4137-82af-fa2abe7db3d1_thumb.jpg,Ralf Gomm,4
+Nathan Ng,"Manager, Senior Staff Mechanical Engineer",https://cdn.theorg.com/5be24043-bc32-4582-abdb-762dd8231c6f_thumb.jpg,Ralf Gomm,4
+Volodymyr Ponomar,"Mechanical Design Manager, Power Electronics Test Engineering",https://cdn.theorg.com/d6add7af-b54f-45dc-8b22-55276d4d63d2_thumb.jpg,Ralf Gomm,4
+Darshan Patil,"Manager, Manufacturing Engineering",https://cdn.theorg.com/a4fdf59f-640d-47df-8d78-c16b54c335b3_thumb.jpg,Ralf Gomm,4
+Taeho Hong,Senior Field Service Engineer | Enery Team,https://cdn.theorg.com/8cc99e89-9f8a-47f9-a7d3-5a1e141ec5f1_thumb.jpg,Ralf Gomm,4
+J. Daniel Fuster,Cybertruck - BIW Process Engineering Manager,https://cdn.theorg.com/cb8dfe13-922d-4598-ad96-f1b774cd0a21_thumb.jpg,Ralf Gomm,4
+Paweł Kasimir,Senior Mechanical Engineer,https://cdn.theorg.com/5dc1afce-6e88-42cd-acf7-527205f89aff_thumb.jpg,Nathan Ng,5
+Dima Roll,"Sr. Recruiter, Manufacturing Engineering",https://cdn.theorg.com/b66a6dc9-b99a-4c5c-91d9-9f4e94970490_thumb.jpg,Darshan Patil,5
+Jack Gall,Senior Manufacturing Engineer,https://cdn.theorg.com/aae1ae43-be29-4874-be14-2d939345cbc4_thumb.jpg,Darshan Patil,5
+Lin Yan,Sr Supplier Industrialization Engineer,https://cdn.theorg.com/9fe9f5ae-6d74-4261-a5aa-9181b62c2e15_thumb.jpg,Darshan Patil,5
+Hasan Siddiqui,"Senior Process Engineer, Cell Tabless",https://cdn.theorg.com/8c499483-e9bc-4888-ab65-8caff62c5319_thumb.jpg,J. Daniel Fuster,5
+Kevin Pardais,"Manager, Engineering Applications Support, Design Technology",no_match,Konstantinos Laskaris,4
+Dana Gleason,Construction Lead | North America,https://cdn.theorg.com/a26a6698-46d6-4f41-9424-a9b7f4f63b2a_thumb.jpg,Konstantinos Laskaris,4
+Sepehr Ramezani,Staff Robotics Mechanical And Controls Test Engineer,https://cdn.theorg.com/e4bc376a-1d66-44d0-ae68-19b8661896c8_thumb.jpg,Silvio Brugada,4
+Dixit Solanki,Sr. Supplier Industrialization Engineer,https://cdn.theorg.com/3f8cf9c3-5f60-49aa-9ee3-b4ac399d61c6_thumb.jpg,Naga Alla,4
+Evangeline Gnanaraj,Senior Product Engineer,no_match,Naga Alla,4
+Khurram Tanvir,Senior Scada Engineer,https://cdn.theorg.com/ecabd01a-bad4-48cd-9f21-d62216c06920_thumb.jpg,Naga Alla,4
+Aidan Honnold,Senior Mechanical Design Engineer,no_match,Naga Alla,4
+Andrea Ripamonti,Associate HR Operations Manager,https://cdn.theorg.com/48a5d8b5-3704-4a28-84f0-a60842543863_thumb.jpg,Matt Reddick,4
+Jonathan Wong,Lead Manufacturing Training Instructor,https://cdn.theorg.com/deb1887a-ffd1-4b0b-b777-15fc5f09774d_thumb.jpg,Matt Reddick,4
+Sam Tarrant,Lead Service Technician,https://cdn.theorg.com/45673940-5c65-4a73-8791-4061bb0532fa_thumb.jpg,Matt Reddick,4
+Baron Duffy,Datacenter Facilities Operations Manager,https://cdn.theorg.com/31b1200b-3431-4f50-a791-75fa74a018b6_thumb.jpg,Matt Reddick,4
+Gal Tasa,"Country Operations Manager, EMEA IL",no_match,Matt Reddick,4
+Onat Kırçova,Group Manager Supply Operations - Direct Vehicle Purchasing,https://cdn.theorg.com/7f3ba893-5df3-4f65-bc82-fef343f5dd3d_thumb.jpg,Matt Reddick,4
+Sorin Corlaci,Truck Fleet Strategy &amp; Operations Manager,https://cdn.theorg.com/64e9d6fa-d515-4d0e-bb55-5b98562b5516_thumb.jpg,Matt Reddick,4
+Amedeo Maria Balboni,"Supply Operations Manager, Direct Vehicle Parts",https://cdn.theorg.com/743b0c76-318c-4a58-8536-e31c0e6ffbb9_thumb.jpg,Matt Reddick,4
+Ashley Feldman,Public Policy And Business Development Manager - Uk&amp;i,https://cdn.theorg.com/d36e7ef7-681e-4224-b1f8-d2321d16630d_thumb.jpg,Matt Reddick,4
+Tyson Kothlow,Regional Service Operations Manager,https://cdn.theorg.com/978978db-3211-40bf-b30b-1474d349408f_thumb.jpg,Matt Reddick,4
+Yinyin Loo,Sr. Recruiter,https://cdn.theorg.com/09c62d50-8f01-4872-940e-eb53f1edb402_thumb.jpg,Matt Reddick,4
+Vivian Chen,Senior Recruiter,https://cdn.theorg.com/a9951c56-4e5d-4b47-9fab-357a0c0fa715_thumb.jpg,Matt Reddick,4
+Fiona Wang,Sr. Recruiter (r&amp;d&amp;design),no_match,Matt Reddick,4
+Nemerta Cherra,Sr. Recruiter - Supply Chain,no_match,Matt Reddick,4
+Leonard Daniels,Sr. Technical Recruiter,no_match,Matt Reddick,4
+Anthony C.,Senior Recruiter,https://cdn.theorg.com/7a318dc9-18c7-4d8c-83b2-2ffdc85df4be_thumb.jpg,Andrea Ripamonti,5
+Bradley Ouzts,Senior Recruiter,no_match,Andrea Ripamonti,5
+Eli Johnson,Senior Recruiter,https://cdn.theorg.com/056ce88e-112f-4292-a211-4801b7ee32dc_thumb.jpg,Andrea Ripamonti,5
+Eva Kubrichtova,Senior Recruiter,https://cdn.theorg.com/67caed45-f4c7-4b8c-89a7-f384a9059026_thumb.jpg,Andrea Ripamonti,5
+Ezekial W. Felder,Senior Sourcer,no_match,Andrea Ripamonti,5
+Mary Ballard,Senior Recruiter,https://cdn.theorg.com/027dacce-4a88-4b53-8dce-2aa2bb5bbcc2_thumb.jpg,Andrea Ripamonti,5
+Melanie L.,Senior Recruiter,https://cdn.theorg.com/9f27ee21-f309-4147-9e9f-635506d957b6_thumb.jpg,Andrea Ripamonti,5
+Muhammed Ghalioun,Senior Recruiter,https://cdn.theorg.com/a6aa59bd-772a-44c2-9c79-72711e743d2b_thumb.jpg,Andrea Ripamonti,5
+Jess Cleary,Senior Recruiter,https://cdn.theorg.com/2ca10500-ab2f-4d08-8018-6efeca636e69_thumb.jpg,Andrea Ripamonti,5
+Danielle Volkmann,Staff HR Partner,https://cdn.theorg.com/a812a520-eea7-47e7-aca6-ef81353e11b4_thumb.jpg,Andrea Ripamonti,5
+Hung-Ling Chen,Sr. HR Business Partner,https://cdn.theorg.com/469dc05b-19fc-45c3-82fa-4f151f708843_thumb.jpg,Andrea Ripamonti,5
+Melinda S.,Sr. HR Partner,no_match,Andrea Ripamonti,5
+Svenja Groll,Senior Recruiter EMEA,no_match,Andrea Ripamonti,5
+Rony Antony,Senior Mechanical Engineer - Facilities Operations And Maintenance,https://cdn.theorg.com/3f751d00-2b3c-42be-856a-e98094969270_thumb.jpg,Baron Duffy,5
+Jamie Brown,Sr Equipment Technician,https://cdn.theorg.com/ac2ed209-1e89-4bc5-a472-83dc66fc7cb7_thumb.jpg,Tyson Kothlow,5
+Trent T.,"Sr. Manager, Global AV &amp; Events",https://cdn.theorg.com/90d29012-d142-4027-9c35-f5794d34ccef_thumb.jpg,Cleve Schupp,3
+Ann J Leung,"Marketing Manager, Global Events &amp; Programs",https://cdn.theorg.com/44dc1680-0156-430c-9de1-47f4655810bb_thumb.jpg,Cleve Schupp,3

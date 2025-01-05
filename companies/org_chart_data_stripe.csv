@@ -1,0 +1,620 @@
+name,title,image_src,reports_to,chart_status
+Patrick Collison, Co-founder & CEO, https://cdn.theorg.com/a743e837-ae07-4c4c-9809-cc56c465882d_thumb.jpg,,1
+John Collison,Co-Founder &amp; President,https://cdn.theorg.com/3b876ab4-6e2c-4c76-a858-d2a41bdadea8_thumb.jpg,Patrick Collison,2
+William Gaybrick,"President, Product &amp; Business",https://cdn.theorg.com/259d4540-907a-4262-956c-e6de0094ea84_thumb.jpg,Patrick Collison,2
+Robert McIntosh,Chief People Officer &amp; Head of Corporate Development,https://cdn.theorg.com/0737aa35-f028-4a10-b963-7d1231410cf8_thumb.jpg,Patrick Collison,2
+Rahul Patil,CTO,https://cdn.theorg.com/dedfb20b-ce85-484f-b2c9-9b20d471b022_thumb.jpg,Patrick Collison,2
+Jeff Titterton,Chief Marketing Officer,https://cdn.theorg.com/981fcdfe-eef1-4b56-9e38-aa78517b99ba_thumb.jpg,Patrick Collison,2
+Steffan Tomlinson,CFO,https://cdn.theorg.com/2a0d6655-30eb-48da-8f96-93a8ed5e1cb1_thumb.jpg,Patrick Collison,2
+Trish Walsh,General Counsel,https://cdn.theorg.com/09712f6a-9fac-4d44-a71d-cc9f692f3a61_thumb.jpg,Patrick Collison,2
+Claire Hughes Johnson,Corporate Officer &amp; Advisor,https://cdn.theorg.com/9e92b4af-34ae-4eb4-a6a7-5cd358cbc399_thumb.jpg,Patrick Collison,2
+Eileen O’Mara,CRO,https://cdn.theorg.com/35868743-c700-407c-89ec-7bfd063bb9de_thumb.jpg,Patrick Collison,2
+Krishnan Rajagopalan,"Global Head Of Expansion &amp; Incubation Partnerships, Board Member (apac)",https://cdn.theorg.com/28f1f91a-6517-4b99-abd7-a3e59adc9d3c_thumb.jpg,John Collison,3
+Meenakshi Dhingra,Head Of Global Operations And Vendor Management,no_match,John Collison,3
+Angie Dewitt-Moore,Global Workplace Operations Manager,https://cdn.theorg.com/2efa1847-f03b-4820-8d2e-21319e21ac0a_thumb.jpg,John Collison,3
+Jack Valentine,Strategy &amp; Operations,https://cdn.theorg.com/fbc882ec-ced5-4301-976a-08c8b3f6e13e_thumb.jpg,John Collison,3
+Tushar Kanungo,"Head Of Strategy &amp; Business Operations, Global Partnerships",https://cdn.theorg.com/2f9c96bf-9473-49eb-bae2-44c92b812d10_thumb.jpg,John Collison,3
+Abhisek Chatterjee,"Head Of Core Infrastructure (compute, Networking, Databases, Hadr, High Assurance Engineering)",https://cdn.theorg.com/16c28a0e-9e23-48ec-882b-aee2b1119284_thumb.jpg,John Collison,3
+Priyata Givens,"Head Of Product Strategy &amp; Operations, Payments",no_match,John Collison,3
+Clara Liang,Head Of Global Strategic Operations,https://cdn.theorg.com/00ea65da-2ba0-4b9a-83c6-df5f2a5c3c03_thumb.jpg,John Collison,3
+Matt Ziegler,Head of Corporate Strategy,https://cdn.theorg.com/c3975622-f933-4062-b410-00bfb8a00d75_thumb.jpg,John Collison,3
+Matthew Hoover,"Manager, Incubation Ops And Disputes",https://cdn.theorg.com/78046196-d638-4f3d-b851-cb7b4dd26c26_thumb.jpg,John Collison,3
+Justin Rose,Procurement Lead,https://cdn.theorg.com/98b7afb5-6ffd-4e0d-a84a-e2775e5338a9_thumb.jpg,John Collison,3
+Hayley Halvarsson,"Lead, Stripe Atlas",https://cdn.theorg.com/bd320bed-51d6-4256-a628-e1f3cb2c82c0_thumb.jpg,John Collison,3
+Nan Ransohoff,Head Of Climate,https://cdn.theorg.com/56498ac9-2c78-412b-b3b0-fc70109a3275_thumb.jpg,John Collison,3
+Emily Glassberg Sands,Head Of Information,no_match,John Collison,3
+Luci F.,Investor,https://cdn.theorg.com/c92d96be-834c-433e-9881-79ce42c9e944_thumb.jpg,Krishnan Rajagopalan,4
+Sarita Singh,Board Supervisor - Stripe Beijing,https://cdn.theorg.com/da60cd65-9424-475a-8374-37af78f4431a_thumb.jpg,Krishnan Rajagopalan,4
+Adrian Nicholas Radu,Investor,https://cdn.theorg.com/2da8d30c-afd5-43be-a6e0-5a7d1abba5de_thumb.jpg,Krishnan Rajagopalan,4
+Shannon Shakespeare,International Tax Counsel,https://cdn.theorg.com/3309e2c9-3060-44bd-bb8a-a9d67ba6a5ee_thumb.jpg,Krishnan Rajagopalan,4
+Neal Ulrich,"Program Manager, Frontier",https://cdn.theorg.com/65b62417-36cd-45c8-b508-ccd6d2b1b6fe_thumb.jpg,Meenakshi Dhingra,4
+achal telrandhe,Operation associate,https://cdn.theorg.com/75642c37-10b0-45cd-87ec-cd6e17c0a7d9_thumb.jpg,Meenakshi Dhingra,4
+Jun Xu,"Manager, Technical Operations",https://cdn.theorg.com/222dcc74-67f5-4ad6-903f-b0c5d9839215_thumb.jpg,Meenakshi Dhingra,4
+Suzette Collado,"Global Process Manager, Third Party Engagements",https://cdn.theorg.com/3475c027-d4c9-4d99-9678-df911504deee_thumb.jpg,Meenakshi Dhingra,4
+Naman Jain,Senior Operations Associate,https://cdn.theorg.com/aa5796e3-dde0-4233-9100-82f2fbe234ca_thumb.jpg,Meenakshi Dhingra,4
+Valeria Hurtado,Workplace Operations Coordinator,https://cdn.theorg.com/f9428806-6c24-4e18-8b69-307fe84c2f67_thumb.jpg,Angie Dewitt-Moore,4
+Olivia Herbert,Strategy &amp; Business Operations,https://cdn.theorg.com/9c83db16-6fbc-4e1a-b671-780554bcc9f9_thumb.jpg,Tushar Kanungo,4
+Parinaz Firozi,Global Strategic Partnerships,https://cdn.theorg.com/db1b6c55-d70b-4d88-9d44-480247b07169_thumb.jpg,Tushar Kanungo,4
+Tommy McKinzie,Senior Salesforce Administrator,https://cdn.theorg.com/d34ce11c-39f5-4e00-a997-758afe531186_thumb.jpg,Clara Liang,4
+Kailey Stockenbojer,Corporate Finance &amp; Strategy,https://cdn.theorg.com/e6f9c83c-a71b-43de-b6d4-e196bad81732_thumb.jpg,Matt Ziegler,4
+Jeanne DeWitt Grosser,Chief Business Officer,https://cdn.theorg.com/e1b86c1b-a342-430b-9f63-5b3b9c43ddd6_thumb.jpg,William Gaybrick,3
+Betsy Ebersole Cole,Head of Web Presence &amp; Platform,https://cdn.theorg.com/fbdab866-e7e5-4daf-9d7a-9305adda119b_thumb.jpg,William Gaybrick,3
+Katie Dill,Head of Design,https://cdn.theorg.com/16f0cad9-709b-4c3b-b0ba-941313b7c823_thumb.jpg,William Gaybrick,3
+Sucharita Sridhar,Global Head Of Product Pricing (payments),no_match,William Gaybrick,3
+Muaz Rahman,Software Engineer,https://cdn.theorg.com/7142ebf3-adbe-4fc9-a487-9b08e627ecbe_thumb.jpg,William Gaybrick,3
+Elias Bruegmann,Head Of Product Data Science,https://cdn.theorg.com/2b010e8e-da4d-4a10-97b2-787dbde06b55_thumb.jpg,William Gaybrick,3
+Veni Singh,"Head Of Product, Money Movement And Storage Experiences",https://cdn.theorg.com/f0f017cd-85bb-4a9d-b760-d53eacf3dd0d_thumb.jpg,William Gaybrick,3
+Rahul Harpalani,"Product Lead, Infrastructure",https://cdn.theorg.com/814f586e-31ae-4cb0-bad8-4b975c01b78c_thumb.jpg,William Gaybrick,3
+Shauna Kashyap,Global Head Of Payments Product Legal,https://cdn.theorg.com/647df709-2a52-46c4-b63f-d97f2303f3cf_thumb.jpg,William Gaybrick,3
+Rishiraj Singh,Vice President Of Product Management,no_match,William Gaybrick,3
+Vinay Mathur,"Evp, Head Of Product Engineering",https://cdn.theorg.com/62e973f1-e6e2-49fc-adfd-196658256868_thumb.jpg,William Gaybrick,3
+Ben Cline,Creative Director + Design Manager,https://cdn.theorg.com/594e1217-e83c-4833-aa73-6a5aa681ffbf_thumb.jpg,William Gaybrick,3
+Tanay Jaeel,"Head Of Product, Stripe Capital",https://cdn.theorg.com/c9e50678-b248-45ff-b871-41ea5a9b68a3_thumb.jpg,William Gaybrick,3
+Alan Tam,Product Lead,https://cdn.theorg.com/6443de3d-9c87-4997-b929-fd5ef03bbcf9_thumb.jpg,William Gaybrick,3
+Gautam Nangia,"Product Lead, Terminal Global",https://cdn.theorg.com/59e8543f-e8bd-49c1-804f-22ad84d5f93c_thumb.jpg,William Gaybrick,3
+Kay Hattori,Head Of Comms Japan &amp; APAC Product Comms Lead,https://cdn.theorg.com/e6ab3f57-2527-4a28-bd9e-9c86ffa53b4a_thumb.jpg,William Gaybrick,3
+Henry Zhang,Head Of Product Global Money Movement Platform,https://cdn.theorg.com/6e5cedb3-bce0-416e-9bcc-2634122594ee_thumb.jpg,William Gaybrick,3
+Dan Stokeley,"Head Of Product: Support Experience, Operations, And Applications Platform",https://cdn.theorg.com/87e44047-1324-43b3-b5e8-f4566492085f_thumb.jpg,William Gaybrick,3
+Jay Shah,Head Of Product,https://cdn.theorg.com/c0cba661-c44c-4daa-8e42-a6d8647fd9c8_thumb.jpg,William Gaybrick,3
+Ossama Alami,"Director Of Engineering, Financial Operations Products",no_match,William Gaybrick,3
+Emilie Thibault,"Saas Product Support Manager, APAC",no_match,William Gaybrick,3
+Tarpan Patel,Quality Assurance Team Lead,no_match,William Gaybrick,3
+Debjani Mitra,Product Lead,no_match,William Gaybrick,3
+Rishabh Kothari,Product Lead,no_match,William Gaybrick,3
+Alden Seabolt,Product Lead,no_match,William Gaybrick,3
+Andrea van Scheltinga,Product Lead,no_match,William Gaybrick,3
+Ameet Benegal,Head Of International - Banking Partnerships,https://cdn.theorg.com/790061bc-e8b6-447f-a1ab-809164f8bca8_thumb.jpg,Jeanne DeWitt Grosser,4
+Gillian Wee,Head Of Global Issuing Partnerships,https://cdn.theorg.com/f5cac68f-01f8-4db4-b9e4-b54ef31442e3_thumb.jpg,Jeanne DeWitt Grosser,4
+Andrew Lee,Strategic Partnerships Lead,https://cdn.theorg.com/c29d344f-833f-4c38-94b8-22b844832230_thumb.jpg,Jeanne DeWitt Grosser,4
+Samantha Quist,Startup Partnerships Lead,https://cdn.theorg.com/1e6bb762-9d33-49a4-9321-86753b536c9e_thumb.jpg,Jeanne DeWitt Grosser,4
+Margaret Mullen,Enterprise Platform Partnerships,https://cdn.theorg.com/243311a2-3fd3-4dac-b43c-cb47da68df6e_thumb.jpg,Jeanne DeWitt Grosser,4
+Katy Scully,Global Partnerships Lead - Payment Methods,https://cdn.theorg.com/d7e7f312-04b8-4020-8e88-1d301b0459ea_thumb.jpg,Jeanne DeWitt Grosser,4
+Bernardo Castañeda León,Head Of Latam GTM Partnerships,https://cdn.theorg.com/f777c18d-2e7a-4e5b-b4b8-a9b866c00501_thumb.jpg,Jeanne DeWitt Grosser,4
+Joanna Raitano,"Head Of GTM Partnerships, Americas",https://cdn.theorg.com/424841c7-ac76-4afe-8139-65e836d9d26a_thumb.jpg,Jeanne DeWitt Grosser,4
+Charlie Wilson,Head Of Venture Capital And Startup Partnerships,https://cdn.theorg.com/a4344bdb-1e94-4ff4-9355-1c22b90e8209_thumb.jpg,Jeanne DeWitt Grosser,4
+James Lau,"Program Manager, LPM Partnerships Strategic Operations",https://cdn.theorg.com/c4b7a36c-50cb-4ad8-82e9-aee53ed009cb_thumb.jpg,Jeanne DeWitt Grosser,4
+Steve King,Head Of Compensation,https://cdn.theorg.com/cc7934e6-be3b-48ee-b6df-241c5c8617fd_thumb.jpg,Jeanne DeWitt Grosser,4
+Diana Molina,"Business Development, Payments And Commerce Partnerships, US",no_match,Ameet Benegal,5
+Nick Rousseau,"Risk Partnerships, Americas",https://cdn.theorg.com/cf583054-c2b7-4178-97ce-1b10981f97e3_thumb.jpg,Ameet Benegal,5
+Shayne Mullen,Platform Partnerships,https://cdn.theorg.com/e5ba4256-7597-44e8-906a-98972a95391a_thumb.jpg,Ameet Benegal,5
+Susanna Dansie,Alliances &amp; Channels UKI NOEU,https://cdn.theorg.com/bae21d03-9a3d-4691-b4f0-15e7f2829519_thumb.jpg,Ameet Benegal,5
+Jamal Fuller,GTM Partnerships,https://cdn.theorg.com/b1db4b9d-a860-46ee-9aed-e93da0f186e2_thumb.jpg,Joanna Raitano,5
+Ella Saborio,"Senior Producer, Web Presence And Platform",https://cdn.theorg.com/40b62642-e024-4acc-b09e-fe2fea196c98_thumb.jpg,Betsy Ebersole Cole,4
+Jonny Naismith,Brand Design,https://cdn.theorg.com/ea9755b2-b3a6-4062-bf0b-bf3c501c38dd_thumb.jpg,Katie Dill,4
+Nisha Mohan,User Experience Researcher,https://cdn.theorg.com/54d78648-3fb0-4795-8ef1-2fd81dd4d868_thumb.jpg,Katie Dill,4
+Tatiana van Campenhout,Design Manager,https://cdn.theorg.com/90baa7d2-ab0a-4153-b5f4-bcb26b517296_thumb.jpg,Katie Dill,4
+Ahsan Rahim,Product Strategy: Global Head Of Pricing For Payments And Connect,https://cdn.theorg.com/ee3ce410-2ab9-45f6-8f92-43d3118f9493_thumb.jpg,Sucharita Sridhar,4
+Maureen Krugman,"Commercial Counsel, Lead",https://cdn.theorg.com/71c16cc3-9d39-4716-975e-b3754e93badc_thumb.jpg,Sucharita Sridhar,4
+Angelika Barbot,International Transfer Pricing Lead,https://cdn.theorg.com/32f48443-10a6-43a1-bcc2-94093f805854_thumb.jpg,Sucharita Sridhar,4
+Stanley Chen,Head Of Pricing Strategy &amp; Analytics,https://cdn.theorg.com/85c54569-b03a-4c99-a8ee-08731cb664a7_thumb.jpg,Sucharita Sridhar,4
+Bill Bedsworth,Head Of Pricing,https://cdn.theorg.com/c36fce1d-f71d-41d6-a3ef-19e58b18cf78_thumb.jpg,Sucharita Sridhar,4
+Shaun McDaid,Workday Architect &amp; Workday Product Security Lead,https://cdn.theorg.com/79a72bc1-39b2-4c09-ab9b-1651fef680e1_thumb.jpg,Sucharita Sridhar,4
+Chris Tokita,Senior Data Scientist,https://cdn.theorg.com/890367f7-494c-42cd-b777-b1fe9654ecb3_thumb.jpg,Elias Bruegmann,4
+Amla Srivastava,"Data Scientist, Technology",https://cdn.theorg.com/66855faf-3285-4534-93a2-f3f3ee6d0488_thumb.jpg,Elias Bruegmann,4
+Swara Mehta,Data Science Manager,https://cdn.theorg.com/def0f596-6eac-4810-8276-ef7edb60260f_thumb.jpg,Elias Bruegmann,4
+Gerald Tsai,Co-Head of Product &amp; Regulatory Legal,https://cdn.theorg.com/bc6a0b48-a842-46bd-9374-09b0fc8bf903_thumb.jpg,Shauna Kashyap,4
+Anup Gaurav,Head Of APAC Payments &amp; Head Of Global Verification And Compliance,https://cdn.theorg.com/45f07493-d08f-43af-bcdf-a08efbe62be8_thumb.jpg,Shauna Kashyap,4
+Jacob Ray,Product Support Team Lead - Payments,https://cdn.theorg.com/1d553713-bcd0-459e-9e0d-d4299c93795c_thumb.jpg,Shauna Kashyap,4
+Jennifer Lorch,Product Counsel And Team Lead,https://cdn.theorg.com/d6c19e79-5974-4113-b3f5-a395fe693269_thumb.jpg,Shauna Kashyap,4
+Ken Strocsher,"Lead Program Manager, Commercial Legal",https://cdn.theorg.com/a3c225bf-fc5a-409c-a798-485d4eaabd77_thumb.jpg,Shauna Kashyap,4
+Sydney Ferry,Legal Program Manager,https://cdn.theorg.com/75c4b286-3f72-4ac1-ba3a-5806dea14d1a_thumb.jpg,Shauna Kashyap,4
+Wendy Guo,"Corporate Counsel | Transactions Lead, Head Of M&amp;a And Ventures Legal",https://cdn.theorg.com/b01785fd-4438-4ee8-8925-ddc202f3c77f_thumb.jpg,Shauna Kashyap,4
+Cecilia Mullan,Legal Operations - Knowledge Management Lead,https://cdn.theorg.com/e1bd1faf-be6f-45dc-8d27-ae0406375932_thumb.jpg,Shauna Kashyap,4
+Natalie Charlton,Commercial Legal Team Lead,https://cdn.theorg.com/b4117f48-9eff-4d21-a6bd-f4d3d9914762_thumb.jpg,Shauna Kashyap,4
+Chad Hallberg,Legal Operations - Tech Solutions Lead &amp; PMO Co-lead,https://cdn.theorg.com/1b9e7e0d-9bc9-4f3f-a81a-3fbfca94635e_thumb.jpg,Shauna Kashyap,4
+Melinda Vercollone,Legal Ops,https://cdn.theorg.com/9799fe90-2a80-4911-bde2-80c0390e5065_thumb.jpg,Shauna Kashyap,4
+Jamie Ingles,Legal Operations Lead,no_match,Shauna Kashyap,4
+Mala Soulatha,Americas Compliance Program Manager,no_match,Shauna Kashyap,4
+Ranjit Balijepalli,"Head Of Product, Uk&amp;i",https://cdn.theorg.com/fef52bed-da90-44d7-a196-ec84a3e2863a_thumb.jpg,Rishiraj Singh,4
+Karan Sharma,Product Lead,https://cdn.theorg.com/b08f2fdf-f24b-4fd5-b90f-2e3b260d0b18_thumb.jpg,Rishiraj Singh,4
+Laura Ramos,Head of Design Operations,no_match,Rishiraj Singh,4
+Victoria Martinez,"Head Of Product, Financial Connections",https://cdn.theorg.com/79f9c5a6-928c-473b-b272-facf1f4242d2_thumb.jpg,Rishiraj Singh,4
+Sandy Dondici,Head Of Product Support,https://cdn.theorg.com/2f80c9d1-a802-4734-9354-8b12485bce4f_thumb.jpg,Rishiraj Singh,4
+Eeke de Milliano,Head Of Global Product,https://cdn.theorg.com/4c97aba7-c835-48cb-baf4-0d663074c85a_thumb.jpg,Rishiraj Singh,4
+Yuliya Gorlovetsky,Head Of Product Design,https://cdn.theorg.com/666f5592-368e-48f5-926d-98f4110efe45_thumb.jpg,Rishiraj Singh,4
+Dan Nelson,Head Of Product Design,https://cdn.theorg.com/b4293615-66be-451a-94b4-af74f6836e4d_thumb.jpg,Rishiraj Singh,4
+Asavari Tayal,Principal Product Manager,https://cdn.theorg.com/b3b46d35-80ca-4161-817d-e9275dd2abc4_thumb.jpg,Rishiraj Singh,4
+Gabe Bender,"Product Lead, Consumer",https://cdn.theorg.com/3eee226f-3597-4308-95bb-2a781b6e445f_thumb.jpg,Rishiraj Singh,4
+Vladi Shunturov,"Product Lead, Billing And Revenue Automation Products",https://cdn.theorg.com/ed1e0539-3e91-4bbc-b732-b976dea41fa7_thumb.jpg,Rishiraj Singh,4
+Holly Tiwari,Head Of UX Assurance,https://cdn.theorg.com/ec84af59-e5d7-482a-a7ef-7007bee1e7d7_thumb.jpg,Rishiraj Singh,4
+Devin Jacoviello,Design Lead,https://cdn.theorg.com/8745440c-da20-4a00-ac65-52e27bc4139c_thumb.jpg,Rishiraj Singh,4
+Diego Arguelles,"Product Lead, Latam",no_match,Rishiraj Singh,4
+Aakash Sahney,"Head Of Product, Stripe Connect",https://cdn.theorg.com/7e70da93-59e0-424e-be26-ff8c09373a35_thumb.jpg,Rishiraj Singh,4
+Jon Byrum,Head Of Product - Developer Platform,no_match,Rishiraj Singh,4
+Denise Ho,"Head Of Product, Banking As A Service",no_match,Rishiraj Singh,4
+Abhinav Tiwari,"Head Of Product, Checkout Experiences",https://cdn.theorg.com/def313bc-52e1-4d42-bb89-9a1062d082ce_thumb.jpg,Rishiraj Singh,4
+Ashton Stewart,"Head Of Product, Revenue Foundations",https://cdn.theorg.com/9577a829-3370-4876-8190-5a43b430abeb_thumb.jpg,Rishiraj Singh,4
+Kate Brennan,"Product &amp; Business, In-person Commerce And Payments Intelligence",no_match,Rishiraj Singh,4
+Angela J.,"Head Of Product, Connect Activation",no_match,Rishiraj Singh,4
+Sharmeen Browarek Chapp,"Head Of Product, Revenue And Financial Automation",no_match,Rishiraj Singh,4
+Praveen Vemparala,Head Of Product (revenue Automation And Data Services),no_match,Rishiraj Singh,4
+Paul Crayston,"Head of Product Communications, EMEA",no_match,Rishiraj Singh,4
+Prashant Goela,"Head Of Product - Infrastructure, Data Systems, And Support Experiences",no_match,Rishiraj Singh,4
+Valerie Wagoner,"Global Product, Head Of APAC",no_match,Rishiraj Singh,4
+Sanaz Motahari,"Head Of Product, Growth",no_match,Rishiraj Singh,4
+Elle Carter,Product,https://cdn.theorg.com/01f93563-4f56-439b-88a5-7b86349462f1_thumb.jpg,Eeke de Milliano,5
+Manuel Ariza,Product,no_match,Eeke de Milliano,5
+Christine C.,Product Designer,https://cdn.theorg.com/6986e873-24aa-4ce2-8bbc-eade20c65a1e_thumb.jpg,Yuliya Gorlovetsky,5
+Perry Elizabeth Wong Costa,Product Design Manager,https://cdn.theorg.com/e35df8cb-172f-41bd-b6ba-4931787dcd6d_thumb.jpg,Yuliya Gorlovetsky,5
+Courtney Drake,"Product Design Manager, Checkout",https://cdn.theorg.com/523167ef-ff65-4b7b-b420-6ec038dbc6cf_thumb.jpg,Yuliya Gorlovetsky,5
+Tayler Aitken,Product Design Manager,https://cdn.theorg.com/224c9356-2be1-4960-b028-e547132f5c40_thumb.jpg,Yuliya Gorlovetsky,5
+Elizabeth So,Staff Product Designer,https://cdn.theorg.com/0c815b5c-da35-4446-84e0-9fe8f01fc01e_thumb.jpg,Yuliya Gorlovetsky,5
+Lisa Looye,Senior Product Designer,https://cdn.theorg.com/3dd8c56f-7357-4888-9813-86179bb8a123_thumb.jpg,Yuliya Gorlovetsky,5
+Jean Na,Senior Product Designer,https://cdn.theorg.com/352629e6-8434-4eef-92e7-486fb2e71e05_thumb.jpg,Yuliya Gorlovetsky,5
+Ian Collins,Product Designer,no_match,Yuliya Gorlovetsky,5
+Stephen Calvillo,Staff Product Designer,https://cdn.theorg.com/585f5031-c4f5-4727-91e1-0d63b549b781_thumb.jpg,Yuliya Gorlovetsky,5
+Michie Cao,Staff Product Designer,https://cdn.theorg.com/0520c86b-362f-4166-8c2a-52379af0b856_thumb.jpg,Yuliya Gorlovetsky,5
+Angela Lam,Staff Product Designer,https://cdn.theorg.com/9653da5a-3ba9-412e-bb89-f19bdb01a943_thumb.jpg,Yuliya Gorlovetsky,5
+Shay Perez,Senior Content Designer - Payments,https://cdn.theorg.com/c2773d67-c44d-4c61-b33e-e3c18cb6c753_thumb.jpg,Dan Nelson,5
+Sophie Shepherd,Product Design Manager,https://cdn.theorg.com/fe94c121-858a-42b3-be6c-954f2b867844_thumb.jpg,Dan Nelson,5
+Azalea Irani,Product Manager,https://cdn.theorg.com/63ddf38e-0f03-4b5f-96cd-356ffdf1de2f_thumb.jpg,Dan Nelson,5
+Theresa Zhu,Senior Product Designer,https://cdn.theorg.com/a79ecf53-82ef-4dcc-a1a2-1d3e5f697388_thumb.jpg,Dan Nelson,5
+Zack Ginies,"Product Designer, Developer Platform",no_match,Dan Nelson,5
+Alexandre Ginet,"Product Lead, Global Cards Acceptance",https://cdn.theorg.com/5e86faa9-8b00-4626-9d45-24e1916be1f7_thumb.jpg,Asavari Tayal,5
+Amar Virk,Product Lead,https://cdn.theorg.com/1a7549f0-e10b-44d1-b39a-af7640014609_thumb.jpg,Asavari Tayal,5
+Badi Azad,Lead Product Manager,https://cdn.theorg.com/4a890bf8-d199-43f4-8208-c34efe7a08b0_thumb.jpg,Asavari Tayal,5
+Josh Ackerman,Product Lead,https://cdn.theorg.com/d08d3cc6-0a99-4cc2-859e-95ca2cb95cf9_thumb.jpg,Asavari Tayal,5
+Kim Neuwirth,"Product Lead, Connect",https://cdn.theorg.com/87fa79ff-38c3-458c-b324-cafe65b26aaa_thumb.jpg,Asavari Tayal,5
+Jackson Elsegood,"Product Lead, Stripe Terminal",https://cdn.theorg.com/287a61e8-4340-4b30-b6bb-cd50ae9ef378_thumb.jpg,Asavari Tayal,5
+Gary Pelissier,Product Lead,https://cdn.theorg.com/9024eeb7-9244-418e-b81c-802dc1b1dea3_thumb.jpg,Asavari Tayal,5
+Atika Sanchetee,Product Lead,https://cdn.theorg.com/d1828a73-57d1-4452-be1c-519f98f7f5a5_thumb.jpg,Asavari Tayal,5
+Farzad H. Eskafi,Product Lead,https://cdn.theorg.com/fada680a-2396-4f70-ade0-40d002e1e5df_thumb.jpg,Asavari Tayal,5
+Annie Schmidt,Head Of Product For Terminal,https://cdn.theorg.com/fc605206-5a7d-4444-8328-30b0412c2f2f_thumb.jpg,Asavari Tayal,5
+Sahil Kaul,Quality Assurance Lead,https://cdn.theorg.com/697a68fb-5a2f-479c-9a63-7179bcc0af81_thumb.jpg,Asavari Tayal,5
+Jason Gupta,Product Lead,https://cdn.theorg.com/5243e130-3b11-43af-a60a-c47d25c3b53d_thumb.jpg,Asavari Tayal,5
+Rami Banna,Product Lead,no_match,Asavari Tayal,5
+Lepi Jha Fishman,"Product Manager, Head Of Enterprise Product",https://cdn.theorg.com/7ced61fa-6f05-4872-9eb3-1b61e512f090_thumb.jpg,Jay Shah,4
+Dalia Katan,Product,https://cdn.theorg.com/d7505f4a-3cb3-4702-a87b-9571b080e5ac_thumb.jpg,Jay Shah,4
+Vibhu Walia,Product Manager,https://cdn.theorg.com/3c1ea238-6156-4d8b-afaa-6dc21d8d4df5_thumb.jpg,Jay Shah,4
+Anton Dreyer,"Product Manager, APAC + EMEA Card Networks",https://cdn.theorg.com/0ff8e16d-2503-4652-9075-c9f9aebe9e2a_thumb.jpg,Jay Shah,4
+Chenyang Lei,Product Manager,https://cdn.theorg.com/80d4f2cd-79e0-44aa-b3e5-54139cd52675_thumb.jpg,Jay Shah,4
+Srija Nalla,Product Finance &amp; Strategy,https://cdn.theorg.com/10679155-a97f-40ab-9cc2-0c91d1f73b35_thumb.jpg,Jay Shah,4
+Jia de Lim,Operations,https://cdn.theorg.com/68c935c9-030b-4afb-9306-e4fda2de5dbe_thumb.jpg,Jay Shah,4
+Sissi Nie,Go To Market - Product Strategy &amp; Growth Advisor,https://cdn.theorg.com/0b4d8b99-5aae-4b81-92d9-20da0ee11d25_thumb.jpg,Jay Shah,4
+Pranav Ramkrishnan,Product Manager,https://cdn.theorg.com/5d114c89-e678-4cd1-ae72-f92a95f37c36_thumb.jpg,Jay Shah,4
+Jonathan Lee-Russo,Senior UX Researcher,https://cdn.theorg.com/708aebe7-34a9-49c9-b863-a7eb1959cd3b_thumb.jpg,Jay Shah,4
+Rachel Coleman,"Senior Talent Partner, Product Risk And Strategy",https://cdn.theorg.com/5019110d-e376-4cbd-a505-8cf06ac2309e_thumb.jpg,Jay Shah,4
+Jorge Cueto🧋,Product Manager,https://cdn.theorg.com/f1dc1438-a69b-4d51-adc1-352ef55f4765_thumb.jpg,Jay Shah,4
+Neil Streete,Product Manager For EMEA Bank-as-a Service,https://cdn.theorg.com/631175f4-3f09-4eac-9948-48cc36300551_thumb.jpg,Jay Shah,4
+Greg Rose,Product Manager,https://cdn.theorg.com/bc5e26e6-5929-4a36-941b-deee41e8167c_thumb.jpg,Jay Shah,4
+Manav Khandelwal,Product Manager,https://cdn.theorg.com/34a723a5-f084-4684-ab4f-ec6b40ab6021_thumb.jpg,Jay Shah,4
+Leslie Chen,Product Lead,no_match,Jay Shah,4
+Katherine W.,Product Manager,no_match,Jay Shah,4
+Varun Srinivasan,Product Manager,no_match,Jay Shah,4
+Katerina Pascoulis,Product Manager,no_match,Jay Shah,4
+Nikhil Loney,Engineering Manager,https://cdn.theorg.com/fa04b6dd-3e2b-4bb4-8931-aa14b225368a_thumb.jpg,Ossama Alami,4
+Abhishek G.,"Product Lead, Stripe Data Products",https://cdn.theorg.com/5bfa1296-2f3d-4893-b982-6f80a5721f3e_thumb.jpg,Ossama Alami,4
+Mitesh Joshi,ETL Engineer,https://cdn.theorg.com/87cbeb6c-a472-413e-ab14-2f2058855530_thumb.jpg,Ossama Alami,4
+Kevin Miller,Staff Software Engineer,https://cdn.theorg.com/c0467114-6266-43ad-bdf2-84ffbd8e2789_thumb.jpg,Ossama Alami,4
+Akil Kushal J,Risk Product &amp; Analytics,https://cdn.theorg.com/8bd7f999-ee3a-4adb-93a8-6508da4cccae_thumb.jpg,Ossama Alami,4
+Katherine Giroux,"Specialist Solutions Architect, Revenue &amp; Finance Automation",https://cdn.theorg.com/8c2fe867-d76c-46e8-abc7-10adc7ef5b37_thumb.jpg,Ossama Alami,4
+Youli Z.,Staff Engineer,https://cdn.theorg.com/968734e9-b76e-4b2c-ab5e-24447833006e_thumb.jpg,Ossama Alami,4
+Diveshan Moodley,Product Partnerships - Strategic Wallets,https://cdn.theorg.com/1dfc0f53-0913-4ee4-a60f-45201bf07204_thumb.jpg,Ossama Alami,4
+Rishi Dutta,Finance &amp; Strategy,https://cdn.theorg.com/db15d4a0-d947-4ffa-9f31-1cccae5ef739_thumb.jpg,Ossama Alami,4
+Ferid Feratovic,Finance &amp; Strategy,https://cdn.theorg.com/90d717a4-45b5-4e22-8321-2c423840bb4e_thumb.jpg,Ossama Alami,4
+Shehryar Mansoor,Finance &amp; Strategy,https://cdn.theorg.com/c0904e32-2e50-41f2-b5d5-d5adcec8821a_thumb.jpg,Ossama Alami,4
+Arden Orata,Finance &amp; Strategy (payments Products),https://cdn.theorg.com/79a98d01-6eb5-42b0-87ed-21ccd978960c_thumb.jpg,Ossama Alami,4
+Adhvaith Ram,Finance &amp; Strategy,no_match,Ossama Alami,4
+Amit Halani,Payments Finance &amp; Strategy,https://cdn.theorg.com/0df9a40d-f5f7-4eb2-a799-3aa18189e0a8_thumb.jpg,Ossama Alami,4
+Jay Jeffords,Finance &amp; Strategy,no_match,Ossama Alami,4
+Tyler de Gorter,GTM Finance &amp; Strategy,https://cdn.theorg.com/f1e17c47-ee27-43b0-8287-bc3416271b93_thumb.jpg,Ossama Alami,4
+Bruce T.,Salesforce Engineer,no_match,Ossama Alami,4
+Fran Ryan,Financial Services Business Lead,https://cdn.theorg.com/ce2a83c4-63fe-4636-b31d-0d7b1ebd819c_thumb.jpg,Ossama Alami,4
+Fatema Alzeera,Global Real Estate Strategy,https://cdn.theorg.com/c8d6717e-d8a4-417b-be44-4a2bad9796a8_thumb.jpg,Ossama Alami,4
+Alberto de Pablo,"Engineering Leadership, Bank Connectivity",https://cdn.theorg.com/7a0a718c-76a2-4e07-9fd7-5460a88bca2c_thumb.jpg,Ossama Alami,4
+Rishabh Jain,Engineering Manager,https://cdn.theorg.com/ee191a5e-5626-432d-b1f1-95489fd0ebaf_thumb.jpg,Ossama Alami,4
+Sawyer Hollenshead,Frontend Engineer,no_match,Ossama Alami,4
+Elaine Page,Strategy &amp; Operations Executive,https://cdn.theorg.com/fbf061ec-4f76-4970-8d78-1a05d5c8e3bb_thumb.jpg,Ossama Alami,4
+Calogero Scibetta,Enterprise Sales | Financial Services &amp; Insurance,no_match,Ossama Alami,4
+Nicolas Grevet,Staff Software Developer,https://cdn.theorg.com/84b9d566-d00e-4fa2-b38f-4e1bf7bfeda4_thumb.jpg,Ossama Alami,4
+Joe Trimble,Security Engineer,no_match,Ossama Alami,4
+Melynda Love,Corporate Accounting,https://cdn.theorg.com/75f7c76c-6b2c-419e-92fe-7b1d3833aecc_thumb.jpg,Ossama Alami,4
+Anirudh Mittal,Technical Operations,https://cdn.theorg.com/3f1c4330-60b5-4eff-9501-385dbb4ba4b2_thumb.jpg,Ossama Alami,4
+Amol Deshpande,Security Engineer,https://cdn.theorg.com/334cb3ac-cf51-419b-bb31-26e837fdfdd8_thumb.jpg,Ossama Alami,4
+Leanne Shapton,Security Engineer,https://cdn.theorg.com/de5adb42-07ec-4ee2-a6e1-2fe79e06c71e_thumb.jpg,Ossama Alami,4
+Eknath Venkataramani,Security Engineer,no_match,Ossama Alami,4
+Cristina Zulaica,"Americas Regulatory Compliance, Product Oversight",https://cdn.theorg.com/38d40fba-c95b-411c-97c9-53e0f10d05e7_thumb.jpg,Ossama Alami,4
+Rachna Purohit,Accounting Lead,no_match,Ossama Alami,4
+Malav Doshi,User Billing - Tech Ops,no_match,Ossama Alami,4
+Neetika Bansal,"Business Lead For Money As A Service (connect, Baas, Crypto, Money Movement Products)",no_match,Ossama Alami,4
+Dilip Reddy Kancharla,Staff Security Software Engineer,no_match,Ossama Alami,4
+Pierre Ernst,"Staff Engineer, M&amp;a Security",no_match,Ossama Alami,4
+Alec Carper,"Sr Staff Engineer, Stripe Tax",no_match,Ossama Alami,4
+Sabrina Heer,Business Accounting,no_match,Ossama Alami,4
+Rebecca Dyer,Finance Manager &amp; Business Controller,no_match,Ossama Alami,4
+Atisha Taneja,Emerging Products Accounting,no_match,Ossama Alami,4
+Carol L.,"Software Engineer | Cryptocurrencies, Standard Library",no_match,Ossama Alami,4
+Td Haines,"Program Manager, Enablement Strategy",no_match,Ossama Alami,4
+Kalyani Pagadrai,Senior Product Manager,no_match,Ossama Alami,4
+Divya Goel,Staff Software Engineer,no_match,Ossama Alami,4
+Gael Hatchue,Staff Software Engineer,no_match,Ossama Alami,4
+Rohan Nair,Software Engineer II,no_match,Ossama Alami,4
+Dmitry Sergeyev,Staff Software Engineer,no_match,Ossama Alami,4
+Ryan Warren,Software Engineer (internal Tools),no_match,Ossama Alami,4
+Venkat Esakki,Sr. Engineering Manager,no_match,Ossama Alami,4
+John Affaki,"Business Lead, Payment Acceptance",no_match,Ossama Alami,4
+Eugen Feller,"Staff Software Engineer, Financial Systems",no_match,Ossama Alami,4
+Adesh Singh,Risk Operations Associate,no_match,Ossama Alami,4
+Starley Varghese,Head Of Technical Recruiting APAC,no_match,Robert McIntosh,4
+Kerrie Kavanagh,People Partner Lead - GTM &amp; Core,https://cdn.theorg.com/c181146b-32c7-4bf5-a291-cf13d01d2b71_thumb.jpg,Robert McIntosh,4
+Sara Arnoudse,Head Of Talent And Development,https://cdn.theorg.com/fe42f87b-8563-4950-9b1a-17c0c5c24f4a_thumb.jpg,Robert McIntosh,4
+Matthew Yalowitz,Head of Corporate Development,https://cdn.theorg.com/b51a41ba-207f-4216-a134-24940f9c2512_thumb.jpg,Robert McIntosh,4
+Betsi Brouse,Head Of People M&amp;a,https://cdn.theorg.com/d4959050-006d-472a-9134-da9afbb4d94b_thumb.jpg,Robert McIntosh,4
+Justin A.,People Research &amp; Insights Lead,https://cdn.theorg.com/2f78c5e2-61ce-491b-a456-1d0c4f6afdbc_thumb.jpg,Robert McIntosh,4
+Danielle Atlas,"Global Recruiting Lead, Core + Leadership",no_match,Robert McIntosh,4
+Brad Kempf,Head Of Global Benefits,https://cdn.theorg.com/2dc0d810-00f5-4232-a67b-b44ffd586dfb_thumb.jpg,Robert McIntosh,4
+Jin Liu,"Risk Operations, Enablement Programs",no_match,Robert McIntosh,4
+Miranda Kalinowski,Head Of Global Recruiting,https://cdn.theorg.com/9c7a2d23-dad9-474e-9466-17ac160be621_thumb.jpg,Robert McIntosh,4
+Deb Convery,Head Of Talent Mobility,no_match,Robert McIntosh,4
+Isabelle Mendoza,International Recruiting,https://cdn.theorg.com/f7a98312-6acd-4bbf-9c38-c0f572cbf51f_thumb.jpg,Robert McIntosh,4
+Mary Hazen,"Talent Development, Leadership Development",https://cdn.theorg.com/1339c120-4dd3-42b0-b2e7-e8b09b04986f_thumb.jpg,Robert McIntosh,4
+Daniella Santimano,Recruiting Program Manager - Operational Success,https://cdn.theorg.com/ad92c918-e9c1-4334-8860-ab7033b29d19_thumb.jpg,Robert McIntosh,4
+Boris Snitkovskiy,People Analytics Lead,https://cdn.theorg.com/e374769f-4d63-466c-b1d4-6297bcbff167_thumb.jpg,Robert McIntosh,4
+Orna Holland,Global Lead of Core Staffing,no_match,Robert McIntosh,4
+Amna Pervez,People Partner,no_match,Robert McIntosh,4
+Christina Leaverton,Head Of Workplace Experience,no_match,Robert McIntosh,4
+Pamela van Stavern,Head Of Global Real Estate And Workplace,no_match,Robert McIntosh,4
+Elycia Teh,"Recruiter, APAC",https://cdn.theorg.com/74b46e4e-b5cd-4366-b847-10b1175e1d4a_thumb.jpg,Starley Varghese,4
+Ridhima Chhabra,Recruiter (apac),https://cdn.theorg.com/cc9c6d10-90e7-49d5-8248-c70036275b21_thumb.jpg,Starley Varghese,4
+Kendall Philbrick,Technical Sourcer,https://cdn.theorg.com/5b110217-3bb6-416b-be11-2e98b392b1a7_thumb.jpg,Starley Varghese,4
+Vandana Choudhary,"Technical Recruiter, APAC",https://cdn.theorg.com/324adb2a-8a28-427b-8ad4-c854197fcb49_thumb.jpg,Starley Varghese,4
+Kaylie Murphy,Technical Recruiter,https://cdn.theorg.com/fcfb8c92-ddf8-43b6-bfcd-d83185ecf17f_thumb.jpg,Starley Varghese,4
+Abigail Reider,People Team Communications &amp; Enablement,https://cdn.theorg.com/5a5285fe-6e64-46d2-a278-43376cdf6c32_thumb.jpg,Sara Arnoudse,4
+Lorna Molloy,International HR People Leader,https://cdn.theorg.com/07b9d2c4-e737-48c3-a6b7-e84c871289e2_thumb.jpg,Sara Arnoudse,4
+Sheila Hermanowski,HR Leader,https://cdn.theorg.com/0538d99c-2d59-4713-a3bf-e0a3741dc220_thumb.jpg,Sara Arnoudse,4
+Kelsey Dimartino,"Program Manager, Talent Management",https://cdn.theorg.com/66cacff6-5f30-4ed9-8de4-ac412a2f3214_thumb.jpg,Sara Arnoudse,4
+Kortney Bratton,People Specialist Manager,https://cdn.theorg.com/3479c2dc-8e09-49ab-a838-8f0d6d28e397_thumb.jpg,Sara Arnoudse,4
+Soumya Viswanath,Global People Operations Support Manager,https://cdn.theorg.com/a0b3fea7-38a6-4788-b237-eb8a92912eb1_thumb.jpg,Betsi Brouse,4
+Joshua Schwartz,People Process Optimization (rotation),https://cdn.theorg.com/828df867-b720-4adc-8e0c-4a57564eefaa_thumb.jpg,Betsi Brouse,4
+Saif Ahmed,Program Manager - People Tech,https://cdn.theorg.com/f9cda9e1-546e-43b4-8b92-02cb2a539188_thumb.jpg,Betsi Brouse,4
+Isobel Hargaden,"People Operations, Program Manager",https://cdn.theorg.com/75b36637-7838-40b3-991e-9892e988df4c_thumb.jpg,Soumya Viswanath,5
+Mira Shah,Senior User Researcher,https://cdn.theorg.com/e775ea3f-d668-41af-a8cb-d5668eea51eb_thumb.jpg,Justin A.,4
+Celine  Szymczak ,Senior Recruiting Manager,https://cdn.theorg.com/b0884a28-fe97-46d8-8fe9-9ef805bde7ec_thumb.jpg,Danielle Atlas,4
+Ally Laborde,Business Recruiter,https://cdn.theorg.com/2b5ff63b-d90f-42e7-99f6-67bc674faaf2_thumb.jpg,Danielle Atlas,4
+Rajvi Bhatt,Business Recruiter,https://cdn.theorg.com/19b151cc-5611-4c75-b82e-3ad158448ade_thumb.jpg,Danielle Atlas,4
+Stephanie Fish,Recruiter,no_match,Celine  Szymczak ,5
+Courtney Wighton,Recruiter,https://cdn.theorg.com/fe22b1f9-e30d-483f-ae0c-52dd1923e5dd_thumb.jpg,Celine  Szymczak ,5
+Maura P,Recruiter,https://cdn.theorg.com/0c57b632-1145-4c7b-9eca-d9d4b06bce24_thumb.jpg,Celine  Szymczak ,5
+Kelly Franco,Sourcer,https://cdn.theorg.com/7c68a9a7-24a3-4cc8-9031-cf264bb86140_thumb.jpg,Celine  Szymczak ,5
+Brittany Shahin,Recruiter,https://cdn.theorg.com/d2aa6dc3-4d49-4cbb-b879-972d6257ed16_thumb.jpg,Celine  Szymczak ,5
+Christine McDonough,"Recruiter, Finance",https://cdn.theorg.com/e9f2c471-a19d-4551-81e4-bebbf89b1331_thumb.jpg,Celine  Szymczak ,5
+Sonal Piparsania,Recruiter,https://cdn.theorg.com/3e2bc1bd-edbc-4eb6-aa35-11128c9fa277_thumb.jpg,Celine  Szymczak ,5
+Neha Siwach,Onboarding Coordinator,https://cdn.theorg.com/72f507ee-c5c4-417c-aa15-982b0f086f76_thumb.jpg,Celine  Szymczak ,5
+Gopal Kharwat,Recruiting At Stripe,https://cdn.theorg.com/7ffe8b65-dae8-4d96-b5c6-f961c3e367de_thumb.jpg,Celine  Szymczak ,5
+Erika Choung,Recruiter,https://cdn.theorg.com/f228b2ae-048c-470d-b844-59ee739ef8c4_thumb.jpg,Celine  Szymczak ,5
+Stephanie Racioppi,Sourcer,https://cdn.theorg.com/bc812f5d-077e-40ef-9098-ab2975341744_thumb.jpg,Celine  Szymczak ,5
+Eamonn Moloney,Senior Recruiter,https://cdn.theorg.com/984f0742-a099-4617-883a-5f0c2de5b227_thumb.jpg,Celine  Szymczak ,5
+Reema Parikh,Senior Technical Recruiter,https://cdn.theorg.com/7c8be03b-f641-4d03-aba3-ce523cf39e5d_thumb.jpg,Celine  Szymczak ,5
+Heather Calderone,Senior Technical Recruiter,no_match,Celine  Szymczak ,5
+Amy Salazar,Recruiter,no_match,Celine  Szymczak ,5
+Gina Patel-Strickle,Senior Benefits Analyst,https://cdn.theorg.com/996b62c4-fd55-4bcd-b15e-c06217a66c54_thumb.jpg,Brad Kempf,4
+Ashley Palmer,Payroll Transformation Manager,https://cdn.theorg.com/398e090a-24d9-4b04-b2fb-a19f54dd8f0c_thumb.jpg,Brad Kempf,4
+Lindsay Ritchie,Technical Recruiting,https://cdn.theorg.com/f12ac49a-0282-4d56-a49c-03aba9c51689_thumb.jpg,Miranda Kalinowski,4
+Nik Medrano,"Manager, GTM Recruiting",https://cdn.theorg.com/11b4167e-3511-412f-82a6-cfd306277d55_thumb.jpg,Miranda Kalinowski,4
+Kelli Johnson,"Manager, Talent Mobility Programs",https://cdn.theorg.com/5fcffffb-2eac-47a9-b874-35e58f2df763_thumb.jpg,Deb Convery,4
+Bonniebelle Bibra,Workplace Experience Manager,https://cdn.theorg.com/4297ab2f-dab9-4c3d-add5-a489f2a4f877_thumb.jpg,Pamela van Stavern,4
+Amy Cummings,Workplace Project Manager,no_match,Pamela van Stavern,4
+Melissa Hunt,Workplace Operations Manager,https://cdn.theorg.com/54e6677c-2c34-4339-95d4-ffb32b5b70d5_thumb.jpg,Pamela van Stavern,4
+Kenny Wolf,Head of PayIn Engineering,https://cdn.theorg.com/d8d6e86f-3c44-4a3f-9e94-73e34cd85855_thumb.jpg,Rahul Patil,3
+Srikanth Chinmay,"Global Head, Technical Solutions",https://cdn.theorg.com/6f461576-dc1f-4cbe-ac0b-6a7058d82ae8_thumb.jpg,Rahul Patil,3
+David Reaver,Principal Software Engineer,https://cdn.theorg.com/180d585a-b8f0-4fa8-93b4-bb27b15b9674_thumb.jpg,Rahul Patil,3
+Scott Triglia,Principal Engineer,https://cdn.theorg.com/6f8c7b14-aa41-4903-b025-cc6457db2c08_thumb.jpg,Rahul Patil,3
+Mike Treadway,Principal Engineer,https://cdn.theorg.com/ea2a41ed-79a1-471b-8b04-164bccb2f1cb_thumb.jpg,Rahul Patil,3
+Zachary Anker,Principal Software Engineer,https://cdn.theorg.com/0e82869a-a64f-43fd-b876-eeaf0728d945_thumb.jpg,Rahul Patil,3
+Elisa Coluccia,"Head Of Engineering, Stripe Tax Experience",https://cdn.theorg.com/9e2e8565-5f84-453c-ac58-5f28c96151fc_thumb.jpg,Rahul Patil,3
+Natasha Mohanty,"Head Of Engineering, Checkout Experiences &amp; Link",https://cdn.theorg.com/1662fd57-557b-40de-b8b4-45107c358e4b_thumb.jpg,Rahul Patil,3
+Kumar Chellapilla,Head Of ML Platform And Generative AI Accelerator Teams At Stripe,https://cdn.theorg.com/b6355aad-87cc-46db-869e-d1ed6b45ee4e_thumb.jpg,Rahul Patil,3
+Ramya Kalaparthi,Principal Business System Analyst,https://cdn.theorg.com/b785a1ab-8d8a-4aec-bb89-3d8e96214ae2_thumb.jpg,Rahul Patil,3
+Nancy Seid,Global Head Of Solutions Architecture,no_match,Rahul Patil,3
+Ashu Tewari,"Head Of Platforms - Data, Ai, Machine Learning, Intelligence",https://cdn.theorg.com/ea033a89-39e3-4f87-ba0d-a16e666fa1cd_thumb.jpg,Rahul Patil,3
+Scott Gardner,Head Of Corporate Security (chief Security Officer),https://cdn.theorg.com/6b834896-9924-43ef-8228-f8cccd63b51a_thumb.jpg,Rahul Patil,3
+Steve Schreiber,"Head of Engineering, Platform &amp; Ecosystem",https://cdn.theorg.com/fa141ebf-b075-4df2-9a84-d12d2d757413_thumb.jpg,Rahul Patil,3
+Lucas Marshall,Member Of Technical Staff,https://cdn.theorg.com/9c6a3f19-57aa-4fa5-9048-27477f926176_thumb.jpg,Rahul Patil,3
+Keavy McMinn,Principal Engineer / Technical Advisor,https://cdn.theorg.com/61d6a4b3-cd0d-4f3c-96c7-2405eec87867_thumb.jpg,Rahul Patil,3
+Derek Lyon,Head Of Data Platform,https://cdn.theorg.com/5d3965ba-17e8-4cf5-b049-abbfb31f4c37_thumb.jpg,Rahul Patil,3
+Teng W.,Staff Engineer (tech Lead),no_match,Rahul Patil,3
+Swagath Kannan,Head Of Engineering,no_match,Rahul Patil,3
+Aitor Guevara,Head Of Engineering,no_match,Rahul Patil,3
+Arnaud Ponchon,Head Of Software Engineering,no_match,Rahul Patil,3
+Dmitry Petrashko,Chief Of Staff To The CTO,no_match,Rahul Patil,3
+Joe Camilleri,Non Executive Director - Stripe Technology Europe (board Member),no_match,Rahul Patil,3
+Martin Melin,Head Of Financial Crimes Engineering,https://cdn.theorg.com/05152d63-5418-4544-87cf-fb055100ef9f_thumb.jpg,Mike Treadway,4
+Aleksandra Bal,Indirect Tax Technology Lead,https://cdn.theorg.com/58cd5f8e-af27-4c21-89c5-d98fe991e980_thumb.jpg,Mike Treadway,4
+Yoav Srebrnik,Engineering,https://cdn.theorg.com/2a5b3596-e3a4-4d1e-b7b5-c336dd1b7ada_thumb.jpg,Natasha Mohanty,4
+Brendan Herger,Staff Machine Learning Engineer,https://cdn.theorg.com/fcaff783-181d-40e7-9d3c-c4c150497709_thumb.jpg,Kumar Chellapilla,4
+Japjot Singh,Machine Learning Engineer,no_match,Kumar Chellapilla,4
+Yiyun Gu,Machine Learning Engineer,https://cdn.theorg.com/1893796a-e978-4017-9ea1-a9c44a6ead37_thumb.jpg,Kumar Chellapilla,4
+Vivek Sharma,Business Lead: Revenue And Finance Automation,https://cdn.theorg.com/449beb11-9480-4adb-bf9c-2afc863ffb48_thumb.jpg,Ramya Kalaparthi,4
+Megan Arora,Head Of Procurement,https://cdn.theorg.com/e6534dcb-1cbd-486d-bd1e-1c6a7e2043d1_thumb.jpg,Ramya Kalaparthi,4
+Jewel Verghis,Head Of SDC Payment Operations,no_match,Ramya Kalaparthi,4
+Adrien Bouzoud,Head Of Global Payment Methods Partnerships Strategic Operations,https://cdn.theorg.com/b89114e8-2da3-4211-8bc0-bd6e7a849cb0_thumb.jpg,Ramya Kalaparthi,4
+Eitan Ahimor,Global Networks Strategy &amp; Operations Lead,https://cdn.theorg.com/00495594-eabc-4653-ab31-ac69904744f8_thumb.jpg,Ramya Kalaparthi,4
+Sam C.,Solutions Architect -- Platforms,https://cdn.theorg.com/e46f16c1-5fbb-479e-bff3-142448fdb324_thumb.jpg,Nancy Seid,4
+Louis Amira,Crypto &amp; AI Partnerships,https://cdn.theorg.com/5bb14c09-4df0-473f-aaec-2c72daf0fc1d_thumb.jpg,Ashu Tewari,4
+Adit Gupta,Machine Learning,https://cdn.theorg.com/cba4b5f1-dc27-491e-83a1-eb1a467942f1_thumb.jpg,Ashu Tewari,4
+Adam O'Donnell,Deputy CISO,https://cdn.theorg.com/daf7ad23-dfea-4857-81c0-288a5df361c8_thumb.jpg,Scott Gardner,4
+Bipin G.,Security Partner | Product Security Partnership,https://cdn.theorg.com/b865c8de-71c5-4605-a804-87a9878364fd_thumb.jpg,Scott Gardner,4
+Sachin Bansal,"Head Of Applied ML &amp; Genai, Data Science Engineering, Experimentation &amp; Analytics",https://cdn.theorg.com/a1e0318f-8327-4313-aac5-c7e42d93a2aa_thumb.jpg,Scott Gardner,4
+Donald Tse,Global Head Of Cyber And Resilience Risk,https://cdn.theorg.com/cdf5b4ea-7903-4c20-8fa5-dedf33384497_thumb.jpg,Scott Gardner,4
+Aidan Foley,Engineer Lead - Authentication,https://cdn.theorg.com/5c1a64d3-af34-471a-8d73-bb30ae46a9b4_thumb.jpg,Adam O'Donnell,5
+Luting Chen,Data Science Manager | Payments,https://cdn.theorg.com/005f92e4-532b-47a2-af3d-dc553d1d8e47_thumb.jpg,Sachin Bansal,5
+Muhammed Imran,Software Engineer,https://cdn.theorg.com/dd41c58f-9be2-4015-9844-514f47081d57_thumb.jpg,Sachin Bansal,5
+Carter Lin,Data Science Manager,https://cdn.theorg.com/794965ec-e1ff-49ee-8ec6-9da40aa141d4_thumb.jpg,Sachin Bansal,5
+Benjamin Neuwirth,Data Science Manager,https://cdn.theorg.com/1da23b2e-060d-441c-acf5-81c844513719_thumb.jpg,Sachin Bansal,5
+Steven Truong,Engineering Manager,https://cdn.theorg.com/ddf96a9f-c06d-4ec2-bf5f-349077f5ca92_thumb.jpg,Sachin Bansal,5
+Israel MacIas,Software Engineer,no_match,Sachin Bansal,5
+Juyoung Lee,Machine Learning Engineer | Identity Team,https://cdn.theorg.com/3b3f4dfe-fe68-4550-8f1d-e43718bc1ff9_thumb.jpg,Sachin Bansal,5
+Rakshit Tiwari,Software Engineer,no_match,Sachin Bansal,5
+Aj C,Data Technical Lead,no_match,Sachin Bansal,5
+Sanjana Chandrashekar,Software Engineer,https://cdn.theorg.com/b90f1101-caae-4e8d-9352-04017af44562_thumb.jpg,Sachin Bansal,5
+Le Yang Tan,Software Engineer,https://cdn.theorg.com/cea654b5-2b8c-460d-ae51-791d3685d7a1_thumb.jpg,Sachin Bansal,5
+Norbert Jurga,Software Engineer,https://cdn.theorg.com/96dd40da-d1e9-43a3-852a-3f348091f70a_thumb.jpg,Sachin Bansal,5
+Leland Miller,Software Engineer,no_match,Sachin Bansal,5
+Lucas McGrew,Software Engineer,https://cdn.theorg.com/991afc43-6719-431a-9616-9403a7a97eb5_thumb.jpg,Sachin Bansal,5
+Greg Kuhlmann,ML Engineering,https://cdn.theorg.com/2411b559-c29a-4561-8e9d-daa1639f669e_thumb.jpg,Sachin Bansal,5
+Lester Lim,Software Engineer,https://cdn.theorg.com/9bd97241-f041-47af-a5ab-837cbb959f50_thumb.jpg,Sachin Bansal,5
+Ahmed Elwasefi,Software Engineer,https://cdn.theorg.com/e116a9dd-29e6-4792-96a4-5a2c55f63b47_thumb.jpg,Sachin Bansal,5
+Joe Katich,Go To Market Data Strategy,no_match,Sachin Bansal,5
+Bahman Hayat,Software Engineer,https://cdn.theorg.com/daa50028-5f31-4370-8fec-f9baf25bcd87_thumb.jpg,Sachin Bansal,5
+Albert Han,Software Engineer,no_match,Sachin Bansal,5
+Anni Chai,Software Engineer,https://cdn.theorg.com/ece63f8d-640a-4269-81b3-e19d2323c51e_thumb.jpg,Sachin Bansal,5
+Joanna Li,Software Engineer,https://cdn.theorg.com/4c9a127f-d5e2-43a5-900f-b000de215773_thumb.jpg,Sachin Bansal,5
+Cameron Bernhardt,Senior Software Engineer,https://cdn.theorg.com/eaf3f6e7-92ea-4f2d-a8a2-11f89da348e9_thumb.jpg,Sachin Bansal,5
+Finn Frankis,Software Engineer,no_match,Sachin Bansal,5
+Bonnie Xu,Software Engineer,https://cdn.theorg.com/3a26b32a-7079-4352-98b3-32b587eea41a_thumb.jpg,Sachin Bansal,5
+Anirudh Goyal,Software Engineer,https://cdn.theorg.com/45cbab35-6f7d-47b8-88ee-5d4bfe725be8_thumb.jpg,Sachin Bansal,5
+Melody Chen,Software Engineer,https://cdn.theorg.com/9b9f6852-9e0a-4848-8378-38203aeee0e6_thumb.jpg,Sachin Bansal,5
+Sasank Chundi,Software Engineer,https://cdn.theorg.com/97cfa010-fb60-47e4-a8ca-ee54c434252c_thumb.jpg,Sachin Bansal,5
+Vincent Cheung,Software Engineer,https://cdn.theorg.com/82c526a6-d02c-4862-858e-1172c7c0493e_thumb.jpg,Sachin Bansal,5
+Jenny Tan,Software Engineer,https://cdn.theorg.com/714c540c-ac1c-42b7-a341-d66c823a5ffa_thumb.jpg,Sachin Bansal,5
+Evan Kim,Software Engineer,https://cdn.theorg.com/ae85a3dd-6326-47e6-9ece-cc36ad2abd06_thumb.jpg,Sachin Bansal,5
+Evan Kay,Software Engineer,https://cdn.theorg.com/4d0f5328-41ff-42bf-9126-4a9668ac9da5_thumb.jpg,Sachin Bansal,5
+Anna Craven,Software Engineer,https://cdn.theorg.com/9d41fc87-f879-4ac2-890f-03b6e6afea71_thumb.jpg,Sachin Bansal,5
+Zulsar Batmunkh,Software Engineer,https://cdn.theorg.com/b10982fb-3a55-4109-a950-82188b8ee167_thumb.jpg,Sachin Bansal,5
+Sharan Ramjee,"Machine Learning Engineer, Applied ML Accelerator",https://cdn.theorg.com/df3729e4-ad3f-43ea-b38d-893b6a3cae00_thumb.jpg,Sachin Bansal,5
+Kye Burchard,Staff Software Engineer,https://cdn.theorg.com/a58cba1f-0bab-4a92-82e1-e9801dad74b5_thumb.jpg,Sachin Bansal,5
+Amarnath Karthi,Software Engineer,https://cdn.theorg.com/adf8c558-cbe6-4ee2-8268-c0f2243c095c_thumb.jpg,Sachin Bansal,5
+Robin Jayaswal,Software Engineer,https://cdn.theorg.com/26db7370-282a-49bb-82e7-16f4d2b0c027_thumb.jpg,Sachin Bansal,5
+Zaki Siddiqui,Software Engineer,https://cdn.theorg.com/2ee627f2-5173-4278-acd1-d749c79c1ba4_thumb.jpg,Sachin Bansal,5
+Shraddha Sharma,Software Engineer,https://cdn.theorg.com/07aa3fbc-df15-4cd5-b6f6-0641a52d4107_thumb.jpg,Sachin Bansal,5
+Rafael de Oleza,Software Engineer,https://cdn.theorg.com/c9324976-f3d7-4eaf-8b52-8c324d248182_thumb.jpg,Sachin Bansal,5
+Adrià Fontcuberta,Software Engineer,https://cdn.theorg.com/7711a882-255a-41e7-80e9-00d736edc6c5_thumb.jpg,Sachin Bansal,5
+Tim Humphries,Software Engineer,no_match,Sachin Bansal,5
+Nithin Chandy,Software Engineer,https://cdn.theorg.com/33263ff0-96d2-4fa2-b983-fd7edd083890_thumb.jpg,Sachin Bansal,5
+Emma Cottenham,Software Engineer,https://cdn.theorg.com/a54d18f6-35ea-4c1d-bdf0-e32ca25f2ca4_thumb.jpg,Sachin Bansal,5
+Barry Wang,Software Engineer,no_match,Sachin Bansal,5
+Bowei Xu,Software Engineer,no_match,Sachin Bansal,5
+Ben Sears,Software Engineer,no_match,Sachin Bansal,5
+Sarah Cheah,Software Engineer,no_match,Sachin Bansal,5
+Eriyeza Buwembo,Software Engineer,no_match,Sachin Bansal,5
+Alicia Wang,Software Engineer,no_match,Sachin Bansal,5
+Jocelyn Sun,Software Engineer,no_match,Sachin Bansal,5
+Shirley Yang,Software Engineer,no_match,Sachin Bansal,5
+Faizaan D.,Software Engineer,no_match,Sachin Bansal,5
+Yanlam K.,Software Engineer,no_match,Sachin Bansal,5
+Fausto Uribe,Software Engineer,no_match,Sachin Bansal,5
+Sydney Schweber,Software Engineer,no_match,Sachin Bansal,5
+Jianing L.,Software Engineer,no_match,Sachin Bansal,5
+Thejas Kumar Gangadhar,Software Engineer,no_match,Sachin Bansal,5
+Ann Zhang,Software Engineer,no_match,Sachin Bansal,5
+Ibrahim Syed,Software Engineer,no_match,Sachin Bansal,5
+Sreeya Sai,Software Engineer,no_match,Sachin Bansal,5
+Hung Vu,Software Engineer,no_match,Sachin Bansal,5
+Nirmal Sarswat,Software Engineer,no_match,Sachin Bansal,5
+Nikhila Reddy Putta,Software Engineer,no_match,Sachin Bansal,5
+Etan Zapinsky,Software Engineer,no_match,Sachin Bansal,5
+Avery McIntyre,Software Engineer,no_match,Sachin Bansal,5
+Cameron Deering,Software Engineer,no_match,Sachin Bansal,5
+Keith Lea,Software Engineer,no_match,Sachin Bansal,5
+Reid Buzby,Software Engineer,no_match,Sachin Bansal,5
+Yasha Mostofi,Software Engineer,no_match,Sachin Bansal,5
+Sean Gottschalk,Software Engineer,no_match,Sachin Bansal,5
+Tiago Ferreira,Software Engineer,no_match,Sachin Bansal,5
+Shane Hickman,Software Engineer,no_match,Sachin Bansal,5
+Dean Frame,Software Engineer,no_match,Sachin Bansal,5
+Supreet Singh,Software Engineer,no_match,Sachin Bansal,5
+Abhishek Yadav,Software Engineer,no_match,Sachin Bansal,5
+Simon D.,Software Engineer,no_match,Sachin Bansal,5
+Yijun Xie,Senior Data Scientist,https://cdn.theorg.com/09c32e9f-0a1e-4ce0-a145-a3213fea286d_thumb.jpg,Carter Lin,6
+Pablo Cordero,Data Scientist,https://cdn.theorg.com/d757d872-35a2-41bd-9870-fdcf98b617d4_thumb.jpg,Carter Lin,6
+Gleb Romanyuk,Staff Data Scientist,https://cdn.theorg.com/67242051-95be-447d-87c8-db0a2d202b96_thumb.jpg,Carter Lin,6
+Burt Chen,Data Analyst (l3),https://cdn.theorg.com/44b54338-8532-4c9e-becc-f8333eaa5ef4_thumb.jpg,Carter Lin,6
+Evan Andrews,Data Scientist,no_match,Carter Lin,6
+Nicole Himelfarb,Data Science (senior),https://cdn.theorg.com/001efbd3-8348-43c5-826e-90787e342e95_thumb.jpg,Carter Lin,6
+Siying Wei,Data Scientist,https://cdn.theorg.com/85a88df5-646b-4e8b-ad00-0151420a295c_thumb.jpg,Carter Lin,6
+Tina Wang,Senior Data Analyst / Data Scientist,https://cdn.theorg.com/b1462fa2-1f26-4e02-a8f4-7f8f44d721c4_thumb.jpg,Benjamin Neuwirth,6
+Ajay Ns,Design Engineer,no_match,Steve Schreiber,4
+Clark Allen,Design Engineer,https://cdn.theorg.com/414191bf-c39e-4030-855f-f62073e70b2d_thumb.jpg,Steve Schreiber,4
+Anant Rao,Engineering Leader,https://cdn.theorg.com/3485df79-a59b-46ff-879c-c78958360c9f_thumb.jpg,Steve Schreiber,4
+Divya Eswarawaka,Engineering Leader,https://cdn.theorg.com/0b81be0b-20fb-4228-ab4e-f097683fc2f5_thumb.jpg,Steve Schreiber,4
+Assad Safiullah,Engineering Leader,https://cdn.theorg.com/1da43511-bc42-479c-a24c-1b5ca61de9d6_thumb.jpg,Steve Schreiber,4
+Antoine Boulanger,Engineering Leader,https://cdn.theorg.com/1e0d499e-52df-44d7-8bfd-12b26c657161_thumb.jpg,Steve Schreiber,4
+Richard Ekwonye,Design Engineer,https://cdn.theorg.com/a7d4d5c3-b384-47ad-8c26-b23dd051e33c_thumb.jpg,Steve Schreiber,4
+Baron Y.,Senior Data Engineer,no_match,Derek Lyon,4
+Alper Baspinar,Senior Data Engineer,https://cdn.theorg.com/dc851f36-f3e7-4889-ab03-5c85d2f19e9c_thumb.jpg,Derek Lyon,4
+Vaibhav Agarwal,Engineering Manager,https://cdn.theorg.com/dd8bafd5-4966-4257-8182-d7cd6eb838ff_thumb.jpg,Swagath Kannan,4
+Yixi Zhang,Senior Engineering Manager,https://cdn.theorg.com/18b9a13e-f81e-4f32-a12c-536d8dd8d937_thumb.jpg,Swagath Kannan,4
+Sushma Gundra,Engineering Manager,https://cdn.theorg.com/c9588672-cbbe-460f-bfb6-8a2d1307603a_thumb.jpg,Swagath Kannan,4
+Massoud Hosseinali,"Engineering Manager, Machine Learning",https://cdn.theorg.com/20d26e38-d980-4eb7-9587-c55fad85e4c6_thumb.jpg,Swagath Kannan,4
+Allan Horn,Software Engineering Manager,https://cdn.theorg.com/2631624e-0e24-4906-9e45-3abccd86e26d_thumb.jpg,Swagath Kannan,4
+Siddharth Jayaraman,Engineering Manager - Internal Tools Platform &amp; Customer Data Security,no_match,Swagath Kannan,4
+Maggie White,"Software Engineering Manager, Terminal Device Payments",https://cdn.theorg.com/df7792cf-2e5b-4325-ab78-dadb4809a477_thumb.jpg,Swagath Kannan,4
+T.j. Goltermann,Engineering Manager,https://cdn.theorg.com/29c53c64-1413-4341-873a-ff70542cc48e_thumb.jpg,Swagath Kannan,4
+Daniel Dreier,Senior Engineering Manager,https://cdn.theorg.com/211ac7d7-3f2f-48a2-8a2a-829e95f7275a_thumb.jpg,Swagath Kannan,4
+Sandeep Advani,Senior Engineering Manager,https://cdn.theorg.com/5bd12087-6b39-48bb-ad7b-b1e649b25d82_thumb.jpg,Swagath Kannan,4
+Juan Carlos Garcia,Engineering Manager,https://cdn.theorg.com/65021c1a-6d13-47ef-ac5e-213bcdf37404_thumb.jpg,Swagath Kannan,4
+Archana Ramachandran,Engineering Manager Of Managers,https://cdn.theorg.com/f0404476-fb5b-47cf-a826-428c7fc67932_thumb.jpg,Swagath Kannan,4
+Craig Shannon,Engineering Manager,https://cdn.theorg.com/28d4ec23-78ce-4091-ab6e-6620583033ea_thumb.jpg,Swagath Kannan,4
+Sumedh Sawant,Engineering Manager,https://cdn.theorg.com/10fdba02-b756-4fa9-b6f6-8d5faff7669a_thumb.jpg,Swagath Kannan,4
+Nicholas Richardson,Engineering Manager Of Managers,https://cdn.theorg.com/61a7c227-adbb-4052-bf26-5b21dea37748_thumb.jpg,Swagath Kannan,4
+Ali Riaz,Engineering Manager,no_match,Swagath Kannan,4
+Ilija E.,Engineering Manager,no_match,Swagath Kannan,4
+Joe Sadowski,Engineering Manager API Events,no_match,Swagath Kannan,4
+Sean Kenkeremath,Senior Software Engineer,https://cdn.theorg.com/d7c9a33d-4b52-43cb-aaae-8c833a9c61f2_thumb.jpg,Vaibhav Agarwal,5
+Andy Tu,Senior Software Engineer,https://cdn.theorg.com/47b0044e-cffb-4e22-985b-3004dd881223_thumb.jpg,Allan Horn,5
+Alexandru Malaescu,Senior Software Engineer,https://cdn.theorg.com/2c4d926c-e762-473b-a447-ce07f9fc06cf_thumb.jpg,Allan Horn,5
+Eoin Nugent,Engineering Manager,https://cdn.theorg.com/982f3474-ea37-4732-8db7-f416e33e4629_thumb.jpg,Aitor Guevara,4
+Dounan Shi,Engineering Manager,https://cdn.theorg.com/c6fd994f-bde6-408e-8c0d-1ad4f8d5d80b_thumb.jpg,Aitor Guevara,4
+Siyu Zhan,Engineering Manager,https://cdn.theorg.com/3d591ffe-1152-4eaf-b534-1818210a53ee_thumb.jpg,Aitor Guevara,4
+Mayank Rawat,Engineering Leadership,https://cdn.theorg.com/953b1fef-7109-4d11-9d40-69145d6a6cbd_thumb.jpg,Aitor Guevara,4
+Thomas Chen,Engineering,https://cdn.theorg.com/ad01a47a-9062-4e66-ac77-ea75b0f09b24_thumb.jpg,Aitor Guevara,4
+Rohan Dang,Engineering,https://cdn.theorg.com/5a7a78c5-e2a6-4ed3-a248-b710541787aa_thumb.jpg,Aitor Guevara,4
+Siva Vasanth,Engineering Manager,https://cdn.theorg.com/3f7f57a2-9f8f-427c-9b56-b51322f9e717_thumb.jpg,Aitor Guevara,4
+Mihnea Dobrescu-Balaur,Engineering Manager,https://cdn.theorg.com/918538fa-ed48-475d-9fdf-6db5fe512013_thumb.jpg,Aitor Guevara,4
+Sauhard Bindal,Senior Engineering Manager,https://cdn.theorg.com/f7b84814-1ffa-49f2-aa2b-82eb5da7145c_thumb.jpg,Aitor Guevara,4
+Jérémie Laval,Senior Software Engineering Manager,https://cdn.theorg.com/a6fdab5b-b815-4e5c-8739-67e04077c842_thumb.jpg,Aitor Guevara,4
+Roger Seagle,"Engineering Manager, Security",https://cdn.theorg.com/32778314-5992-410f-8acf-fc17eceff6e8_thumb.jpg,Aitor Guevara,4
+Vineet Shah,Engineering Manager,https://cdn.theorg.com/e83258ae-93ca-461d-909b-500e29a845ce_thumb.jpg,Aitor Guevara,4
+Skylar Lowery,Engineering Manager,https://cdn.theorg.com/b5c4b827-b24b-46a7-9057-c0711a64fb34_thumb.jpg,Aitor Guevara,4
+Bo Zhu,Engineering Manager,https://cdn.theorg.com/f9239c55-1385-45d0-8986-0b18ad6bf216_thumb.jpg,Aitor Guevara,4
+Chase Meador,Engineering,https://cdn.theorg.com/a7ced2db-8ef5-4434-918e-86d852439dd5_thumb.jpg,Aitor Guevara,4
+Imelda Gan,Regional IT Manager (apac),no_match,Aitor Guevara,4
+Mehran Mirkazemi,Staff HW Engineering Manager,https://cdn.theorg.com/aa2dbcdf-9c97-4ac0-9b06-e0cc44bdd09c_thumb.jpg,Aitor Guevara,4
+Eugenia Dellapenna,Engineering Manager,https://cdn.theorg.com/55ab3fe0-c5d4-4f86-a020-48a5e09f5fda_thumb.jpg,Aitor Guevara,4
+Jimmy Xie,Senior Software Engineer,https://cdn.theorg.com/b497fb08-d112-4cf0-8270-6f85dc94d89a_thumb.jpg,Aitor Guevara,4
+
+Tim Drinan,Head of Product Communications,https://cdn.theorg.com/ff8ba4ef-8c50-4c38-be47-c974cfa52331_thumb.jpg,Jeff Titterton,3
+Gerry Spratt,Head Of Content Marketing,https://cdn.theorg.com/bb41b1d1-b121-433b-ad40-0b669422bdad_thumb.jpg,Jeff Titterton,3
+Maria Pinto,Head Of EMEA Marketing At Stripe,https://cdn.theorg.com/fa078ada-27f9-40d3-9d84-15a865130471_thumb.jpg,Jeff Titterton,3
+Neha Hattangdi,Design Director | Brand And Marketing,https://cdn.theorg.com/39a71138-90d9-4b88-b1c4-1fa96703c4ad_thumb.jpg,Jeff Titterton,3
+Kim Veerbeek,Head Of Global Partner Marketing,https://cdn.theorg.com/85cd8fc5-f2ce-4363-b154-4ecfe113e3f8_thumb.jpg,Jeff Titterton,3
+Rachelle Tsang,Head Of Marketing Services,https://cdn.theorg.com/9f9b42a2-6956-4211-afa3-4650bf69252d_thumb.jpg,Jeff Titterton,3
+Priya Patel,"Head Of Marketing, Saas Products (revenue Finance Automation)",https://cdn.theorg.com/7e7eabb6-4363-495e-a739-9388bea91d23_thumb.jpg,Jeff Titterton,3
+Michelle Almeida,Head Of Marketing Strategy &amp; Insights,https://cdn.theorg.com/a1d0fa32-4557-4624-a3e6-41849d3bdafa_thumb.jpg,Jeff Titterton,3
+Nadia G.,"Head Of Marketing Data And Technology, MOPS",https://cdn.theorg.com/4d45e4e6-4d7a-4bd4-bc9f-6c86cf782a3b_thumb.jpg,Jeff Titterton,3
+Akshay K.,"Head Of (vp) Product Marketing, Saas &amp; Growth/developer Marketing",https://cdn.theorg.com/fa0f0f43-87ba-44c7-ab6d-53b693aa2832_thumb.jpg,Jeff Titterton,3
+Seth Berman,Head Of Growth Marketing,https://cdn.theorg.com/bc07f7e0-24d3-4ad0-b5ac-905e661c245d_thumb.jpg,Jeff Titterton,3
+Vladimir Zhukov,Head Of Growth And ML Foundations,https://cdn.theorg.com/6ecd27d1-cb29-4236-a1ba-a30182dc8036_thumb.jpg,Jeff Titterton,3
+Casey Lynch,Org &amp; User Optimization Lead,https://cdn.theorg.com/265b27b7-0494-4b38-900a-1cc2fe63568c_thumb.jpg,Jeff Titterton,3
+Stephanie Butler,"Head Of Global Self-serve Marketing, Growth",https://cdn.theorg.com/e194b239-6ccd-4c06-957e-d6266d86bacd_thumb.jpg,Jeff Titterton,3
+Christopher Abboud,Head Of International Communications,https://cdn.theorg.com/2f1d3be1-001d-4173-ad77-bb3c611362d8_thumb.jpg,Jeff Titterton,3
+Oliver Rickman,Head Of Communications,https://cdn.theorg.com/0acfba93-4b6d-48fa-9ab2-a376601a34fc_thumb.jpg,Jeff Titterton,3
+Geri Tuneva,"Team Member, Demand Generation - EMEA",https://cdn.theorg.com/55ab40c5-ae50-4a51-86b3-c98e7a54a012_thumb.jpg,Maria Pinto,4
+Dj Neri,Staff UX Researcher,no_match,Neha Hattangdi,4
+Jelani Burton,SEO Lead,https://cdn.theorg.com/39107dd9-1972-48b1-8c71-f09ac0b7885c_thumb.jpg,Neha Hattangdi,4
+Vanessa Stark Wolter,"Global Head Of Lifecycle, Managed, Growth",https://cdn.theorg.com/2c450efd-2fc0-48af-9d37-df9eb690db73_thumb.jpg,Neha Hattangdi,4
+Kevin Hartnett,Content Marketing Lead,https://cdn.theorg.com/17436745-4362-458d-b7bc-86c80f8ed368_thumb.jpg,Neha Hattangdi,4
+Tanya Khakbaz,Head of Product Marketing,https://cdn.theorg.com/e1eb943d-db75-470e-a3b2-6a7bc24d8701_thumb.jpg,Akshay K.,4
+Ashwin Seshadri,"Head Of Product Marketing, APAC",https://cdn.theorg.com/3006b4e1-2908-4726-8e8f-9c53f2cd7a21_thumb.jpg,Akshay K.,4
+Nicole Paglia,Product Marketing Lead,https://cdn.theorg.com/8d11cc31-a26d-4293-85de-f767ff0d8795_thumb.jpg,Akshay K.,4
+Rahul Iyer,"Head Of Engineering, Terminal And Local Payment Methods",no_match,Akshay K.,4
+Sunil Garg,"Head Of Engineering, Support Experience",https://cdn.theorg.com/8af3e617-1857-4332-a061-d5eb7642601a_thumb.jpg,Akshay K.,4
+Prosenjit Bhattacharyya,Head Of Fin Business Insights Engineering,https://cdn.theorg.com/4e755b3a-abd9-4c95-a2b2-1f15a43b8b73_thumb.jpg,Akshay K.,4
+Lorenza Lanz,Head Of Marketing Latam,https://cdn.theorg.com/0e42b5a2-a20d-432c-90a8-538741df48a0_thumb.jpg,Akshay K.,4
+Jeremy Pierre,"Head of Engineering, Risk UX",https://cdn.theorg.com/69e0544b-0511-471c-bd88-389f0f1dced5_thumb.jpg,Akshay K.,4
+Jim Kelleher,Head of Corporate Engineering,https://cdn.theorg.com/acb51393-2f4b-4edb-a30b-2d759d4bb3eb_thumb.jpg,Akshay K.,4
+Ciara Brady,Platform Growth Specialist,https://cdn.theorg.com/025d7e9e-4551-4f3e-b4aa-9249b653848e_thumb.jpg,Seth Berman,4
+Ana-Maria Mocanu,Growth Data Science And ML,https://cdn.theorg.com/613bdc60-142c-40c9-b8be-fe3520dbb6c4_thumb.jpg,Vladimir Zhukov,4
+Kate Chen,Growth Engineer,https://cdn.theorg.com/591b74c5-7a1d-4296-81d0-5d3b1b4529b7_thumb.jpg,Stephanie Butler,4
+Claudia Shehin,Startup Growth,https://cdn.theorg.com/2442f7ab-6361-4d9c-8fc5-8b785d9aa4eb_thumb.jpg,Stephanie Butler,4
+Reinhardt Karpenko,Growth &amp; Sales,https://cdn.theorg.com/a4c2f9f8-9c4d-4802-b40c-49a8de204007_thumb.jpg,Stephanie Butler,4
+Aisha Anwar,Enterprise Sales,https://cdn.theorg.com/0b3c5d18-17cd-46a3-90f3-e13ee356a710_thumb.jpg,Stephanie Butler,4
+Scott Farrington,Chief Accounting Officer,https://cdn.theorg.com/8bf78447-75a4-4df3-8539-9e06a65009a2_thumb.jpg,Steffan Tomlinson,3
+Alok Desai,"Head Of Financial Services (payments, Baas, Stripe Network) &amp; Risk, Finance &amp; Strategy (segment Cfo)",no_match,Steffan Tomlinson,3
+Julie Kim,Investor Relations,no_match,Steffan Tomlinson,3
+Tim Berger,Head Of Tax,https://cdn.theorg.com/d23bab49-80e8-4a46-a37f-42a277a4a7c8_thumb.jpg,Steffan Tomlinson,3
+Anoush Haroutunian Mueller,Head Of Corporate Fp&amp;a,https://cdn.theorg.com/313a1dc3-9631-4535-84cc-2072491d5bba_thumb.jpg,Steffan Tomlinson,3
+Vignesh Ezhilarasan,Head Of Finance And Strategy,no_match,Steffan Tomlinson,3
+Nate Starrett,Global Head Of Financial Services Partnerships,no_match,Steffan Tomlinson,3
+Bruno Guzman,"Head Of Finance &amp; Strategy, Banking-as-a-service (baas)",https://cdn.theorg.com/83866107-047d-4f09-a1c9-74807b727a0d_thumb.jpg,Steffan Tomlinson,3
+Saoirse Fahey,Head Of Global Finance And Strategy,https://cdn.theorg.com/a8730aac-80df-46ce-aeb9-7c39a3cd835a_thumb.jpg,Steffan Tomlinson,3
+Suryaveer Lodha,Head Of Money Movement And Storage,https://cdn.theorg.com/bbcdc3e4-17a0-4d2b-9567-d150d21ad347_thumb.jpg,Steffan Tomlinson,3
+Maia Josebachvili,Interim Head of M&amp;A &amp; Investing,https://cdn.theorg.com/eca2c793-b1ac-4df0-a473-4e3541951206_thumb.jpg,Steffan Tomlinson,3
+Leland Rodger,Treasurer,no_match,Steffan Tomlinson,3
+Anh Kiet,Tax Reporting Lead,https://cdn.theorg.com/ca4bd9af-fe97-477a-a768-8a2fe71aa162_thumb.jpg,Steffan Tomlinson,3
+Krishna Ghosh,Treasury,no_match,Steffan Tomlinson,3
+Avinash Bhat,Head Of Data Infrastructure,no_match,Steffan Tomlinson,3
+Marissa Montalbano,Americas Head Of Financial Crime Compliance &amp; BSA Officer,https://cdn.theorg.com/93873ae7-36d7-4b3e-8bf6-3b6b2cb49e18_thumb.jpg,Trish Walsh,3
+Peteris Liepins,Head Of Fraud,no_match,Trish Walsh,3
+Vishal Melwani,Head Of Global Product Compliance,https://cdn.theorg.com/eb3e12e3-c9e8-4df8-b19b-943b476d206e_thumb.jpg,Trish Walsh,3
+Catherine Nasser,"Global Head of Litigation, Employment Law &amp; Legal Operations",https://cdn.theorg.com/50e06fb5-35af-4565-8470-617f0aed9422_thumb.jpg,Trish Walsh,3
+Shawn Chen,Global Head of Litigation,https://cdn.theorg.com/7471e3ed-4814-403d-ba5b-3cac0fcc8185_thumb.jpg,Trish Walsh,3
+Shashank Nadig,Program Manager - Compliance,https://cdn.theorg.com/671baf34-214f-43d2-8b5b-810fb0443952_thumb.jpg,Trish Walsh,3
+Laxmi Keshote,"Head of Risk, APAC",https://cdn.theorg.com/9e002110-be55-41dd-a88d-0619b0c810fb_thumb.jpg,Trish Walsh,3
+Kalpesh Shah,"Global Head, Regulatory Reporting",https://cdn.theorg.com/27d8d45e-d70d-490c-9a08-8ce29c795c3a_thumb.jpg,Trish Walsh,3
+Ben Cunningham,Risk Partner Manager,https://cdn.theorg.com/e60c9a10-30ba-487f-ab1d-dfc0b7dd54db_thumb.jpg,Trish Walsh,3
+Leila Perkins,"General Counsel, Stripe Payments Company",no_match,Trish Walsh,3
+John Tsai,"Head of Patents, IP Litigation, Open Source &amp; Standards",https://cdn.theorg.com/a1f7879a-2462-49c2-bf2f-5d4fe988f88c_thumb.jpg,Trish Walsh,3
+Sam Swartz,"Director of Public Policy, US",https://cdn.theorg.com/a4c9eb6f-367f-4f8c-baf3-3eaa5046d423_thumb.jpg,Trish Walsh,3
+David Ferri,"Head of Regulatory, EMEA",no_match,Trish Walsh,3
+Dave Nixon,Global Head Of Sales Development,https://cdn.theorg.com/c3ab527f-ad2b-4cca-bef8-3fba496b1413_thumb.jpg,Eileen O’Mara,3
+Marcela Piñeros,Global Head Of Sales Enablement,no_match,Eileen O’Mara,3
+Edward Moore,Global Head Of Sales - Payments,https://cdn.theorg.com/a0d5216d-bdb2-4257-8346-a5f6e1424d6b_thumb.jpg,Eileen O’Mara,3
+Austin Brizgys,"Global Head Of Sales, Revenue &amp; Finance Automation",no_match,Eileen O’Mara,3
+Jake Sinsheimer,"Manager, Platform Sales",https://cdn.theorg.com/94b681d8-6d97-4d0d-8ee6-d05888220c9d_thumb.jpg,Eileen O’Mara,3
+Roniesha Copeland,Head of Growth &amp; MidMarket Sales,https://cdn.theorg.com/d48c30c3-edc9-4912-82a2-d86982ad2f5d_thumb.jpg,Eileen O’Mara,3
+Ahren Cardosi,"Head of Account Management, Growth Accounts",https://cdn.theorg.com/600e95c3-3cc4-41b1-a2e2-8ad4d6d38da8_thumb.jpg,Eileen O’Mara,3
+Tim Smith,Head Of Global Customer Success &amp; Product Sales,https://cdn.theorg.com/24e6e2b3-017a-49ea-9d58-0eec539a2f31_thumb.jpg,Eileen O’Mara,3
+Beth Robertson,Global Head Of Startups (gtm),https://cdn.theorg.com/a16966b9-bf40-4040-a296-e8a5680f37b1_thumb.jpg,Eileen O’Mara,3
+Arthur Shikhman,"Team Lead, Technical Account Manager",https://cdn.theorg.com/c1a00966-5c3c-4fd3-8404-58cdb43153a3_thumb.jpg,Eileen O’Mara,3
+Conor McNamara,EMEA CRO @ Stripe,https://cdn.theorg.com/554027a9-b3ec-4a46-a66d-b9a7aaa74ae8_thumb.jpg,Eileen O’Mara,3
+Geoff Brown,Chief Revenue Officer (cro) - Stripe Billing,https://cdn.theorg.com/a28fd11a-419a-4f31-b0b2-e43a7c3cd74a_thumb.jpg,Eileen O’Mara,3
+John Meere,"Head Of Sales Development (sdr/bdr) Organization, Americas",https://cdn.theorg.com/8038007e-a92d-4367-95dc-170273aba570_thumb.jpg,Dave Nixon,4
+Idil Omar,ABP,https://cdn.theorg.com/33aefadb-edea-4d16-99e8-4e9a77bad59a_thumb.jpg,Dave Nixon,4
+Lauren Muck,"Manager, AMER Digital Native Sales Development",https://cdn.theorg.com/a688a394-5688-4602-9107-4b278ef29a3d_thumb.jpg,Dave Nixon,4
+Daniel Chao,"Head of Sales Development, SEA &amp; Greater China",https://cdn.theorg.com/ab807ca1-5353-4d02-88c8-e15fafb38a1f_thumb.jpg,Dave Nixon,4
+Antoine Markarian,"Sales Leader, Platforms",https://cdn.theorg.com/d8bd78c1-cc28-41a9-982c-b249779c08f9_thumb.jpg,Dave Nixon,4
+Amaan Khan,Sales Development Operations Associate,https://cdn.theorg.com/82655f29-88d8-413e-8140-719625e573d4_thumb.jpg,Dave Nixon,4
+Wen Chi Hsu,"Enterprise Account Executive, Greater China",https://cdn.theorg.com/7df3e1ae-13d2-41e8-a7b6-c9597f5a0c17_thumb.jpg,Daniel Chao,5
+Kelly Wittig,"Sales Manager, Enterprise",https://cdn.theorg.com/5feb668f-895c-4eba-b903-267ac1ddafa3_thumb.jpg,Daniel Chao,5
+sydney p,sdr,https://cdn.theorg.com/5fb9cba8-812b-486d-8b6c-8276657576e5_thumb.jpg,Daniel Chao,5
+Doga Butler,"Global Sales Enablement, Global Processes Manager",https://cdn.theorg.com/9776c2c0-2656-4306-8179-09bfed1d19ad_thumb.jpg,Marcela Piñeros,4
+Darren Konskier,UK Enterprise Account Executive (e-commerce Lead),https://cdn.theorg.com/6e362b69-a3ed-4d04-bc74-0807b1a0af3f_thumb.jpg,Edward Moore,4
+Brian McDonnell,Platform Sales Lead,https://cdn.theorg.com/7dbfb37e-e5f0-4a85-8b6f-df0f398530fb_thumb.jpg,Edward Moore,4
+Darryl Williams,Principal Account Executive,no_match,Edward Moore,4
+Jacqueline Berg,Head Of Enterprise Platform Sales,no_match,Edward Moore,4
+Eric Silvestri,"Sales Team Lead, Digital Natives",https://cdn.theorg.com/5f3c6ecc-a6a6-454e-8634-ce82d7753d39_thumb.jpg,Edward Moore,4
+Lauren Coy,Strategic Account Executive,https://cdn.theorg.com/a1f1325d-2d61-4697-9495-28ea8846e37d_thumb.jpg,Edward Moore,4
+Eloise Morin,Account Executive - Growth,https://cdn.theorg.com/8e9354ca-b858-4a7d-81f5-f041b723ee72_thumb.jpg,Edward Moore,4
+Sudhir Kandula,Strategic Sales,https://cdn.theorg.com/25a1a600-8d57-4564-bf12-899b7b8ee3ca_thumb.jpg,Edward Moore,4
+Michael Lewis,SMB &amp; Startups Sales Leadership,no_match,Edward Moore,4
+John Harty,Digital Enterprise Sales,no_match,Edward Moore,4
+Chloe Ehrlich,Commercial Account Executive - Existing Business,https://cdn.theorg.com/3b3b5292-882e-4a02-9962-96901baf8a3a_thumb.jpg,Edward Moore,4
+Louis Laga,GTM - FX And Currency Management,no_match,Edward Moore,4
+Ben Hutchinson,Account Executive,https://cdn.theorg.com/46445cc4-2aad-43fa-9ff3-02bc259792b2_thumb.jpg,Edward Moore,4
+Dan Marsland,Account Executive,https://cdn.theorg.com/9911d566-7c7e-4783-897b-79d3372ffb24_thumb.jpg,Edward Moore,4
+Charlotte Goldspink,Account Executive,no_match,Edward Moore,4
+Nikhil Kamath,Customer Success,no_match,Edward Moore,4
+Ritika Gopal,Account Executive,no_match,Edward Moore,4
+Alanna Y.,"GIS Specialist, Sales Tax Jurisdiction Lead",no_match,Darryl Williams,5
+Mikey M.,EMEA Consumer Lead - Financial Crimes Investigations,https://cdn.theorg.com/30fd6d4e-d6cd-4ec1-956c-7940c39f0da8_thumb.jpg,Darryl Williams,5
+Shoab Malak,Global Indirect Tax (vat) Lead,https://cdn.theorg.com/e84491f0-1a4d-48e0-b38b-36128ae16c35_thumb.jpg,Darryl Williams,5
+Myron Stein,Head Of Enterprise Sales ANZ,https://cdn.theorg.com/cb07805c-6ef0-44c7-b823-bf99397a49e1_thumb.jpg,Darryl Williams,5
+George Gilbert,Enterprise Sales Manager,no_match,Jacqueline Berg,5
+Eva Sheehan,"Manager, Enterprise Sales | Southeast Asia",https://cdn.theorg.com/f8acf1ba-e4fb-45fb-b2b0-40aafe6f5cb1_thumb.jpg,Jacqueline Berg,5
+Jayne McNally,Enterprise Sales Manager,https://cdn.theorg.com/7810c642-ed2c-4b45-bd0a-b39feccff3c9_thumb.jpg,Jacqueline Berg,5
+Clare McCartney,Enterprise Account Executive,https://cdn.theorg.com/70467639-72c1-43e1-a075-5df089e7a87b_thumb.jpg,Jacqueline Berg,5
+Lakshmi Datta,Enterprise Account Executive,https://cdn.theorg.com/366d0454-9221-45aa-a800-9906b52b7829_thumb.jpg,Jacqueline Berg,5
+Che Serkin,Account Executive - Enterprise &amp; Growth,https://cdn.theorg.com/1c313bd6-f31b-42ec-8466-0aeacf4d5962_thumb.jpg,Jacqueline Berg,5
+Erich Faustman,Enterprise Account Executive- Platforms,https://cdn.theorg.com/d7358812-f566-46dc-8b72-8943bcb8b592_thumb.jpg,Jacqueline Berg,5
+Mohammad Paracha,Enterprise Account Executive,https://cdn.theorg.com/c0b06dec-3f17-4b4b-ae20-c1d89069b57f_thumb.jpg,Jacqueline Berg,5
+Alex Goulding,Enterprise Account Executive,https://cdn.theorg.com/f201df3a-7e4e-4b6c-80b1-71855d1bb909_thumb.jpg,Jacqueline Berg,5
+Emily Bonner,Enterprise Account Executive,https://cdn.theorg.com/d3abba8b-a853-4226-abd5-c5937aaed3ff_thumb.jpg,Jacqueline Berg,5
+Mohamed Adly,Enterprise Account Executive,no_match,Jacqueline Berg,5
+Arwa Ginwala,"Manager, Solutions Architects",https://cdn.theorg.com/8eb7bc89-3ecc-43ea-b7f6-1bbe730d4094_thumb.jpg,Jacqueline Berg,5
+Joseph Galante,"Manager, U.s. Digital Natives Sales Team",https://cdn.theorg.com/5d275210-efc9-4795-ad0b-781131626123_thumb.jpg,Eric Silvestri,5
+Ann-Marie Dillon,"Embedded Finance GTM Sales Leader: Financial Accounts, Lending, Card Issuing, Payouts And FX",https://cdn.theorg.com/60df34b0-aac1-4cf0-801c-9512b07d411d_thumb.jpg,Austin Brizgys,4
+Kanika Kumar,"Global Deal Manager, Complex Enterprise Deals",https://cdn.theorg.com/2a78c419-2292-4638-b6c9-bc85e9a61cdb_thumb.jpg,Austin Brizgys,4
+Fahd Qabazard,Customer Success Manager,https://cdn.theorg.com/712b961b-b667-45ab-acf9-e5c6b683eb89_thumb.jpg,Tim Smith,4
+Xander Timpson,Growth - Venture Backed Startups,https://cdn.theorg.com/4a479fc0-b431-43ad-bd01-9b05640a0087_thumb.jpg,Beth Robertson,4
+Iain Hill,Financial Partnerships,https://cdn.theorg.com/d0863753-da65-4ce3-99bb-d2fe4b67cab1_thumb.jpg,Beth Robertson,4
+Joe Grove,Enterprise &amp; Growth Uk&amp;i,https://cdn.theorg.com/eb28fabc-a1db-4a6f-b454-bf5136caeaa2_thumb.jpg,Beth Robertson,4
+Kimberly Mescal Julien,Strategic Partnerships,https://cdn.theorg.com/3c1dac77-5548-47dd-b16b-c36f42b1ed39_thumb.jpg,Beth Robertson,4
+Carine Gursky,Head Of Global Customer Success Management,https://cdn.theorg.com/7ed33697-2c4c-42fe-926f-d353f02ff720_thumb.jpg,Conor McNamara,4
+Ryan Ball,Head Of Sales - UK,no_match,Conor McNamara,4
+Pier Francesco Gagliardo,"Head Of Technical Account Management, Southern Europe",https://cdn.theorg.com/87897844-0af5-455f-ae6c-ed12c3fa357a_thumb.jpg,Conor McNamara,4
+Todd Aronoff,"Global Customer Success Management, Strategic Partners",https://cdn.theorg.com/76f0dee9-b825-41aa-aec7-4fce8fc06aeb_thumb.jpg,Carine Gursky,5
+Liana Arias-Hilliard,"TAM Manager, Premium Services At Stripe + Global Co-lead Unidos ERG",https://cdn.theorg.com/cfd75bac-d59f-4b61-924e-e3a961417cd7_thumb.jpg,Carine Gursky,5
+Folkert K.,Customer Success Manager,https://cdn.theorg.com/efa2a8cf-15ff-489a-b9f3-83308769c37e_thumb.jpg,Carine Gursky,5
+Valentina Buitron,Account Executive Enterprise - Financial Services,https://cdn.theorg.com/e49daf9c-8679-41c0-b727-a6565d4163c8_thumb.jpg,Ryan Ball,5
+Kelley Orcutt,"Account Executive, Uk&amp;i",https://cdn.theorg.com/e5c20ffc-0f5f-4763-b4e8-69015ed73893_thumb.jpg,Ryan Ball,5
+Sam Norcross,Enterprise Account Executive - Financial Services,no_match,Ryan Ball,5
+Ben Gompes,Product Sales,no_match,Ryan Ball,5
+Joost van der Mersch,Manager - Enterprise Sales UK,https://cdn.theorg.com/9c7f4a9a-4372-4a99-854a-054c90e397ca_thumb.jpg,Ryan Ball,5
+Cesar J. Villeda,Strategic Account Executive,no_match,Ryan Ball,5
+Jack Lape,"Manager, Technical Account Management",https://cdn.theorg.com/3c56a8e8-50a0-4c86-858b-0bf9fa693e11_thumb.jpg,Pier Francesco Gagliardo,5
+Georgina Ulrich,"Manager, Technical Account Management",https://cdn.theorg.com/7ffe9f1d-c872-4397-ba0b-bc736541b7c4_thumb.jpg,Pier Francesco Gagliardo,5
+Cormac Commins,Technical Account Manager,no_match,Georgina Ulrich,6
+Kyle Shirley,Technical Account Manager,https://cdn.theorg.com/c32cf468-5064-4e5f-9d1e-551f8f9a6e9a_thumb.jpg,Georgina Ulrich,6
+Chetna Bastani,Head Of APAC GTM Partnerships,https://cdn.theorg.com/446051fc-4654-4042-81b8-c421ce61af62_thumb.jpg,Geoff Brown,4
+Mengfei Gao,Global Head Of Payment Partnerships,no_match,Geoff Brown,4

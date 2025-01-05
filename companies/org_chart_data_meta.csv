@@ -1,0 +1,972 @@
+name,title,image_src,reports_to,chart_status
+Mark Zuckerberg, Founder Chairman & CEO, https://cdn.theorg.com/75182162-4cdc-4575-b977-ce88d058c4b3_thumb.jpg,,1
+Nick Clegg,"President, Global Affairs",https://cdn.theorg.com/8d8c5b5c-3476-473a-9878-d84c3b55bc9e_thumb.jpg,Mark Zuckerberg,2
+Javier Olivan,COO,https://cdn.theorg.com/f7d99269-d984-4dd6-ae5a-b4616f10144a_thumb.jpg,Mark Zuckerberg,2
+Andrew Bosworth,CTO,https://cdn.theorg.com/641759bf-734c-4ceb-a52a-7fd26636fc33_thumb.jpg,Mark Zuckerberg,2
+Chris Cox,CPO,https://cdn.theorg.com/57035f5b-0892-4ac5-b7ab-686bf2286c03_thumb.jpg,Mark Zuckerberg,2
+Susan Li,CFO,https://cdn.theorg.com/72fa059a-d702-4d44-83eb-2b277975ad16_thumb.jpg,Mark Zuckerberg,2
+David Wehner,Chief Strategy Officer,https://cdn.theorg.com/e86057ce-16d0-4641-9f93-394874999c9f_thumb.jpg,Mark Zuckerberg,2
+Jennifer Newstead,Chief Legal Officer,https://cdn.theorg.com/7e35c446-cbcc-46e5-b6f6-587cee8e3140_thumb.jpg,Mark Zuckerberg,2
+Ahmad Al-Dahle,VP &amp; Head of GenAI at Meta,https://cdn.theorg.com/4044624d-b14a-4a05-9853-d38e2f61d644_thumb.jpg,Mark Zuckerberg,2
+Lori Goler,"Head, People",no_match,Mark Zuckerberg,2
+Andrea Besmehn,Executive Assistant to the CEO,no_match,Mark Zuckerberg,2
+Mike Schroepfer,Senior Fellow,no_match,Mark Zuckerberg,2
+Brian Roehrkasse,"VP, Communications",https://cdn.theorg.com/863d8397-acb1-4d58-9cec-7d08855514bc_thumb.jpg,Nick Clegg,3
+Tucker Bounds,"VP, Communications",no_match,Nick Clegg,3
+Bipasha Chakrabarti,"Director, Corporate Communications",https://cdn.theorg.com/aa97f182-3071-4b11-90f0-e5f4b34a28e2_thumb.jpg,Brian Roehrkasse,4
+Malek El Refaie,"Director Of Internal Communications, Global Agency Pod",https://cdn.theorg.com/92d9bfeb-8c7d-42a4-b3da-23114bd8a731_thumb.jpg,Brian Roehrkasse,4
+Tyler Yee,"Communications Manager, Reality Labs",https://cdn.theorg.com/5e3051ad-2fd0-4f9a-abcb-8e06beb74b17_thumb.jpg,Tucker Bounds,4
+Maayan Sarig,Communications Manager,https://cdn.theorg.com/1ca598b1-25ad-489c-925f-eede7988a7f7_thumb.jpg,Tucker Bounds,4
+Kezia Anim-Addo,"Director Of Communications - Africa, Middle East &amp; Turkey (amet)",no_match,Tucker Bounds,4
+Jon Carvill,"Senior Director Of Communications, AI",no_match,Tucker Bounds,4
+Nissa Anklesaria,"Vice President, Business Communications",https://cdn.theorg.com/481f74f8-498e-4974-8d1c-056e03520aa7_thumb.jpg,Tucker Bounds,4
+Katy Dormer,"Communications Director, Facebook &amp; Messenger",https://cdn.theorg.com/78f1147a-77b7-45d6-9f74-8674e681c86d_thumb.jpg,Tucker Bounds,4
+Nikolas Eristavi,Internal Marketing And Communications Lead,https://cdn.theorg.com/6eb417ed-2ec3-4c60-a7d3-8fa4412bbfeb_thumb.jpg,Nissa Anklesaria,5
+Alex Schultz,"VP, Analytics &amp; CMO",https://cdn.theorg.com/fead2bfe-dae2-48c2-bfbf-ab7fb4681dd2_thumb.jpg,Javier Olivan,3
+David Wei,"VP, Engineering",https://cdn.theorg.com/df724d74-3b80-4d5b-ba4c-ec320a3b655a_thumb.jpg,Javier Olivan,3
+Joel Kaplan,"VP, US Public Policy",https://cdn.theorg.com/1c6581ac-5b56-4b29-8ef7-8c961e145a2c_thumb.jpg,Javier Olivan,3
+Simon Milner,"VP, Public Policy, APAC",https://cdn.theorg.com/e8011163-01cf-461f-b08d-dd861591a4b8_thumb.jpg,Javier Olivan,3
+Antigone Davis,"VP &amp; Global Head, Safety",no_match,Javier Olivan,3
+Neil Potts,"VP, Public Policy, Trust &amp; Safety Policy",no_match,Javier Olivan,3
+John Hegeman,"Head, Monetization",https://cdn.theorg.com/e4077a82-7e67-4b6c-9415-2c9d4538eb74_thumb.jpg,Javier Olivan,3
+Matt McCance,"Head, Learning Shared Services",https://cdn.theorg.com/fc262821-53fd-476b-8078-645ee69fba62_thumb.jpg,Javier Olivan,3
+Monika Bickert,"Head, Global Policy Management",https://cdn.theorg.com/f39926f0-a92a-4dbf-951f-92f85b983ed5_thumb.jpg,Javier Olivan,3
+Dan Neary,"VP, APAC",https://cdn.theorg.com/ac9750ee-a202-4127-a6de-ca157e434ce5_thumb.jpg,Javier Olivan,3
+Benjamin Joe,"VP, Southeast Asia &amp; Emerging Markets",https://cdn.theorg.com/a6b968e6-1335-49bd-95fd-f456a15e5d52_thumb.jpg,Javier Olivan,3
+Nicola Mendelsohn,"VP, Global Business Group",https://cdn.theorg.com/0e18f8a9-d249-427a-af6f-812c90583d6e_thumb.jpg,Javier Olivan,3
+Arun Srinivas,"Director &amp; Head of Ads Business, India",no_match,Javier Olivan,3
+Mark Lee,Sound Designer,https://cdn.theorg.com/e942f5a7-4396-4f55-a7e8-6508c93397cf_thumb.jpg,Javier Olivan,3
+Jorge Calleja,Chief Creative Officer,https://cdn.theorg.com/b6bfd4eb-d844-4185-90c3-21e582e6f923_thumb.jpg,Javier Olivan,3
+Sygne Dorenburg,Global Head Of Sales Engagement And Support Strategy,https://cdn.theorg.com/dfc81ba5-1dbf-4a0f-9aba-ec6c9d6e72da_thumb.jpg,Javier Olivan,3
+Martin Schneider,Chief Audit Executive,https://cdn.theorg.com/b77a6932-6de8-41c8-8563-24aa6ad067f3_thumb.jpg,Javier Olivan,3
+Dhruv Vohra,"Managing Director, Meta Business Group, (mid-market), APAC",https://cdn.theorg.com/8024fe85-bdd1-442f-b7aa-36ef5561de77_thumb.jpg,Javier Olivan,3
+Tom Tang,Global Head Of Data Science,no_match,Javier Olivan,3
+Dennis Brockenborough,Global Head Of Customer Service Operations RL,https://cdn.theorg.com/59aecd85-5e96-4b5c-8511-84add59f19ff_thumb.jpg,Javier Olivan,3
+Justin Osofsky,Head of SMB Group and Global Partnerships,https://cdn.theorg.com/5fcdf2c2-4660-43d6-9ebc-0a326287debc_thumb.jpg,Javier Olivan,3
+Michelle Klein,"VP, Global Business Marketing",https://cdn.theorg.com/5f6e6d57-01eb-4b7d-9443-c47b4cb507de_thumb.jpg,Alex Schultz,4
+Yongyong Kennedy,"Managing Director, Marketing Science",https://cdn.theorg.com/907b274b-f170-4377-b385-7e66d27235ed_thumb.jpg,Alex Schultz,4
+Beatriz Bottesi,"(cmo) Head Of Marketing Latam - Meta, Facebook, Instagram &amp; Whatsapp",https://cdn.theorg.com/612bceb6-a9bb-4318-89e6-4b2ab699aa04_thumb.jpg,Alex Schultz,4
+Riccardo Scotti di Uccio,"Head Of Marketing, AI And Business Experiences",https://cdn.theorg.com/e3bdca90-e2ed-456d-b29b-d8d065aa8c22_thumb.jpg,Alex Schultz,4
+Emmelie de la Cruz,Growth Marketing Manager - Small Business,https://cdn.theorg.com/6e7e8a26-4960-4f3c-bf33-11e509f1b311_thumb.jpg,Michelle Klein,5
+Shachar Scott,"Vice President, Marketing - Reality Labs",https://cdn.theorg.com/e8ad4ab7-4028-491c-bc8b-cd66b1bbd28c_thumb.jpg,Michelle Klein,5
+Alexandria Sumner,"Head Of Business Strategy, Global Audience Marketing",https://cdn.theorg.com/5e0d20bf-6829-4ea5-81da-6a26cbc6e92c_thumb.jpg,Michelle Klein,5
+Amrita Ray Chaku,Head Of Business Marketing,https://cdn.theorg.com/0e1803b4-1545-4135-84aa-9373cd65a545_thumb.jpg,Michelle Klein,5
+Sinan Wu,Global Web Marketing Lead,https://cdn.theorg.com/64b5805c-4483-46ac-95a0-d08c074dcb04_thumb.jpg,Michelle Klein,5
+Manuela Ruiz Luzio,"Consumer Product Marketing Manager, Whatsapp",https://cdn.theorg.com/461b5c75-588a-4ad6-90f0-119ce3929292_thumb.jpg,Shachar Scott,6
+Josh Newman,"Product Marketing Director, Signal Growth",https://cdn.theorg.com/f74fb78c-99cb-43e3-81e6-8836db727595_thumb.jpg,Shachar Scott,6
+Aslihan Ulutas,Head Of Marketing,no_match,Shachar Scott,6
+Tiffany Lee,"Team Lead, Growth Marketing",no_match,Shachar Scott,6
+Carrie Timms,"Director Of International Marketing, EMEA",no_match,Shachar Scott,6
+Kerry Antos,"Global Marketing Director, Metaverse (reality Labs)",no_match,Shachar Scott,6
+Meirion Pritchard,"Global Creative Director, Reality Labs - VR (meta Quest, Horizon)",https://cdn.theorg.com/06707dbe-a3e0-4b4b-8975-7a1f686d76e3_thumb.jpg,Shachar Scott,6
+Ali Jayson,"Director, Product Marketing, Augmented Reality",https://cdn.theorg.com/f6ef95fd-6248-48d0-b7b5-5991472d7d70_thumb.jpg,Shachar Scott,6
+Teresa Roche,"Head Of Lifecycle Marketing, Reality Labs",https://cdn.theorg.com/aa52b4c0-72a7-4f29-abc4-09109af95525_thumb.jpg,Shachar Scott,6
+Maggie Peuler,Media Strategy Lead - Reality Labs,https://cdn.theorg.com/1cb3a8c1-5e5a-4cc4-a05d-191f11cf6ece_thumb.jpg,Shachar Scott,6
+Danielle Erb,"Senior Product Marketing Manager, Creators For AR And Raybanmeta Glasses",https://cdn.theorg.com/2f24e7b8-2774-42df-a0ba-76eaa84f0034_thumb.jpg,Shachar Scott,6
+Kasia Holthouse,"Sales Manager, Meta Reality Labs",https://cdn.theorg.com/3be8e0dd-abde-4a6e-859c-d508ab37f745_thumb.jpg,Shachar Scott,6
+Leana Kalinowski,"Product Marketing Manager, Reality Labs",https://cdn.theorg.com/e8917318-bd4a-4455-853d-8987c17ca762_thumb.jpg,Shachar Scott,6
+Gabi Knight,"Director Of International Marketing, Reality Labs",no_match,Shachar Scott,6
+Cara Ely,"Director Of Creative -- Lifestyle &amp; Entertainment, Reality Labs",no_match,Shachar Scott,6
+Torri Gunn,"Industry Manager, Retail &amp; Retail Media",https://cdn.theorg.com/18011d96-2f5c-4ef2-8662-e5501a28ec10_thumb.jpg,Aslihan Ulutas,7
+Greta Hung,"Event Marketing Manager, EMEA",no_match,Aslihan Ulutas,7
+Jihad Dorgham,Scaled Marketing Enablement Manager,no_match,Amrita Ray Chaku,6
+Tom Zach,Business Marketing Manager,https://cdn.theorg.com/51746fbb-dc68-4621-b96d-dd10fef3bfb0_thumb.jpg,Amrita Ray Chaku,6
+Kang-Xing Jing,"Head, Workplaces",no_match,David Wei,4
+Ziad Traboulsi,"Senior Director, Engineering, Reality Labs Partnerships",https://cdn.theorg.com/a526e511-b7b8-4c63-a86e-59ae6b534abe_thumb.jpg,David Wei,4
+Amit Sangani,"Senior Director, Platform Engineering",https://cdn.theorg.com/c7dd1305-e79a-4378-9283-afe7ac91dc08_thumb.jpg,David Wei,4
+Javier Maestro,"Production Engineer, Monitoring",https://cdn.theorg.com/91416f76-cb46-48ab-9adf-a5207dad2b9d_thumb.jpg,David Wei,4
+Richard Wareing,Production Engineer,https://cdn.theorg.com/6ff20040-db9e-439e-b926-8e2db15d3091_thumb.jpg,David Wei,4
+Erhan Senlik,Production Engineering,https://cdn.theorg.com/40a5f1d6-660c-4d51-b099-d03d8a36eea2_thumb.jpg,David Wei,4
+Neeraj Agrawal,Director Of Engineering,no_match,David Wei,4
+Noam Sorek,Director Of Engineering,no_match,David Wei,4
+Bhavesh Mehta,Vice President Of Engineering,no_match,David Wei,4
+Jerry Chen,Software Engineer,https://cdn.theorg.com/4258d56a-397d-4480-ab1d-faacafb6c00d_thumb.jpg,David Wei,4
+Ran Ding,Software Engineer / Tech Lead Manager,https://cdn.theorg.com/8170dbae-e836-42ae-aa6d-16c9441cfe5a_thumb.jpg,David Wei,4
+Venugopala Rao Moram,Director Of Engineering,https://cdn.theorg.com/b6ca5845-b9ea-4a5f-8fc4-9dbc5e3e6386_thumb.jpg,David Wei,4
+Chang-Han Jong,Engineering Manager,https://cdn.theorg.com/95074030-015c-4d51-9d8d-b3793d90644e_thumb.jpg,David Wei,4
+Megha Shah,Senior Business Analyst V,no_match,David Wei,4
+Osama Abdelrahman,QA Engineering Lead,no_match,David Wei,4
+Yun Zhang,Software Engineering Manager,https://cdn.theorg.com/ab3b9932-44d2-4089-85de-8a35301f567a_thumb.jpg,Amit Sangani,5
+Edgar Markevicius,Security Engineering Manager,no_match,Amit Sangani,5
+Louis Feng,"Engineering Manager, Efficiency",https://cdn.theorg.com/54c49a48-6b09-47ce-a11f-90b211119d56_thumb.jpg,Amit Sangani,5
+Ava Huang,Senior Machine Learning Engineer,https://cdn.theorg.com/89044332-b00c-4868-bdb2-9497d60f92a7_thumb.jpg,Yun Zhang,6
+Aaron Brady,Senior Software Engineer,https://cdn.theorg.com/ee93061e-7315-4538-9709-1b2a01066eb8_thumb.jpg,Yun Zhang,6
+Ardashir Motamed,Senior Software Engineer,https://cdn.theorg.com/e715d560-da07-423e-b1fc-df1457cc08d6_thumb.jpg,Yun Zhang,6
+Agustin Vergottini,Senior Software Engineer,https://cdn.theorg.com/51f7c935-8ce4-4177-93cf-100d54c57bdc_thumb.jpg,Yun Zhang,6
+Aleksandr Timashov,"Software Engineer, Machine Learning",https://cdn.theorg.com/061f6d17-e857-4e2a-8b8c-23fa9ed4dcd1_thumb.jpg,Neeraj Agrawal,5
+Blake Dixon,Engineering Manager,https://cdn.theorg.com/6a70f1af-603b-4b3c-847f-23f8c8d8b278_thumb.jpg,Neeraj Agrawal,5
+Kiran Badam,Engineering Manager,no_match,Neeraj Agrawal,5
+Zachary Diemer,Senior Software Engineer,https://cdn.theorg.com/957867b4-b2db-4be6-b289-4d2544c0722d_thumb.jpg,Neeraj Agrawal,5
+Soheil Esmaeilzadeh,"Senior Machine Learning Software Engineer, Meta",https://cdn.theorg.com/dc12b9e1-6f34-45d4-8e2c-25aa70b9de37_thumb.jpg,Neeraj Agrawal,5
+Reza Mohammadi Ghazi,Senior Machine Learning Software Engineer,https://cdn.theorg.com/225b0351-4f0e-48af-a406-2e611d9f8704_thumb.jpg,Neeraj Agrawal,5
+Sidd S.,Senior Engineer AI Research,https://cdn.theorg.com/d3b09202-ec14-42f3-86a9-8a7a73566814_thumb.jpg,Neeraj Agrawal,5
+Pat Sukhum,Senior Machine Learning Engineer,https://cdn.theorg.com/837395a1-7bb9-4ec3-8b68-682c4c281011_thumb.jpg,Neeraj Agrawal,5
+Muhammad Azam,"Senior Machine Learning Engineer, Reality Labs",https://cdn.theorg.com/a10a27e6-ee1c-420c-bd33-b0d8a43cde23_thumb.jpg,Neeraj Agrawal,5
+Fin V.,Senior Machine Learning Engineer,https://cdn.theorg.com/23159de6-56f2-43ba-975e-ab130e5102aa_thumb.jpg,Neeraj Agrawal,5
+Ashkan Aleali,Senior Machine Learning Engineer,https://cdn.theorg.com/dcaa0098-2fba-45a9-8e4d-693c6640a775_thumb.jpg,Neeraj Agrawal,5
+Tran le,Senior Machine Learning Engineer,https://cdn.theorg.com/753d1b32-87ea-46b2-b23f-d4e6164bb704_thumb.jpg,Neeraj Agrawal,5
+Vikram Rathore,"Director, Data Engineering",https://cdn.theorg.com/5e557d54-8e4a-4e4e-b477-ae124218a1c2_thumb.jpg,Bhavesh Mehta,5
+Harish D Dixit,Principal Engineer,https://cdn.theorg.com/c5dce4a2-1b3e-4d56-991e-f63ac770dfa8_thumb.jpg,Bhavesh Mehta,5
+Kapil Gupta,Senior Engineering Manager,https://cdn.theorg.com/40972862-f1e5-413f-a3f7-a107798d2a58_thumb.jpg,Bhavesh Mehta,5
+Sriram Sankar,"Director, Engineering",no_match,Bhavesh Mehta,5
+Anuroop Sriram,Research Engineering Lead (fair),https://cdn.theorg.com/9bb2757f-4d10-434d-9848-aaa434b27169_thumb.jpg,Bhavesh Mehta,5
+Radha Krishna Veguru,"Director, Enterprise Engineering",no_match,Bhavesh Mehta,5
+Naveen Prodduturi,"Director, Enterprise Engineering",no_match,Bhavesh Mehta,5
+Kuangwei Hwang,Head Of Platform Engineering,https://cdn.theorg.com/60ca6f19-2e2e-410e-8e63-4d3afb691ea9_thumb.jpg,Bhavesh Mehta,5
+Marc Ettlinger,Linguistic Engineering Manager,https://cdn.theorg.com/27278da8-c4db-4cd4-9cd7-5f9f598e31bf_thumb.jpg,Bhavesh Mehta,5
+Avi Gavlovski,"Director, Engineering",https://cdn.theorg.com/959ba748-7cef-403a-a5da-117c649c8336_thumb.jpg,Bhavesh Mehta,5
+Gedaliah Friedenberg,"Director Of Engineering, Meta (facebook)",https://cdn.theorg.com/4efa84e7-48f1-4daa-9b77-22c25140ea8d_thumb.jpg,Bhavesh Mehta,5
+Supriya Rao,Software Engineering Manager,no_match,Bhavesh Mehta,5
+Junbiao Tang,"Director Of Engineering, Generative AI",https://cdn.theorg.com/f474b6c3-6563-43d6-91f2-049b82787d7c_thumb.jpg,Bhavesh Mehta,5
+Kchitiz Regmi,Head Of Technology Enablement,https://cdn.theorg.com/9077cd1f-cd2c-4a45-8a51-83c39dceebe1_thumb.jpg,Bhavesh Mehta,5
+Sheng Song,Director Of Software Engineering,https://cdn.theorg.com/9b78a1da-3dae-4692-8ab7-f9314f589a2a_thumb.jpg,Bhavesh Mehta,5
+Hetal Thakkar,Director Of Engineering,https://cdn.theorg.com/14453fb8-cfce-451c-99f2-bb4521c364c7_thumb.jpg,Bhavesh Mehta,5
+Vivek Trehan,Director Of Engineering,https://cdn.theorg.com/91461797-bc08-4c0b-aab2-be78db03e30c_thumb.jpg,Bhavesh Mehta,5
+Deepa Diwakar,Director Of Engineering,no_match,Bhavesh Mehta,5
+Shagun Sodhani,Tech Lead And Staff Research Engineer,no_match,Bhavesh Mehta,5
+Haowei Shi,Senior Software Engineer,no_match,Bhavesh Mehta,5
+Abbas Sbaity,Senior Logic Design Engineer,no_match,Bhavesh Mehta,5
+Oguz Ulgen,Senior Staff Software Engineer,no_match,Bhavesh Mehta,5
+Jiayue Zhang,Senior Software Engineer,no_match,Bhavesh Mehta,5
+Prosenjit Das,Senior Data Engineer,no_match,Vikram Rathore,6
+Remo Ziegler,"Engineering Manager, Mixed Reality",https://cdn.theorg.com/14eb1672-7577-4ac2-813c-84bd97a80ccb_thumb.jpg,Avi Gavlovski,6
+Derek Young,Senior Software Engineer,no_match,Avi Gavlovski,6
+Abishek G.,Senior VR QA Engineer,https://cdn.theorg.com/f07f6c06-e380-4539-9315-c2676168fd07_thumb.jpg,Remo Ziegler,7
+Leandro Fernandez,Engineering Manager,https://cdn.theorg.com/5799af51-be40-4808-83a1-15d9991d172a_thumb.jpg,Gedaliah Friedenberg,6
+Archi Mitra,"Engineering Manager, Genai",https://cdn.theorg.com/6d97f141-d72d-4a87-bb0c-80e659b1d464_thumb.jpg,Junbiao Tang,6
+Eli Uriegas,Engineering Manager (pytorch),no_match,Junbiao Tang,6
+Laurence Rouesnel,Senior Staff Software Engineer,https://cdn.theorg.com/808f62bc-3c20-4dd8-80de-88d828562e52_thumb.jpg,Eli Uriegas,7
+Ritesh Shyamsukha,Senior Staff Software Engineer,no_match,Sheng Song,6
+Leslie Lei,Senior Software Engineering Manager,https://cdn.theorg.com/a03df4ba-3237-46c6-b09a-0ae4c115d8c9_thumb.jpg,Sheng Song,6
+Skand Gupta,Software Engineering Manager,https://cdn.theorg.com/bdb7a4c1-9df5-4918-a417-b8db494ae002_thumb.jpg,Sheng Song,6
+Sharath Ciddu,Software Engineering Manager,https://cdn.theorg.com/457f03c0-a034-41f4-aab8-4a1ba8b9e8f4_thumb.jpg,Sheng Song,6
+Shawn Schaerer,Software Engineering Manager,https://cdn.theorg.com/5da82d35-98db-4ce7-8319-7f7556ef7799_thumb.jpg,Sheng Song,6
+Dwayne Yuen,Senior Software Engineer,https://cdn.theorg.com/c429443e-8090-43a3-aa4e-522b7baf4090_thumb.jpg,Leslie Lei,7
+Pai-Wei Lai,Engineering Manager,https://cdn.theorg.com/de143e4f-553c-450d-a451-7530fc31c2ee_thumb.jpg,Hetal Thakkar,6
+Noor Eddin Amer,Software Engineering Manager,https://cdn.theorg.com/5b13edda-18ca-4538-890d-da3e44c3d375_thumb.jpg,Hetal Thakkar,6
+Vijay Kumar K S,Senior Software Engineer,https://cdn.theorg.com/df647c1f-0293-4a21-9dd7-360fff261adc_thumb.jpg,Pai-Wei Lai,7
+Itohan Ukponmwan,Senior Software Engineer,https://cdn.theorg.com/0d69b3f2-7383-45f6-afe7-d3cad1c9f796_thumb.jpg,Noor Eddin Amer,7
+Prateek Shokeen,Engineering Manager,https://cdn.theorg.com/8b9643cf-8978-4b71-b14d-a9fd1d40292c_thumb.jpg,Vivek Trehan,6
+Diwakar Kumawat,Engineering Manager,https://cdn.theorg.com/e649f220-a83d-47fa-bfdf-bced943bf923_thumb.jpg,Vivek Trehan,6
+Abhinav Vudya,Senior Software Engineer,https://cdn.theorg.com/ffc36aa7-92fe-4339-b0be-659105ba9128_thumb.jpg,Prateek Shokeen,7
+Rishabh Dua,Software Engineering Manager,https://cdn.theorg.com/69cad5e7-1c12-46d3-8d26-0a5de2db8892_thumb.jpg,Venugopala Rao Moram,5
+Sandesh Shashidhara,Senior Android Engineer,https://cdn.theorg.com/62a859f9-da06-4033-aa9e-14b5f0f62c7c_thumb.jpg,Chang-Han Jong,5
+Kevin Martin,"Head, US Public Policy",https://cdn.theorg.com/ee92983b-5e9e-42b4-842a-a17a4e9a6cf7_thumb.jpg,Joel Kaplan,4
+Brittany S.,Global Learning &amp; Development Manager,https://cdn.theorg.com/30d76667-776a-4fd0-a179-f1c850f9aaac_thumb.jpg,Matt McCance,4
+Sandhya Devanathan,"VP &amp; Head, India",https://cdn.theorg.com/950872c2-8466-4deb-9dd1-ffbb1aea6daa_thumb.jpg,Dan Neary,4
+Jimmy Lee,"Head Of Global Accounts, Creative Shop",https://cdn.theorg.com/980fcbc6-17a1-468a-a5d8-004ddfc33a54_thumb.jpg,Benjamin Joe,4
+Theresa Ong,"Head Of Creative Shop, SEA &amp; India",https://cdn.theorg.com/3cb6a910-d4d5-404d-b74a-7bebc4bc5c38_thumb.jpg,Benjamin Joe,4
+Tawana Murphy Burnett,"Head Of Top Accounts And Agencies, APAC",https://cdn.theorg.com/15b16b76-ddbb-4d43-aebb-bf74fecdea7d_thumb.jpg,Benjamin Joe,4
+Christa Wittenberg,"Vice President, Global Retail Sales &amp; Channel Marketing",https://cdn.theorg.com/d35fa683-1a85-4e51-a57c-fbe9a9584c00_thumb.jpg,Nicola Mendelsohn,4
+Tarcisio Ribeiro,Sr. Director Of Business Development &amp; Strategic Partnerships - Monetization Partnerships,https://cdn.theorg.com/5560e1f8-a87b-4aa2-88f6-b947df509e2b_thumb.jpg,Nicola Mendelsohn,4
+Jake Bailey,Group Director SMB Group,https://cdn.theorg.com/619dcf94-a3cb-460b-9eb6-084f6e3a10c0_thumb.jpg,Nicola Mendelsohn,4
+Xaviera S. Mack,Operations Manager,no_match,Nicola Mendelsohn,4
+Sona Oakley,"Director, Global Partnerships Solutions Engineering, Business Innovation",no_match,Nicola Mendelsohn,4
+Iris Chae,"Director, Strategic Partnerships",no_match,Nicola Mendelsohn,4
+Alvin Bowles,"Vice President, Global Business Group - Americas (us &amp; Latam)",no_match,Nicola Mendelsohn,4
+Alfredo Remolina,"Director, Global Programs Gtm, Global Business Group At Meta",https://cdn.theorg.com/f7396830-c843-4c00-bc65-907fc21117eb_thumb.jpg,Nicola Mendelsohn,4
+Meghan Orbe,Head Of Strategy And Operations - Global Business Group,https://cdn.theorg.com/8a8174fa-e4fb-42bc-be98-98983e5c9a8c_thumb.jpg,Nicola Mendelsohn,4
+Dina Ibrahim Saad,"Head Of Sales Mena, Mid-market",https://cdn.theorg.com/6ed5a667-6809-41f7-b294-afedeed4eac7_thumb.jpg,Nicola Mendelsohn,4
+Matthew Felser,"Head Of Business Engineering, Global Advertising Partnerships",https://cdn.theorg.com/6a162a49-71be-4f15-863c-71d329ddf985_thumb.jpg,Nicola Mendelsohn,4
+Vatsal Mehta,"Vp, Business Acceleration Solutions",https://cdn.theorg.com/4eb7638c-13c8-4b15-aae2-d8eee14837e4_thumb.jpg,Nicola Mendelsohn,4
+Brooke Ramsey,"Director, Global Business Group",https://cdn.theorg.com/bf704d6f-221f-4d84-a494-4a391469b7ba_thumb.jpg,Nicola Mendelsohn,4
+Artur Souza,"Vp, Business Engineering, Global Business Group",https://cdn.theorg.com/7e213772-8bcc-4a6c-bc57-bb2319ac709b_thumb.jpg,Nicola Mendelsohn,4
+Shefali Srinivas,"Head Of Business Communications, APAC",no_match,Nicola Mendelsohn,4
+Marion McMillan,"Head Of Vertical, Global Business Group",https://cdn.theorg.com/ea7e84bc-7422-4a20-9e70-56d977facab2_thumb.jpg,Nicola Mendelsohn,4
+Grayson Dawson,"Head Of Vertical, Meta Business Group",https://cdn.theorg.com/accaa147-5000-4eaa-9471-7e488471c276_thumb.jpg,Nicola Mendelsohn,4
+Mario Biondi,"Chief Of Staff - Business Lead For Mid-market Emea, Global Business Group",no_match,Nicola Mendelsohn,4
+Nihar Naik,"Director, Wearables Business Group",https://cdn.theorg.com/bf288fc1-857a-42c7-8bd2-b246536a01c2_thumb.jpg,Nicola Mendelsohn,4
+Shruti Singhal,"Global Stratops, SMBG Specialists",no_match,Nicola Mendelsohn,4
+Jean-Marc Lietard,"Senior Director, Strategic Projects (monetization)",https://cdn.theorg.com/e755272e-74e3-4b65-9be1-c02129e28abb_thumb.jpg,Nicola Mendelsohn,4
+Heather McDowell,"Manager, Global Admin Planning &amp; Operations",https://cdn.theorg.com/6790cfa6-109c-46d7-a978-cd6a6212f84b_thumb.jpg,Nicola Mendelsohn,4
+Wendy Magoronga,Sales Strategy &amp; Operations Lead,no_match,Nicola Mendelsohn,4
+Curtiss Cobb,"Vice President Of Research For Monetization, Public Affairs, And Demography And Survey Science",https://cdn.theorg.com/db48fe10-628c-4b5d-8b40-2649d4c0dc66_thumb.jpg,Nicola Mendelsohn,4
+Emma Rodgers,"Vice President, Commerce &amp; Fintech Business Group",no_match,Nicola Mendelsohn,4
+Nico C.,"Director Of Strategy &amp; Operations, Ar/vr And AI",no_match,Nicola Mendelsohn,4
+Chad Heaton,"Vice President, Finance",https://cdn.theorg.com/760a7455-a7d0-4ba7-811f-ff8801e79b8f_thumb.jpg,Nicola Mendelsohn,4
+Kyle Baker,Workforce Operations Lead,https://cdn.theorg.com/adf1157a-04ef-40df-9ab0-15f627e67177_thumb.jpg,Nicola Mendelsohn,4
+Tess Pinard,Head Of Demand Planning &amp; Strategy,https://cdn.theorg.com/2dd7c197-40f1-4e29-a13a-203e1e2daf18_thumb.jpg,Nicola Mendelsohn,4
+Rohit Amberker,Senior Director - Global Revenue Operations,https://cdn.theorg.com/5b13b3be-6ad6-40ce-af8f-25c070a4ea75_thumb.jpg,Nicola Mendelsohn,4
+Carissa Melasippo,Sr Director Business Operations - Enterprise Engineering,https://cdn.theorg.com/8bc53ab5-cca9-4391-bc09-347b7acce7c6_thumb.jpg,Nicola Mendelsohn,4
+Mounir Sheikh,Global Strategic Planning And Central Operations Lead,https://cdn.theorg.com/18b95d78-19d1-4044-bea6-9cc81d66d1a3_thumb.jpg,Nicola Mendelsohn,4
+Kunbi Adeyemo,"Director, Business Lead",no_match,Nicola Mendelsohn,4
+Carlos Fernandez,Business Planning &amp; Operations Manager,no_match,Nicola Mendelsohn,4
+Charity Wollensack,"Business Lead (chief Of Staff), Global Business Group",no_match,Nicola Mendelsohn,4
+Kagan Sevinc,"Manager, Strategy Planning &amp; Operations",no_match,Nicola Mendelsohn,4
+Daniel Lennox-Choate,"Director, Strategic Planning And Operations",no_match,Nicola Mendelsohn,4
+Haley Greenberg,Global Business Planning &amp; Operations Lead,no_match,Nicola Mendelsohn,4
+Ed Feng,"Manager, Business Planning &amp; Operations",no_match,Nicola Mendelsohn,4
+Tom Chavez,Product Marketing Manager,https://cdn.theorg.com/ed810ba2-d5d5-4ab6-afd9-cf819380fdff_thumb.jpg,Christa Wittenberg,5
+Julie Geer,"Head Of Entertainment Partnerships, Noram",https://cdn.theorg.com/497f1dcb-e5de-4c3c-88bc-16c7b9312427_thumb.jpg,Christa Wittenberg,5
+Katie Jones,"Head Of Lifestyle Publisher Partnerships, North America",no_match,Christa Wittenberg,5
+Jeremy Gershowitz,"Vice President: Brand Marketing, Content Production, E-commerce &amp; Digital Media",https://cdn.theorg.com/aea326d2-a588-4f94-905b-2e02189d9e0c_thumb.jpg,Christa Wittenberg,5
+Bonnie Ng,Sr Director Of Revenue Accounting,no_match,Christa Wittenberg,5
+Peter Shields,"Director, Creator Product Marketing",no_match,Christa Wittenberg,5
+Nandan Babla,Product Marketing Lead,https://cdn.theorg.com/1894d7fd-7e28-4e49-969b-a1b5ab0c0bca_thumb.jpg,Christa Wittenberg,5
+Linda Summers,Global Marketing Director,no_match,Christa Wittenberg,5
+Eyal Grundstein,"Head Of Growth Marketing, Advertiser Growth, Lifecycle And Monetization",no_match,Christa Wittenberg,5
+Abhilash Surendran,Head Of Support Tooling (gso),https://cdn.theorg.com/408c0b5e-0fda-4f5a-845f-b9141f76f845_thumb.jpg,Christa Wittenberg,5
+Ajaa Long,Global Director Meta Business Group,https://cdn.theorg.com/cdf73adf-abe8-423b-afa0-a9ba1c45cef0_thumb.jpg,Christa Wittenberg,5
+Ojasvi Bhatia,"Head - Platform Partnerships, India",https://cdn.theorg.com/0f6c9cf4-2e3b-4927-b671-ea526f4c036c_thumb.jpg,Christa Wittenberg,5
+Parisa Zander,"Director, Channel Experiences",https://cdn.theorg.com/d60d5939-5e8c-4f2d-a947-a7412ed4f255_thumb.jpg,Christa Wittenberg,5
+Rick Malins,"Vice President, Marketing Insights",no_match,Christa Wittenberg,5
+Kristie Dash,Head Of Beauty Partnerships,https://cdn.theorg.com/52fffafb-db5e-404a-a97b-0d715a97ffb5_thumb.jpg,Christa Wittenberg,5
+Kat Akbari,"Director, Retail &amp; Ecommerce",https://cdn.theorg.com/440fc7f4-808c-4359-a39f-0ae26e8f738c_thumb.jpg,Christa Wittenberg,5
+Aldo Aguirre G,Global Programs Lead - Scaled Partnerships [creators],https://cdn.theorg.com/95d81b22-07a0-4b32-8b98-056bedbdc57e_thumb.jpg,Christa Wittenberg,5
+Shweta Bajpai,"Group Director India - Fs, Media, Travel, RE And Services",https://cdn.theorg.com/c1f050f6-b3d8-47e5-aef6-a45f0ea33406_thumb.jpg,Christa Wittenberg,5
+Britton Montalvo,"Director, AI Marketing",https://cdn.theorg.com/b5b05e68-1f34-4211-8a87-5c4c6c7586b2_thumb.jpg,Christa Wittenberg,5
+Bao F.,"Director, Youth Marketing",https://cdn.theorg.com/363778b6-ec44-4455-a29a-a3e80303f03e_thumb.jpg,Christa Wittenberg,5
+Akash Jauhari,Client Solutions Manager - Media &amp; Entertainment,https://cdn.theorg.com/4d2223c9-65d6-45b2-8864-dbdf4af09dcb_thumb.jpg,Julie Geer,6
+Carolina Arguelles Navas,"Director Product Marketing, AR",no_match,Jeremy Gershowitz,6
+Seun Shobande,Brand Marketing Lead,https://cdn.theorg.com/c5bf9cc9-70b6-446a-aa97-cd06459bd42f_thumb.jpg,Jeremy Gershowitz,6
+Evan Shugerman,"Director, Sports Partnerships &amp; Marketing",https://cdn.theorg.com/634ed514-ce93-4f7d-a6fc-e0acd05f2228_thumb.jpg,Jeremy Gershowitz,6
+Roger Deleon,"Sr. Manager, Contract Manufacturing",https://cdn.theorg.com/9a15d513-7fba-42f2-9380-7039fb742a2a_thumb.jpg,Jeremy Gershowitz,6
+Lindsay Hegleman,"Head Of Experiential Marketing, Global Experiences",https://cdn.theorg.com/79e2a365-30f1-4931-b7e7-abe4aef16f32_thumb.jpg,Jeremy Gershowitz,6
+Diana Lucas,"Director, Marketing Science - Cpg, Retail &amp; Health",no_match,Jeremy Gershowitz,6
+Bianca Spada,Social Media &amp; Creators Lead | Ray-ban Meta,https://cdn.theorg.com/c723e02d-be1b-4eee-b0f0-6d068363d514_thumb.jpg,Jeremy Gershowitz,6
+Meghna Apparao,"Director, E-commerce",https://cdn.theorg.com/4ee7dc16-eab9-40fb-972e-d6bd4cca889d_thumb.jpg,Jeremy Gershowitz,6
+Gaby Re,Global Brand Design Lead,https://cdn.theorg.com/f0a2e3d8-5569-4722-aa5c-0089e9e624f3_thumb.jpg,Jeremy Gershowitz,6
+Heidi K.,Global Brand Strategy Lead,https://cdn.theorg.com/c9d8911e-0646-4c5e-b804-8f13b2f8bf77_thumb.jpg,Jeremy Gershowitz,6
+Gregory Jost,"Creator Brand Strategy Lead (instagram, Facebook &amp; Threads)",https://cdn.theorg.com/5c4893a4-4fc6-4c18-be23-7013509565ad_thumb.jpg,Jeremy Gershowitz,6
+Sapna Champaneria Kirk,"Head Of Marketing, Supernatural",https://cdn.theorg.com/14593042-f027-4172-bceb-18cc250c1236_thumb.jpg,Jeremy Gershowitz,6
+Raashi Rosenberger,Head Of Global Brand | Meta Quest (formerly Oculus),https://cdn.theorg.com/1039483c-5e92-40eb-a967-da909c684f74_thumb.jpg,Jeremy Gershowitz,6
+Karolina Raginel,Product Marketing Manager - Organizational Effectiveness,https://cdn.theorg.com/cf6e5c42-7ca9-430b-b66c-3949ed6b77ed_thumb.jpg,Carolina Arguelles Navas,7
+Peyton Hawkins,"Consumer Product Marketing Manager, Privacy",no_match,Carolina Arguelles Navas,7
+Abbey Koslow,"Senior Manager, Marketing Science - Travel, Gaming, And Auto",https://cdn.theorg.com/89c71420-2099-4b05-9daa-36020769e737_thumb.jpg,Diana Lucas,7
+Parul Sharma,Client Solutions Manager | Health &amp; Tech,https://cdn.theorg.com/ca9b2294-8666-4ee4-98ff-a203a675826f_thumb.jpg,Diana Lucas,7
+Tareeshi Sangal,Client Solutions Manager - Ecommerce GROW,https://cdn.theorg.com/807b15a8-3f7d-465b-95a6-4d93cad13070_thumb.jpg,Meghna Apparao,7
+Bruno Iampolsky,"Client Solutions Manager, E-commerce",https://cdn.theorg.com/14caf0c6-d538-4571-99e0-2285e1867d67_thumb.jpg,Meghna Apparao,7
+Farah Sheikh-Ogoe,"Brand Manager, Creator Marketing",https://cdn.theorg.com/d56dbfc5-1fc7-46bd-8d32-2ab4d4cd55f1_thumb.jpg,Peter Shields,6
+Allie McIlvaine,"Client Solutions Manager, Beauty",https://cdn.theorg.com/c9b54fd1-4a66-439a-9f4f-716bb1ca864d_thumb.jpg,Ajaa Long,6
+Frederic Golen,"Director, Global Audience Marketing",https://cdn.theorg.com/7e631b92-f960-479e-976c-48c0219b3104_thumb.jpg,Rick Malins,6
+Frida Breslin,Marketing Science Lead - Northern Europe,https://cdn.theorg.com/81f09f8e-740c-4d5f-a66b-492ddb7ac246_thumb.jpg,Rick Malins,6
+Tara-Ann Dugan,Marketing Insights Lead | Whatsapp,https://cdn.theorg.com/47d6751b-f25b-41b5-a9af-adbb2cb2a464_thumb.jpg,Rick Malins,6
+Evelyn Bishop,"Marketing Lead, Australia &amp; New Zealand",https://cdn.theorg.com/b8d8ea4c-1ce9-4176-85fe-1dfc2b7d76b5_thumb.jpg,Rick Malins,6
+Casey Price,Client Solutions Manager,https://cdn.theorg.com/f6f742c4-45e2-4ac2-9da7-9cd7b36e2996_thumb.jpg,Tarcisio Ribeiro,5
+Jason Yim,"Client Solutions Manager, Retail &amp; Tech, APAC",https://cdn.theorg.com/b489bb9c-e7df-4b62-8e3f-e45798e5a7bd_thumb.jpg,Tarcisio Ribeiro,5
+Kelsey Malakoff,Client Solutions Manager,https://cdn.theorg.com/463c6e40-e0e6-49d6-b093-2bdb7e29211a_thumb.jpg,Tarcisio Ribeiro,5
+Timothée Deschamps,"Strategic Partner Manager, Sports Federations",no_match,Tarcisio Ribeiro,5
+Gisselle C.,"Strategic Partner Manager, Creators &amp; Emerging Talent",https://cdn.theorg.com/a392981e-ad39-4b1e-868b-6f71c7a2bd81_thumb.jpg,Tarcisio Ribeiro,5
+Isaac Rosales,Strategic Partner Manager - Creators,no_match,Tarcisio Ribeiro,5
+Charissa K.,"Client Solutions Manager, In-market, Disruptors @ Meta Singapore",no_match,Tarcisio Ribeiro,5
+Bel Merid,"Strategic Partner Manager, Global Partnerships",https://cdn.theorg.com/2defdf0e-4e11-490c-ada4-16c1adf0eb65_thumb.jpg,Iris Chae,5
+Ashay Bonde,"Client Solutions Manager - Banks, Fintech &amp; Real Estate",https://cdn.theorg.com/4ad6bdc7-1802-4363-a0ee-9e34ab87c75b_thumb.jpg,Iris Chae,5
+Aneej P. Jayan,Strategic Partner Manager,https://cdn.theorg.com/00b268bc-f174-4cb8-be60-c27d67c2c7e3_thumb.jpg,Iris Chae,5
+Alina Savu,"Strategic Partner Manager, Meta AR And Mixed Reality Ecosystem",https://cdn.theorg.com/5ae493dd-71b2-4836-b5f7-7a8e5c2ddf9a_thumb.jpg,Iris Chae,5
+Yevheniia Velykodna,"Senior Program Manager, Metaverse Trust &amp; Safety",https://cdn.theorg.com/774b6102-267c-4433-aacf-79be7fc4ec52_thumb.jpg,Iris Chae,5
+Rock Shi,"Client Solution Manager, GCR Apps And Games",https://cdn.theorg.com/f8600f45-7870-4879-b0e7-e5b38916f800_thumb.jpg,Iris Chae,5
+Shaily Sharma,Strategic Partner Manager,https://cdn.theorg.com/5d10a7a5-6510-45a5-a968-f2525a1b5bc9_thumb.jpg,Iris Chae,5
+Francis Lee,Strategic Partner Manager,https://cdn.theorg.com/45046f54-65cf-4c3a-ba4d-ffd295295132_thumb.jpg,Iris Chae,5
+Ananya Sharma,Client Solutions Manager,https://cdn.theorg.com/1d4810b9-c5e7-44f8-b9d2-1e539ba05320_thumb.jpg,Iris Chae,5
+Yujin Ha,Strategic Partner Manager,https://cdn.theorg.com/0886f3e5-0bd3-46c3-8359-e6432039e81d_thumb.jpg,Iris Chae,5
+Arzan Singpurwalla,Partnerships Lead - Whatsapp For Business,https://cdn.theorg.com/a8778b30-45fb-47eb-99df-c62e8974edf7_thumb.jpg,Alvin Bowles,5
+Aniruddha Kortikar,Vice President - Product Growth &amp; Global Media,no_match,Alvin Bowles,5
+Becky Bui,"Senior Director, North America Small Business Sales",https://cdn.theorg.com/aedbd65a-2ff4-402a-aa16-122e4b2e3200_thumb.jpg,Alvin Bowles,5
+Garrick Tiplady,Global Head Of Mid Market,https://cdn.theorg.com/9058ef00-03d6-4f16-ab3b-4314cc094bf0_thumb.jpg,Alvin Bowles,5
+Arielle Barrow,"Business Operations &amp; Enablement Lead, North America",https://cdn.theorg.com/11a1f596-a054-4d93-b113-49050f3dedca_thumb.jpg,Alvin Bowles,5
+Leonardo Stange,"Business Development Manager, Latam",https://cdn.theorg.com/b1f5e44e-3c0f-48ef-bf5d-57824bdc0f5d_thumb.jpg,Alvin Bowles,5
+Salil Shah,"Director, Business Development And Alliances",no_match,Alvin Bowles,5
+Sasha Wolfe,"Global Director Of Media, Meta",https://cdn.theorg.com/5e1562ee-e455-459a-8940-0d5626ab0cef_thumb.jpg,Aniruddha Kortikar,6
+Greg Smith,"Director, International Media",https://cdn.theorg.com/007c877e-3797-4167-8299-a71c0ae4b07b_thumb.jpg,Aniruddha Kortikar,6
+Francisco Varela,"Vp, Growth Partnerships",https://cdn.theorg.com/587852ba-1b07-4cc5-ab23-4c6d7725bdd1_thumb.jpg,Garrick Tiplady,6
+Imelda Gilroy,International Benefits Ops Manager,https://cdn.theorg.com/261a4ba3-6498-4987-9698-d55090c26523_thumb.jpg,Garrick Tiplady,6
+Thadeus H.,"Director, Network &amp; Infrastructure Operations",https://cdn.theorg.com/2511dfa9-39e3-4441-9f2f-d2bc44af8ffb_thumb.jpg,Garrick Tiplady,6
+Max Brabant,"Lead, Public Figure Innovation Partnerships, Noram",https://cdn.theorg.com/eed67f60-abcd-4ecd-b9ff-79f61af51485_thumb.jpg,Francisco Varela,7
+Godfrey Powell,Head Of Accelerator &amp; Venture Capital Partnerships,https://cdn.theorg.com/c86d8be6-0970-495e-b34a-9ebf8c272938_thumb.jpg,Francisco Varela,7
+Moon Baz,"Global Partnerships Lead, Africa, Middle East And Turkey",https://cdn.theorg.com/9a536bc0-32ac-4d60-a487-a19cb13e8dde_thumb.jpg,Francisco Varela,7
+Besidone A.,Global Creator Innovation Partnerships Lead,https://cdn.theorg.com/77ca1f06-1da2-48cd-a181-1dd93e3b07b5_thumb.jpg,Francisco Varela,7
+Colleen Davenport,Commercial Business Process Manager,https://cdn.theorg.com/9062650b-20a5-4211-b713-959ad56831b4_thumb.jpg,Meghan Orbe,5
+Buenaventura Olivieri,Operations Manager,https://cdn.theorg.com/62b9f4b0-f56f-4dbd-a094-efcda86aa46f_thumb.jpg,Brooke Ramsey,5
+Sagar Premkumar,"Product Lead, Facebook Messaging Commerce",https://cdn.theorg.com/69284932-ebdd-49af-86f6-9d5ac21bf437_thumb.jpg,Emma Rodgers,5
+Jan Gandhi,"Head Of Partnerships - Commerce &amp; Messaging, North America &amp; Latam",https://cdn.theorg.com/263f9223-c9fa-4a89-8b1e-139cf719b8be_thumb.jpg,Emma Rodgers,5
+Alicia Lebeouf,Head Of Industry - Retail &amp; Ecommerce,https://cdn.theorg.com/bd9a8e00-55be-44a4-a70f-d08c1833be38_thumb.jpg,Emma Rodgers,5
+Vandana Balan,"Group Manager, Strategic Sourcing, Infrastructure Contracts And Cost Management",https://cdn.theorg.com/62626df6-8299-4401-945d-df80d1690cb0_thumb.jpg,Emma Rodgers,5
+Guilherme Pinatti,"Sr Director, Program Management - Small Business Group",no_match,Emma Rodgers,5
+Laura Alda,EMEA Strategic Partner Manager - Payments Partnerships,https://cdn.theorg.com/70a549ec-cb26-47bb-af26-c5459aef9335_thumb.jpg,Emma Rodgers,5
+Sebastian Neo Hu,"Solutions Architect Manager, Audience Network",https://cdn.theorg.com/0a361f97-ed4e-46ac-b503-cd471045d666_thumb.jpg,Emma Rodgers,5
+Aalap Parikh,"Head Of Business Engineering (na &amp; Latam) - Payments, Fintech @ Meta Fintech",https://cdn.theorg.com/c60b1581-4db6-4e5e-b42e-c6f5e1ae1018_thumb.jpg,Emma Rodgers,5
+Santiago D.,Industry Lead - Retail &amp; Ecommerce,https://cdn.theorg.com/1a67c05e-3392-4848-971f-819f06ad1f8f_thumb.jpg,Emma Rodgers,5
+Ervan Hancock,Commercial Energy Manager,no_match,Emma Rodgers,5
+Dain Roh,Client Solutions Manager,no_match,Jan Gandhi,6
+Lissett Martinez Sanchez,Client Solutions Manager,https://cdn.theorg.com/32b903af-6e69-4230-a43d-8bb5f0d6ddef_thumb.jpg,Jan Gandhi,6
+Mahmut Durmaz,Senior Project Manager,no_match,Guilherme Pinatti,6
+Fitzpatrick Jordan,"Sr. Project Manager, Product Data Operations",https://cdn.theorg.com/9d21af13-f0f0-4a98-b183-9e72dcb1f773_thumb.jpg,Guilherme Pinatti,6
+Ally Millar,"Senior Program Manager, Cross-meta Central Product Foundations",https://cdn.theorg.com/60a2958b-f8ed-428b-889f-c3d49dbf82a5_thumb.jpg,Guilherme Pinatti,6
+Tom Y.,Head Of Finance Data Science,https://cdn.theorg.com/462d7278-c7e7-48d1-890e-09c526a4d449_thumb.jpg,Chad Heaton,5
+Eoin Casey,International Tax Manager,https://cdn.theorg.com/de3ce436-1a8a-42f9-843c-8d46b7abfb20_thumb.jpg,Chad Heaton,5
+Fran Erskine,Vice President Of Tax,no_match,Chad Heaton,5
+Ted Price,VP Tax,no_match,Chad Heaton,5
+Hasitha Verma,Head Of Reporting &amp; Accounting Policy,https://cdn.theorg.com/8b68af1e-68e6-4ae6-8758-20a9d7c5a085_thumb.jpg,Chad Heaton,5
+Roberto Vaz,Global Portfolio Manager,https://cdn.theorg.com/82e18b8b-498e-4a4d-9ebf-b1038c5df1a0_thumb.jpg,Chad Heaton,5
+Bruna Futuro,Head Of Latam - International Tax Director,https://cdn.theorg.com/d59aa07c-2e25-4eb2-b1ac-de3b7a0303e3_thumb.jpg,Fran Erskine,6
+Carol Liu,Tax Operations Director,https://cdn.theorg.com/90b0b811-5029-4dca-ad34-b7613e742ef6_thumb.jpg,Fran Erskine,6
+Amy Chan,Tax Director,https://cdn.theorg.com/0858b627-198b-47e1-bb41-9c11d26fcdd7_thumb.jpg,Fran Erskine,6
+Petra Lindner,Director : International Tax Transformation And Compliance,https://cdn.theorg.com/e2a8ebba-d756-4ff4-a8ef-feb495bf095d_thumb.jpg,Fran Erskine,6
+Tadhg Kennedy,International Tax Manager,https://cdn.theorg.com/35242301-9bd1-46bb-9842-493f58b227c8_thumb.jpg,Fran Erskine,6
+Trevor Steele,Critical Operations Manager,https://cdn.theorg.com/d81c560a-3f10-4584-add4-d770f4f998c3_thumb.jpg,Mounir Sheikh,5
+Santosh Janardhan,"VP, Engineering &amp; Infrastructure",https://cdn.theorg.com/65fbbe2d-ab90-49c7-97b2-17ba7003d2c7_thumb.jpg,Andrew Bosworth,3
+Michael Abrash,"VP, Chief Scientist, RL",https://cdn.theorg.com/54b9e411-2f9e-4a6f-8798-4faf82dc255e_thumb.jpg,Andrew Bosworth,3
+Carmine Arabia,"VP, Devices, RL",https://cdn.theorg.com/f70fff6c-9b5f-43a8-b34f-b9fb79a7feeb_thumb.jpg,Andrew Bosworth,3
+Jason Rubin,"VP, Metaverse Content",https://cdn.theorg.com/f3529d3d-dd89-4b8e-a9a4-8c83110a00a7_thumb.jpg,Andrew Bosworth,3
+Mark Rabkin,"VP, Oculus",https://cdn.theorg.com/d373cc09-9f21-46ed-9446-89c599a48a8d_thumb.jpg,Andrew Bosworth,3
+Ryan Cairns,"VP, Home &amp; Work",no_match,Andrew Bosworth,3
+Rafa Carmago,"VP, Hardware, RL",https://cdn.theorg.com/02b713d8-be86-483a-ae96-22eaf82ceced_thumb.jpg,Andrew Bosworth,3
+Yann LeCun,"VP, Chief AI Scientist",https://cdn.theorg.com/b96f2840-e459-491a-ad72-d1155c62afdd_thumb.jpg,Andrew Bosworth,3
+Yee Jiun Song,"VP, Engineering",https://cdn.theorg.com/db8593cd-c016-43ce-8f56-51a67bfa15aa_thumb.jpg,Andrew Bosworth,3
+Alex Himel,"VP, Augmented Reality",https://cdn.theorg.com/c1ab5838-8707-4924-a638-b9ce8eb07eb2_thumb.jpg,Andrew Bosworth,3
+Vishal Shah,"VP, Metaverse",https://cdn.theorg.com/45526d60-6bb3-4b39-8d83-48e1d24dad09_thumb.jpg,Andrew Bosworth,3
+Joshua To,"VP, Product Design, AR &amp; Wearables",https://cdn.theorg.com/b6ae9e6a-29d3-4511-9bdb-a8f674c3ac7f_thumb.jpg,Andrew Bosworth,3
+Ime Archibong,Head of New Product Experimentation,https://cdn.theorg.com/ac2fe4e8-4dbb-4c49-8563-1db8827eaa21_thumb.jpg,Andrew Bosworth,3
+Yaser Sheikh,"Director, RL, Pittsburgh",https://cdn.theorg.com/b10bfca2-e50f-47ad-a207-da213f8e0818_thumb.jpg,Andrew Bosworth,3
+Joelle Pineau,Vice President of AI Research and Head of FAIR,https://cdn.theorg.com/51e79385-61ae-4d74-8d22-19bebfa5b182_thumb.jpg,Andrew Bosworth,3
+Ravish Mehra,"Director, Audio Research, RL",https://cdn.theorg.com/96ca0cf7-ca64-4a63-8da3-d142eed573fb_thumb.jpg,Andrew Bosworth,3
+Michael Smedegaard,"Director, Audio Technology, RL",https://cdn.theorg.com/9bf14c8f-9d09-4d5b-8dcb-082ef517be8f_thumb.jpg,Andrew Bosworth,3
+Christine Lu,CTO Business Engineering NA,https://cdn.theorg.com/e6a6988a-c2f0-44f6-939f-e45f207c757e_thumb.jpg,Andrew Bosworth,3
+Vipul Deokar,VP Of Engineering,no_match,Santosh Janardhan,4
+Rachel Peterson,"Vice President, Data Centers",https://cdn.theorg.com/a596cf0a-106e-4a41-9b2b-576672627479_thumb.jpg,Santosh Janardhan,4
+Jeff Ryan,Infrastructure Services Engineering Manager,https://cdn.theorg.com/39577610-ad0a-4479-907c-85408b9ff688_thumb.jpg,Santosh Janardhan,4
+Sunil Khaunte,Software Engineering Director - Network Infrastructure,https://cdn.theorg.com/f3e9785e-7fff-4395-809b-6f296d4ba389_thumb.jpg,Santosh Janardhan,4
+Nasser Manesh,"Director Of Engineering, Core Infra PE",https://cdn.theorg.com/fdde7697-d114-4e6f-a865-1bcb21105ef1_thumb.jpg,Santosh Janardhan,4
+Hesham Gowaily,Engineering Manager,https://cdn.theorg.com/13fb8c3d-8a41-4105-ab66-5401c54018ff_thumb.jpg,Santosh Janardhan,4
+Mrunal Parikh,"Quality Engineering Lead, Instagram",https://cdn.theorg.com/08bc40c6-c9ae-4a25-b298-63060050a2ea_thumb.jpg,Vipul Deokar,5
+Kim Hazelwood,Senior Director Of Engineering And Research,no_match,Vipul Deokar,5
+Prabhakar Goyal,Senior Director Of Engineering - Ads,https://cdn.theorg.com/1cddaaf8-0626-4dc7-a431-5f38739f8071_thumb.jpg,Vipul Deokar,5
+Nino Sitchinava,Senior Director Of Data Science,no_match,Vipul Deokar,5
+Shrivats Iyer,"Senior Director, Data Science",https://cdn.theorg.com/fb9af5df-6e8d-4983-af4f-1e1aa4712097_thumb.jpg,Vipul Deokar,5
+Kelly Hirano,"Director Of Engineering, Devinfra",https://cdn.theorg.com/d73e91bc-b215-4d2e-928f-b70e3d0b027e_thumb.jpg,Vipul Deokar,5
+Ajit Mathews,"Senior Director Engineering, Meta AI",no_match,Vipul Deokar,5
+Ning Li,"Vice President Of Engineering, Meta AI",no_match,Vipul Deokar,5
+Jay Venkatraman,Director Of Software Engineering,no_match,Vipul Deokar,5
+Beat Hutter,"Director, Data Science",https://cdn.theorg.com/704508d3-0c89-42a9-91e5-7453d67264f0_thumb.jpg,Vipul Deokar,5
+Srivatsan Narasimhan,Director Data Science,no_match,Vipul Deokar,5
+Nicholas W.,"Vp, Data Science &amp; Data Engineering",no_match,Vipul Deokar,5
+Nishant Kumar,Machine Learning Engineer / Tech Lead,https://cdn.theorg.com/27ca7419-f074-4520-be3e-26ac2aa3d9ba_thumb.jpg,Vipul Deokar,5
+Esteban Arcaute,"Technical Engineering Lead, Responsible AI",https://cdn.theorg.com/06c66139-ed33-45e0-aafa-55dd25ba2ac2_thumb.jpg,Vipul Deokar,5
+Sergey Edunov,"Director Of Engineering, Generative AI",https://cdn.theorg.com/b1915b8d-02b2-470d-80b7-f515e5bec0ca_thumb.jpg,Vipul Deokar,5
+Sukwoo Kang,Director Of Engineering,no_match,Vipul Deokar,5
+Gemma Silvers,Engineering Director,no_match,Vipul Deokar,5
+Alexander Rashkov,Engineering Manager,https://cdn.theorg.com/767f7c2c-e36a-4466-bf42-2d01d7e8ae83_thumb.jpg,Vipul Deokar,5
+Dmitry Vinnik,"Software Engineering Manager, Ai/ml",no_match,Vipul Deokar,5
+Rudresh Panchal,Senior Software Engineer,https://cdn.theorg.com/2763f9ff-07b3-4608-958b-afa8ab772c53_thumb.jpg,Vipul Deokar,5
+Surabhi Prahalad,"Engineering Manager, Payments &amp; Fintech",https://cdn.theorg.com/949943c7-dc7f-45b1-a000-a26b0d694236_thumb.jpg,Vipul Deokar,5
+Ashwini Verma,"Engineering Manager, Ads ML Infra",https://cdn.theorg.com/c92345be-905f-4bc4-b71d-87ef47a8f785_thumb.jpg,Prabhakar Goyal,6
+Chirag Jain,Engineering Manager,https://cdn.theorg.com/e2749db3-a4a4-4382-94de-91b36e0ca49a_thumb.jpg,Kelly Hirano,6
+Hanjie Ji,Engineering Director,https://cdn.theorg.com/3fb9144f-03ae-4ec6-9bb8-458464c678d5_thumb.jpg,Ning Li,6
+Prashant Ratanchandani,"Vp, Engineering, Generative AI",https://cdn.theorg.com/c18c0179-f2ea-4432-95bd-fa85b1aa63a8_thumb.jpg,Ning Li,6
+Ananth Duggirala,Director Of Engineering,no_match,Ning Li,6
+Eynat Rafalin,Senior Director Of Data Science,https://cdn.theorg.com/3f47d5c5-51e9-409a-8427-72953062208e_thumb.jpg,Ning Li,6
+Crystal Distin,"Senior Director, Data Science And Data Engineering - Messenger",no_match,Ning Li,6
+Holger Tamm,"Director For Governance, Risk, And Compliance Tooling",https://cdn.theorg.com/d7bbc1ff-04fc-4729-9e79-bb85b171b8d2_thumb.jpg,Ning Li,6
+Ailbhe Menton,"Director, Data Science",https://cdn.theorg.com/23da625f-3c91-4b53-ba7e-4964b936b886_thumb.jpg,Ning Li,6
+Ellen Wang,"Director, Data Science",no_match,Ning Li,6
+Manish Chhabra,Senior Engineering Manager,https://cdn.theorg.com/f9133c8b-1ab3-4cf3-b710-42ba3f2ff2c8_thumb.jpg,Ning Li,6
+J.r. Tipton,Director Of Engineering,https://cdn.theorg.com/8112944d-f5c4-44e1-a8c4-2d3994a6f8a2_thumb.jpg,Ning Li,6
+Sean Donn,"Director, Enterprise Engineering",https://cdn.theorg.com/ac2a923f-a56e-4fec-8d09-a3a4c922b809_thumb.jpg,Ning Li,6
+Cameron Brien,Director Of Engineering,no_match,Ning Li,6
+Angeliki Dedopoulou,Public Policy Manager - AI &amp; Fintech,https://cdn.theorg.com/7a273942-355b-4dc0-b65a-40b680c35653_thumb.jpg,Ning Li,6
+MacIej Lazarewicz,Machine Learning Engineering Manager,https://cdn.theorg.com/1ae910d2-48d8-4365-9e25-a0eb70049953_thumb.jpg,Ning Li,6
+Santanu Kolay,Senior Director Of Engineering,https://cdn.theorg.com/906eae7b-09a2-4ee2-9c22-47912e0e8a82_thumb.jpg,Ning Li,6
+Wenlin Chen,Director Of Engineering,https://cdn.theorg.com/00612d92-8d66-4afd-8235-e255bdcff2f1_thumb.jpg,Ning Li,6
+Gursharan Singh,Director Of Engineering,https://cdn.theorg.com/0fd3396a-e41a-4e82-be81-02ba93e119d8_thumb.jpg,Ning Li,6
+Madhusudan Chaudhary,Director Of Engineering,no_match,Ning Li,6
+Roshan Sumbaly,Director Of AI - Llama,https://cdn.theorg.com/72228e3a-55a8-4f03-946f-1db768626c32_thumb.jpg,Ning Li,6
+Marco dal Farra,Engineering Manager,https://cdn.theorg.com/6652bc48-abcd-4f61-b5e9-8eff784327fa_thumb.jpg,Ning Li,6
+Nand Jha,Engineering Leader,https://cdn.theorg.com/30614d96-08f1-4ac9-9f4c-8aa657ccb022_thumb.jpg,Hanjie Ji,7
+Par T.,Engineering Manager,no_match,Hanjie Ji,7
+Ketong Wang,Engineering Manager - Machine Learning,https://cdn.theorg.com/0a5d53df-e46f-4d83-a199-795335dfba77_thumb.jpg,Hanjie Ji,7
+Vaibhav Goyal,Senior Software Engineer,https://cdn.theorg.com/52fca7d1-3090-448c-a762-1b52180595db_thumb.jpg,Nand Jha,8
+Rohan Varma,Senior Software Engineer,https://cdn.theorg.com/c4bd847f-5644-41e1-ad20-c3a51623244e_thumb.jpg,Nand Jha,8
+Chi-Keung Luk,Senior Staff Software Engineer,https://cdn.theorg.com/6cc0b323-a688-4333-b8c1-de394e8a6bee_thumb.jpg,Nand Jha,8
+Shivani Modi,Senior Machine Learning Engineer,https://cdn.theorg.com/67f74233-43b3-4eab-ac57-bda2695f53f1_thumb.jpg,Ketong Wang,8
+Inna Kaler,Data Science Manager,https://cdn.theorg.com/432a1abc-493e-4524-a574-11b2b2fe1b7e_thumb.jpg,Eynat Rafalin,6
+Nimrod Yifrach,Senior Data Science Manager,https://cdn.theorg.com/7bdec25f-7ebd-4180-ad3d-8d34f4e81444_thumb.jpg,Eynat Rafalin,6
+Prerna Asthana,Senior Data Scientist,https://cdn.theorg.com/f8873071-cc66-471c-a1fc-ec578470dfe0_thumb.jpg,Eynat Rafalin,6
+Deepti Srivastava Tilly,Senior Data Scientist,https://cdn.theorg.com/bec130ae-3f8d-4c82-b1d0-7fb26a1e6856_thumb.jpg,Eynat Rafalin,6
+Venu K.,"Group Manager, Technical Program Management, AI Research &amp; Infra",https://cdn.theorg.com/51fc6f35-2bd8-4626-a8f5-22e3968a9c32_thumb.jpg,Crystal Distin,6
+Shadi Janansefat,Senior Product Data Scientist,https://cdn.theorg.com/fbd2bd10-c794-4fc6-a349-0be75563ed68_thumb.jpg,Ellen Wang,6
+Amad Aslam,Senior Production Engineer,https://cdn.theorg.com/d779ebd6-197d-4452-ad11-edcf8ecb5bf1_thumb.jpg,Manish Chhabra,6
+Horatiu Lazu,Staff Software Engineer,https://cdn.theorg.com/27870e64-9d75-47d3-bdf9-9ea614f5c1c2_thumb.jpg,Manish Chhabra,6
+Shaquille Momoh,Senior Software Engineer,https://cdn.theorg.com/e1d95fe5-816f-4618-a4dd-53190f8d87ab_thumb.jpg,Manish Chhabra,6
+Angie Fernandez,Production Engineering Manager,https://cdn.theorg.com/eb3d2e16-8274-4916-80e0-fe20a15b0cb5_thumb.jpg,J.r. Tipton,6
+Batuhan Yaman,Senior Software Engineer,https://cdn.theorg.com/83b37e6b-091d-431d-bf6a-4210dc0057e1_thumb.jpg,J.r. Tipton,6
+Sandeep Parab,Engineering Manager,https://cdn.theorg.com/92ea94cd-7c90-4351-85cc-ff639b3bfc71_thumb.jpg,J.r. Tipton,6
+Qian Li,Sr Machine Learning Engineer,https://cdn.theorg.com/484e4d54-99f7-4ba0-8731-a3b34d859279_thumb.jpg,MacIej Lazarewicz,6
+Nikos Arechiga,Senior Machine Learning Engineer,no_match,MacIej Lazarewicz,6
+Marc-André Poulin,Engineering Manager,https://cdn.theorg.com/aaa7d626-7b20-4e87-b05d-dbb5362ab5f3_thumb.jpg,Santanu Kolay,6
+Onur Guzey,AI ML Engineering Manager,https://cdn.theorg.com/1c27d88a-0c3e-4b58-9485-1795def8d283_thumb.jpg,Santanu Kolay,6
+Vidya Rangasayee,Engineering Manager,https://cdn.theorg.com/6e03c88d-66fd-4e6b-a66b-7073fe32af83_thumb.jpg,Santanu Kolay,6
+Nikhilesh Reddy,Software Engineering Manager,https://cdn.theorg.com/e5490c4f-7842-4003-89e6-c6f5217767d4_thumb.jpg,Wenlin Chen,6
+Andrei Korchagin,"Senior Business Engineer, Commerce Platforms &amp; Developers",https://cdn.theorg.com/7d110e12-6724-4671-8972-ab254f80f806_thumb.jpg,Wenlin Chen,6
+Oren Weizman,Software Engineering Manager,https://cdn.theorg.com/f2b95d40-59bc-4166-8079-a265e58c4be3_thumb.jpg,Wenlin Chen,6
+Wee Loong Kuan,Senior Software Engineer,https://cdn.theorg.com/70716360-df3b-4a7c-ad28-bdf72a36ae25_thumb.jpg,Nikhilesh Reddy,7
+Jeevan Gyawali,Senior Software Engineer,https://cdn.theorg.com/8538ffe2-4e5e-4457-b938-237bba30246d_thumb.jpg,Nikhilesh Reddy,7
+Roey M.,Senior Software Engineer,https://cdn.theorg.com/7078b048-b9e4-4afc-af28-113a00a5c92c_thumb.jpg,Oren Weizman,8
+Hemant Pandey,Senior Software Engineer,https://cdn.theorg.com/bca507f0-f788-430c-bf28-11c30776e086_thumb.jpg,Jay Venkatraman,6
+Keshav Kolur,Senior Software Engineer,https://cdn.theorg.com/e5fcd731-b172-418b-8710-6f3a1b63ab8f_thumb.jpg,Jay Venkatraman,6
+Murat Balci,Software Engineering Manager,https://cdn.theorg.com/b9db9399-96a0-44ea-91e9-01f7cb6d6d92_thumb.jpg,Jay Venkatraman,6
+Mangesh Pujari,"Software Engineering Manager, Machine Learning",https://cdn.theorg.com/08443e0c-77d4-4203-aea9-5b212270e63d_thumb.jpg,Jay Venkatraman,6
+Miles Smith,Software Engineering Manager,https://cdn.theorg.com/5b21d3bc-8b6a-4a2b-8c43-2b1d96873b3b_thumb.jpg,Jay Venkatraman,6
+Tianyi Wu,Software Engineering Manager,https://cdn.theorg.com/24dbc7df-48e9-4a59-9796-db31693854d8_thumb.jpg,Jay Venkatraman,6
+Bharath Sankaran,Software Engineering Manager,https://cdn.theorg.com/8e1a9eb9-4d1b-4a0c-835a-ee41c5d0ca7b_thumb.jpg,Jay Venkatraman,6
+Troy Smith,Software Engineering Manager,https://cdn.theorg.com/101ab643-a3bc-4501-91a9-c78afb27cbc5_thumb.jpg,Jay Venkatraman,6
+Guy Gerson,Software Engineering Manager,https://cdn.theorg.com/ed2c19e3-ccf6-4379-a18b-71983b617b12_thumb.jpg,Jay Venkatraman,6
+Jyotsana Singh,Sr. Technical Sourcer - Machine Learning And AI Core SWE,https://cdn.theorg.com/d807ed67-ae0c-445a-baa3-09f087b1ae55_thumb.jpg,Mangesh Pujari,7
+Anant Maheshwari,"Senior Software Engineer, Machine Learning",https://cdn.theorg.com/69f33cf5-858d-42c1-b8f6-db0f24b4a9bf_thumb.jpg,Mangesh Pujari,7
+Max Lowther,Senior Software Engineer,no_match,Mangesh Pujari,7
+Apurva Singh,Senior Software Engineer,https://cdn.theorg.com/885505bc-efcb-4b58-864b-b95cd73d4509_thumb.jpg,Miles Smith,7
+Smit Davey,Senior Software Engineer,no_match,Miles Smith,7
+Jierui Xie,Senior Staff Machine Learning Engineer,https://cdn.theorg.com/9e1096c7-4ef3-483e-84bc-1e68db90d50f_thumb.jpg,Beat Hutter,6
+Erika J. Clemens,"Senior Director Of Data Engineering, Analytics",no_match,Nicholas W.,6
+Anand Shah,Head Of Business Intelligence - Network Infra,https://cdn.theorg.com/475defb6-327a-47a1-9a35-78baffebba75_thumb.jpg,Nicholas W.,6
+Yasho Kote,"Senior Director, Data Science",https://cdn.theorg.com/ef7ac834-617d-408b-a80c-557994f2da6d_thumb.jpg,Nicholas W.,6
+Badal Patel,"Head Of Data Analytics And Innovation, Internal Audit",https://cdn.theorg.com/38b2864d-2b7f-4117-837e-98ed9aab34f0_thumb.jpg,Nicholas W.,6
+Kanthi Kiran Narayanasetty,Head Of Data Engineering - Youth Well-being &amp; Social Impact Products,https://cdn.theorg.com/9ef28b82-3e95-435e-9788-25bcd9fbc2de_thumb.jpg,Nicholas W.,6
+Bogdan Gorbanescu,"Director, Data Engineering",no_match,Nicholas W.,6
+Anjan K. Das,Head Of Data Engineering And Analytics,no_match,Nicholas W.,6
+Valli Gadiyaram,Data Engineering Director,https://cdn.theorg.com/dbec9d5d-ceaf-4dd2-b27d-d7c46d8cb9be_thumb.jpg,Nicholas W.,6
+Parth Parekh,"Senior Data Engineering Manager, Generative AI",https://cdn.theorg.com/b228109e-f10d-44ed-b842-4293cb52da02_thumb.jpg,Nicholas W.,6
+Javid Jafarov,Data Engineering Manager,https://cdn.theorg.com/3fc28fb8-a3d5-4dcf-9232-78f6bf832478_thumb.jpg,Nicholas W.,6
+Paolo Massimi,"Senior Director Of Data Science, Ranking AI",https://cdn.theorg.com/656e1641-5256-4b13-afc5-b99fe2933b3c_thumb.jpg,Nicholas W.,6
+Jim C.,"Director, Core Data",https://cdn.theorg.com/15d83062-9c5f-4441-8614-402cc34d32de_thumb.jpg,Nicholas W.,6
+Joanna Lin,"Senior Data Scientist, Tech Lead",https://cdn.theorg.com/70e59ab3-9f27-4d53-a33a-054a542a456a_thumb.jpg,Nicholas W.,6
+Siyu Wang,Senior Data Scientist,https://cdn.theorg.com/2c8b2817-bcdf-4bef-a830-d486c5a6ecc2_thumb.jpg,Paolo Massimi,7
+Dayong Wang,Software Engineering Manager - Machine Learning,https://cdn.theorg.com/35babc56-9a59-4ac5-97a9-cd8ee3e2f80e_thumb.jpg,Sergey Edunov,6
+Qiuping Xu,Senior Machine Learning Engineer,https://cdn.theorg.com/45d08438-34b1-426e-a9df-cfd5db0f7791_thumb.jpg,Dayong Wang,7
+Hongda,"Senior Software Engineer, Machine Learning",https://cdn.theorg.com/57a6ecd9-2195-4e2a-bc0f-28f0a6f0bcca_thumb.jpg,Dayong Wang,7
+Waqqas Farooq,Engineering Manager,https://cdn.theorg.com/05417468-060b-4935-844f-41de6d3761ce_thumb.jpg,Gemma Silvers,6
+Vinay Padmanabhi,Engineering Manager,https://cdn.theorg.com/922c8441-9207-4277-bc1c-4a5ada4987b3_thumb.jpg,Gemma Silvers,6
+Valentin A.,Senior Staff Performance Engineer,https://cdn.theorg.com/5d62a9e8-6592-4352-8888-46acff789487_thumb.jpg,Gemma Silvers,6
+Veena Sridhar,Senior Software Engineer,https://cdn.theorg.com/7bf5410a-ab8c-47bb-aafa-20d7a05506f1_thumb.jpg,Alexander Rashkov,6
+Renzhi He,Senior Data Engineer,https://cdn.theorg.com/b492bb42-7a7a-477d-8117-cda4a2a4100e_thumb.jpg,Alexander Rashkov,6
+Petar Rutesic,Senior Software Engineer,https://cdn.theorg.com/cb53845f-0d98-4b16-84b1-f8b6573fba9a_thumb.jpg,Dmitry Vinnik,6
+Rajat Srivastava,"Senior Software Engineer, ML",https://cdn.theorg.com/a6265f76-785d-4a69-bb06-3d42b102b94e_thumb.jpg,Dmitry Vinnik,6
+B B,"Senior Director, Data Science",no_match,Rachel Peterson,5
+Bruce Berardi,"Global Construction Director, Data Centers",https://cdn.theorg.com/31a4f32e-e565-4aa3-8839-dfd398cb2c68_thumb.jpg,Rachel Peterson,5
+Hitesh Talati,"Director, Data Center Operations, Service Delivery &amp; IT Lab Operations At Iron Systems",https://cdn.theorg.com/5e2d6a7d-915c-42a1-8373-e8d9b9d48f74_thumb.jpg,Rachel Peterson,5
+Tom Winter,"Vp, Global Data Center Facility Field Operations",https://cdn.theorg.com/fd2b0f7d-7432-4259-98a3-58a02aab4b42_thumb.jpg,Rachel Peterson,5
+Elaine mac Mahon,"Meta Data Centres: Director, Design Emea-apac",https://cdn.theorg.com/04fb36fd-8cac-43f1-8810-8ea0715cf8fe_thumb.jpg,Rachel Peterson,5
+Duvien Ho,Facilities Manager,https://cdn.theorg.com/97854171-6498-4008-83cd-0e727da38df4_thumb.jpg,Tom Winter,6
+Ryley Pearson,Global Security Operations Center-noram Team Lead,https://cdn.theorg.com/ceebfcb6-32d6-4543-86a2-00946c0ee8b1_thumb.jpg,Tom Winter,6
+Tim Nguyen,"Sourcing Manager, Network Infrastructure Ops Engineering",https://cdn.theorg.com/c2693a78-5d9f-4bf8-a6e8-d1fdbdf5e628_thumb.jpg,Sunil Khaunte,5
+Samy Hajal,Senior Software Engineer,https://cdn.theorg.com/8f62c1ef-6afd-4204-adf0-cb1a4afe5394_thumb.jpg,Sunil Khaunte,5
+Brent Nelson,"TPM - Sustainability Lead, Realty Labs",no_match,Michael Abrash,4
+James Ball,"Head Of Data Science, Ads (creative And Guidance)",no_match,Michael Abrash,4
+Beth Lingard,Research Director,https://cdn.theorg.com/ef0e52d0-3a78-449c-9fc3-82ac53f3b9bf_thumb.jpg,Michael Abrash,4
+Alborz Geramifard,Research Scientist Director,https://cdn.theorg.com/7769ce12-1ffa-4bee-b4f1-6f3d62b2119f_thumb.jpg,Michael Abrash,4
+Xin Luna Dong,Principal Scientist,no_match,Michael Abrash,4
+Evgeniy Gabrilovich,Research Director,https://cdn.theorg.com/35dbb191-e708-4b54-9035-d9f0fb4beffb_thumb.jpg,Michael Abrash,4
+Laurens van der Maaten,Senior Research Director,https://cdn.theorg.com/c8db23ae-22f5-4153-a026-80c9a144c15b_thumb.jpg,Michael Abrash,4
+Ruogu Kang,Director Of Research,https://cdn.theorg.com/1d8238a4-bb87-478e-81b4-f5877ce64c88_thumb.jpg,Michael Abrash,4
+Melika Abolhassani,"Senior ML Research Scientist, Tech Lead",https://cdn.theorg.com/b9166ed9-4f83-466f-ad1e-52d132df2d44_thumb.jpg,Michael Abrash,4
+Crystine G.,"Director Of Research, Horizon Metaverse",no_match,Michael Abrash,4
+Bahar Zarin,Technical Lead Research Data Scientist,https://cdn.theorg.com/2cf887c9-02ad-48a3-8106-986323ecfa40_thumb.jpg,Michael Abrash,4
+Christopher Aguiar,AR &amp; AI Category Lead - Reality Labs @ Meta,https://cdn.theorg.com/03a93742-4258-4897-946f-1f7c20434c9e_thumb.jpg,Michael Abrash,4
+Ashish Nayyar,"Sr. Director, Data Science - Metaverse",no_match,Michael Abrash,4
+Gaurav Mathur,"Engineering Director, AR Foundations",https://cdn.theorg.com/d064f0e4-caa6-47bd-ba10-1d9dfb236cb6_thumb.jpg,Michael Abrash,4
+Alessio Sanfilippo,"VP Of Analytics, Reality Labs",https://cdn.theorg.com/98eb85cc-cfe6-4a92-b62c-bddc9d9dbe06_thumb.jpg,Michael Abrash,4
+Seran Chen,"Vice President, Head Of Reality Labs UX Research",https://cdn.theorg.com/1c45f88e-08fb-492b-b7d6-59f211b42711_thumb.jpg,Michael Abrash,4
+Hod Finkelstein,"Head Of Cameras And Depth, Reality Labs",https://cdn.theorg.com/6cf6c4e0-e3c5-4b1f-a9eb-ec29607078a2_thumb.jpg,Michael Abrash,4
+Ricardo Lopez Barquilla,"Vp, Partner Engineering, Reality Labs",https://cdn.theorg.com/6da7ccb6-cf75-4874-abe8-f1138c49cea8_thumb.jpg,Michael Abrash,4
+Tony Braga,"Head Of Global Supplier Management, Strategic Sourcing - Meta Reality Labs",https://cdn.theorg.com/03f92180-7fa6-4249-8908-b1bf82b0a17a_thumb.jpg,Michael Abrash,4
+Ashanti Gomez,"Research Manager, Executive Recruiting",https://cdn.theorg.com/52d47aa0-214f-419e-81ff-08823ce7341f_thumb.jpg,Beth Lingard,5
+Tanya Jonker,"Senior Manager, Research Science",https://cdn.theorg.com/5c6f4c06-ad8a-4113-a78d-e1f56371c656_thumb.jpg,Beth Lingard,5
+Zhongshi Jiang,"Senior Research Scientist, Reality Labs",https://cdn.theorg.com/2bca6dc0-aa90-4383-a328-1b7b963eca8a_thumb.jpg,Tanya Jonker,6
+Samuel D.,Senior Research Scientist,https://cdn.theorg.com/c7a58ba7-1685-4842-b927-94588d26ef21_thumb.jpg,Tanya Jonker,6
+Han Fang,"Senior Research Scientist Manager, Genai",https://cdn.theorg.com/a2bfa8ae-3d2f-40b3-8909-9f51a931d5af_thumb.jpg,Alborz Geramifard,5
+Yuandong Tian,Research Director,https://cdn.theorg.com/2992edc7-dd12-4e27-ae50-222ba50d91ba_thumb.jpg,Alborz Geramifard,5
+Piotr Bojanowski,"Research Scientist, Manager At FAIR",https://cdn.theorg.com/e07d2540-9ad5-4a1e-9037-65b0f9c881b4_thumb.jpg,Alborz Geramifard,5
+Yue L.,Senior Research Scientist,https://cdn.theorg.com/49718501-3653-4e6b-8439-90158bc35e60_thumb.jpg,Alborz Geramifard,5
+Tatiana Shavrina,Research Scientist Manager,https://cdn.theorg.com/a5f5fc23-1a97-471e-93ec-f122bab260eb_thumb.jpg,Alborz Geramifard,5
+Cagdas Bilen,Research Scientist Manager,https://cdn.theorg.com/3772aae9-fd12-4a5e-87c7-d93b2f7065f7_thumb.jpg,Alborz Geramifard,5
+Pradeep Fernando,Senior Research Scientist,https://cdn.theorg.com/af47050f-ad9f-43df-8ec8-21dad989378a_thumb.jpg,Han Fang,6
+Jade Nie,"Senior Staff Research Scientist, Monetization ML Infra",https://cdn.theorg.com/072e5890-0c46-4ee9-a76c-68ee5f37ad7b_thumb.jpg,Piotr Bojanowski,6
+Kanika Narang,Senior AI Research Scientist,https://cdn.theorg.com/2dc44dff-1311-4c20-9762-5dc4a538413b_thumb.jpg,Tatiana Shavrina,6
+Ann McInroy,Senior DFX Engineer - Reality Labs,https://cdn.theorg.com/1ab3162d-89d7-4cc6-ae99-f2d340b27d48_thumb.jpg,Gaurav Mathur,5
+Vasudha Gupta,"Manager, VR Display Engineering",https://cdn.theorg.com/4068e9a4-150c-461c-9dc1-7970e1e36f05_thumb.jpg,Gaurav Mathur,5
+Namrata Bhardwaj,Director Of Analytics,https://cdn.theorg.com/88971216-26aa-48a3-803b-c855cf98eaff_thumb.jpg,Alessio Sanfilippo,5
+Sanjana Jacob Mammen,Director Of Data Science &amp; Analytics - Trust &amp; Safety,https://cdn.theorg.com/3c581d59-f4ee-4146-a59b-cbae630c32d3_thumb.jpg,Alessio Sanfilippo,5
+Charles J. Hoover,Senior Director Of Research Development,https://cdn.theorg.com/9e51275b-3efb-478b-9584-1b87652c8b51_thumb.jpg,Alessio Sanfilippo,5
+Anurag Maji,Analytics Lead,https://cdn.theorg.com/d690a821-326c-4588-8cc5-356199e91cde_thumb.jpg,Alessio Sanfilippo,5
+Aisha Iqbal,AI Safety Policy Manager,https://cdn.theorg.com/9ebaad1c-bbea-435d-8b9d-915c931710f1_thumb.jpg,Sanjana Jacob Mammen,6
+Konstantin Sanosyan,Silicon Prototyping And Validation Lab Manager,https://cdn.theorg.com/36b6e363-bde5-4517-8ed5-8f1d5fd03adf_thumb.jpg,Charles J. Hoover,6
+Marina Lieban,"Director, UX Research Operations",https://cdn.theorg.com/b4686cfa-ef95-4070-949d-e809a0b32255_thumb.jpg,Seran Chen,5
+Gabor Nagy,Global Workplace Research Lead,https://cdn.theorg.com/411776fc-e0ee-4760-9b8f-02dbb0a18415_thumb.jpg,Seran Chen,5
+Tara Franz,"Director, UX Research",https://cdn.theorg.com/83b6bcbb-e881-4dfe-be19-c96765545f36_thumb.jpg,Seran Chen,5
+Lan Guo,Director Of User Research,https://cdn.theorg.com/7752b1d4-2770-40be-8b68-5e8bdb95c50b_thumb.jpg,Seran Chen,5
+George Valavanis,"Design Director, Reality Labs",no_match,Seran Chen,5
+Joe T.,"Research Director, Cross-meta Integrity",https://cdn.theorg.com/a0252b6e-152d-4a5c-b328-aa0384799a66_thumb.jpg,Seran Chen,5
+Rebecca Destello,Senior UX Research Manager,https://cdn.theorg.com/d27e4d66-d5e4-4945-91d3-fcbf6936b7f3_thumb.jpg,Seran Chen,5
+Carolyn Wei,UX Research Lead,https://cdn.theorg.com/1ff04553-4ca3-4630-babd-006c6e84896c_thumb.jpg,Seran Chen,5
+Pegah Valeh,"Head Of Global Cx, Reality Labs",https://cdn.theorg.com/8fa69be3-a1d4-4b1d-a698-54140c431997_thumb.jpg,Seran Chen,5
+Yuling An,UX Research Lead,https://cdn.theorg.com/b646014f-f080-48fa-a8ca-8f6cbeb3482d_thumb.jpg,Seran Chen,5
+Natalie Deeble,"Creative Director, Reality Labs - Vr/mr",https://cdn.theorg.com/4e2d67c4-ae7f-4358-b979-4e1d4e766ba2_thumb.jpg,Seran Chen,5
+Ayesha Zafar,Senior UX Researcher,https://cdn.theorg.com/380c4b33-f25f-466b-859c-a4e716308b7f_thumb.jpg,Rebecca Destello,6
+Karen Plemons,UX Research Manager,no_match,Marina Lieban,6
+Celine Pering,"Senior UX Researcher, Research Foundations Team",https://cdn.theorg.com/9c447309-3ba6-450f-9f36-79bd21413b88_thumb.jpg,Tara Franz,6
+Vanessa Michelle Garcia,"Senior User Experience Researcher, Reality Labs",https://cdn.theorg.com/f0e89783-6d28-4b12-8920-e90cd038ecbc_thumb.jpg,Lan Guo,6
+Lise Marken,User Experience Researcher,https://cdn.theorg.com/c7f625be-c20f-4091-83d0-b1848255018c_thumb.jpg,Lan Guo,6
+MacRina Dieffenbach,Senior UX Researcher,https://cdn.theorg.com/9e3237da-813c-4a05-a0d7-9654a86418b3_thumb.jpg,Lan Guo,6
+Sharanya Ramesh,Senior Marketing Insights Researcher (ar) - Reality Labs,no_match,Lan Guo,6
+Julian V.,"Global Client Solutions Manager, Luxury",https://cdn.theorg.com/8a808782-bec0-424b-bf71-df50d14a984c_thumb.jpg,Pegah Valeh,6
+Jerrin Joy,Client Solutions Manager Via Magnit,https://cdn.theorg.com/28d48d61-bdb5-45ba-98cd-b0d7a606291a_thumb.jpg,Pegah Valeh,6
+Sangmin Lee,Senior Animator At Sanzaru An Ar/vr Studio @ Meta,https://cdn.theorg.com/66249f69-cdb5-459e-887c-7f0c104bcf88_thumb.jpg,Natalie Deeble,6
+Swapnil Soni,Customer Support CX Operations &amp; Experimentation Manager | Reality Labs,https://cdn.theorg.com/9365e9f0-fc9b-4b39-aeb7-26e0eb624d8d_thumb.jpg,Tony Braga,6
+Arash Aryana,Image Sensor Global Sourcing Manager,https://cdn.theorg.com/bc382257-e519-4ed3-a0bb-1768e8b28b3e_thumb.jpg,Tony Braga,6
+Lara Low,Strategic Sourcing Manager,no_match,Tony Braga,6
+Akarsh Vinod,"Global Supply Manager, Ee/em &amp; Component Intelligence",https://cdn.theorg.com/67d362d3-0199-448d-93f4-77a02a84188d_thumb.jpg,Tony Braga,6
+Madhura Indurkar,Sourcing Manager (technology) - Contract,https://cdn.theorg.com/c0fe586c-4228-407b-8069-5dae5e7b9173_thumb.jpg,Tony Braga,6
+Angela Chang,"Senior Director, Product, VR Devices, FRL",https://cdn.theorg.com/5300612f-1145-4b89-ab45-b082e058138e_thumb.jpg,Carmine Arabia,4
+Furhan Zafar,"Snr Director, Product Operations",no_match,Carmine Arabia,4
+Jean Boufarhat,"Vp, Head Of Silicon, Reality Labs",https://cdn.theorg.com/4b2c390f-cb23-44b9-84a5-8d996c85ac31_thumb.jpg,Carmine Arabia,4
+Samantha Ryan,"Vp, Head Of Content",https://cdn.theorg.com/69263560-560b-45c2-a1c6-bed7f37dd3d8_thumb.jpg,Jason Rubin,4
+Bastian Schütz,"Global Lead, Sourcing &amp; Strategic Deals, Virtual- &amp; Mixed Reality Content",https://cdn.theorg.com/b63c1de9-8d58-45d3-aa2b-318c465cfb31_thumb.jpg,Jason Rubin,4
+Bob Morgan,"Vp, Metaverse Content, Lifestyle &amp; Entertainment",https://cdn.theorg.com/f9336615-e65e-4ce5-b699-f032f9754946_thumb.jpg,Jason Rubin,4
+Stefanie Yu Molina,"Strategic Partner Manager, Metaverse Content Partnerships",no_match,Jason Rubin,4
+Sterling Magleby,QA Manager For Content Operations,https://cdn.theorg.com/74fb6e27-3e53-44ef-9393-2acc97b0a5c5_thumb.jpg,Samantha Ryan,5
+P. Rikhi Jain,"Senior Director, Content Creators",https://cdn.theorg.com/bdad95e8-c02e-45f3-aa4c-ec92191736b2_thumb.jpg,Samantha Ryan,5
+Luigi Fiore,Content Operations Manager - International Music Publishing,https://cdn.theorg.com/97e8fa28-859b-4de9-8ba3-3453550f6e44_thumb.jpg,Samantha Ryan,5
+Maxwell Molander,Senior Audio Technician III,https://cdn.theorg.com/0fe554da-db6a-43de-be7f-9fcbddcbff56_thumb.jpg,Sterling Magleby,6
+Nihit Bhatnagar,Capex Sourcing Manager,https://cdn.theorg.com/d8163de3-39d6-4346-ac9a-e037c5bfd7ec_thumb.jpg,Bastian Schütz,5
+Rhoda Fasunan,Global Strategic Sourcing Manager,no_match,Bastian Schütz,5
+Nikita Deshmukh,Senior NPI Supply Chain Analyst,https://cdn.theorg.com/4b497559-b3b8-4c14-b075-9b4973f0c695_thumb.jpg,Rhoda Fasunan,6
+Olaf Moeller,Manager Network Hardware Engineering,https://cdn.theorg.com/f0b122f1-07aa-40df-bf22-fce158ce6e98_thumb.jpg,Rafa Carmago,4
+Paul Greco,VP AR Hardware Engineering,https://cdn.theorg.com/4d30b112-d969-416c-8ca7-05f63e8966fc_thumb.jpg,Rafa Carmago,4
+Darron Young,"Director, AI HPC Hardware Engineering",https://cdn.theorg.com/c47469a9-1144-421d-8d87-60dc3f421974_thumb.jpg,Rafa Carmago,4
+Malachy Moynihan,"Vp, Hardware Product Engineering - Reality Labs (rl)",https://cdn.theorg.com/7295420c-8457-4806-b2d5-736f6da2c92f_thumb.jpg,Paul Greco,5
+Mitesh Jadav,Lead Dfx Manufacturing Engineer,https://cdn.theorg.com/0a868389-4c1f-426d-ba05-2747e0877aeb_thumb.jpg,Paul Greco,5
+Rod Toll,"Director Of Engineering, XR Audio",https://cdn.theorg.com/a02e914d-4ef4-4192-96d4-106e1c334993_thumb.jpg,Malachy Moynihan,6
+Rod Toll,"Director Of Engineering, XR Audio",https://cdn.theorg.com/a02e914d-4ef4-4192-96d4-106e1c334993_thumb.jpg,Malachy Moynihan,4
+Woody Austin,Senior Machine Learning Engineer,https://cdn.theorg.com/89dbae51-ed0e-48db-bdb9-4789b3443497_thumb.jpg,Ankit Malhotra,5
+Jian S.,"Data Science Manager, Ads/monetization Experimentation",https://cdn.theorg.com/97639321-5bc4-4d79-89dd-b73f8014374a_thumb.jpg,Caroline Peani,5
+Aysegul Cansizoglu,Director - Data Science,no_match,Veronika Belokhvostova,5
+Aleksey Fadeev,"Senior Director, Data Science And Data Engineering",https://cdn.theorg.com/3f638b5c-7730-419f-bf28-bbb90ffe50da_thumb.jpg,Veronika Belokhvostova,5
+Edward Li,"Director, Data Science",https://cdn.theorg.com/6d3b6c39-4683-49a1-b211-c8fcff17fbc3_thumb.jpg,Veronika Belokhvostova,5
+Kalpana G.,"Director, Monetization Data Engineering",no_match,Veronika Belokhvostova,5
+Sharon Mammen,Director Data Engineering - Infrastructure,no_match,Veronika Belokhvostova,5
+Didi Huang,"Director, Data Science (commerce)",no_match,Veronika Belokhvostova,5
+Fabrice Dettwiler,"Head Of Analytics And Data Engineering, LTS",https://cdn.theorg.com/983fdf81-0783-424e-aa3c-21f4f3f1a872_thumb.jpg,Veronika Belokhvostova,5
+Anuj Malhotra,Director Of Data Science,https://cdn.theorg.com/b0b2807d-6c59-48ac-a1eb-33979c3e5ff8_thumb.jpg,Veronika Belokhvostova,5
+Kavita Jain,"Director, Data Engineering And Infrastructure",https://cdn.theorg.com/3f93310c-6e54-4f4d-a3a3-80f6da81ebc7_thumb.jpg,Veronika Belokhvostova,5
+Vibha Virmani,"Sr. Director, Data Engineering - Metaverse",https://cdn.theorg.com/8d99d4b8-bfa6-47b6-b142-87b3cc8c88fb_thumb.jpg,Veronika Belokhvostova,5
+Sam Tazzyman,"Director, Data Engineering",https://cdn.theorg.com/2c8b099e-6ffe-4734-bc89-309cf18fb456_thumb.jpg,Veronika Belokhvostova,5
+Tommy Ockerby-Tran,"Director Of Data Engineering, Messenger – Messenger Product Foundation",https://cdn.theorg.com/bdf2ccca-1517-481d-ae4e-422588edb432_thumb.jpg,Veronika Belokhvostova,5
+Sakshi Singh,Senior Manager Data Engineering,no_match,Veronika Belokhvostova,5
+Masoud Shabestary,Sr. Data Engineer,https://cdn.theorg.com/39dab1f6-50c8-4431-a09a-98a463d72a64_thumb.jpg,Aleksey Fadeev,6
+Roche Saje,"Manager, Privacy Engineering",https://cdn.theorg.com/e60f2aea-dad2-49df-bca7-6009920b5be4_thumb.jpg,Aleksey Fadeev,6
+Xin Zou,Data Science Manager,https://cdn.theorg.com/9a153ba5-2ab6-45cf-9b8b-69530ba7ee3a_thumb.jpg,Anuj Malhotra,6
+Cindy Shu,Senior Data Scientist,https://cdn.theorg.com/2f3d2c98-4fba-45ce-9001-1031f493ff98_thumb.jpg,Anuj Malhotra,6
+Harold Li,Senior Data Science Manager,https://cdn.theorg.com/5b8e9907-e6e5-4452-830f-83c3ff0ad19e_thumb.jpg,Anuj Malhotra,6
+Sreenath Ireni,Sr Data Analyst,https://cdn.theorg.com/38c6cc2b-34a8-474a-9573-2a65c8300cce_thumb.jpg,Anuj Malhotra,6
+Zixiao Shi,Senior Data Scientist,https://cdn.theorg.com/6c1f0a5a-65a6-415c-9da4-42c612662a1d_thumb.jpg,Xin Zou,7
+Avi Sanadhya,Senior Data Engineer,https://cdn.theorg.com/ae76d22c-78ee-499a-9670-b297611f9c95_thumb.jpg,Sakshi Singh,6
+Danius Silkaitis,Senior Data Engineer,no_match,Sakshi Singh,6
+Melanie K.,"Senior Manager, Llama LLM Research Team",https://cdn.theorg.com/e6e91a2c-5bc2-49a3-9a0a-105960b7e208_thumb.jpg,Naila Murray,5
+Oran Gafni,AI Research Manager @ Genai,https://cdn.theorg.com/5c42db06-b74c-4b31-9fde-08fd7b54a37d_thumb.jpg,Naila Murray,5
+Yangyang Shi,"Senior Staff Research Scientist, Tech Lead Manager",https://cdn.theorg.com/2c0b8e64-eb30-45bb-b3a7-dbdce1b5dfca_thumb.jpg,Alexei Baevski,5
+Siamak Tazari,Senior Staff Research Engineer,https://cdn.theorg.com/c4f3eefe-5918-427f-b30b-941cdadf71b0_thumb.jpg,Saijing Zheng,5
+Akhil Jindal,Software Engineer,https://cdn.theorg.com/41bfa7f3-4959-477c-b422-2f4a74a4bb1f_thumb.jpg,Yee Jiun Song,4
+Randy Zabaneh,"Director, Data Science",https://cdn.theorg.com/c5f8ee07-1edf-4798-ae18-44571c01ff22_thumb.jpg,Yee Jiun Song,4
+Sacha Arnoud,Senior Director Of Engineering,no_match,Yee Jiun Song,4
+Paritosh Desai,Senior Director Of Engineering -- AI For Ads,no_match,Yee Jiun Song,4
+Kristian Kristensen,Engineering Manager,https://cdn.theorg.com/673de0f7-9c7f-4da1-8855-0b15f8302dbe_thumb.jpg,Yee Jiun Song,4
+Che Horder,Director Data Science,https://cdn.theorg.com/49646902-0de9-4981-bfde-b002c256171e_thumb.jpg,Yee Jiun Song,4
+Deepesh Nair,"Sr. Staff Engineering Leader (product Quality), Enterprise Engineering",https://cdn.theorg.com/8c95014a-b7cb-4278-94ab-1a6654d2d48d_thumb.jpg,Yee Jiun Song,4
+Mohan Patt,"Vp, Engineering, Monetization At Meta",https://cdn.theorg.com/27684d0c-1036-4428-92c7-4ca320d8c1b6_thumb.jpg,Yee Jiun Song,4
+Shilpa Atreja,Engineering Lead - Quality,https://cdn.theorg.com/439fd5ff-43a8-449c-89b1-9a05da0e9bfe_thumb.jpg,Yee Jiun Song,4
+Jordan Lopez,Senior Data Engineer,https://cdn.theorg.com/7d2c19af-f850-4a45-ba6d-41fc1e83b50f_thumb.jpg,Randy Zabaneh,5
+Yang Yu,Senior Research Data Scientist,https://cdn.theorg.com/aac42ef1-9d47-4993-9002-6a28ccc5b1a5_thumb.jpg,Randy Zabaneh,5
+Raviraj Gulrajani,Engineering Manager,https://cdn.theorg.com/1d0c11a5-77ae-4712-b7db-14e888db5363_thumb.jpg,Sacha Arnoud,5
+Lei Zhang,Engineering Manager,https://cdn.theorg.com/b8f2ae93-1b15-4e68-9e21-6d1b7df19faf_thumb.jpg,Sacha Arnoud,5
+Vena Jia Li,Engineering Manager,no_match,Sacha Arnoud,5
+Biju Joseph Jacob,Engineering Manager,https://cdn.theorg.com/3c1a8dce-5dc7-43ef-add5-be304769e525_thumb.jpg,Sacha Arnoud,5
+Shanshi Wang,Senior Data Engineer,https://cdn.theorg.com/f5badd0e-d1e2-4874-ab67-4f82de45511f_thumb.jpg,Sacha Arnoud,5
+Riju M.,"Manager (access Management, Information Security)",no_match,Sacha Arnoud,5
+Renato Chencarek,Solutions Engineering Manager,https://cdn.theorg.com/07f0e5ef-0d26-4a7f-a93e-15e0f402c903_thumb.jpg,Sacha Arnoud,5
+Eran Vaizel,"Manager, Application Engineering",https://cdn.theorg.com/29171eab-25c0-4adc-b1a5-811decd38226_thumb.jpg,Sacha Arnoud,5
+Roman Lifshits,"Security Engineering Manager, Bug Bounty",no_match,Sacha Arnoud,5
+Guna Lakshminarayanan,"Senior Engineering Manager, AI Hardware/software Codesign",https://cdn.theorg.com/b7e76e1f-1781-43f9-9f56-beaf6e879bc1_thumb.jpg,Sacha Arnoud,5
+Dillon Grove,"Manager, Design Engineering - AI Infrastructure",https://cdn.theorg.com/dce51012-e2ef-40a1-8b31-1caca139dd11_thumb.jpg,Sacha Arnoud,5
+Mikey Lintz,Engineering Manager,https://cdn.theorg.com/4b38a896-1890-4790-84a2-a34c51b7127f_thumb.jpg,Sacha Arnoud,5
+Ibram Marzouk,Senior Product Security Engineer,https://cdn.theorg.com/d69dbd1d-865d-43fd-8ee1-bd8001192df3_thumb.jpg,Roman Lifshits,6
+Lemuel Lebron,Senior Design Verification Engineer,https://cdn.theorg.com/77b6dd8e-9b40-4013-8b13-9c2629ec65ec_thumb.jpg,Guna Lakshminarayanan,6
+Yash Desai,"Machine Learning Manager, AI For Ads Ranking",https://cdn.theorg.com/bbdd6971-5ca6-4111-b624-8b13790bec3e_thumb.jpg,Paritosh Desai,5
+Elena Bukareva,Software Engineering Manager,https://cdn.theorg.com/d458bd09-8a2e-4ab6-be34-8bc80f6ad2b0_thumb.jpg,Paritosh Desai,5
+Pratik Dubal,Machine Learning Engineer (senior),https://cdn.theorg.com/8e8ba525-86a6-46dd-9ef2-f048989d16f3_thumb.jpg,Yash Desai,6
+Zia Ghiasi,Senior Machine Learning Engineer,https://cdn.theorg.com/6381e8ca-e11e-4d59-9a0c-cceac8c59eea_thumb.jpg,Yash Desai,6
+Ninad Mundalik,Senior Software Engineer,https://cdn.theorg.com/e715ccb5-5ca7-4588-8ee6-d810e90628fa_thumb.jpg,Elena Bukareva,6
+Taylor Robie,Senior Software Engineer,https://cdn.theorg.com/03f23159-8d5c-41e5-abd5-94798061999d_thumb.jpg,Kristian Kristensen,5
+Sue Young,"Product Group Lead, AR Glasses",https://cdn.theorg.com/3121b717-a5e8-4e4a-99d1-c6afffa7683c_thumb.jpg,Alex Himel,4
+Freddy Abnousi,"Head, Health Technology",https://cdn.theorg.com/9dfb103b-f86d-4ee2-b451-ae4913fbcf7d_thumb.jpg,Alex Himel,4
+Scott Hershkowitz,"Vp, Metaverse Business Development",https://cdn.theorg.com/6cd302dd-aa29-42b0-8d11-56de21cefda9_thumb.jpg,Vishal Shah,5
+Juan Cocuy,"Business Development Lead, Content",https://cdn.theorg.com/fc12be64-f8f2-4ae5-af38-f76114ac70f4_thumb.jpg,Scott Hershkowitz,6
+Prem Krishnan,Head Of Studio Operations - Camouflaj,https://cdn.theorg.com/fb01e314-9c02-4216-adcc-ca2262eb425c_thumb.jpg,Scott Hershkowitz,6
+Pierre Roux,Director Of Business Development - AI Partnerships,https://cdn.theorg.com/9ed158df-35f3-4ad2-b5a2-ed7beb8c608f_thumb.jpg,Scott Hershkowitz,6
+Jasmine Shockness,Content Business Development Lead,no_match,Scott Hershkowitz,6
+Manohar Hotchandani,"Director Of Business Development, AI &amp; RL Partnerships",https://cdn.theorg.com/0c857dbf-dbd9-47fa-aaae-ad277b47912d_thumb.jpg,Scott Hershkowitz,6
+Natasha White,"Manager Of AI Business Development And Partnerships, Developer/partner Lead",https://cdn.theorg.com/97d2e8e6-6a3d-4123-b077-b0a0cd3dfeb7_thumb.jpg,Scott Hershkowitz,6
+Jessie Kitchens,Senior Product Design Manager,no_match,Joshua To,4
+Anna Weber,Product Design Manager,https://cdn.theorg.com/ca566c04-1417-4118-80c6-34c9c194b926_thumb.jpg,Joshua To,4
+Julia Andalman,Product Design Manager,https://cdn.theorg.com/536bf0e0-0180-484d-9136-6bbd0344aea7_thumb.jpg,Joshua To,4
+Jhilmil Jain,"VP Product Design, Monetization",no_match,Joshua To,4
+Ishita Prasad,"Product Design Lead, Privacy",https://cdn.theorg.com/3e544de8-f2ba-4acb-baed-8b419f36d378_thumb.jpg,Joshua To,4
+Breanne Rotelli,"Vp, Product Design",https://cdn.theorg.com/98a6709d-b5ac-4970-9658-0f898a3554b3_thumb.jpg,Joshua To,4
+Shira Gordon,"Director Of Product Design, Ar, Wearables And XR Tech",https://cdn.theorg.com/06692c3d-bb6c-4248-b56f-7bc0ab555d6f_thumb.jpg,Joshua To,4
+Amir Mesguich,Sr. Director Of Product Design,https://cdn.theorg.com/aa0a3e5e-da58-44f1-a6c9-1dd4e58693b3_thumb.jpg,Joshua To,4
+Israel Pastrana Vicente,"AR Product Design Prototyper, Director",https://cdn.theorg.com/f6ef0322-6f52-4903-af3b-f154c54d6eb1_thumb.jpg,Joshua To,4
+Drew Lepp,Lead Product Designer,https://cdn.theorg.com/c7f2bdb6-a9e5-41a9-bda3-20b70f8f1923_thumb.jpg,Joshua To,4
+Yoon Park,"Principal Product Designer - Reality Labs, Input Design Team",https://cdn.theorg.com/1bd39f49-5527-453e-8e77-d78f131ab888_thumb.jpg,Joshua To,4
+Erica Virtue,"Product Design Director, Reality Labs",https://cdn.theorg.com/09c8d3ae-4de4-4008-ae29-91821ed18ebf_thumb.jpg,Joshua To,4
+Tim Hulford,Director Of Industrial Design VR Accessories,https://cdn.theorg.com/8a9f9fcc-c66c-4f58-98da-50640966ac3e_thumb.jpg,Joshua To,4
+Ines le Bihan,"Lead Industrial Designer, Ray-ban | Meta Smart Glasses &amp; Ray-ban Stories",https://cdn.theorg.com/6766ceab-ec22-4909-b9fe-f5bbde72f9c9_thumb.jpg,Joshua To,4
+Somya Jampala,"Product Design Manager, Whatsapp Business",https://cdn.theorg.com/e890a21f-c467-4f58-8a19-36bed58891b8_thumb.jpg,Joshua To,4
+Verginiya Kadina,Product Design Manager,https://cdn.theorg.com/517d04cc-48a9-4de5-8f19-89d689f7bed5_thumb.jpg,Joshua To,4
+Karson Shadley,Senior Industrial Designer,https://cdn.theorg.com/f2d5edc6-49cc-4a29-babd-4bb905be84fa_thumb.jpg,Joshua To,4
+Duck-Young Kong,Industrial Design Lead,https://cdn.theorg.com/60a85a05-85eb-4521-9730-bb9b0c779191_thumb.jpg,Joshua To,4
+William Kiendl,"Design Program Lead, Reality Labs",https://cdn.theorg.com/751091f7-d84e-4144-89c5-1dbac699228c_thumb.jpg,Joshua To,4
+Liron Damir,"Sr. Director Of Product Design, Reality Labs",https://cdn.theorg.com/2ad188c0-a796-4ddd-b991-fa6e635a406f_thumb.jpg,Joshua To,4
+Brad Aldridge,Senior Staff Product Designer — Reality Labs,https://cdn.theorg.com/645df57d-348c-4256-9fca-205d55291dce_thumb.jpg,Jessie Kitchens,5
+Kathy Tong,Senior Product Design Engineer,https://cdn.theorg.com/92025f61-f505-4de8-8218-f68c9fc994c2_thumb.jpg,Jessie Kitchens,5
+Ella Hilal,"Vp, Monetization Analytics And Pillar Lead",https://cdn.theorg.com/90e2c58d-5586-4e38-9aa3-e4f200db7916_thumb.jpg,Jhilmil Jain,6
+Danny Trinh,"Director, Product Design (generative Ai)",https://cdn.theorg.com/224177b9-1baf-4e16-a6f5-bde30b00fd71_thumb.jpg,Jhilmil Jain,6
+Jim Fullmer,UX Research Manager,https://cdn.theorg.com/92a89f58-48e3-421a-a633-720ef65a42e4_thumb.jpg,Jhilmil Jain,6
+Travis Vocino,"Director, Product Design",https://cdn.theorg.com/8a68cad4-0dd2-4110-81b6-83de9c34d28f_thumb.jpg,Jhilmil Jain,6
+Sergio Paolantonio,Director Of User Experience,https://cdn.theorg.com/485e7aff-bc7a-4ef2-8ac4-2f52a5b30b07_thumb.jpg,Jhilmil Jain,6
+Valerie Bays,Director Of Product Design Developer &amp; Data Infrastructure,no_match,Jhilmil Jain,6
+Luke Finch,Product Design Director ● Reality Labs [ar Design System],no_match,Jhilmil Jain,6
+A Charles Thomas,"VP - Data Science, Strategy And Operations",no_match,Jhilmil Jain,6
+Zuzka Bodik,Director Of Data Science,no_match,Ella Hilal,7
+Peng F.,"Vp, Monetization Product, Engineering",https://cdn.theorg.com/aa5d6279-5c04-4a6a-92f7-b011ceb92928_thumb.jpg,Ella Hilal,7
+Firdevs Abacioglu,"Director Of Global Sales Analytics, Monetization",https://cdn.theorg.com/859ab959-ce59-4840-87d7-d1d6f1a386b8_thumb.jpg,Ella Hilal,7
+Krishna Poola,"Senior Director, Ads",https://cdn.theorg.com/4781af2f-bb80-4db9-b380-cf82a96ed9ff_thumb.jpg,Ella Hilal,7
+Guillermo Spiller,VP Of Product - Ads,https://cdn.theorg.com/6661a70a-671f-4a7e-b2d6-26889b6c6222_thumb.jpg,Peng F.,8
+Tak W. Yan,"Vice President, Product Management - Monetization AI",https://cdn.theorg.com/499c19c1-81bf-44a1-9436-b74635e227bb_thumb.jpg,Peng F.,8
+Todd Pasternack,"Head Of Ads Partnerships, Americas",https://cdn.theorg.com/e9c2ed24-6204-4e5b-8b5e-d4b3a83ba03e_thumb.jpg,Guillermo Spiller,9
+Archana Joshi,"Senior Director, Global Ads Growth Programs",https://cdn.theorg.com/e6d6d5b0-8c5d-4f96-a702-3aa79d76d5b0_thumb.jpg,Guillermo Spiller,9
+Lydarose McCoy,"Sr. Recruiting Manager, Global Business And Product Leadership Hiring",https://cdn.theorg.com/5646dc40-1037-4c26-80fe-2df68ba3b9e8_thumb.jpg,Guillermo Spiller,9
+Goksu Nebol-Perlman,"Vice President Of Product Marketing, Ads &amp; Business Products",https://cdn.theorg.com/629f3bfc-218d-4d81-9c5f-8ea47815e4c2_thumb.jpg,Guillermo Spiller,9
+Bryan Kaye,"Sr. Global Recruiting Leader, SWE Agility &amp; Global Talent Intelligence Research (gr+mc)",https://cdn.theorg.com/f57e50d1-377b-46e3-b1bc-72bd70bee28a_thumb.jpg,Lydarose McCoy,10
+Swati Choudhary,Product Marketing Lead,https://cdn.theorg.com/e26a31ef-9198-4e8b-90da-8bbe847d5589_thumb.jpg,Goksu Nebol-Perlman,11
+Dan Johns,Head Of Product Marketing - Facebook Ads Monetization,no_match,Goksu Nebol-Perlman,11
+Nichole Dreyer,"Global Director, Product Marketing",https://cdn.theorg.com/950ce4c1-bb10-4744-bed3-01c53eb89b4e_thumb.jpg,Goksu Nebol-Perlman,11
+Girija Sathyamurthy,Head Of Product Marketing,https://cdn.theorg.com/af5a279b-1067-4ca8-8037-369f51aa9222_thumb.jpg,Goksu Nebol-Perlman,11
+Amar Ravi,"Product Marketing Lead, Advertising &amp; Business Products",https://cdn.theorg.com/a9f227d8-189b-4026-af87-82637d45ec20_thumb.jpg,Goksu Nebol-Perlman,11
+Rupma Loiwal,"Head Of Product Marketing - Messenger, Messenger Kids &amp; Remote Presence",https://cdn.theorg.com/3682e60f-e71a-4ad1-87cf-c43c7c457829_thumb.jpg,Goksu Nebol-Perlman,11
+Elad Cohen,"Senior Lead, Product Marketing",https://cdn.theorg.com/88352d82-f595-4fc5-9eb3-b36ec0ed1fe2_thumb.jpg,Goksu Nebol-Perlman,11
+Jack Simpkins,Global Operations Manager,no_match,Goksu Nebol-Perlman,11
+Roni Adar,Product Marketing Manager,https://cdn.theorg.com/38df39e0-d1f4-4a8b-9daa-d2a26b57fc00_thumb.jpg,Goksu Nebol-Perlman,11
+Asaf Hochman,Product Marketing Lead,https://cdn.theorg.com/671260d7-0298-4af4-9d6d-063048876f23_thumb.jpg,Goksu Nebol-Perlman,11
+Abigail Tucker,"Product Marketing Manager, Commerce Platform",https://cdn.theorg.com/7a5657f2-2810-44ec-89b1-398358d53f26_thumb.jpg,Goksu Nebol-Perlman,11
+Shine Pulikathara,Product Designer · Visualization Manager,https://cdn.theorg.com/c49383ee-a549-4a97-949a-50286f8b251a_thumb.jpg,Travis Vocino,6
+Raphael Grignani,"Vp, Head Of Design Messenger",https://cdn.theorg.com/ea577efb-7748-4ace-ad5e-20877b63fcee_thumb.jpg,Breanne Rotelli,5
+Dave Thomsen,Product Design Director,https://cdn.theorg.com/004933ba-304a-4b93-86cb-cc76bddfe252_thumb.jpg,Breanne Rotelli,5
+Ranjit Nirmale,"Director, Product Design",https://cdn.theorg.com/61918d8b-0d58-4762-bfbd-023b96b0bbb7_thumb.jpg,Breanne Rotelli,5
+Rob Borja,"Director, Product Design",https://cdn.theorg.com/d9c093ca-c69f-4652-a1e4-3e8f6322de5d_thumb.jpg,Breanne Rotelli,5
+Yuriy Oparenko,Lead Product Designer,https://cdn.theorg.com/d50a04cc-86d4-46ea-a421-ab51d63d6065_thumb.jpg,Breanne Rotelli,5
+Agnes Liu,"Head Of Design, Remote Presence",https://cdn.theorg.com/d1c49908-8826-43cc-90ea-b8e937ba6d6d_thumb.jpg,Breanne Rotelli,5
+Molly Jane Fowler,"Director, Product Design — Community Growth &amp; Cross-meta Experiences",https://cdn.theorg.com/bc7c5f2e-db65-4a0b-9d09-b8ee7fb3319d_thumb.jpg,Breanne Rotelli,5
+Stéphane Martin,"Head Of Product Design, Integrity (organic)",https://cdn.theorg.com/80eae9ee-e9b7-44f3-b0e5-6612a4a9c03a_thumb.jpg,Breanne Rotelli,5
+Minnie Choi,Director Of Product Design,https://cdn.theorg.com/acbcee9e-9edd-4a6a-832e-be425bc817da_thumb.jpg,Breanne Rotelli,5
+Nasahn Sheppard,"Senior Director, Product Design",https://cdn.theorg.com/fd264ddb-78f7-4b64-bf46-3dc679753f36_thumb.jpg,Breanne Rotelli,5
+Shane Booth,Director Of Product Design,https://cdn.theorg.com/227786c8-f4c3-4987-a04b-e2f4ab307ef9_thumb.jpg,Breanne Rotelli,5
+Dan Lebowitz,Director Of Product Design,https://cdn.theorg.com/50c39114-6041-4e2e-ba37-5cda1551a9b5_thumb.jpg,Breanne Rotelli,5
+Cathy Lo,Director Of Product Design,https://cdn.theorg.com/9068cb9f-d7bd-48b6-9d20-db03009bd428_thumb.jpg,Breanne Rotelli,5
+Corey Pearson,Lead Product Designer - Horizon OS,https://cdn.theorg.com/20fc25bc-cef3-4eff-aa17-468123aef814_thumb.jpg,Breanne Rotelli,5
+Hailey Cook,"Director, Product Design",https://cdn.theorg.com/030fe40e-bcc6-40eb-8528-2480d9e954bd_thumb.jpg,Breanne Rotelli,5
+Audrey C.,"Director, Product Design",no_match,Breanne Rotelli,5
+Jaleh Afshar,"Director, Product Design",https://cdn.theorg.com/e6cd53de-e2e6-4eb6-bcb2-82460d028fab_thumb.jpg,Breanne Rotelli,5
+Liz Keneski,Director Of Product Design,https://cdn.theorg.com/813540be-0c9a-4b2e-90ca-ba8c1d0f2b94_thumb.jpg,Breanne Rotelli,5
+Marcos Mejia,"Director, Product Design",https://cdn.theorg.com/f2ae815d-0af8-4680-b39d-d472fd61f78f_thumb.jpg,Breanne Rotelli,5
+Caitlyn McCarthy,Director Of Product Design,https://cdn.theorg.com/855fd4b7-cbfc-42a7-a315-a42763b02584_thumb.jpg,Breanne Rotelli,5
+Susie Lee,Head Of Product Design At Messenger,https://cdn.theorg.com/37c17cdd-efca-483d-9149-37008c73cd9b_thumb.jpg,Raphael Grignani,6
+Zach Stubenvoll,"Head Of Design, Meta",https://cdn.theorg.com/315ca6b5-ab4a-4468-88a7-10a47c683434_thumb.jpg,Raphael Grignani,6
+Dorothy X.,Design Lead,https://cdn.theorg.com/5368edb9-c8d3-4b20-9823-848c7b2617d2_thumb.jpg,Raphael Grignani,6
+Mirko Mandic,"Design Director, Business Messaging",https://cdn.theorg.com/b7c33b43-b06a-4256-b2b9-a84002b8faea_thumb.jpg,Raphael Grignani,6
+Garron Engstrom,"Director, Product Design",https://cdn.theorg.com/69b97540-abb3-4c90-bd45-cf5ee1e1206e_thumb.jpg,Raphael Grignani,6
+Megan Man,"Head Of Design, Content Flywheel At Facebook",https://cdn.theorg.com/5348f771-58cd-43a9-82bb-9cdb0be7e677_thumb.jpg,Raphael Grignani,6
+Robin Clediere,"Director, Product Design, Messenger",https://cdn.theorg.com/c0c73c91-2796-4884-8801-c77741f096e0_thumb.jpg,Raphael Grignani,6
+Rob Voets,Product Design Lead — Messenger And Instagram Direct,no_match,Raphael Grignani,6
+Datrianna G.,"Product Design Lead, Genai For Business Messaging",no_match,Raphael Grignani,6
+Siong Chan,Product Design Manager,https://cdn.theorg.com/47a15d84-e775-4ba2-ac90-15ac72855e80_thumb.jpg,Susie Lee,7
+Philip Bryan,Industrial Design Manager,https://cdn.theorg.com/82bcda9c-9530-4952-8d62-08386ed777a6_thumb.jpg,Zach Stubenvoll,7
+Hayley Lee,Design Lead,https://cdn.theorg.com/a507bf6f-e6b9-42cd-a3a2-01213a46421e_thumb.jpg,Zach Stubenvoll,7
+Morgan Gore,"Senior Product Design Manager, Central Products Platform",https://cdn.theorg.com/91cabff7-09de-4a41-8677-0c4d37b6d88a_thumb.jpg,Ranjit Nirmale,6
+Maheen Sohail,Generative AI - Senior Staff Designer,https://cdn.theorg.com/c6ea8683-5efe-403b-a73a-4a4db29337af_thumb.jpg,Minnie Choi,6
+Yulia Amin,Senior Product Design Manager,https://cdn.theorg.com/70e305bb-f47c-4b3b-bf12-d42881effdda_thumb.jpg,Nasahn Sheppard,6
+Dianna Su,Product Design Manager,https://cdn.theorg.com/b0bc37be-40ed-44f9-89e4-4267b7414adc_thumb.jpg,Nasahn Sheppard,6
+Caterina Falleni,Design Lead Manager Accessibility &amp; Inclusive Design,https://cdn.theorg.com/d6e1385f-2826-40f5-aebb-3b282c339a6c_thumb.jpg,Nasahn Sheppard,6
+Rachid Harrassi,Senior Product Design Manager,https://cdn.theorg.com/f58ae6ad-1acc-4a55-ba61-109a8497fbe5_thumb.jpg,Nasahn Sheppard,6
+Fangwei Lee,Product Design Manager,https://cdn.theorg.com/0d3fc0a2-7b6e-4d98-883c-d0b2311ebe0a_thumb.jpg,Nasahn Sheppard,6
+Cristen Dawson,Product Design Manager,https://cdn.theorg.com/ad72fbc8-378d-4459-86cd-ae6c1ccfdd26_thumb.jpg,Nasahn Sheppard,6
+Bora K.,Senior Product Designer,https://cdn.theorg.com/2d25a2a4-f675-4a4a-907b-ba05cc33c4e5_thumb.jpg,Rachid Harrassi,7
+Patricia Z.,Senior Product Designer,https://cdn.theorg.com/58fd880b-47e3-4ccc-b8cb-134257e9c78d_thumb.jpg,Rachid Harrassi,7
+Cesar Rodriguez,Product Design Manager,https://cdn.theorg.com/a494f732-af88-49cd-b66f-7a7e1b35b8d2_thumb.jpg,Shane Booth,6
+Benedetto di Luzio,Senior Ux/ui Designer (intraedge),https://cdn.theorg.com/c9d52632-8f49-4667-9bba-3cf549ab7014_thumb.jpg,Shane Booth,6
+Anne Raynor,Product Design Manager,https://cdn.theorg.com/99c0caa2-2d96-4dcf-8e78-57a861f52d2b_thumb.jpg,Liz Keneski,6
+Doug Tsai,"Senior Industrial Designer, Packaging",https://cdn.theorg.com/c97e705d-190b-4ac4-9e92-14f1662d1034_thumb.jpg,Tim Hulford,5
+Paris Lowitz,Senior Industrial Designer - Packaging,https://cdn.theorg.com/63cdd0d5-ab00-40c6-8210-1386bb5a3046_thumb.jpg,Tim Hulford,5
+Simka Alisa Kostenko,Sr Product Designer,https://cdn.theorg.com/934738f0-88e1-445b-9a93-025e285d4b5a_thumb.jpg,Somya Jampala,5
+Ajay Thampi,Senior Research Scientist,https://cdn.theorg.com/04999be4-1c8d-49af-8ffe-6bb6455c8639_thumb.jpg,Joelle Pineau,4
+Ahmad Zareei,Senior AI Research Scientist,https://cdn.theorg.com/583c6a81-4f72-4aae-9781-b86bfaf7c0c6_thumb.jpg,Joelle Pineau,4
+Syavosh Zad-Issa,Technical Manager - Audio Algorithms,https://cdn.theorg.com/8ce8db4d-f547-4b5c-9c5e-1eecb931ac21_thumb.jpg,Michael Smedegaard,4
+Adam Mosseri,"Head, Instagram",https://cdn.theorg.com/0228684c-64bf-4191-95b3-ed6702c93866_thumb.jpg,Chris Cox,3
+Guy Rosen,Chief Information Security Officer,https://cdn.theorg.com/c29d2ce0-6823-4bb1-84df-bd1b529b0431_thumb.jpg,Chris Cox,3
+Will Cathcart,"Head, WhatsApp",https://cdn.theorg.com/6ea2af39-79a6-412c-b8c8-72b2e2f1a350_thumb.jpg,Chris Cox,3
+Tom Alison,"Head, Facebook App",https://cdn.theorg.com/a4e0bf62-e55e-4fc8-a38a-905b70816c5f_thumb.jpg,Chris Cox,3
+Loredana Crisan,"Head, Messenger",https://cdn.theorg.com/dd25c267-4af2-40a5-ab61-38d9b4fb3d4d_thumb.jpg,Chris Cox,3
+Naomi Gleit,"Head, Product Management",https://cdn.theorg.com/450d6c1b-d8df-4931-8a8f-4236e61bee42_thumb.jpg,Chris Cox,3
+Nikila Srinivasan,"VP, Product Management",https://cdn.theorg.com/387019c0-2ab2-49dd-aff0-fa539279f8bd_thumb.jpg,Chris Cox,3
+Grace Kao,"Head, Global Business Marketing, Instagram",https://cdn.theorg.com/e1f45a9a-e2f0-42b9-ab40-c8e910ac2851_thumb.jpg,Adam Mosseri,4
+Ian Spalter,"Head, Instagram Japan",https://cdn.theorg.com/7782f5ed-5f25-4c9c-8511-b09e3554bc55_thumb.jpg,Adam Mosseri,4
+Nam Nguyen,"Head, Engineering, Instagram",https://cdn.theorg.com/acbd4ee0-abf7-4a7a-a8fa-305f9609c86f_thumb.jpg,Adam Mosseri,4
+Perry Bashkoff,"Director, Music Partnerships, Instagram",https://cdn.theorg.com/fa33a03a-24be-4da6-a5bf-c80d35827b1e_thumb.jpg,Adam Mosseri,4
+Tessa Lyons,"Director, Product Management, Instagram",no_match,Adam Mosseri,4
+Taha Rafiq,Staff Software Engineer / Engineering Manager,https://cdn.theorg.com/59dc18c7-409a-483d-ba5f-8d3ce675bb2d_thumb.jpg,Nam Nguyen,5
+Deepali Adlakha,Engineering Manager,https://cdn.theorg.com/4584931a-4050-424c-823f-d6cd0ac360f3_thumb.jpg,Nam Nguyen,5
+Ankita Bihani,Engineering Manager,https://cdn.theorg.com/6370d494-fa71-49d2-b798-b3c59043e263_thumb.jpg,Nam Nguyen,5
+Krys Jurgowski,Sr. Engineering Manager | Instagram,https://cdn.theorg.com/cd61d92b-27dd-43ef-8cfa-401045bd95be_thumb.jpg,Nam Nguyen,5
+Hima Mahajan,Senior Software Engineer,https://cdn.theorg.com/87889294-611a-4599-be8a-54a6505d6b82_thumb.jpg,Taha Rafiq,6
+Howard Grimberg,Senior Software Engineer,https://cdn.theorg.com/77d4858c-83ec-4b58-a6ae-b481c825ab28_thumb.jpg,Taha Rafiq,6
+Kejiao Sui,Senior Software Engineer,https://cdn.theorg.com/ebae762a-97ca-4f61-bb0d-95916e0011ec_thumb.jpg,Taha Rafiq,6
+Renee Forney,"Deputy CISO And Head Of Fintech Governance, Risk And Compliance",https://cdn.theorg.com/81b8d789-63e7-466b-a312-d7c6b453666a_thumb.jpg,Guy Rosen,4
+Nitin Gupta,"VP &amp; Head, Engineering, Whatsapp",https://cdn.theorg.com/c2f776b2-a471-4485-af66-eb4ddff33b5e_thumb.jpg,Will Cathcart,4
+Lars Backstrom,"VP, Engineering",https://cdn.theorg.com/98f61b6a-482d-4842-b6e0-889426423da7_thumb.jpg,Tom Alison,4
+Maher Saba,"VP, Remote Presence",https://cdn.theorg.com/779ee65e-3505-401e-9082-3e4506b16314_thumb.jpg,Tom Alison,4
+Mona Sarantakos,"Director, Product Management",no_match,Tom Alison,4
+Ravi Agarwal,"Advanced Technology Development R&amp;d, Director",https://cdn.theorg.com/cfc65076-579b-4259-9d22-9214c2f49305_thumb.jpg,Lars Backstrom,5
+Bo Long,Head Of Recommendation And Foundation AI For Monetization,https://cdn.theorg.com/91dfd0c5-db0e-4501-8690-fa0d5e97ba09_thumb.jpg,Lars Backstrom,5
+Thomas Feng,Director Of Engineering,no_match,Lars Backstrom,5
+Killian Murphy,Senior Director Of Engineering,https://cdn.theorg.com/c6d50b12-5846-4e2c-9c18-2bcee25973c0_thumb.jpg,Lars Backstrom,5
+Abhishek Rudresh,"Director, Enterprise Engineering",https://cdn.theorg.com/b28cee79-0d64-4d7d-b660-bbceeb50d5d9_thumb.jpg,Lars Backstrom,5
+Kunal Bhalla,Principal Software Engineer,https://cdn.theorg.com/61fc4b38-82bd-4514-bbf6-d4761e52559e_thumb.jpg,Lars Backstrom,5
+Ying Guo,Firmware Engineering Manager,https://cdn.theorg.com/737bc111-18e9-4320-80d6-7ad393e01c8e_thumb.jpg,Lars Backstrom,5
+Rolando Abarca,Software Engineering Manager,https://cdn.theorg.com/51539850-7605-4fa3-b4d0-87d4df6405af_thumb.jpg,Thomas Feng,6
+Ferdinand Redelinghuys,Software Engineering Manager,no_match,Thomas Feng,6
+Yingming Chen,Software Engineering Manager,https://cdn.theorg.com/88957ce7-7d05-4160-9aad-a2116240da65_thumb.jpg,Thomas Feng,6
+Emin Guliyev,Senior Software Engineer,https://cdn.theorg.com/1782e5d3-3317-4649-a54c-9b6fb46bef4f_thumb.jpg,Rolando Abarca,7
+Gosh Arzumanyan,Senior Software Engineer,https://cdn.theorg.com/e12514e4-4e49-40af-be16-7cf463d344f1_thumb.jpg,Rolando Abarca,7
+Xander W.,Senior Software Engineer,https://cdn.theorg.com/2c8632f5-3b2d-4c00-a8ab-d6d16a64d493_thumb.jpg,Rolando Abarca,7
+Khanh Nguyen,Senior Software Engineer,https://cdn.theorg.com/2f52480e-36d9-453c-9213-38cbd4130a19_thumb.jpg,Rolando Abarca,7
+Erfan J. Davami,Senior Software Engineer,no_match,Rolando Abarca,7
+Caglar Firat Ozgenel,Senior Software Engineer,https://cdn.theorg.com/9404dcce-3e54-4b41-a9e2-8facfab4f65a_thumb.jpg,Rolando Abarca,7
+Mihika Dave,Engineering Manager,https://cdn.theorg.com/ee83e1bd-2482-4948-98d9-6717d629353f_thumb.jpg,Killian Murphy,6
+Beibei Z.,"Senior Engineering Manager, Llama Reserach Platform - WE ARE Hiring!",https://cdn.theorg.com/77dbd29f-51d4-42f0-b47e-4bc184ed863b_thumb.jpg,Killian Murphy,6
+Kaveh Ahmadi,Senior Software Engineer,https://cdn.theorg.com/be3e2651-fec0-4469-9ff8-4a8f42756739_thumb.jpg,Killian Murphy,6
+Hechen Gao,Senior Staff Software Engineer,https://cdn.theorg.com/7f96b711-348e-4221-814c-d427c08a1872_thumb.jpg,Killian Murphy,6
+Yi X.,Engineering Manager,https://cdn.theorg.com/5b670196-65d8-4e36-88c5-a9bec5792482_thumb.jpg,Killian Murphy,6
+Henk van Broekhuyzen,Sr Process Development Engineer,https://cdn.theorg.com/569be2ca-8ee0-4d84-b1af-ef28ca39d210_thumb.jpg,Killian Murphy,6
+Arnav Gupta,Engineering Manager,https://cdn.theorg.com/696f7637-705f-460c-b5ab-2d6de657741d_thumb.jpg,Killian Murphy,6
+Alejandro Baltra,Senior Software Engineer,https://cdn.theorg.com/05060320-4750-468f-9f1b-e97075b6c0c2_thumb.jpg,Mihika Dave,7
+Aestha Gupta,"Senior Director, Product Management",https://cdn.theorg.com/4339c204-692b-42bc-8f21-1b975154e714_thumb.jpg,Naomi Gleit,5
+Nicole Kocherov,Manager Product Management,https://cdn.theorg.com/daadae92-746b-490f-bc06-3c28c30c3842_thumb.jpg,Naomi Gleit,5
+Neha Bansal,Product Leader - Ads Manager Reporting,https://cdn.theorg.com/51ce5551-5b1b-40f7-8f1d-c5dde352357e_thumb.jpg,Aestha Gupta,6
+Dineshwar Mahant,"Group Manager, Augmented Reality Products",https://cdn.theorg.com/d8cfd4ca-9ead-4890-8597-992602773560_thumb.jpg,Aestha Gupta,6
+Jess Walton,"Sr. Director Of Finance, Monetization And Central Products",https://cdn.theorg.com/5ad11bed-15f9-4485-92e8-e55fcd7188ff_thumb.jpg,Nikila Srinivasan,4
+Emily Dalton Smith,"Head Of Product, Threads",https://cdn.theorg.com/bca6d8fc-2852-4d3a-8407-630aa709930c_thumb.jpg,Nikila Srinivasan,4
+Ben Freeman,Product Management Lead,https://cdn.theorg.com/a17accdb-63cb-4443-939e-5d49cd0f788e_thumb.jpg,Nikila Srinivasan,4
+Norm Armour,Microled New Technology Product Lead,https://cdn.theorg.com/eaec9325-45c6-42d3-854e-9880b22ebcf4_thumb.jpg,Nikila Srinivasan,4
+Anil Tripathi,"Director, Product Management, AI Data",https://cdn.theorg.com/d632582b-b14e-4401-9837-ec93dcd9588f_thumb.jpg,Nikila Srinivasan,4
+Nik Ketkar,Director Of Product Management,https://cdn.theorg.com/8f273a1f-c2f2-47d8-b183-71d19161fc39_thumb.jpg,Nikila Srinivasan,4
+Manik Aryapadi,"Director, Product Strategy (ads &amp; Monetization)",https://cdn.theorg.com/fb2c38a1-5804-4dbd-af7a-b3de976fc383_thumb.jpg,Nikila Srinivasan,4
+Helen,"Senior Director Of Product, Head Of FB Monetization",https://cdn.theorg.com/3ab584e2-19c5-458f-801b-d392caac7540_thumb.jpg,Nikila Srinivasan,4
+Kishore Kanakamedala,"Sr. Director Of Product Management, Monetization Privacy",no_match,Nikila Srinivasan,4
+Keval Patel,"Vice President, Product Strategy",https://cdn.theorg.com/b17804d4-c1cf-4613-a573-bf885e442881_thumb.jpg,Nikila Srinivasan,4
+Karthik Vaidyanath,Product Lead (commerce + Ads),https://cdn.theorg.com/e469d866-220a-46e2-aeca-a8da571cf3c9_thumb.jpg,Nikila Srinivasan,4
+Poorvi Shrivastav,Senior Director Of Product Management,no_match,Nikila Srinivasan,4
+Tulika Jha,"Director Of Product &amp; Gtm, Monetization Genai",https://cdn.theorg.com/36805888-caaf-4fe5-8b0a-8194d24e2a3e_thumb.jpg,Nikila Srinivasan,4
+Connor Hayes,"Vp, Product (generative Ai)",no_match,Nikila Srinivasan,4
+Eric Chu,Product Lead,https://cdn.theorg.com/1c885d3c-2b8a-491d-9b7f-10c7dca85429_thumb.jpg,Nikila Srinivasan,4
+Rajeev Chand,Senior Director Of Product Management,https://cdn.theorg.com/15f2a38b-a729-4b03-b8b8-dcdb543854bf_thumb.jpg,Nikila Srinivasan,4
+Esther Crawford,Director Of Product Management,https://cdn.theorg.com/ab426ef6-8ad2-46e1-a335-4fcbcd55481f_thumb.jpg,Nikila Srinivasan,4
+Khurram Zia,"Director Of Product Management, Facebook Creators",no_match,Nikila Srinivasan,4
+Aigerim Shorman,Vice President Of Product Management,https://cdn.theorg.com/1197d862-5ba9-4d1d-9435-1a36604d0848_thumb.jpg,Nikila Srinivasan,4
+Patrick D.,"Head Of Finance, Facebook",https://cdn.theorg.com/ecfe8420-58ba-417b-8db3-50da89b78a89_thumb.jpg,Jess Walton,5
+Luis Kam,"Senior Finance Manager, Corporate Fp&amp;a",no_match,Jess Walton,5
+Karina Perry,"Senior Program Manager, Finance Transformation",https://cdn.theorg.com/5b8cf495-86d8-4011-b8dd-fab920c7f8e4_thumb.jpg,Patrick D.,6
+Kedar Poduri,"Head Of Product, Ai/ml Analytics Platforms &amp; Services",https://cdn.theorg.com/28f32cf6-e65f-43d9-94d0-c23b3221c0f8_thumb.jpg,Keval Patel,5
+Mir Rosenberg,Director Of Product Management,no_match,Keval Patel,5
+Jackie Douda,Hearing Payer Strategy Lead,https://cdn.theorg.com/6d7207d8-cc41-4f87-a763-785b370ab465_thumb.jpg,Keval Patel,5
+Dane Glasgow,"Vice President, Head Of Product, Facebook",https://cdn.theorg.com/5dffde02-6c76-42b5-bb1a-c95e9890749e_thumb.jpg,Keval Patel,5
+Sarah Sasaki Tsien,Head Of Sustainability Strategy,https://cdn.theorg.com/b0bf6f6e-b57f-4035-991a-207e31526f16_thumb.jpg,Keval Patel,5
+Tammy Lin,Product Marketing Manager,https://cdn.theorg.com/1e31dc64-62c0-44a7-9414-9307c6c2ca12_thumb.jpg,Keval Patel,5
+Luca di Mauro,"Director, Product Strategy",https://cdn.theorg.com/2e2d4f27-9dcd-44c5-975a-a69c6da7751f_thumb.jpg,Keval Patel,5
+Joanne Conklin,Product Protection Strategy Lead At EOS @ Meta,https://cdn.theorg.com/f7691ab0-c303-411a-a788-730af849f013_thumb.jpg,Keval Patel,5
+Jon Eliav,"Product Marketing Manager, Reality Labs",https://cdn.theorg.com/e7d8a271-a01a-40e7-b116-4148968239b2_thumb.jpg,Kedar Poduri,6
+Adil Wali,"Head Of Product, Meta Fintech",https://cdn.theorg.com/180b19c1-bbc0-4b4c-ba9d-1c0bfa6f5825_thumb.jpg,Dane Glasgow,6
+Cyrus Saihan,"Head Of AR / VR Product Partnerships, EMEA",https://cdn.theorg.com/e03a769b-eb58-47ef-93d4-166ed45e4d0c_thumb.jpg,Dane Glasgow,6
+Jagjit Singh Chawla,"Vp, Product Management - FB Feed &amp; Video/reels",https://cdn.theorg.com/4f748598-7e04-41ae-ab35-73d8c832f666_thumb.jpg,Dane Glasgow,6
+Nipoon Malhotra,"Vice President, Product Management",https://cdn.theorg.com/fb627d33-560d-457c-bc3e-18924d6359fd_thumb.jpg,Dane Glasgow,6
+Miki Rothschild,"VP Of Product Management, Central Products",https://cdn.theorg.com/78136071-9e0d-4c1a-a6da-4c087f2103a5_thumb.jpg,Dane Glasgow,6
+Büşra Günaydın Irmak,Vertical Product &amp; Performance Lead,https://cdn.theorg.com/e304a0b5-4f85-456b-b609-09d479a52bac_thumb.jpg,Dane Glasgow,6
+Art Chompaisal,"Product Lead, Privacy AI",https://cdn.theorg.com/40aecebc-6733-477b-b544-9c7f22e93afc_thumb.jpg,Dane Glasgow,6
+Keith Einstein,Product Lead,https://cdn.theorg.com/222561de-5480-450c-84bb-1e4c4a45af75_thumb.jpg,Nipoon Malhotra,7
+Rouhin Ghosh,"Manager, Product Production",no_match,Nipoon Malhotra,7
+Camryn Williams,"Engineering Manager, Product Advocacy",no_match,Nipoon Malhotra,7
+Eileen Cheng,"Consumer Product Marketing Manager, Video And Search",https://cdn.theorg.com/9b56cdc8-bcc6-4a7e-8a86-cf5779789972_thumb.jpg,Nipoon Malhotra,7
+Hansmeet Sethi,"Director, Product Management",https://cdn.theorg.com/71649859-4354-476d-ac31-ff5b136d8cf6_thumb.jpg,Nipoon Malhotra,7
+Wesley Simpson,Global Director Of Product Operations,https://cdn.theorg.com/372095d2-adae-43af-a554-19704d3d65ae_thumb.jpg,Nipoon Malhotra,7
+Fred Leach,"Vp, Product Management",no_match,Connor Hayes,5
+Elisabeth Carr,"Vp, Genai Design + Creative",https://cdn.theorg.com/d11a32da-8f03-4d17-a5ad-3e5b618b7f49_thumb.jpg,Connor Hayes,5
+Diego Guerra Orozco,"Manager AI Partnerships, Startup Lead",https://cdn.theorg.com/8a077594-346d-43dd-9a94-301f36581a78_thumb.jpg,Connor Hayes,5
+Khushboo Taneja,"Head Of Office - Meta, Pacific Northwest",https://cdn.theorg.com/594b490f-15a1-40e3-bd68-28305d46ad2c_thumb.jpg,Connor Hayes,5
+Ragavan Srinivasan,"Vp, Product",https://cdn.theorg.com/ceb49029-2a92-4664-9017-9823c71b90a4_thumb.jpg,Fred Leach,6
+Nathan Davis,"Vp, Product Management",no_match,Fred Leach,6
+Krassimir Karamfilov,VP Of Product,https://cdn.theorg.com/1b84e91d-75b1-4eec-806b-d2f96ba6ac21_thumb.jpg,Ragavan Srinivasan,7
+Claire Choi,Director Of Product Operations,https://cdn.theorg.com/acda79b6-3651-4ea6-8f94-e4ad5ad45a42_thumb.jpg,Krassimir Karamfilov,8
+Tori Lam,"Manager, Product Management &amp; Design",https://cdn.theorg.com/432133a8-e0c2-4773-9f27-eea2f9909ea1_thumb.jpg,Krassimir Karamfilov,8
+Paige Midstokke,Lead Product Manager,no_match,Krassimir Karamfilov,8
+Yuet-Peng Cheong,Director Of Product Management,https://cdn.theorg.com/cdf43436-b7f8-4233-b1ef-40660fbbf0a7_thumb.jpg,Krassimir Karamfilov,8
+Atul Bhandari,Principal Product Manager,https://cdn.theorg.com/b16acbac-ea99-4ec8-ac36-370849fecd3b_thumb.jpg,Krassimir Karamfilov,8
+Niels Hilmar,"Head Of Product, 1p Developer Experience And Platform, Reality Labs (vr/ar)",https://cdn.theorg.com/6bdd6b3e-3331-4f8a-b50b-4dbe3d405716_thumb.jpg,Krassimir Karamfilov,8
+Farhad Farahbakhshian,"Director Of Product Management, Codec Avatars &amp; People AI",https://cdn.theorg.com/9be0b886-955e-48c1-9c40-3b19e777b3aa_thumb.jpg,Krassimir Karamfilov,8
+Jay Goluguri,Product Management Lead,https://cdn.theorg.com/114ffb0c-f2dc-4481-840a-4c9fa6700484_thumb.jpg,Krassimir Karamfilov,8
+Caitlin Vlastakis Smith,Senior Content Design Manager • Privacy &amp; Integrity,https://cdn.theorg.com/9ecf0d43-1be0-4d9f-a31a-9c7e53e1ba9a_thumb.jpg,Yuet-Peng Cheong,9
+Tom Emrich,"Senior Manager, Product Management - Mixed Reality Developer Platform",https://cdn.theorg.com/caf94bdf-7d6d-4013-8ddc-04177355d950_thumb.jpg,Niels Hilmar,9
+Li-Chen Miller,"VP Of Product, Wearables",https://cdn.theorg.com/dcca586c-5ecf-4ca1-a571-678bd3c77dbc_thumb.jpg,Nathan Davis,7
+Rahul Prasad,Senior Director Of Product Management For Orion AR Glasses And AI Wearables,https://cdn.theorg.com/22cb51b4-3065-4fb2-afb2-925dbeea3d62_thumb.jpg,Li-Chen Miller,8
+Janya Solanet,Art Director,no_match,Elisabeth Carr,6
+Marian Chiao,Creative Director,https://cdn.theorg.com/4c5d5ba2-5c9c-4064-8e63-d2da77c8ba4c_thumb.jpg,Elisabeth Carr,6
+Liz O'Neal,Creative Director,https://cdn.theorg.com/1b297b6e-6011-40a7-aeab-0153a85ba999_thumb.jpg,Elisabeth Carr,6
+Ilka F. Mourão,Creative Director,https://cdn.theorg.com/6be681b2-2528-458e-ba76-81247931a685_thumb.jpg,Elisabeth Carr,6
+Benji Kuroda,"Generative Ai, Staff Product Design Lead",https://cdn.theorg.com/c1e9b888-a8bc-44f0-9ed9-0231c06e9d5b_thumb.jpg,Elisabeth Carr,6
+Diyou Wu,Senior Art Director,https://cdn.theorg.com/8c57306a-c10b-478f-8b47-81eef2f80ba5_thumb.jpg,Elisabeth Carr,6
+Dafna Garber,"Group Creative Director, Reality Labs",https://cdn.theorg.com/e070a9ab-7676-4f97-9c20-f096ae1e748c_thumb.jpg,Elisabeth Carr,6
+Tristan Kincaid,Creative Director @ Reality Labs,https://cdn.theorg.com/a651f10d-b428-4bde-be72-ccdec95ae617_thumb.jpg,Elisabeth Carr,6
+Chloe B.,"Partner Solutions Manager, EMEA &amp; Latam",no_match,Elisabeth Carr,6
+Sheta Chatterjee,"Director Of Product Design, Generative AI",https://cdn.theorg.com/a4adfed0-aac6-4459-bc2f-7a9c988292bb_thumb.jpg,Elisabeth Carr,6
+Kane Chamorro,Integrated Program Lead - Creative X,https://cdn.theorg.com/f24c832f-53e0-40f9-90b2-d7e46b7571cf_thumb.jpg,Elisabeth Carr,6
+Ian Bach,Principal Product Designer - Gen AI,https://cdn.theorg.com/eb746d62-266c-40b7-8d56-3cf649b2b5d9_thumb.jpg,Elisabeth Carr,6
+Carly Burton,"Director Product Design, Genai",https://cdn.theorg.com/f370270c-9921-4c6b-a2c5-b67fdfad73ff_thumb.jpg,Elisabeth Carr,6
+Anthony Roscoe,"Product Design Director, Facebook Genai",https://cdn.theorg.com/49e68a9e-6d01-4071-8b94-7364971d51ae_thumb.jpg,Elisabeth Carr,6
+Theo Rocha,Global Creative Scaling &amp; Latam Director @ Creative Shop,https://cdn.theorg.com/1ea11adb-c0e1-477c-a670-e66219ecf1c1_thumb.jpg,Elisabeth Carr,6
+Sue Driscoll,"Creative Lead, Creative Shop",https://cdn.theorg.com/b8804508-4f5a-4131-a275-99de9eb21c8c_thumb.jpg,Elisabeth Carr,6
+Ruben van Eijk,Creative Strategist &amp; Studio Lead,https://cdn.theorg.com/9b2303fa-7608-4b07-8e8f-33082b554de5_thumb.jpg,Elisabeth Carr,6
+Pilar Peace,Creative Director,no_match,Elisabeth Carr,6
+Sudip Shah,"Director Of Product, Genai",https://cdn.theorg.com/46d04b28-a585-4d05-a2ef-eb16a18ff08b_thumb.jpg,Khushboo Taneja,6
+Suresh Ganapathy,"Director Of Product Management, Genai",https://cdn.theorg.com/79c873af-4cec-45b8-98e3-9e8fa2b38072_thumb.jpg,Khushboo Taneja,6
+Raymond Li,Principal Technical Product/program Manager,https://cdn.theorg.com/f5b63b5e-1672-406c-a624-07f796b434cf_thumb.jpg,Aigerim Shorman,5
+Ben Nader,"Head Of Product, Platform",https://cdn.theorg.com/adda188b-8703-4900-961f-98f41f2553fa_thumb.jpg,Aigerim Shorman,5
+Timoni West,Director Of Product Management,https://cdn.theorg.com/17685ea3-def7-478a-8256-8a4b6ac6a19a_thumb.jpg,Aigerim Shorman,5
+Jamie Keane,"Director Of Product Management, Developer And Pro Platforms",https://cdn.theorg.com/51f62769-a904-415c-bd65-75eda76b4d60_thumb.jpg,Aigerim Shorman,5
+Graham Hill,"Director, Product Creative",https://cdn.theorg.com/ad47ad96-8e94-4499-8df9-9e5329449f9c_thumb.jpg,Aigerim Shorman,5
+Alan Yiu,Director Of Product,https://cdn.theorg.com/2a25998e-3ea4-4d00-84d9-39d10336193f_thumb.jpg,Aigerim Shorman,5
+Rangaprabhu Parthasarathy,Director Of Product Management,https://cdn.theorg.com/1c0b3180-6a3a-4557-ab5a-5ff81ba3422e_thumb.jpg,Aigerim Shorman,5
+Irfan Ganchi,Senior Director Of Product Management,https://cdn.theorg.com/76caebab-470f-4d75-95fd-0edd7a23cbe1_thumb.jpg,Aigerim Shorman,5
+Arti Kulkarni,Director Of Product Management,no_match,Aigerim Shorman,5
+Rk Parthasarathy,Head Of Product | AI Ray-ban Meta Smart Glasses,https://cdn.theorg.com/648e7200-bc10-4c6b-bb50-fcf09db19be3_thumb.jpg,Aigerim Shorman,5
+Doron Gavra,Director Of Product Management,https://cdn.theorg.com/916ed7ea-044f-4e09-8983-91a35c45b81f_thumb.jpg,Aigerim Shorman,5
+Bill L.,Director Of Product Management For Reality Labs,https://cdn.theorg.com/a4db7e03-e130-4b6f-8cab-065e688e2972_thumb.jpg,Aigerim Shorman,5
+Charlie Han,Director Of Product Management,https://cdn.theorg.com/7758f7b6-0fab-4d05-859b-e28da885b945_thumb.jpg,Aigerim Shorman,5
+Hiren Bhinde,Director Of Product Management,https://cdn.theorg.com/144d3ce0-bd60-44e4-88a1-f7b81ec0fe3f_thumb.jpg,Aigerim Shorman,5
+Mingfei Yan,"Director, Product Management, AR Research",https://cdn.theorg.com/d4643109-9db5-4b85-a1f7-81eb711b9bf2_thumb.jpg,Aigerim Shorman,5
+Payam Shodjai,"Senior Director, Product Management, AI And Developer Infrastructure",https://cdn.theorg.com/c4592352-61d7-4c70-9211-c057ab9c408a_thumb.jpg,Aigerim Shorman,5
+Lubomir Malo,Director Of Product Management,https://cdn.theorg.com/ed639c19-5a0f-4db8-baf2-10cc991848ac_thumb.jpg,Aigerim Shorman,5
+Akshay Sarin,Director Of Product Management - VR,https://cdn.theorg.com/7c1c6ac0-4885-450c-8e26-43ffbf60844a_thumb.jpg,Aigerim Shorman,5
+Selena Salazar,"Director Of Product Management, Wearables",https://cdn.theorg.com/c2629c5a-fa3e-4d2e-86b5-fcc2b423eb7d_thumb.jpg,Aigerim Shorman,5
+Larry Anazia,Product Policy Manager,https://cdn.theorg.com/9dc87b89-4c44-4a89-bb87-a4a9fb9d31f0_thumb.jpg,Irfan Ganchi,6
+Atish Banerjea,CIO,https://cdn.theorg.com/e22b9c8e-cb82-4e8b-882b-0c618e173002_thumb.jpg,Susan Li,3
+Lily Humphreys,Executive Administrative Partner To The CFO,no_match,Susan Li,3
+Carey J. Whitworth,Chief Information Security Officer,https://cdn.theorg.com/97bbcacd-d717-46d2-8097-99dae8c07242_thumb.jpg,Atish Banerjea,4
+Erin Egan,"Chief Privacy Officer, Policy",https://cdn.theorg.com/54c6ef2b-8fad-46b8-976f-8901e7061f19_thumb.jpg,Jennifer Newstead,3
+Michel Protti,"Chief Privacy Officer, Product",https://cdn.theorg.com/dcfdbe81-93f6-4d0a-ad83-30d735271fa2_thumb.jpg,Jennifer Newstead,3
+Allison Mull,"VP, Deputy General Counsel",https://cdn.theorg.com/90420489-7759-4e50-bee7-08207a9e087e_thumb.jpg,Jennifer Newstead,3
+Chris Sonderby,VP &amp; Deputy General Counsel,https://cdn.theorg.com/fd006139-ac91-4c5e-885b-96b8478d52d7_thumb.jpg,Jennifer Newstead,3
+Nikhil Shanbhag,"VP, Associate General Counsel, Competition &amp; Telecommunications",https://cdn.theorg.com/bd436f87-981d-4f12-a694-c37fb028cca5_thumb.jpg,Jennifer Newstead,3
+"Roy L. Austin, Jr.","VP, Civil Rights &amp; Deputy General Counsel",https://cdn.theorg.com/07168587-d2fc-432e-9b9e-901b1f3b0f6b_thumb.jpg,Jennifer Newstead,3
+Steve Satterfield,"VP &amp; Associate General Counsel, Privacy",https://cdn.theorg.com/72c92918-515d-4927-ad2e-f75c57d2d661_thumb.jpg,Jennifer Newstead,3
+Helene Jepson,"Vp, Global Head Of Legal And Integrated Risk Management",https://cdn.theorg.com/dcec9c7c-a7d6-4411-b7c1-3a4449038771_thumb.jpg,Jennifer Newstead,3
+Rob Sherman,"VP &amp; Deputy Chief Privacy Officer, Policy",https://cdn.theorg.com/0fb6ed67-3b60-4bdc-85f6-e9682010f4c3_thumb.jpg,Erin Egan,4
+Saurabh Gupta,"Privacy Program Manager, Product (Ads and Business Platform)",https://cdn.theorg.com/c81968b7-db99-4e70-908d-23344cf313f8_thumb.jpg,Michel Protti,4
+Helena Duong,"Director And Associate General Counsel, Network Infrastructure",https://cdn.theorg.com/4d17edab-b110-4f9d-b7f1-d030ab686f77_thumb.jpg,Allison Mull,4
+Kaitlin Peterson,Lead Counsel- Reality Labs,https://cdn.theorg.com/34aa1524-7921-413c-8bf7-bb519af981a9_thumb.jpg,Allison Mull,4
+Stephen Hurley,Director &amp; Associate General Counsel,https://cdn.theorg.com/a45856d6-d8e0-4c8a-9811-12dbb79af7c6_thumb.jpg,Allison Mull,4
+Tram Frank,"VP And Associate General Counsel, Labor &amp; Employment",https://cdn.theorg.com/3f1add62-7a58-4e3e-a0e3-44a5d9dd85a7_thumb.jpg,Chris Sonderby,4
+Veronica Nauts,Lead Counsel,no_match,Chris Sonderby,4
+Mia Beinhorn,Head Of Special Initiatives - Ethics &amp; Compliance,https://cdn.theorg.com/dab00dad-3fbe-4ec2-948d-c13e232c0a9c_thumb.jpg,Chris Sonderby,4
+Lena Ryan,"Director And Associate General Counsel, Labor &amp; Employment",https://cdn.theorg.com/c6eacc77-4485-43f6-bb60-d46979de2c34_thumb.jpg,Tram Frank,5
+Frank Lawrence,"Vice President And Head Of Global Operations, Legal; Chief Compliance Officer FB Payments",https://cdn.theorg.com/97cbba1c-7503-4e5d-a3e7-0f5687136226_thumb.jpg,Nikhil Shanbhag,4
+Joe Dalia,Lead Privacy &amp; Product Counsel,https://cdn.theorg.com/cb96ddc1-6a9c-47cc-98b9-7aea0a2b7548_thumb.jpg,Steve Satterfield,4
+Andre Mintz,"Vice President, Global Security &amp; Privacy Programs | DMA Head Of Compliance",https://cdn.theorg.com/da9404da-915b-4c0f-ab7c-a614a866f5bb_thumb.jpg,Steve Satterfield,4
+Renyi Duan,"Director, Legal Data And Software Development",no_match,Steve Satterfield,4
+Afua Dabanka,"Head Of Legal Pmo, Global PMO Ops Legal &amp; Compliance",https://cdn.theorg.com/fa2c8ce4-6ea3-474d-9586-cf7a285d0f5d_thumb.jpg,Steve Satterfield,4
+Min-Jae L.,Associate General Counsel - Privacy Legal (facebook Lead),no_match,Steve Satterfield,4
+Sawyer Koelsch,Compliance Program Workstream Lead,no_match,Andre Mintz,5
+Aliya Hargrave,"Senior Learning Program Manager, Program Lead, Annual Required Training",https://cdn.theorg.com/a8edcae3-3d8e-496a-9454-f03538c11eb7_thumb.jpg,Andre Mintz,5
+Maxine Williams,Chief Diversity Officer,no_match,Lori Goler,3
+Janelle Gale,"VP, HR",https://cdn.theorg.com/4677338a-f676-4cb0-9686-70567423c34f_thumb.jpg,Lori Goler,3
+Miranda Kalinowski,"Global Head, Recruitment",https://cdn.theorg.com/83ef2b67-2a2a-4b1f-9218-46aa656622d8_thumb.jpg,Lori Goler,3
+Kim Denning,"VP, Global Total Rewards",https://cdn.theorg.com/56bd642a-b6ea-42da-a9ca-f80d80dda82e_thumb.jpg,Lori Goler,3
+Hanna Ponochevna,Senior Sourcer,https://cdn.theorg.com/da153652-51e0-44b2-a695-ef3642618868_thumb.jpg,Lori Goler,3
+Dan H.,Senior Technical Recruiter - Reality Labs Leadership &amp; Operations,https://cdn.theorg.com/4f1acfd0-d612-465a-a88f-1dcd3e861a24_thumb.jpg,Lori Goler,3
+Sandra Altine,"VP, Workplace Diversity, Equity &amp; Inclusion",https://cdn.theorg.com/edee3896-5de1-477b-9dd4-510c4f378c1c_thumb.jpg,Maxine Williams,4
+Amy Walker,"Diversity And Inclusion Programme Manager, EMEA",no_match,Sandra Altine,5
+Sara Weil,Head Of DEI Talent Development,https://cdn.theorg.com/54e6424b-d001-4796-80a6-8cea3eb89bc8_thumb.jpg,Sandra Altine,5
+Sheryl Weaver Brennan,Global HR Director At Meta,https://cdn.theorg.com/28f63b36-10e9-4f4f-b6f8-a5a71fbe0d42_thumb.jpg,Janelle Gale,4
+Deirdre Donovan,HR Director At Meta Ireland,no_match,Janelle Gale,4
+Joseph Jenkins,Global Recruiting Director,no_match,Janelle Gale,4
+Alexis Fink,"Vice President, People Analytics And Workforce Strategy",https://cdn.theorg.com/72fcd0e4-c0f2-4333-88cf-fd80c05f6b43_thumb.jpg,Janelle Gale,4
+Halim Wise,Head Of HR - Sales &amp; Partnerships,https://cdn.theorg.com/bcf414f6-4e66-48a2-8974-d84e4575ebab_thumb.jpg,Janelle Gale,4
+Karin Garblik,Global HR Director,https://cdn.theorg.com/8e788525-5d46-4fae-81bf-5806d4e16577_thumb.jpg,Janelle Gale,4
+Yvonne Cantrowitz,Human Resources Director,https://cdn.theorg.com/ddd2c8b7-c89b-4189-a95f-321a0b59ffea_thumb.jpg,Janelle Gale,4
+Jamont Johnson,Human Resources Director,https://cdn.theorg.com/8cba0027-c45f-4f4b-8fc4-1876118955cf_thumb.jpg,Janelle Gale,4
+Judd Eliasoph,Talent Lead - Oculus Game Studios,https://cdn.theorg.com/c22de796-6ddb-4cc6-ac0f-0f4ef0d6835d_thumb.jpg,Janelle Gale,4
+Amanda K.,Knowledge Manager - HR Tech,https://cdn.theorg.com/1a6f5f25-cd67-4903-a92a-e53ddb7b391f_thumb.jpg,Janelle Gale,4
+Manal Houri,"Director, Tech | People Development",https://cdn.theorg.com/105a32b0-7dc0-4c20-b1ff-b369de7e1f9b_thumb.jpg,Janelle Gale,4
+Kate Telge,Community Lead,https://cdn.theorg.com/af26e2a6-c612-48ca-aa11-1e3ceef22063_thumb.jpg,Janelle Gale,4
+Jenn Terry,"Global Director, Meta Talent Programs And Internal Talent",https://cdn.theorg.com/e7f10b13-66b1-476a-84b1-285e2a87fe92_thumb.jpg,Janelle Gale,4
+Andy Wilkinson,Recruiting Director,https://cdn.theorg.com/4b4650ae-7ec3-4db0-9464-9a02f1c61398_thumb.jpg,Janelle Gale,4
+Rashelle Tanner,"Director, Culture Programs, Legal, Compliance &amp; Ethics",https://cdn.theorg.com/883092d1-f4d5-43db-ad22-0cb71d01b8df_thumb.jpg,Janelle Gale,4
+Dara Mullen,"Director, People Service Delivery",https://cdn.theorg.com/86a0e33b-ed69-4e2b-9234-0752c4f272b4_thumb.jpg,Janelle Gale,4
+Lou Zumpano,"Director, Recruiting",https://cdn.theorg.com/a84a74f9-aec9-4b1a-b51f-1538434ff8fa_thumb.jpg,Janelle Gale,4
+Carlei Caldro,"Global Sourcing &amp; Contracts Manager, HR",https://cdn.theorg.com/32b6fae9-c93d-45bf-bba1-3d948352ec86_thumb.jpg,Sheryl Weaver Brennan,5
+Latoya Jackson,Senior Human Resources Business Partner,no_match,Sheryl Weaver Brennan,5
+Dan Poore,Senior Sourcing Specialist,https://cdn.theorg.com/720e33ae-22a8-4f0a-be71-dc81cde59c82_thumb.jpg,Carlei Caldro,6
+Terra C.,Senior Executive Recruiter,no_match,Joseph Jenkins,5
+Cortnee Montague,Senior Technical Recruiter - XFN Software Engineer (swe) + Gen ML Sourcer,https://cdn.theorg.com/470c60b3-ad6a-4c7c-bfe4-5b4e290c4caa_thumb.jpg,Joseph Jenkins,5
+Sally Noble,Senior Recruiter,https://cdn.theorg.com/1f971647-6d79-44b6-8f7e-70722956c361_thumb.jpg,Joseph Jenkins,5
+Caileen Donahue,Recruiting Manager,https://cdn.theorg.com/906be9af-80f4-480d-b5b4-0bf1165a0e46_thumb.jpg,Joseph Jenkins,5
+Zahra Purdy,Recruiting Manager - Global Executive Search,https://cdn.theorg.com/834a3960-4bf4-4cd5-a8db-bca67f671689_thumb.jpg,Joseph Jenkins,5
+Corinne A.,Senior Recruiting Manager,https://cdn.theorg.com/5740aa4c-47fa-41f1-854e-3d1ec44d1f76_thumb.jpg,Joseph Jenkins,5
+Kathleen Roberts,Senior University Recruiter - AI Research,no_match,Joseph Jenkins,5
+Chelsey Opare-Addo,Senior Sourcing Recruiter,https://cdn.theorg.com/1a9f67bd-32fb-47fc-8b07-40753f52d0af_thumb.jpg,Joseph Jenkins,5
+Lan Fertel,"Senior Technical Sourcer, Meta Reality Labs",https://cdn.theorg.com/2aff2d55-826b-4001-827d-ccb3f3d61d27_thumb.jpg,Caileen Donahue,6
+Carl Wheatley,"Technical Sourcer (design, Product, Data Science &amp; SWE Engineering, Ml/ai Engineering | DEI Sourcing",https://cdn.theorg.com/82fcccfb-ed65-4e07-b5f4-e9337cfd3bbd_thumb.jpg,Caileen Donahue,6
+Reinia Hall,Senior Technical Sourcer - Software Engineering,https://cdn.theorg.com/fb0e5d35-a7ce-4281-bfd4-7b1bbedaf294_thumb.jpg,Caileen Donahue,6
+Sanam Ghaheri,Senior Recruiting Specialist,https://cdn.theorg.com/bb00e117-0cc5-4e89-9b15-167ceef5f9f2_thumb.jpg,Caileen Donahue,6
+Art Q.,Senior Technical Sourcer,https://cdn.theorg.com/be74fdc9-abaf-4403-9b89-120866a9d95e_thumb.jpg,Corinne A.,6
+Sidhartha Rastogi,Director - Compensation Analytics &amp; Insights,https://cdn.theorg.com/be7599ed-0c7d-4c80-8b1f-a9b7317f5268_thumb.jpg,Alexis Fink,5
+Melissa McMahan,"Director, Employee Listening And Employee Experience Analytics",https://cdn.theorg.com/954d56dc-807d-4765-9bdb-7864793295df_thumb.jpg,Alexis Fink,5
+Hillary Champion,"Director, People Development Growth Programs",https://cdn.theorg.com/f0105c25-3035-452f-a19e-2c942c732f86_thumb.jpg,Alexis Fink,5
+Kristen Robinson-Defot,People Analytics Manager,https://cdn.theorg.com/50d80c05-fd55-42d1-a613-548fd32dd5e2_thumb.jpg,Alexis Fink,5
+Bernadette Bracken,Global Recruiting Director Meta - Reality Labs,https://cdn.theorg.com/03d94175-1cc3-460d-b2a7-e737995b4497_thumb.jpg,Alexis Fink,5
+Agne Scully,People Service Delivery &amp; Oversight Lead,https://cdn.theorg.com/f86be123-46f5-41ea-826f-4654d7aad35c_thumb.jpg,Alexis Fink,5
+Maria Turay,Global Senior HR Business Partner,https://cdn.theorg.com/7c0b9bfd-5c42-4d5b-bf14-174b351047d6_thumb.jpg,Karin Garblik,5
+Hobert Ruffin,Recruiting Manager,https://cdn.theorg.com/1a6e1c8d-499c-4987-8df2-01a158d4532e_thumb.jpg,Lou Zumpano,5
+Ruta Singh,"VP, Product &amp; Engineering Recruiting",https://cdn.theorg.com/2ae687b5-ebc7-424a-b4db-1c5e649983bc_thumb.jpg,Miranda Kalinowski,4
+Sam Clare,"Leadership Sourcer, Global Marketing Solutions",https://cdn.theorg.com/6df89aff-cb4a-4a2c-b51a-7c767bb8a1e2_thumb.jpg,Miranda Kalinowski,4
+Courtney Hynes,"Senior Technical Recruiting Manager, Production Engineering &amp; International Infrastructure",no_match,Ruta Singh,5
+Sam Irving,Lead Technical Recruiter,https://cdn.theorg.com/4967c158-ecb7-46d0-a59b-c74c69b734a9_thumb.jpg,Ruta Singh,5
+Mo Zandkarimi,Recruiting Manager @ Meta (facebook &amp; Instagram),https://cdn.theorg.com/b6839906-f504-4be8-8b5f-0122d4d7f236_thumb.jpg,Ruta Singh,5
+Ashley Blahnik,"Executive Recruiting Manager, Product Leadership",https://cdn.theorg.com/2ab9d1b0-6ef3-4bd3-bc67-fe05b33d6e70_thumb.jpg,Ruta Singh,5
+Rima Akras,Technical Recruiting Manager,no_match,Ruta Singh,5
+Amybelle Lizardo Capule,"Director Of Recruiting, Product Management Leadership",https://cdn.theorg.com/53d3f64b-4583-4c8a-bcbf-2f02250abaa9_thumb.jpg,Ruta Singh,5
+Ross Branthover,"Principal Recruiter, Executive Search",https://cdn.theorg.com/83b0a29c-b304-4750-858f-215ca90d9107_thumb.jpg,Ruta Singh,5
+Ritu Sharma,Recruiting Lead,https://cdn.theorg.com/41372575-3481-483d-99b6-8b5194036d0f_thumb.jpg,Ruta Singh,5
+Larissa Diz,"Lead Technical Recruiter, SWE",https://cdn.theorg.com/def8dd76-dc64-40fb-84e5-7e4843d261d0_thumb.jpg,Ruta Singh,5
+Suly Kamara,Senior Technical Recruiter / Sourcer Lead,https://cdn.theorg.com/ad82da58-101c-4e87-b909-711fc153bf91_thumb.jpg,Ruta Singh,5
+Riky Segal Williams,Recruiting - Data Science | Software Engineering And FBAM (team Lead),no_match,Ruta Singh,5
+Jaclyn Driggs,"Senior Recruiter, Research Science At Metaai",no_match,Ruta Singh,5
+Clay Comer,Technical Recruiting Manager,https://cdn.theorg.com/9cc3ab3b-5b1f-4937-aebe-725ff08be1a2_thumb.jpg,Courtney Hynes,6
+Zainab al-Asadi,Senior Technical Recruiter,no_match,Courtney Hynes,6
+Sophie Cavaillès,Senior Technical Recruiter,no_match,Courtney Hynes,6
+Genesis Dominguez,Senior Technical Recruiter,https://cdn.theorg.com/335adc53-5b0e-473e-9b75-9848a6936df5_thumb.jpg,Courtney Hynes,6
+Denzzel Martin,Sr. Technical Talent Acquisition,https://cdn.theorg.com/29b51b8a-0296-43a7-8d32-9adaedfe14ec_thumb.jpg,Courtney Hynes,6
+Kirsten B.,Senior Technical Sourcer,https://cdn.theorg.com/d21eea2b-24ad-408f-9ead-c1a457cbc6fa_thumb.jpg,Courtney Hynes,6
+Rob Witowski,Senior Technical Recruiter,https://cdn.theorg.com/b2a5ef8a-3c76-4931-bf7d-42efd2ead6ff_thumb.jpg,Courtney Hynes,6
+Ulysses Vazquez,Senior Technical Recruiter,https://cdn.theorg.com/1a05ed8c-898d-461c-8b56-8c10c87a43d0_thumb.jpg,Clay Comer,7
+Jessica L.,Senior Recruiter,https://cdn.theorg.com/8e71d30c-1209-4d75-aa36-2fb9f3d85456_thumb.jpg,Mo Zandkarimi,5
+Chelsea H.,"Senior Technical Recruiter, RL Research At Meta Reality Labs",https://cdn.theorg.com/f69c7281-82a2-4c8c-9436-9116b0a33246_thumb.jpg,Rima Akras,5
+Kathrina Sotalin,"Senior Technical Sourcer, SWE And DEI",https://cdn.theorg.com/37e580a2-f431-43f6-961a-1187f04e316f_thumb.jpg,Rima Akras,5
+Arabelle Adler,Senior Technical Recruiter,https://cdn.theorg.com/d83d945b-4e03-4082-b0ad-17e9467f441f_thumb.jpg,Rima Akras,5
+Aadil Alavi,"Senior Technical Recruiter, Business Tech",https://cdn.theorg.com/39d2fea0-06af-4505-91fe-7084d6031af1_thumb.jpg,Rima Akras,5
+Olivia L.,Senior Technical Recruiter,https://cdn.theorg.com/77920e67-7576-4db3-a3b0-8dcd5d4f7051_thumb.jpg,Rima Akras,5
+Sammy M.,Sr. Technical Recruiter - SWE,https://cdn.theorg.com/cb5821a5-9069-4724-9287-f0adae264782_thumb.jpg,Rima Akras,5

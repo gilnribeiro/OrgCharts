@@ -1,0 +1,765 @@
+name,title,image_src,reports_to,chart_status
+Tim Cook,CEO,https://cdn.theorg.com/14536ead-e368-4fc3-8191-730897170247_thumb.jpg,Tim Cook,1
+Luca Maestri,"SVP, CFO",https://cdn.theorg.com/27ddbe7e-a5f8-495a-a41a-c90771541d25_thumb.jpg,Tim Cook,2
+Katherine Adams,"SVP, General Counsel",no_match,Tim Cook,2
+Deirdre O’Brien,"SVP, Retail",https://cdn.theorg.com/13a9a24b-3a38-4452-b4a9-c93e1d448e2c_thumb.jpg,Tim Cook,2
+John Giannandrea,"SVP, Machine Learning & AI Strategy",https://cdn.theorg.com/b3825a96-50d2-487e-814a-64cb7f62e5d2_thumb.jpg,Tim Cook,2
+Johny Srouji,"SVP, Hardware Technologies",https://cdn.theorg.com/af755660-7c01-4a71-ab83-44ed8a83edd6_thumb.jpg,Tim Cook,2
+John Ternus,"SVP, Hardware Engineering",no_match,Tim Cook,2
+Craig Federighi,"Senior Vice President, Software Engineering",https://cdn.theorg.com/a4386e61-594f-4d22-b7e8-f2b17f50af1a_thumb.jpg,Tim Cook,2
+Greg Joswiak,"Senior Vice President, Worldwide Marketing",https://cdn.theorg.com/910c99e9-5979-43bf-a8a9-b9bd97a78e97_thumb.jpg,Tim Cook,2
+Eddy Cue,"Senior Vice President, Services",https://cdn.theorg.com/e01c4bbf-bb72-4c51-bc2a-350225a1449a_thumb.jpg,Tim Cook,2
+Kristin Huguet Quayle,"VP, Worldwide Communications",https://cdn.theorg.com/1f2d31f7-0c50-409b-afc7-ebab589c791e_thumb.jpg,Tim Cook,2
+Mike Fenger,"VP, Worldwide Sales",https://cdn.theorg.com/f35d3d4e-d884-4a0c-beff-c444ad693f4c_thumb.jpg,Tim Cook,2
+Sabih Khan,"SVP, Operations",https://cdn.theorg.com/96c5a00f-1885-4595-bb9d-494c585a52ae_thumb.jpg,Tim Cook,2
+Donal Conroy,"Vice President, Finance",no_match,Luca Maestri,3
+Shawn Sweeney,"Head of Operations Finance, Apple TV+",https://cdn.theorg.com/173b316e-0db4-4bc4-8f29-6ff436415300_thumb.jpg,Luca Maestri,3
+Chris Kondo,Senior Director of Corporate Accounting,https://cdn.theorg.com/a1bf332d-7588-4093-9126-79d4d11db619_thumb.jpg,Luca Maestri,3
+Juli Monahan,Director of Sales Finance,https://cdn.theorg.com/336d8fde-1c68-47fb-a218-6146c987110c_thumb.jpg,Luca Maestri,3
+Eric Petersen,Director of Finance,https://cdn.theorg.com/d1d399b3-91f9-4e85-a5e5-399d5dc41fdc_thumb.jpg,Luca Maestri,3
+Jeffery Power,"Managing Director, Head of Braeburn Capital",https://cdn.theorg.com/8c15c685-6be1-46f5-a070-ab9f8bf8e325_thumb.jpg,Luca Maestri,3
+Paul Capretta,"Finance Manager, Corporate FP&A",https://cdn.theorg.com/fef1f64e-cca5-4977-a551-4976d97a00c9_thumb.jpg,Luca Maestri,3
+Elijah Farrell,Global Head Of Transfer Pricing,https://cdn.theorg.com/a6dc2070-d8b5-482a-b0a6-3262f7a68d6d_thumb.jpg,Luca Maestri,3
+BJ Watrous,Chief Corporate/Commercial Counsel & Head of Global Security,no_match,Katherine Adams,3
+Heba Hamouda,Chief Compliance Officer,https://cdn.theorg.com/071226ec-8346-4fe9-9904-0d9eb1475200_thumb.jpg,Katherine Adams,3
+Jeff Myers,Chief IP Counsel,no_match,Katherine Adams,3
+Kyle Andeer,"VP, Products & Regulatory Law",https://cdn.theorg.com/21f07a00-093e-43c7-9674-2ba460f2ba7f_thumb.jpg,Katherine Adams,3
+Doug Vetter,"VP, Associate General Counsel & Assistant Secretary",https://cdn.theorg.com/43834274-2b90-43ab-be61-ec07f7029245_thumb.jpg,Katherine Adams,3
+Lisa Jackson,"VP, Environmental Policy & Social Initiatives",https://cdn.theorg.com/133061b6-a311-4259-9e18-9f9157a1390a_thumb.jpg,Katherine Adams,3
+Catherine C. Baggett,"Head Counsel - Music Production, Original Content, Legal & Studio Affairs",https://cdn.theorg.com/366c330e-d0bf-4ec5-82a5-e40160270346_thumb.jpg,Katherine Adams,3
+Carrie Hanqian Yu,"Legal Director, Employment Law, APAC",https://cdn.theorg.com/08bbcb08-eec0-43ca-ba0e-44141edd1d84_thumb.jpg,Katherine Adams,3
+Diek van Nort,Head Of Trade Secret Litigation,no_match,Katherine Adams,3
+Mili Desai,"Head Of Strategic Engagement, Law Firms & Legal Vendors",https://cdn.theorg.com/5389307d-517f-4b87-8f36-ebd3aded296b_thumb.jpg,Katherine Adams,3
+Hyunjae Kim,Head Of Legal Technology Solutions,https://cdn.theorg.com/232273c1-4f85-4753-bd3e-f4c5a0272b11_thumb.jpg,Katherine Adams,3
+Anna Mayergoyz Weinberg,Principal Legal Counsel,https://cdn.theorg.com/faaaaaf7-ce48-4ee1-a3f8-23c1de5971a5_thumb.jpg,Katherine Adams,3
+Saskia Burmeister,Team Lead - Legal Services & Global Security Procurement,https://cdn.theorg.com/fc117612-b7cf-4ab9-9dd7-495d5e0daf8f_thumb.jpg,Katherine Adams,3
+Amy Sokol,"Senior Manager And Principal Counsel, Health Care And Research",https://cdn.theorg.com/dce9e5d8-e8cd-481f-9c4e-2600a78c79a2_thumb.jpg,Katherine Adams,3
+Kym Marker-Ok,"VP, People, Retail & International",https://cdn.theorg.com/171625f0-a24d-4add-86ac-77b001c75359_thumb.jpg,Deirdre O’Brien,3
+Karen Rasmussen,Head of Online Retail,no_match,Deirdre O’Brien,3
+Kirsten Haithcox,Senior Director of People,https://cdn.theorg.com/f64eaefe-418f-4b5e-ba31-b8dcfab39a04_thumb.jpg,Deirdre O’Brien,3
+Vanessa trigub,Senior Director of WW Retail Market Development,https://cdn.theorg.com/b653e39a-89d2-4610-95b2-c509623253d4_thumb.jpg,Deirdre O’Brien,3
+Joe Philip,"Senior Director of Sales, Services & Support - Apple Online",https://cdn.theorg.com/d7b1b13b-f814-4402-b471-9e69147c07e0_thumb.jpg,Deirdre O’Brien,3
+Donna Cerny,Director of HR,https://cdn.theorg.com/d45a3415-6d1c-499b-a906-f34b6334fe21_thumb.jpg,Deirdre O’Brien,3
+Sydney Blount,"Manager, I&D Community Engagement",https://cdn.theorg.com/c25078ad-e7e0-482b-91df-6eaa4371941c_thumb.jpg,Deirdre O’Brien,3
+Sharad Kansara,Global Head Of Analytics & Customer Insights - Apple Retail Online,https://cdn.theorg.com/c122463f-e58e-4412-bd87-a7573b744108_thumb.jpg,Deirdre O’Brien,3
+Alan Birchall,Volunteer Guide,https://cdn.theorg.com/b3f83ca6-135e-445d-8bc7-20c754a8fa69_thumb.jpg,Deirdre O’Brien,3
+Iwan Roberts,Technical Recruiter,no_match,Deirdre O’Brien,3
+Jen Deale,"Senior Recruiting Lead, Content Design & Creative, Product Management And Marketing For services",https://cdn.theorg.com/6b4507f4-848d-4af7-b4d0-52ac852e9540_thumb.jpg,Deirdre O’Brien,3
+Joan Stephens,Sr. Recruiting Manager,no_match,Deirdre O’Brien,3
+Alyssa Glass,Head of Data Science - Apple Maps,no_match,John Giannandrea,3
+Samy Bengio,"Senior Director, AI & Machine Learning Research",https://cdn.theorg.com/bb20b8db-0e8f-4875-9600-02b4223ce873_thumb.jpg,John Giannandrea,3
+Gaurav Kapoor,Director of Machine Learning,https://cdn.theorg.com/f2d623e5-b360-4066-94a2-a26e6b8d2ad4_thumb.jpg,John Giannandrea,3
+Jerremy Holland,Director of AI Research,https://cdn.theorg.com/2bfde817-2efa-49f7-85cc-a16b212e11dd_thumb.jpg,John Giannandrea,3
+Behzad Reyhani,"Team Member, Special Projects Group",https://cdn.theorg.com/2a0f32b3-7ebb-4552-87fa-00ee49f72c1f_thumb.jpg,John Giannandrea,3
+Tapani Raiko,Principal Research Scientist,https://cdn.theorg.com/a374bbb3-6e3f-4f19-be58-323ad42e98fc_thumb.jpg,John Giannandrea,3
+Rajiv J Krishnamurthy,Head Of DS And ML Engineering,no_match,John Giannandrea,3
+Daphne Luong,"Senior Director, Machine Learning And AI",https://cdn.theorg.com/4f07a2be-fc45-42cc-a056-8d17eaaf844a_thumb.jpg,John Giannandrea,3
+Andy Narayanan,"Head Of Product - Foundation Models, Generative Ai, Machine Intelligence @apple Ai/ml",https://cdn.theorg.com/06b001f5-a200-4aea-887f-971295f78bd5_thumb.jpg,John Giannandrea,3
+Shamitha Somashekar,Head Of Product & Program Management - AIML Research & Applied ML,https://cdn.theorg.com/d56ef9a5-7074-4c00-9553-bf6659a1e3ae_thumb.jpg,John Giannandrea,3
+Mohit Bhatnagar,"Head Of Product, Ai/ml Infra & Ops",https://cdn.theorg.com/b6dc7e68-0fa0-4b7e-80d6-2e838ebdd4ad_thumb.jpg,John Giannandrea,3
+Ankur Gupta,"Director, Maps Global Search, Data AIML And Genai",https://cdn.theorg.com/223b1c6d-e1ea-448e-9bdf-89ea5b510308_thumb.jpg,John Giannandrea,3
+Anuradha Gali,Director Of Engineering - Ai/ml,no_match,John Giannandrea,3
+Yasmin Alameddine,"Head Of Operations, Chief Of Staff Team, Machine Learning Platform Technologies & Infrastructure",https://cdn.theorg.com/185f3217-ae44-4e30-aa0c-39a539e12ba7_thumb.jpg,John Giannandrea,3
+Nityananda Jayadevaprakash,Principal Research Engineer,https://cdn.theorg.com/ff12b76c-5096-4051-af92-ff6fd24ca067_thumb.jpg,John Giannandrea,3
+Yang Zhao,"Director, Machine Learning And Search",no_match,John Giannandrea,3
+Ranjit Panigrahi,Director - Data Engineering And Analytics,https://cdn.theorg.com/c20226e4-443f-4c1f-94ac-d0b436285b39_thumb.jpg,John Giannandrea,3
+Vijay Krishnan,Data Scientist Manager,no_match,John Giannandrea,3
+Jennie Cobb,"Data Science Manager, Apple Media Products",https://cdn.theorg.com/b3a37ce2-3167-4dce-94da-bda5169b8d2c_thumb.jpg,John Giannandrea,3
+Tony Lopez,"Head Of Trust & Safety, Product & Strategy",no_match,John Giannandrea,3
+Alan Dye,"VP, Human Interface Design",https://cdn.theorg.com/8445196a-6287-400b-ba5f-2ea2804cec2a_thumb.jpg,John Giannandrea,3
+Chung-Yen Lin,ML Engineering Manager - AIML,https://cdn.theorg.com/861b21ca-230c-4b64-9672-255fd48a5333_thumb.jpg,John Giannandrea,3
+Moses Pawar,Head - Apple Data Platform,https://cdn.theorg.com/4dbf20b9-4f69-4638-a5eb-0cb738d988dc_thumb.jpg,John Giannandrea,3
+Sribalan Santhanam,"VP, Silicon Engineering Group",https://cdn.theorg.com/a2f51453-b249-4ccb-b173-e93d5a53f6a0_thumb.jpg,Johny Srouji,3
+Priya Ananthanarayanan,Director of Hardware Technologies,https://cdn.theorg.com/8cefb4c8-96b4-4bd3-b606-34804f9a4a5d_thumb.jpg,Johny Srouji,3
+Wei Chen,"VP, Display Technologies",https://cdn.theorg.com/d66559c9-13b3-439d-90eb-682550919ddf_thumb.jpg,Johny Srouji,3
+Anant Mathur,Head Of Marcom Analytics,https://cdn.theorg.com/fbe0782c-e0e0-4559-82d9-9b0bdf6ce580_thumb.jpg,Johny Srouji,3
+Fernando Mujica,"Director Of Engineering, Special Projects Group",no_match,Johny Srouji,3
+Dan Murray,"Vice President, Silicon Engineering Group",https://cdn.theorg.com/f748a2d7-470f-4fbb-b331-7bb23a42b354_thumb.jpg,Johny Srouji,3
+Fabian Klass,Vice President Of Engineering,no_match,Johny Srouji,3
+Kate Bergeron,"VP, Hardware Engineering",https://cdn.theorg.com/1aa6e26b-1be4-4907-a7fb-3446af79bec4_thumb.jpg,John Ternus,3
+Tang Yew Tan,"VP, iPhone & Apple Watch Product Design",https://cdn.theorg.com/e9a06372-fd69-417d-858b-681b9a05f15f_thumb.jpg,John Ternus,3
+Matthew Costello,"VP, Hardware Engineering",https://cdn.theorg.com/bafe2da5-173d-44bb-b02f-87c780aa4138_thumb.jpg,John Ternus,3
+Paul Meade,"VP, Hardware Engineering",https://cdn.theorg.com/95ee35e0-30b4-4984-8f7e-c398aeff1e54_thumb.jpg,John Ternus,3
+Yannick Bertolus,"VP, Hardware Engineering",no_match,John Ternus,3
+Gary Geaves,"VP, Acoustics",no_match,John Ternus,3
+Laura Metz,"Senior Product Manager, iMac",https://cdn.theorg.com/9f34761f-fa1b-4c97-af64-226267055a21_thumb.jpg,John Ternus,3
+Kevin Lynch,"VP, Technology",https://cdn.theorg.com/1682699c-e0ee-447d-8289-e70698043030_thumb.jpg,John Ternus,3
+Greg Kemp,Storage Engineering Manager,https://cdn.theorg.com/5ef12cdd-43da-4f8a-80b1-591d8742113f_thumb.jpg,John Ternus,3
+Sudhir Jain,Engineering Director - Artificial Intelligence And Data Platforms (aidp),https://cdn.theorg.com/65d4a1a0-c34f-415a-aa74-163996e664d3_thumb.jpg,John Ternus,3
+Mauro Magnaghi,"Director, Camera Module Engineering",https://cdn.theorg.com/0316da65-35f3-472e-b8c8-fcd8f0d4e1c3_thumb.jpg,John Ternus,3
+Minkyong Kim,Engineering Director,https://cdn.theorg.com/ccabcdb4-8d7c-4d33-a86d-77324f004c78_thumb.jpg,John Ternus,3
+Megan Bowman,"Director Of Human Resources, Hardware Engineering",https://cdn.theorg.com/618988a4-c922-4636-920b-82cee5b06355_thumb.jpg,John Ternus,3
+Kerry Hu,Principal Hardware Engineer,no_match,John Ternus,3
+Kofi Boateng,Principal Hardware Design Engineer,no_match,John Ternus,3
+Shelly Goldberg,"Vice President, Hardware Engineering",https://cdn.theorg.com/c9df3de5-db42-4194-b2cb-e5ea53ae8291_thumb.jpg,John Ternus,3
+Tom Marieb,Vice President Of Product Integrity In Hardware Engineering,https://cdn.theorg.com/e21be72c-0922-4181-979c-e74d8f140bfd_thumb.jpg,John Ternus,3
+Darin Divinia,Senior Director - Data Centers,https://cdn.theorg.com/bb29fb68-2c0a-4e11-b139-a8638bf86043_thumb.jpg,John Ternus,3
+Andreas Wendker,"VP, Software Engineering",https://cdn.theorg.com/b18f4a01-ea54-4a3f-885d-fce57132e647_thumb.jpg,Craig Federighi,3
+Bud Tribble,"VP, Software Technology",https://cdn.theorg.com/d1970bae-163d-4eba-8458-a6f4a78af069_thumb.jpg,Craig Federighi,3
+Sebastian Marineau-Mes,"VP, Software - Camera, Photos & Security",no_match,Craig Federighi,3
+Oliver Schusser,"VP, Apple Music & International",https://cdn.theorg.com/e25f86ff-8fb6-4bfc-8d3d-35e8a5503827_thumb.jpg,Craig Federighi,3
+Cheryl Thomas,"VP, Software Engineering Operations",no_match,Craig Federighi,3
+Jon Andrews,"VP, Core OS - Software Engineering",no_match,Craig Federighi,3
+Todd Teresi,"VP, Advertising Platforms",https://cdn.theorg.com/1cb15792-56c4-49d6-94c9-5fe44b0b6562_thumb.jpg,Craig Federighi,3
+Susan Prescott,"VP, Pro Markets",no_match,Craig Federighi,3
+Timothy Campos,"VP, CIO",no_match,Craig Federighi,3
+Christopher Brown,Principal Software Engineer,no_match,Craig Federighi,3
+Kelly Lynn,Vice President Of Product Management,no_match,Craig Federighi,3
+Bridget Yang,"Product Data Science Lead, Apple TV",https://cdn.theorg.com/c5a6315b-ecd9-4cdb-9a4b-beb83ec65589_thumb.jpg,Craig Federighi,3
+Kelvin Chiu,Principal Software Engineer,https://cdn.theorg.com/925c048c-5891-449b-9b18-4a6078dfe5c4_thumb.jpg,Craig Federighi,3
+Amit Bansal,Director Of Information Technology,https://cdn.theorg.com/0d0b8e1e-2b5b-4bfb-a8ac-7b26d3a4ca22_thumb.jpg,Craig Federighi,3
+Ravi Sharma,Head Of Data & AI Governance At Apple,https://cdn.theorg.com/2dde29eb-e923-45f9-8ebd-a46bba824120_thumb.jpg,Craig Federighi,3
+Prudhvi Rudraraju,Software Engineering Manager,no_match,Craig Federighi,3
+Albert Liu,"SW Engineering Manager, System Software Power",https://cdn.theorg.com/e9beff12-186d-485e-be1f-7719dce17327_thumb.jpg,Craig Federighi,3
+Nery O.,Software Engineering Manager,no_match,Craig Federighi,3
+Sarfarazkhan Pathan,Senior Data Engineer,no_match,Craig Federighi,3
+Anuj Mehta,Manager (siri Product Data Science And Insights) At Apple,no_match,Craig Federighi,3
+Supriya Sinha,"Senior Manager, Apple Cloud Services",no_match,Craig Federighi,3
+Vaibhav Singhal,"Sr. Power & Performance Engineer, Apple Cloud Services",https://cdn.theorg.com/e1fdf2c4-af3c-41e8-96dd-45ae3a032b9c_thumb.jpg,Craig Federighi,3
+Shyam Ramakrishna,Senior Engineering Manager - Data | Apple Cloud Services,https://cdn.theorg.com/5f7f10ef-1cc1-451b-82ae-f18ab2e4ee48_thumb.jpg,Craig Federighi,3
+Gunaranjan Arigai,Sr Engineering Manager - Data Platform (apple Media Products),https://cdn.theorg.com/5c29669f-b68b-428a-b09f-232e0088dd6a_thumb.jpg,Craig Federighi,3
+Jennifer Bailey,"VP of Wallet, Payments & Commerce",no_match,Craig Federighi,3
+Roger Rosner,"VP, Applications",https://cdn.theorg.com/4335510f-2dab-4ccb-916a-a74c0067fc78_thumb.jpg,Craig Federighi,3
+Farrel Farhoudi,"VP, WW AppleCare",https://cdn.theorg.com/addd79c0-6f87-4d8e-a907-c413f0d6f679_thumb.jpg,Craig Federighi,3
+Tor Myhren,"VP, Marketing Communications",https://cdn.theorg.com/0ad1d62e-d5c0-4b23-97b5-9b7def903599_thumb.jpg,Greg Joswiak,3
+Bob Borchers,"VP, WW Product Marketing",no_match,Greg Joswiak,3
+Kaiann Drance,"VP, WW Product Marketing",https://cdn.theorg.com/b6531b3f-0b5c-477f-9e92-82d0f8e9d7a8_thumb.jpg,Greg Joswiak,3
+Zach Kahn,"PR, Podcasts",https://cdn.theorg.com/1f911e97-7b6f-4318-8188-d292b93afd7b_thumb.jpg,Greg Joswiak,3
+Morgan Wandell,"Head Of International Content Development, Apple Tv+",https://cdn.theorg.com/2911345d-f083-45f9-a94b-5b642943fb46_thumb.jpg,Greg Joswiak,3
+Amy Dickman,Head Of International Marketing - Apple Tv+,https://cdn.theorg.com/7d0b6b18-1e49-42f0-a0c2-99773eddce1f_thumb.jpg,Greg Joswiak,3
+Ashley Behncke,"Head Of Retail Operations, Ownership & Analytics",https://cdn.theorg.com/42f83c8f-29a9-4465-86f3-d61eab8dfda4_thumb.jpg,Greg Joswiak,3
+Sowmya Rajagopalan,"Senior Director, Worldwide Product Marketing | Pricing And Analytics",https://cdn.theorg.com/0ba2f3bb-9619-43aa-95da-323ada9c8baa_thumb.jpg,Greg Joswiak,3
+Naivasha Dean,Head Of Editorial Content Management - music,https://cdn.theorg.com/9d2a723c-3944-492b-9c2e-e898788814ef_thumb.jpg,Greg Joswiak,3
+Kat T.,"Head Of Programming - Today At Apple, Retail Engagement And Marketing, AU",https://cdn.theorg.com/c7181ce2-b2f7-43eb-bc91-2500c2ed31c8_thumb.jpg,Greg Joswiak,3
+Lance Turner,"Head Of Audience Marketing, Apple Music",https://cdn.theorg.com/2844184c-a236-4efa-9d55-40882a8ef432_thumb.jpg,Greg Joswiak,3
+Ludovic Schorno,Associate Creative Director. Worldwide Marketing,https://cdn.theorg.com/1c5070aa-18ce-4fba-97fb-5c752a1ca69d_thumb.jpg,Greg Joswiak,3
+Shalini Poddar,"Country Director - India, Content Services",https://cdn.theorg.com/64fcdf74-9abe-4ea6-b724-e0fa2df6a7ff_thumb.jpg,Greg Joswiak,3
+Tom Kydd,Global Head Of Brand Marketing At Beats By Dre,https://cdn.theorg.com/0199871e-0b55-4b2f-a3c1-365d8ab05afd_thumb.jpg,Greg Joswiak,3
+Nana Adu-Sarfo,Head Of Music Marketing | Apple Music & Beats By Dr.dre,https://cdn.theorg.com/64a8d1bc-43ad-451e-b440-a2a7fe55da6b_thumb.jpg,Greg Joswiak,3
+Magdalen Kennedy,"Senior Director, WW Media",https://cdn.theorg.com/4fc318a6-2f08-4b9e-9b0f-686b949387b8_thumb.jpg,Greg Joswiak,3
+Devon H.,Head Of Brand & Integrated Marketing - App Store,https://cdn.theorg.com/1a8bcbb7-2800-4aab-ab34-f88055d9410f_thumb.jpg,Greg Joswiak,3
+Scott Seviour,"Director Of Worldwide Buzz Marketing, Apple",https://cdn.theorg.com/a3669e87-c3fb-41d9-86c7-9103eed22ce9_thumb.jpg,Greg Joswiak,3
+Nola Weinstein,Head Of Worldwide Events & Experiences,https://cdn.theorg.com/e43b548e-6ba1-460a-a70c-bf2b37a35d50_thumb.jpg,Greg Joswiak,3
+Sutira Phrakaysone,"Head Of Marketing Integration, Channels & Operations, App Store",https://cdn.theorg.com/e43f137e-129d-4a22-aeda-63f4c1da5af0_thumb.jpg,Greg Joswiak,3
+Lilly N.,Chief Marketing Officer,https://cdn.theorg.com/8f3abe69-32be-4606-a90f-01c90b420e1c_thumb.jpg,Greg Joswiak,3
+Philip W. Schiller,Apple Fellow,https://cdn.theorg.com/26e0bc70-c8d0-4e7d-a12a-8afd206f6d83_thumb.jpg,Eddy Cue,3
+Dyllon Young,"Principal Product Manager, Apple Podcasts",https://cdn.theorg.com/2665e1d0-7a10-4ab6-8963-011172e3914e_thumb.jpg,Eddy Cue,3
+Kimberly Steele,"Global Process Lead, Compensation Services Communications",https://cdn.theorg.com/384d1267-a2d3-4628-b741-8359d9a6c832_thumb.jpg,Kristin Huguet Quayle,3
+Mehak Chawla,"Corporate Communications Lead, India",https://cdn.theorg.com/1f09bc09-8ebf-40e4-9d91-fdbc7de3083f_thumb.jpg,Kristin Huguet Quayle,3
+Debora C.,Global Digital Lead | Worldwide Partner Communications,https://cdn.theorg.com/9f3fe3f6-5c2d-4c35-9d60-cd0c23d1b463_thumb.jpg,Kristin Huguet Quayle,3
+Olivia Alair Dalton,"Senior Director, Corporate Communications",https://cdn.theorg.com/8c53cab0-5338-436e-9f93-b9744b6f7c9d_thumb.jpg,Kristin Huguet Quayle,3
+Mariam Rahbari,Partner Communications Manager,https://cdn.theorg.com/08db78f3-d2fd-4da5-9836-7de09e3dbf97_thumb.jpg,Kristin Huguet Quayle,3
+Sandro Cunningham,Senior Sales Director,https://cdn.theorg.com/49ab9d12-5957-4ee8-9a03-e6ee336b8bc2_thumb.jpg,Mike Fenger,3
+Yasemin Pereira,Emeia Enterprise & EDU Services Sales Lead,no_match,Mike Fenger,3
+Ethan V.,"Senior Manager | Business Planning, WW Enterprise & Education Sales",no_match,Mike Fenger,3
+Lauren Fry,Head Of Video Ad Sales,https://cdn.theorg.com/cdf69b61-556c-4f96-80a6-6e06b3df893b_thumb.jpg,Mike Fenger,3
+Xin du,"Director, Worldwide Sales Strategy & Business Development",https://cdn.theorg.com/9f0593c4-d2cf-4d8a-9fd4-b4eee285bc5b_thumb.jpg,Mike Fenger,3
+Christy Jones,US Major Accounts Sales Director,no_match,Mike Fenger,3
+Marielli Baldresca,Head Of Sales,no_match,Mike Fenger,3
+Tom Farrell,"Director, Sales & Business Development, Enterprise & Education, Immea",https://cdn.theorg.com/b42b5895-964c-4220-969e-18f196bb0401_thumb.jpg,Mike Fenger,3
+Diana Gonzalez,SMB And Carrier Corp Sales Lead,https://cdn.theorg.com/abffebcb-49e9-40ea-bcd4-11369dd057af_thumb.jpg,Mike Fenger,3
+Priya Balasubramaniam,"VP, Operations",https://cdn.theorg.com/fbf1b73a-4b4e-40c4-9326-3ac11a9f79c2_thumb.jpg,Sabih Khan,3
+Rob York,"VP, Manufacturing Design",https://cdn.theorg.com/5e88d55b-5645-4310-a1e2-0dc488929609_thumb.jpg,Sabih Khan,3
+Daniel Rosckes,"VP, Global Procurement",no_match,Sabih Khan,3
+Iris Cui,Operations Director,no_match,Sabih Khan,3
+Avtar Ram Singh,"Business Lead - Southeast Asia, Apple Podcasts",https://cdn.theorg.com/3556ebdf-da73-439a-8208-c9e80f06eebd_thumb.jpg,Sabih Khan,3
+Amr Gamal,Senior Director Of Operations,no_match,Sabih Khan,3
+Shahed Mazumder,US Carrier Business Planning And Strategic Insights Lead,https://cdn.theorg.com/9655dcec-1911-4b5f-b2c7-8fbdd6df7294_thumb.jpg,Sabih Khan,3
+Marco Roccasalva,"Senior Director, Operations Finance",https://cdn.theorg.com/17086690-9a4d-423f-8081-f95f312b1ed8_thumb.jpg,Sabih Khan,3
+Gal Dayan,Head Of Inbound Logistics,https://cdn.theorg.com/2140a465-4bb9-4bfd-9e02-1bd0d408946e_thumb.jpg,Sabih Khan,3
+Skye McIlvaine-Jones,Director Of Channel Strategy & Activation,no_match,Sabih Khan,3
+Ruth Andrews,Director APAC Retail Ownership Operations,no_match,Sabih Khan,3
+Christine Defilippo,Senior Director Of Operations,https://cdn.theorg.com/dd771364-cb0c-4357-92b2-6d9aa65f2b14_thumb.jpg,Sabih Khan,3
+Dheeraj Chugh,"Vice President, Product Operations",https://cdn.theorg.com/544d336b-0f77-4286-80d7-cb6daeafd099_thumb.jpg,Sabih Khan,3
+George Stathakopoulos,Vice President Of Corporate Information Security,no_match,Sabih Khan,3
+Lawrence Quinn,Business Lead,https://cdn.theorg.com/408cf2cf-4443-4a35-a43c-1402929b58f2_thumb.jpg,Sabih Khan,3
+Poonam Kaur,"Lead - Strategic Engagement, Environmental Initiatives, India & Middle East",https://cdn.theorg.com/5944c622-fb67-47a8-8448-60a30e2afa31_thumb.jpg,Sabih Khan,3
+Sarah Chandler,"Vice President, Environment And Supply Chain Innovation",https://cdn.theorg.com/f6869e0a-04b4-480e-a6be-e7d1e046adcf_thumb.jpg,Sabih Khan,3
+Tanya White,VP Of HR,https://cdn.theorg.com/eeef64b0-b7fe-4bfc-a562-db0985c3422b_thumb.jpg,Sabih Khan,3
+Meghan Landrum,Head Of Discovery And Strategic Ops Leader,https://cdn.theorg.com/66603b95-1acf-46d5-b69c-5b1836a7819a_thumb.jpg,Sabih Khan,3
+Carson Oliver,"Senior Director Of Business Management, App Store",https://cdn.theorg.com/4ed17659-5e2d-4fb8-95cc-90cb6cb57e2e_thumb.jpg,Sabih Khan,3
+Kirsty van Den Dungen,"Global Head Of Creative Services, Studio & Group Operations",https://cdn.theorg.com/ffc392ec-fc87-405c-ac2f-263938b5b652_thumb.jpg,Sabih Khan,3
+Isabel Ge Mahe,"VP, Managing Director - China",https://cdn.theorg.com/8ceb3a97-d870-4bf8-ae51-e0d52a93c355_thumb.jpg,Sabih Khan,3
+Sumbul Ahmad Desai,"VP, Health",https://cdn.theorg.com/5cd94c24-c1a8-4fe1-a6b6-d2c22169b309_thumb.jpg,Sabih Khan,3
+Jen Chow,"Director, Technical Accounting",https://cdn.theorg.com/a66ec43f-911c-4f90-be55-3963a8ecd724_thumb.jpg,Donal Conroy,4
+Nate Barton,Finance Director (services),https://cdn.theorg.com/7c34bb70-e2d3-4a79-9c2c-d31cfd10dbff_thumb.jpg,Donal Conroy,4
+Ben Borders,"Director, Revenue Accounting",no_match,Donal Conroy,4
+Mykl Dunning,"Senior Finance Director, Corporate Fp&a",https://cdn.theorg.com/6ffce197-3a2f-4191-b5d5-4e6f8f125f92_thumb.jpg,Donal Conroy,4
+Karl Gildenmeister,"Senior Finance Manager, Global Retail Finance - Commercial Programs, Marketing & Online",https://cdn.theorg.com/137308b0-c71d-45c3-92a5-6b440a2e237d_thumb.jpg,Donal Conroy,4
+Cathleen Deornelas,"Sr. Manager, Global Financial Benefits",no_match,Donal Conroy,4
+Jocelyn Krabbenschmidt,Director Tax,no_match,Donal Conroy,4
+Cathy Ou,Head Of Financial Planning & Analysis - Appletv+,https://cdn.theorg.com/27d1d73a-b18b-421d-8445-eb160394004d_thumb.jpg,Donal Conroy,4
+Sharon K.,"Finance Lead, Tv+ Video Services",https://cdn.theorg.com/044f195f-19c1-49ec-8215-cd2acf225593_thumb.jpg,Donal Conroy,4
+Aki Aggarwal,Senior Finance Manager,https://cdn.theorg.com/4e60251c-c914-4f33-a735-1850a070990a_thumb.jpg,Donal Conroy,4
+Hugh McKellar,Finance Manager,https://cdn.theorg.com/b439d919-dfe5-4e01-9439-68270fe74f02_thumb.jpg,Donal Conroy,4
+Cécile Sambron,"Head Of Sales Finance, South Europe",https://cdn.theorg.com/30f39d3a-2223-40d9-9806-52b5c79b72e2_thumb.jpg,Donal Conroy,4
+Diogo C.,Head Of Credit Emeia,https://cdn.theorg.com/317359d6-5ee5-47cd-8881-79e9ecc6717e_thumb.jpg,Donal Conroy,4
+Sevion Dacosta,Senior Financial Analyst,https://cdn.theorg.com/27cbe68c-7513-4bed-a628-97577079480d_thumb.jpg,Aki Aggarwal,5
+Mary  Greenberg,Account Manager ,https://cdn.theorg.com/901b350c-65a5-4f50-a8a4-127f00079b38_thumb.jpg,Chris Kondo,4
+Heather Mewes,"Head of Licensing - IP Law, Licensing & Litigation Group",no_match,BJ Watrous,4
+Heather Grenier,"Senior Director of Commercial Litigation & Head of Operations, Legal & Global Security",https://cdn.theorg.com/da4770ee-54a1-4de1-9e42-d5f79fe44c54_thumb.jpg,BJ Watrous,4
+Martin Gudmundsson,Director of Regulatory & Legal - EMEIA,https://cdn.theorg.com/2b02a0bc-4a06-4989-926c-de11bc884b9b_thumb.jpg,BJ Watrous,4
+Jamie Wong,"Principal Counsel & Senior Manager, Corporate Law - Greater China, APAC & Americas",https://cdn.theorg.com/a53e0620-17d6-402a-afbc-ada8600db450_thumb.jpg,BJ Watrous,4
+Jonas Dreger,"Senior Manager Strategic Engagement & Country Compliance, Environmental Initiatives Emeia",https://cdn.theorg.com/a8dd947b-aa05-4f70-afb9-68734adb102b_thumb.jpg,Martin Gudmundsson,5
+Freshta Haqiq,Senior Corporate Paralegal,https://cdn.theorg.com/01f3c830-84e3-4592-921f-a0fed5e85963_thumb.jpg,Martin Gudmundsson,5
+Roy Zemlicka,"Senior Legal Counsel, Products And Regulatory",https://cdn.theorg.com/fc41ba09-dbcc-4e7c-86f4-53f64705f8de_thumb.jpg,Martin Gudmundsson,5
+John Gould,"Senior Legal Counsel, Open Source & Standards",https://cdn.theorg.com/b9d36c19-73f0-45c9-9eb9-8def8d639370_thumb.jpg,Jeff Myers,4
+Erika Obuhanych,Director of Products Law,https://cdn.theorg.com/e8340866-5858-4885-a4b2-2a3c23babf6c_thumb.jpg,Kyle Andeer,4
+James Anderson,"Fraud Intelligence Team, Sr. Manager",https://cdn.theorg.com/7c54e079-9e1e-445f-bea2-9f69f30ac69b_thumb.jpg,Kyle Andeer,4
+Forrest Henderson,Principal Counsel & Senior Manager - Products Law Group,https://cdn.theorg.com/473041bb-849e-45a9-a102-e3bad8064bd9_thumb.jpg,Erika Obuhanych,5
+Robert P. Watkins III,"Senior Legal Counsel, Hardware Products",https://cdn.theorg.com/686f8c68-ab82-4a1a-be6a-0f5930e9b38e_thumb.jpg,Erika Obuhanych,5
+Prateek Hiremath,Senior Counsel,https://cdn.theorg.com/42407ecf-d6d0-436d-92ef-f5c0b99290c2_thumb.jpg,Erika Obuhanych,5
+Natasha Chu,Senior Legal Counsel,https://cdn.theorg.com/c3c14826-a387-48be-bd95-37a59a905da4_thumb.jpg,Erika Obuhanych,5
+Jose Hernandez,"Senior Ai/ml Product, Regulatory, And Policy Counsel",https://cdn.theorg.com/b1b5bf2d-97e9-45d1-a601-263d194eb426_thumb.jpg,Erika Obuhanych,5
+Lara Clemente,Senior Legal Counsel,https://cdn.theorg.com/95146809-374b-4730-9ee3-a49948872577_thumb.jpg,Erika Obuhanych,5
+Rod Bissoli,Senior Legal Counsel,https://cdn.theorg.com/ffb2a14c-9f03-46e6-9881-656e3f161dc8_thumb.jpg,Forrest Henderson,6
+Erreka Campbell,"Senior Counsel & Manager, Products Legal ► Indirect Procurement | Commercial Contracts",https://cdn.theorg.com/6fa24fe9-353d-46a9-b098-4db2ec0d6f4e_thumb.jpg,Forrest Henderson,6
+Danielle Sattman,"Manager, Environment, Health & Safety",https://cdn.theorg.com/fd4a1a41-b851-42d2-b379-270000198ee7_thumb.jpg,Lisa Jackson,4
+Robert Redlinger,Global Energy & Sustainability Team Lead,https://cdn.theorg.com/3eb64d42-60f4-45cd-886b-07eb1b3b4393_thumb.jpg,Lisa Jackson,4
+Kristina Raspe,"VP, Global Real Estate & Facilities",https://cdn.theorg.com/f02d0578-181c-4723-b283-93e78581c924_thumb.jpg,Lisa Jackson,4
+Andrea Romano,Renewable Energy Strategy Manager,https://cdn.theorg.com/0cde5d42-24a1-4707-91c8-24dc12cfbad3_thumb.jpg,Robert Redlinger,5
+Salim Saherwala Ap,Development Manager (corporate Real Estate & Development),https://cdn.theorg.com/3624b6d1-b5b9-405a-9ff3-048095b9bb4b_thumb.jpg,Kristina Raspe,5
+Rebecca Cullen,"Senior Director, Real Estate And Development - Global Real Estate Expansion And Operations",https://cdn.theorg.com/e50c1fe4-ad44-4918-acab-2c512b1803fd_thumb.jpg,Kristina Raspe,5
+Carmen Liliana Buendía Otero,Re&d Facilities Manager - Latam,https://cdn.theorg.com/a2a39bcd-068d-4e77-bf97-1583ff46122f_thumb.jpg,Kristina Raspe,5
+Jack Pararas,"Senior Legal Counsel, Commercial Litigation",no_match,Anna Mayergoyz Weinberg,4
+Sjoerd Gehring,Head Of Recruiting,https://cdn.theorg.com/4ed573fc-4a14-48e6-8379-744e01ed752e_thumb.jpg,Kym Marker-Ok,4
+Mark Ryan,"Director, Executive Recruiting",https://cdn.theorg.com/8c859f35-b92b-4396-888e-515eb36fb58c_thumb.jpg,Kym Marker-Ok,4
+India Reed,Principal Recruiter,https://cdn.theorg.com/219075d5-80a6-4bdd-8528-cebcdf7efc46_thumb.jpg,Kym Marker-Ok,4
+Gemma Watson,"Senior HR Director, People Team, Talent Management & OD",https://cdn.theorg.com/2fac6885-c050-4d05-a7ca-830954fe6736_thumb.jpg,Kym Marker-Ok,4
+Courtney Peck Robles,"Director, People Operations",no_match,Kym Marker-Ok,4
+Angel Sparschu,"Director, People",https://cdn.theorg.com/27cbb14e-4835-4f70-af5f-6a4972d51320_thumb.jpg,Kym Marker-Ok,4
+Polly Roebuck,"Human Resources Director, Emeia Apple Retail",https://cdn.theorg.com/758b9f5b-55ba-44b4-961c-ef96aae8ed1c_thumb.jpg,Kym Marker-Ok,4
+Grace Tan,People Director Asia Pacific,no_match,Kym Marker-Ok,4
+Ram Vadivelu,Director - People Business Partner,https://cdn.theorg.com/934db53a-2df5-4b42-bc46-9937ca33f6a6_thumb.jpg,Kym Marker-Ok,4
+Shannon Sinunu,"Director Of Community Investment, Worldwide",https://cdn.theorg.com/db177fe3-275f-4203-9d91-8c19db3ce8bf_thumb.jpg,Kym Marker-Ok,4
+Anupama Pande,Head - Retail Programs (people Programs In Channel),https://cdn.theorg.com/a8e42e91-e588-4cf4-bff8-f8a6c392b302_thumb.jpg,Kym Marker-Ok,4
+Eva Dunke,"Recruiting Manager, Marketing - Emeia",https://cdn.theorg.com/288eac4b-a20c-48db-813f-1665ca8cfb58_thumb.jpg,Sjoerd Gehring,5
+Liz P.,Senior Recruiter,https://cdn.theorg.com/b63d93cd-b86f-450b-856d-2c769d39c456_thumb.jpg,Sjoerd Gehring,5
+Henry Wellesley-Davies,"Recruitment Manager (aiml, Software & AIS Engineering Groups)",no_match,Sjoerd Gehring,5
+Navpreet Kaur,Senior Technical Recruiter,https://cdn.theorg.com/e5bda69b-acab-4eb1-913e-1127189d10bf_thumb.jpg,Sjoerd Gehring,5
+Derek S.,Senior Recruiter - University Relations - AIML,https://cdn.theorg.com/e0791ce1-167a-4bcf-b3e2-4f7d710f6774_thumb.jpg,Sjoerd Gehring,5
+Jessica Ji,Recruiting Manager,https://cdn.theorg.com/698c400c-0d71-4220-bffb-71f94352004a_thumb.jpg,Sjoerd Gehring,5
+Cynthia Garcia,Recruiting Manager,no_match,Sjoerd Gehring,5
+Anu Goel,Sr Recruiter - AIML,https://cdn.theorg.com/42fc2069-3f99-4ee0-9059-d3557c323809_thumb.jpg,Henry Wellesley-Davies,6
+Katelyn Anyan,People Manager,https://cdn.theorg.com/26b343d3-329f-4e31-b7cd-65f97a0285a2_thumb.jpg,Courtney Peck Robles,5
+Terence Yap,Senior Recruiter,https://cdn.theorg.com/89c1d1a3-121f-4d1e-83e4-59dfe9a53270_thumb.jpg,Courtney Peck Robles,5
+Darcy Wallace,Senior Human Resources Business Partner,https://cdn.theorg.com/8ae3f8f1-65fd-46e9-8567-490248199cba_thumb.jpg,Kirsten Haithcox,4
+Mandy Curtis,"People Manager, Content Development",no_match,Kirsten Haithcox,4
+Juergen Reinhard,Senior Manager Sales Planning & Operations D/a/ch,https://cdn.theorg.com/05bbcc11-bb60-4ca5-821e-5419b5b9fe37_thumb.jpg,Joe Philip,4
+Jojo Conlan,Senior Global Human Resources Leader,https://cdn.theorg.com/b30963d5-5185-4d26-93fb-698b691013d9_thumb.jpg,Donna Cerny,4
+Max Ferguson,Senior Technical Recruiter - Ai/ml/sw/hw ,https://cdn.theorg.com/08efd30b-8210-4c47-a7e5-1c14beeee174_thumb.jpg,Joan Stephens,4
+Beata Kempanowski,Sr Technical Recruiter- Ai/ml,https://cdn.theorg.com/6d6a1b83-676d-4d8f-a4be-03525f9e14db_thumb.jpg,Joan Stephens,4
+Keith Hines,Senior Technical Recruiter,no_match,Joan Stephens,4
+Tiffany Tutson,Senior Recruiter,no_match,Joan Stephens,4
+Ian Ng,"Senior Technical Recruiter, Hardware Engineering",https://cdn.theorg.com/3a78e41b-67b7-4560-927c-71e8fb4941f9_thumb.jpg,Joan Stephens,4
+Yenne Ho,"Recruiting For Sales, Marketing And Services For South Asia",https://cdn.theorg.com/6adb3c70-433c-4ba5-828c-f3f68868f90b_thumb.jpg,Joan Stephens,4
+Preeti Agarwal,Senior Recruiter,https://cdn.theorg.com/ce02d08a-df77-484a-b638-3025002761c4_thumb.jpg,Joan Stephens,4
+Dawn Hamilton,Senior Talent Acquisition Specialist,https://cdn.theorg.com/db105f7c-be16-4d8c-984d-a672b7d71fc4_thumb.jpg,Joan Stephens,4
+Autumn Brunke,Sr Technical Sourcing Recruiter,https://cdn.theorg.com/4fb65125-2700-4483-ae86-e5d6c7139417_thumb.jpg,Joan Stephens,4
+Rain Thompson,Senior Technical Recruiter,https://cdn.theorg.com/0fdd8136-051c-46a8-95df-3697b5e5784c_thumb.jpg,Joan Stephens,4
+Jens Jacob Pallisgaard,"Software Engineer, Computational Imaging",https://cdn.theorg.com/326d8fba-3abc-4f3c-a348-97b68523116b_thumb.jpg,Alyssa Glass,4
+Gargi Chakraborty,Data Science Manager,https://cdn.theorg.com/5f9cbf7f-2bd4-4c3f-b219-63de57b1effd_thumb.jpg,Alyssa Glass,4
+Jefferson Provost,Data Science Manager,no_match,Alyssa Glass,4
+Saurabh Godha,"Sr. Manager, Location Software",no_match,Alyssa Glass,4
+Mehrdad Nouralishahi,Senior Data Scientist,https://cdn.theorg.com/0355c9e5-0751-4faf-b85d-fe5d39823525_thumb.jpg,Gargi Chakraborty,5
+Curtis Kimm,Lab Manager,no_match,Samy Bengio,4
+Tom Sengelaub,Senior Engineering Manager Computer Vision,https://cdn.theorg.com/5a6789fa-92b3-4987-9e03-06e020c7dfbb_thumb.jpg,Samy Bengio,4
+Nageswara Rao Gunupudi,Sr Computer Vision Engineer,https://cdn.theorg.com/af1da6c3-db07-4b36-bc0c-96aba0e1a72f_thumb.jpg,Samy Bengio,4
+Atulit Kumar,Senior Computer Vision Engineer,https://cdn.theorg.com/b4eac5a8-886e-4b01-a734-7998e7d2888d_thumb.jpg,Samy Bengio,4
+Seongdo Kim,Senior Computer Vision Algorithm Engineer,https://cdn.theorg.com/2d033619-8318-45a4-a4f9-76cd8566f082_thumb.jpg,Samy Bengio,4
+Arun Thampi,Senior Ar/vr Applications Engineer,https://cdn.theorg.com/9ad0f2f5-eef1-4bff-9078-1aae2114a8e2_thumb.jpg,Samy Bengio,4
+Andrea Klein,"Senior Engineering Manager, AI/ML",https://cdn.theorg.com/861cd0a3-bbbf-494a-b7d9-1ac2fe3eabc6_thumb.jpg,Gaurav Kapoor,4
+Jinghe Zhang,Senior Machine Learning Engineer,https://cdn.theorg.com/1a1e8079-46ad-49f1-a6e7-e926f88c77d2_thumb.jpg,Gaurav Kapoor,4
+Suman Kalyan Bera,Senior Machine Learning Engineer,https://cdn.theorg.com/0b3d9002-5e14-4f9f-9e91-c01d2f4d5a52_thumb.jpg,Gaurav Kapoor,4
+Hao Tang,"Computer Vision Algorithm/sw Architect, Engineering Manager",no_match,Gaurav Kapoor,4
+Fang Lu,Machine Learning Manager,https://cdn.theorg.com/9fbd5213-8318-4055-ae27-871253b39087_thumb.jpg,Gaurav Kapoor,4
+Wonchang Chung,Senior Machine Learning And Data Scientist,no_match,Gaurav Kapoor,4
+Anusha Kamath,Senior Machine Learning Engineer,https://cdn.theorg.com/8599199f-cf20-4716-87f4-6b786e3576b0_thumb.jpg,Gaurav Kapoor,4
+Nicholas Apostoloff,Senior Machine Learning Manager,https://cdn.theorg.com/0891e19f-a553-409c-a625-88181cf3d578_thumb.jpg,Gaurav Kapoor,4
+Perry Petra-Wong,Data Science Manager,https://cdn.theorg.com/ae91d1fe-dc02-4351-8897-26b5a24c9724_thumb.jpg,Gaurav Kapoor,4
+Barry-John Theobald,Machine Learning Manager,https://cdn.theorg.com/97603bd1-bbe7-4a78-98e6-aa39cb4b9606_thumb.jpg,Gaurav Kapoor,4
+Angeliki Metallinou,"Senior Machine Learning Manager, AIML Siri",https://cdn.theorg.com/7c7020a7-3a3b-4e2b-bc96-2943f5176c50_thumb.jpg,Gaurav Kapoor,4
+Puja Das,Senior Machine Learning Manager,no_match,Gaurav Kapoor,4
+Hemanth Sangappa,Machine Learning Manager,https://cdn.theorg.com/09c5a510-7417-4c28-858a-fc3c550779c6_thumb.jpg,Gaurav Kapoor,4
+Vipul Pandey,Sr Machine Learning Manager,https://cdn.theorg.com/d2d2d495-5b90-43d2-bc7a-32b45894cd45_thumb.jpg,Gaurav Kapoor,4
+Fulya Ozcan,Senior Machine Learning Engineer,https://cdn.theorg.com/482c8849-6300-438b-b459-3e7e29c0fe6d_thumb.jpg,Gaurav Kapoor,4
+Shahin Shayandeh,Senior ML Engineering Leader,https://cdn.theorg.com/5aaf5fb5-073c-456b-b290-5d6122b220ae_thumb.jpg,Gaurav Kapoor,4
+Havish Garimella,Senior Data Scientist,https://cdn.theorg.com/566922ab-8b54-46b9-80d1-31f88d48ee75_thumb.jpg,Fang Lu,5
+Zidi Xiu,Sr. Machine Learning Engineer,https://cdn.theorg.com/b8e2723d-ea69-4ee3-b0a6-d67f96309701_thumb.jpg,Nicholas Apostoloff,5
+Audace Nakeshimana,Senior ML Engineer | Siri And Information Intelligence (sii),https://cdn.theorg.com/a8896733-b49e-4bb1-adce-961fad414c9c_thumb.jpg,Hemanth Sangappa,5
+Behrad Toghi,Senior Research Scientist,https://cdn.theorg.com/3c0255ea-685b-4d1a-b639-d96ecfa9c101_thumb.jpg,Jerremy Holland,4
+Brody Huval,SPG Senior ML Researcher,no_match,Jerremy Holland,4
+Joshua Susskind,"Research Manager, Deep Learning Scientist",https://cdn.theorg.com/61c007f9-85b8-4e19-a2f1-7227f2a44f79_thumb.jpg,Jerremy Holland,4
+Nikola Vukovic,"Senior Research Scientist, Vision Pro",https://cdn.theorg.com/b7be134b-cbc0-42fd-8f91-9773cbd3cb92_thumb.jpg,Joshua Susskind,5
+Xiaojing Zhang,Senior Research Scientist,no_match,Tapani Raiko,4
+Richard Fineman,Engineering Manager,no_match,Tapani Raiko,4
+Sam Pourcyrous,Senior Software Engineer,no_match,Richard Fineman,5
+Lakshmi Panicker,People Analytics And Engineering Sr Leader,no_match,Rajiv J Krishnamurthy,4
+Swetava Ganguli,"Staff Machine Learning Research Scientist, Services Ai/ml",https://cdn.theorg.com/723d5a6c-3b0f-4191-bda8-d4d4d90c3338_thumb.jpg,Daphne Luong,4
+Junyi Shen,Senior Machine Learning Scientist,https://cdn.theorg.com/baace763-7b25-4103-9c30-7ad47982d16e_thumb.jpg,Daphne Luong,4
+Stefan Auer,Machine Learning Manager,https://cdn.theorg.com/6e3ab1f7-625d-4b8e-94cc-985cb83f048b_thumb.jpg,Daphne Luong,4
+Rohit Das,Data Science Manager,no_match,Daphne Luong,4
+Qibin Zhu,Data Science Manager,https://cdn.theorg.com/19e88064-6349-4a38-a06f-ce03824a1685_thumb.jpg,Daphne Luong,4
+Jess Roeder,Data Science Manager,https://cdn.theorg.com/bb8f9a60-3e4c-4962-b046-8146685921e7_thumb.jpg,Daphne Luong,4
+Saul Jackman,Senior Data Science Manager,no_match,Daphne Luong,4
+Sneha Runwal,"Manager, Machine Learning",https://cdn.theorg.com/250bdf65-f8dd-4078-b18e-aad9f535a3b7_thumb.jpg,Daphne Luong,4
+Cen Guo,"Sr. Manager, Data Science, Ai/ml",https://cdn.theorg.com/82f826b8-77b0-44a3-99d5-6eb5b9657c7f_thumb.jpg,Daphne Luong,4
+Fartash Faghri,Senior Machine Learning Researcher,https://cdn.theorg.com/50413047-2b02-4e28-bade-6901fef85340_thumb.jpg,Daphne Luong,4
+Daryn Bryden,Senior Instructional Designer And Program Manager,https://cdn.theorg.com/e128bf6f-7c56-4d42-998e-b388a9a0dfab_thumb.jpg,Daphne Luong,4
+Babak Aghazadeh,Senior Engineering Manager - ML & Algorithms,https://cdn.theorg.com/5799d02a-0391-47c5-9e2f-cc91864c0c73_thumb.jpg,Daphne Luong,4
+Silvia Frías,Engineering Manager - Global Siri,no_match,Daphne Luong,4
+Cheng Liu,Sr. Data Scientist,https://cdn.theorg.com/733b5b16-b9b3-4ea0-9839-817c96b2eb42_thumb.jpg,Rohit Das,5
+Ivie A,Senior Data Privacy Analyst,https://cdn.theorg.com/801cba80-74f8-4396-80d6-c8d5c19ad535_thumb.jpg,Rohit Das,5
+Han Hee Song,Senior Data Scientist,https://cdn.theorg.com/2ceb280a-1185-4c96-9cdc-bbf704b72f27_thumb.jpg,Jess Roeder,5
+Mingfei Gao,Senior Applied Scientist,https://cdn.theorg.com/8e5d80bf-aeb4-4b33-beca-dcf0b20b66e5_thumb.jpg,Saul Jackman,5
+Hadas Kotek,Siri - Senior Data Scientist,https://cdn.theorg.com/6803716d-ce60-4077-b185-b59ff758c205_thumb.jpg,Saul Jackman,5
+Jenny Hu,Senior Data Scientist,https://cdn.theorg.com/9bb048de-4f73-4134-9c87-8e296914e9d7_thumb.jpg,Saul Jackman,5
+Sonu Srinivas Chinta,Senior Analyst,https://cdn.theorg.com/dbeb879c-cfe0-4e58-9544-96f61b6507c9_thumb.jpg,Sneha Runwal,5
+Xingyu Zhou,Senior Machine Learning Engineer,no_match,Babak Aghazadeh,5
+David Q. Sun,Engineering Manager,https://cdn.theorg.com/160532f8-379f-4908-a6ed-5d0db332ce20_thumb.jpg,Anuradha Gali,4
+Manisha Das,"Senior Engineering Manager (business Intelligence, Data Analytics & Ai/ml)",no_match,Anuradha Gali,4
+Rishi Dev,Engineering Manager - Data Science & ML,https://cdn.theorg.com/dbb6e4a6-66c7-4a14-aa76-7b1de3350020_thumb.jpg,Anuradha Gali,4
+Harsha Helsing,Data Science Manager,no_match,Anuradha Gali,4
+Papitha Nagarajan,"Senior Engineering Leader, Apple Intelligence - Siri",https://cdn.theorg.com/00999a4f-1b17-4449-a85d-bc8e99520357_thumb.jpg,Anuradha Gali,4
+Niles Christensen,Senior Machine Learning Engineer,https://cdn.theorg.com/73c64ada-0a2c-4e51-8861-773b595e6c7b_thumb.jpg,Anuradha Gali,4
+Arvin Tan,Senior Performance Engineer,no_match,Manisha Das,5
+Tianqi Tong,"Senior Data Infra Engineer, AIML",https://cdn.theorg.com/c33c0f06-2d1d-48ae-be8e-09e2044a4547_thumb.jpg,Rishi Dev,5
+Hadi H.,Senior Machine Learning Engineer,https://cdn.theorg.com/9be1ffb0-fd02-4015-ad87-d930efd4b168_thumb.jpg,Rishi Dev,5
+Omar Attia,Senior Research Engineer,https://cdn.theorg.com/172103a5-33dd-4811-a3f2-7cde757406c0_thumb.jpg,Nityananda Jayadevaprakash,4
+Yaprak Akdere,Sr ML & Software Engineering Manager At Photos,https://cdn.theorg.com/308cae74-8d42-4ba2-ba0f-4ee26c89162e_thumb.jpg,Yang Zhao,4
+Jp Lacerda,"Senior Engineering Manager, Machine Learning",https://cdn.theorg.com/86e268d2-c4f0-48de-8946-c3a8ff5050f8_thumb.jpg,Yang Zhao,4
+Jeevan Kumar,"Sr. Manager, Data Science",https://cdn.theorg.com/2539d6f1-ba01-4450-bce2-7ca85910be9f_thumb.jpg,Yang Zhao,4
+Swathi R. Patnam,"Senior Technical Program Manager, Mail, Siri Info Search",https://cdn.theorg.com/76b451d1-546d-4e27-98f0-09ab23e73cc5_thumb.jpg,Yang Zhao,4
+Priyadarshini Kumari,Senior ML Researcher/engineer,https://cdn.theorg.com/22b79a36-c3bc-49f6-848d-f7d87efe5feb_thumb.jpg,Jp Lacerda,5
+Mingze Xu,Senior Machine Learning Engineer,https://cdn.theorg.com/43eafe57-ef51-4a85-978a-c01cb93694bb_thumb.jpg,Jp Lacerda,5
+Mohammadreza Armandpour,Senior Machine Learning Scientist,https://cdn.theorg.com/59599036-eb8b-4cb9-9a6f-e35e7e4cfe2d_thumb.jpg,Jp Lacerda,5
+Baran N.,Senior Machine Learning Engineer,https://cdn.theorg.com/8a5d9ff2-e915-40e8-9a46-b1d3786b5068_thumb.jpg,Jp Lacerda,5
+Mahesh Molakalapalli,Senior Manager & Head Of Data Engineering - App Store,https://cdn.theorg.com/432f5d91-86ac-486a-ba1b-b7933369cc1a_thumb.jpg,Ranjit Panigrahi,4
+Alexandra Oprescu,"Data, Reporting & Insights Manager",https://cdn.theorg.com/a0e6299f-bc82-4695-bff3-9b5765038427_thumb.jpg,Ranjit Panigrahi,4
+Nisha S.,ASE Analytics & Data Eng,https://cdn.theorg.com/b8e644ed-d11d-446d-865e-8e72670050cd_thumb.jpg,Ranjit Panigrahi,4
+Elsa Friscira,Apple Music Data Engineering Manager 🎧,https://cdn.theorg.com/a54696fd-723a-41f5-bde5-e6385523bdea_thumb.jpg,Ranjit Panigrahi,4
+Niva Ran,Senior Data Scientist,https://cdn.theorg.com/71e0a3ce-70d9-4527-b5b9-9cf113029ceb_thumb.jpg,Jennie Cobb,4
+Leslie Lecroy,"Sr. Art Director, Frameworks & Design Systems",https://cdn.theorg.com/42383ed0-3018-4663-884e-c3dea00eec79_thumb.jpg,Alan Dye,4
+Tito Balsamo,Design Manager – Health Special Projects,https://cdn.theorg.com/97f005b4-a4f9-4f79-b8ed-bb7b86939cc3_thumb.jpg,Alan Dye,4
+Armando González,Head Of User Experience Design,https://cdn.theorg.com/5f550113-cae2-4976-9413-41e4bd6bab19_thumb.jpg,Alan Dye,4
+Joon Kim,Lead Product Visual Designer,https://cdn.theorg.com/0b580519-ce4f-49df-ac2e-f33eec38ce1e_thumb.jpg,Alan Dye,4
+Ledi Lalaj dei,Associate Creative Director | Design,https://cdn.theorg.com/5777dccd-544c-46d8-9d49-a9fd963c5d4a_thumb.jpg,Alan Dye,4
+Sean Harold,"Senior Manager, Human Interface Tools + Media Technologies, Product & Design, Apple",https://cdn.theorg.com/b70005b9-5ad5-4f9f-8179-6f894b6397b2_thumb.jpg,Alan Dye,4
+Caroline Cranfill,"Director, Human Interface Design At Apple",https://cdn.theorg.com/f50a05b7-2988-490b-8025-7ec8fce96e18_thumb.jpg,Alan Dye,4
+Jimmy S.,Lead Visual/interaction Designer,no_match,Alan Dye,4
+Rob Mark,Group Lead - Mac Display Technologies Sourcing,no_match,Alan Dye,4
+Efrat Morag,Server UI Localization QA Lead,https://cdn.theorg.com/982d048b-1561-4bb1-9a04-c743dfccaf91_thumb.jpg,Alan Dye,4
+Kayla van der Byl,Senior Graphic Designer,no_match,Leslie Lecroy,5
+Hermes Mazali,Sr. Graphic Designer,no_match,Leslie Lecroy,5
+Taylor Carrigan,Senior Human Interface Designer,https://cdn.theorg.com/a908fea7-d3c1-4a8b-b450-eebe9b561f6d_thumb.jpg,Armando González,5
+Mohammad Yahia,Senior UX Designer,https://cdn.theorg.com/0ad68680-90bc-47ba-a1b8-432765af88ef_thumb.jpg,Armando González,5
+Namik Schwarz,Senior Creative At Apple,https://cdn.theorg.com/c5181fc7-b008-4284-8ce4-ff230f497059_thumb.jpg,Ledi Lalaj dei,5
+Ashish Jain,Senior Technical Program Manager,https://cdn.theorg.com/b06eaf41-a5a0-457f-8537-d9da10e16f94_thumb.jpg,Chung-Yen Lin,4
+Joel Moniz,Senior Machine Learning Engineer,https://cdn.theorg.com/cb29afad-6ae7-4395-b6f4-8229c05649e1_thumb.jpg,Chung-Yen Lin,4
+Rami Krispin,Senior Manager - Data Science And Engineering,https://cdn.theorg.com/13d231a4-8256-4379-952a-42fc4b49ae09_thumb.jpg,Moses Pawar,4
+Azar Dastouri,Senior Data Scientist/aiml Scientist,https://cdn.theorg.com/9465b17f-a690-4576-9705-67f27383408b_thumb.jpg,Rami Krispin,5
+Ozgur Isik,"Manager, Wireless Engineering Program Management",https://cdn.theorg.com/00eebe23-101f-4eee-809b-9dbf901ff018_thumb.jpg,Sribalan Santhanam,4
+Meenakshi Ravindran,GPU Pre-silicon Performance Engineering Manager,https://cdn.theorg.com/c00fd0e4-969a-4aba-a3fd-7f3f167d80e6_thumb.jpg,Sribalan Santhanam,4
+Sriram Sampathkumar,"Engineering Manager, Silicon Validation Debug Tools",https://cdn.theorg.com/7cc9a136-a184-43f9-93a1-921d71053af8_thumb.jpg,Sribalan Santhanam,4
+Luke Mullen,Hardware Development Engineer / Lab Manager,https://cdn.theorg.com/a69f6629-c592-4bc1-a3d6-5603f6048aa8_thumb.jpg,Priya Ananthanarayanan,4
+Rui Liang,"Sr. Hardware Development Engineer, Core Sensing And Laser Development",https://cdn.theorg.com/db17cb92-563d-4bec-915b-e353f7dc051d_thumb.jpg,Priya Ananthanarayanan,4
+Ray Vieweg,Hardware Lab Manager,https://cdn.theorg.com/a600347a-44a3-4259-87d3-f5a9e8b6b729_thumb.jpg,Priya Ananthanarayanan,4
+Jambu Jambulingam,Senior Hardware Engineer,no_match,Priya Ananthanarayanan,4
+Paolo Sacchetto,Director of Display Electrical Engineering,https://cdn.theorg.com/c4c12b1a-8383-45cc-b7fd-e2fdaea4cbda_thumb.jpg,Wei Chen,4
+Victor Yin,Director of Mac & Ipad Display Engineering,https://cdn.theorg.com/40a5ff18-579a-437b-bfc9-68edcbce98dc_thumb.jpg,Wei Chen,4
+Chuang Qian,Principal Display Design Engineer,https://cdn.theorg.com/dbc83294-b197-4a32-ba57-8ed4e401ada5_thumb.jpg,Wei Chen,4
+Ali K.,Senior EMC Design Engineer,https://cdn.theorg.com/1fa903e1-5cde-4d28-a0d7-72c2ecebd53b_thumb.jpg,Paolo Sacchetto,5
+Justin Wendt,Sr. Equipment Engineer,https://cdn.theorg.com/b892d6bc-a1c9-4001-ba3a-cbfe71c10113_thumb.jpg,Paolo Sacchetto,5
+Sai Harsha Jandhyala,Electrical Engineering Manager,https://cdn.theorg.com/c8884556-265f-45bf-b41c-9959ebf47581_thumb.jpg,Paolo Sacchetto,5
+Shriram Vijayakumar,Sr. DFT Engineer,no_match,Paolo Sacchetto,5
+Girish Singh,Sr. Hardware/signal Integrity Engineer,no_match,Sai Harsha Jandhyala,6
+Salman Latif,Sr. Display Hardware Engineer,https://cdn.theorg.com/e2ff1369-4cca-4aa9-94c2-1cdb63ffdb18_thumb.jpg,Victor Yin,5
+Eda W.,"Market Insights Manager, Apple Media Products",https://cdn.theorg.com/05058a9a-b6d5-41a5-9a4e-4788ae4f333c_thumb.jpg,Anant Mathur,4
+Arupa Banerjee,Engineering Manager | SAP Retail | Supply Chain,https://cdn.theorg.com/0729df74-665f-4e1b-9ebd-4ccbb38ce6e4_thumb.jpg,Fernando Mujica,4
+Dr. Daniel Theisz,ASIC Design Engineering Manager,https://cdn.theorg.com/6a706ab4-579d-427b-91ea-d7925014213b_thumb.jpg,Dan Murray,4
+Brandon Bloom,Engineering Manager,https://cdn.theorg.com/6871c1e3-fb4e-4dc0-8f0c-4e7e0a97de9f_thumb.jpg,Dan Murray,4
+Abhijeet Jadhav,Design Verification Engineer Lead,https://cdn.theorg.com/14d0c777-1bd7-4ab5-b79d-2f83ed6ce9e8_thumb.jpg,Dan Murray,4
+Narayana Vedula,Senior Physical Design Engineer,https://cdn.theorg.com/fdffcef7-cbee-4799-b75b-09bf669e78c9_thumb.jpg,Dr. Daniel Theisz,5
+Frank Chu,Director Of Engineering,https://cdn.theorg.com/cf18263e-2910-4d58-a641-fc7eec550db0_thumb.jpg,Fabian Klass,4
+Madiha Chan,Director Of Engineering,https://cdn.theorg.com/2305427e-27b7-483a-be10-f368e04350ce_thumb.jpg,Fabian Klass,4
+Wynn Zhu,"Director, Display Technologies",https://cdn.theorg.com/81b8387d-4992-49b4-b080-a1df46804165_thumb.jpg,Frank Chu,5
+Sunita Joshi,Design Verification Engineering Manager,https://cdn.theorg.com/ebbc6ec4-f2f0-4187-89e9-fee18ec48f14_thumb.jpg,Frank Chu,5
+Shilpa Rajendra,Technical Manager,https://cdn.theorg.com/8d198c33-4999-4454-8228-7dc72b71c0dc_thumb.jpg,Frank Chu,5
+Khaled Masarwa,Software And Validation Team Manager,https://cdn.theorg.com/3405276b-bb14-4604-a1ba-d81e05b717a6_thumb.jpg,Frank Chu,5
+Marwan Tushyeh,Engineering Manager II,https://cdn.theorg.com/95dc5b77-06aa-47bc-9da2-086298b18a08_thumb.jpg,Frank Chu,5
+Qikai Chen,Senior Engineering Manager,no_match,Frank Chu,5
+Feng Zheng,"Staff Engineer, Manager",no_match,Frank Chu,5
+Jonathon Mah,Software Engineer,https://cdn.theorg.com/dc01ba4f-1f8d-45f5-b9ff-d3ccb5f625f0_thumb.jpg,Frank Chu,5
+Anne Mason,Engineering Manager,no_match,Frank Chu,5
+Narendra B.,Sr. Engineering Manager,https://cdn.theorg.com/9c57c260-ce11-49ed-ad23-f05eb17a160a_thumb.jpg,Frank Chu,5
+Natan Borisov,Senior Software Engineer,https://cdn.theorg.com/c2c245db-db2c-4b36-8375-a51963cbe400_thumb.jpg,Frank Chu,5
+Akansha M.,Senior Cloud Executive,https://cdn.theorg.com/e00fb4d6-f63a-46db-a574-7c6ba1427976_thumb.jpg,Wynn Zhu,6
+Mojtaba Abolhassani,Senior Material Engineer,https://cdn.theorg.com/9bad9b1c-8fb1-4352-9406-253af0a591b0_thumb.jpg,Qikai Chen,6
+Anthony Oyatayo,Sr. Engineering Program Manager,no_match,Narendra B.,6
+Shizhao Fan,Senior Engineering Manager,no_match,Madiha Chan,5
+Mahdi Y.,Engineering Manager,https://cdn.theorg.com/85d7f3ff-82d0-4f49-90ea-9be2d8e4ee8b_thumb.jpg,Madiha Chan,5
+Pietro Binetti,Engineering Manager,https://cdn.theorg.com/59f9d35d-b5cd-4891-bbae-42d334000489_thumb.jpg,Madiha Chan,5
+Ryland Degnan,Senior Engineering Manager,https://cdn.theorg.com/be6aaad8-9f44-4d77-93e6-8f12be2d2629_thumb.jpg,Madiha Chan,5
+Jacqueline Killenga,Engineering Manager,https://cdn.theorg.com/b848fde3-90c8-452d-a2ee-3d83f9916736_thumb.jpg,Madiha Chan,5
+Monica Ephrati,Engineering Manager,https://cdn.theorg.com/6e7d963a-da82-427f-ac33-3f1436ba9cbc_thumb.jpg,Madiha Chan,5
+Sommer Panage,Engineering Manager,https://cdn.theorg.com/dcb013eb-43f8-43f9-bfdb-925ac1638588_thumb.jpg,Madiha Chan,5
+Nan Liu,Engineering Manager,https://cdn.theorg.com/772b76a1-2408-43bf-bb58-09d561fee9a6_thumb.jpg,Madiha Chan,5
+Maitrik Patel,Engineering Manager,https://cdn.theorg.com/0fc84b43-6af1-4ba0-949d-6e8d3e00a25e_thumb.jpg,Madiha Chan,5
+Prem K.,"Senior Engineer,  TV And Sports",https://cdn.theorg.com/faf0fd66-3ccc-477b-b094-b2a43370f07a_thumb.jpg,Madiha Chan,5
+Ali Ashtiani,"Manager, Site Reliability Engineering",https://cdn.theorg.com/c61c3b8e-e082-48ea-80e5-d4bb5ad120a9_thumb.jpg,Madiha Chan,5
+Ori Moskovitch,Test Engineering Manager,https://cdn.theorg.com/29d131f9-8ba6-4bf5-b3cd-92138100f761_thumb.jpg,Madiha Chan,5
+Shahrzad Pouryayevali,Algorithms Engineering Manager (mgr 2),https://cdn.theorg.com/e55ce265-bb81-4fc6-a77b-965502b99bd7_thumb.jpg,Madiha Chan,5
+Adil Daboussi,Senior Engineering Leader,https://cdn.theorg.com/344403df-3be6-4d13-acb1-45dd08578410_thumb.jpg,Madiha Chan,5
+Sasan Naderi,Engineering Manager,https://cdn.theorg.com/4ea8cd6d-b51b-464d-983e-4e97cc262006_thumb.jpg,Madiha Chan,5
+Koussalya Balasubramanian,"Senior Engineering Manager, Iphone",https://cdn.theorg.com/65f0bfe0-0923-419e-b7f0-616a08983ae8_thumb.jpg,Madiha Chan,5
+Mohsen Mollazadeh,Algorithm Engineering Manager,https://cdn.theorg.com/c3961545-e187-457c-a90d-4181747f2f4d_thumb.jpg,Madiha Chan,5
+Natalie Baer,Sr Cloud Products Engineering PM,https://cdn.theorg.com/319da436-07ce-449e-9e77-147f1ddbc81c_thumb.jpg,Madiha Chan,5
+Rakesh Patnaik,Engineering Manager,https://cdn.theorg.com/94c2a8f2-a56f-4ba5-9b3a-d4c8ac607c54_thumb.jpg,Madiha Chan,5
+Ken Greenebaum,Engineer Manager,https://cdn.theorg.com/95fb3a6d-c0ce-41ae-8a71-440395ac973f_thumb.jpg,Madiha Chan,5
+Blake Blaszak,Senior Software Engineer,https://cdn.theorg.com/cd5cba9f-6a0a-4d2f-9340-76ad5b87a73f_thumb.jpg,Pietro Binetti,6
+Kohei Ota,Senior Field Engineer,https://cdn.theorg.com/0e1bf319-f419-42e9-bdb9-512621db2314_thumb.jpg,Ryland Degnan,6
+Sri Pranathi P.,Senior Software Engineer,https://cdn.theorg.com/2465ebd5-3e62-4c0a-a4f2-3494f4f25d6c_thumb.jpg,Monica Ephrati,6
+Thaddeus Gulden,Senior Rf/ota Engineer,https://cdn.theorg.com/978ab222-8cb3-4914-8fc7-9f5fd4117d6e_thumb.jpg,Monica Ephrati,6
+Champak Chaini,Senior Frontend Developer,https://cdn.theorg.com/2664eb55-fc5e-401c-8271-c38cc6b04735_thumb.jpg,Sommer Panage,6
+Glenn Jahnke,"Senior Software Engineer, Clojure",no_match,Sommer Panage,6
+Binh Nguyen Thanh,Sr. Site Reliablity Engineer - Data Infrastructure,https://cdn.theorg.com/33b73b26-e537-4cdf-9a01-df20678cfb8e_thumb.jpg,Ali Ashtiani,6
+Anmol Kumar,Staff Reliability Engineer,https://cdn.theorg.com/8f75d1e0-ce8d-46b8-875b-7f2916df27b9_thumb.jpg,Ali Ashtiani,6
+Max Bucci,Senior Software Engineer,no_match,Rakesh Patnaik,6
+Ish Shabazz,Senior Application Engineer,https://cdn.theorg.com/ed6a6242-8b5d-4abb-9a02-d5ac62b6d51d_thumb.jpg,Rakesh Patnaik,6
+Saleh Moonensan,Hardware Design Engineer,https://cdn.theorg.com/eac5d820-4027-49f6-ba9e-99045bc5eef7_thumb.jpg,Kate Bergeron,4
+Dave Pakula,Senior Director of Product Design,https://cdn.theorg.com/598d6c35-c07c-42ef-9fda-38cdc06b0be3_thumb.jpg,Kate Bergeron,4
+Diego Mendes,Senior Product Design Manager,no_match,Dave Pakula,5
+Nir Ronen,ASIC Design Manager,no_match,Dave Pakula,5
+Jeremy Bowen,Design Manager,https://cdn.theorg.com/cc4d83ce-09d2-4eab-a5a9-c8a0f7eb3eb1_thumb.jpg,Dave Pakula,5
+Jeremiah Shaw,Design Manager,https://cdn.theorg.com/2f460767-0911-4a4a-ad73-fed859b8343c_thumb.jpg,Dave Pakula,5
+Donny Nordhues,"Manager, Product Design Program Management",no_match,Dave Pakula,5
+Uli Schöberl,Design Manager,https://cdn.theorg.com/9cad7157-725d-45bc-8ce4-caaf6a29d836_thumb.jpg,Dave Pakula,5
+Kitty Yeung,"Manager, Product Design",https://cdn.theorg.com/747a03f2-cf5c-4a83-8191-1582cdbe88ca_thumb.jpg,Dave Pakula,5
+Madhu Anugu,ASIC Design Manager,https://cdn.theorg.com/def14124-18c1-467e-a4fb-faef06488a90_thumb.jpg,Dave Pakula,5
+Yash Vyavaharkar,Soc Physical Design Manager,https://cdn.theorg.com/728a2593-1141-41e0-b0a3-657fa50889fc_thumb.jpg,Dave Pakula,5
+Edgar Rios,Senior Product Designer,no_match,Dave Pakula,5
+Marissa Dessanti,Senior Product Designer,https://cdn.theorg.com/00785ba0-a573-4da5-9c1a-585911e0da63_thumb.jpg,Diego Mendes,6
+Alfred Tse,Sr. ASIC Design Engineer,no_match,Nir Ronen,6
+Will Tuddenham,Art Director At Apple,https://cdn.theorg.com/72c05f28-c0e2-46ca-86e9-cc1c66e95820_thumb.jpg,Jeremy Bowen,6
+Tracy J. Lee,Sr. Designer,https://cdn.theorg.com/e1109b60-149e-4a41-9b61-8687a78849f0_thumb.jpg,Jeremy Bowen,6
+Emma S.,Senior Designer,https://cdn.theorg.com/db8446e0-e5f3-47a0-9918-531a1a3dcf84_thumb.jpg,Jeremiah Shaw,6
+Eclair Junchaya,Senior UX Designer,https://cdn.theorg.com/c1b8d990-915a-445e-840c-ff0c5225588d_thumb.jpg,Kitty Yeung,6
+Erik Wang,"Senior Director of Product Design, Apple Watch",https://cdn.theorg.com/e1d35138-64a4-4730-9614-2df9955b59bb_thumb.jpg,Tang Yew Tan,4
+Rich Dinh,"Senior Director of Product Design, iPhone",https://cdn.theorg.com/64c7492b-7e5c-4574-8963-eda4ac038edf_thumb.jpg,Tang Yew Tan,4
+Chris Prest,Senior Director of Materials Engineering & Product Design,https://cdn.theorg.com/6b94a749-8046-42b0-a0a1-f0e23fe63d8a_thumb.jpg,Tang Yew Tan,4
+Eric Jol,"Senior Director of Product Design, Interconnected & Powered Accessories",https://cdn.theorg.com/3e2fdda1-637a-4706-9615-94a82cb145a7_thumb.jpg,Tang Yew Tan,4
+Emery Sanford,Director of Product Design,https://cdn.theorg.com/f978d39b-cdfd-4de8-9ce1-8afaaeae5c43_thumb.jpg,Tang Yew Tan,4
+Eddy Tan,Manufacturing Design,no_match,Tang Yew Tan,4
+Mukund Ojha,Soc Design Verification Manager,https://cdn.theorg.com/798c0c5b-c6a5-4821-82ca-748fb736751c_thumb.jpg,Tang Yew Tan,4
+Dominic Fisher,Product Design Lead,https://cdn.theorg.com/d5de86bd-4719-46a1-8373-a1cabe7b714a_thumb.jpg,Tang Yew Tan,4
+Wyatt Mitchell,Senior Design Director,https://cdn.theorg.com/b8da6c7c-528d-40eb-a48d-e6da9cf09670_thumb.jpg,Tang Yew Tan,4
+Tj Miller,Head Of Design Wallet & Apple Pay,https://cdn.theorg.com/089fa0be-7ac3-427f-a5d4-eecff4cb4aed_thumb.jpg,Tang Yew Tan,4
+Hesam Aslan,Design Lead (serdes),https://cdn.theorg.com/6ccba7cc-ea47-48d7-85f4-78de4fd68991_thumb.jpg,Tang Yew Tan,4
+Gaith K.,"Director, Design",https://cdn.theorg.com/ef65cd07-0cd1-4d63-9545-fb0a92842fd7_thumb.jpg,Tang Yew Tan,4
+Jesse Buehler,Director - Product Design,https://cdn.theorg.com/08e362d5-4487-4083-8cfe-b2f3c2ffd1f9_thumb.jpg,Tang Yew Tan,4
+Maxime Veron,"Product Senior Director, Iphone",https://cdn.theorg.com/7267e1dc-0cca-42e8-a085-dea3b50d149c_thumb.jpg,Tang Yew Tan,4
+Venkatesh Soundararaj,"Sr. Engineering Project Manager, Watch Product Design",https://cdn.theorg.com/67dfb812-198f-41e7-8f17-4c8fada99b33_thumb.jpg,Erik Wang,5
+Per Lindgren,Senior Product Designer,https://cdn.theorg.com/e9bb33db-c17c-47dd-bc7a-db91076823d1_thumb.jpg,Erik Wang,5
+Dan Jarvis,iPhone PD,no_match,Rich Dinh,5
+Nick Merz,iPhone PD,no_match,Rich Dinh,5
+Peter Chou,iPhone PD Asia,https://cdn.theorg.com/e66457f9-3113-4789-b9fd-ebc3a521a38c_thumb.jpg,Rich Dinh,5
+Soonkyun Shin,Analog/mixed-signal IC Design Manager,https://cdn.theorg.com/ba1593b3-4298-4a77-a485-009a5fcb8e1c_thumb.jpg,Rich Dinh,5
+Joy Johnson,"Engineering Manager, Panel, Process & Optics(ppo)",https://cdn.theorg.com/534369d7-ec83-4bbc-bd8a-032a78c988aa_thumb.jpg,Chris Prest,5
+Jorge Domingo,RF Design Lab Manager,no_match,Chris Prest,5
+Caleb Pratt,Firmware Quality & Tools Manager,https://cdn.theorg.com/c9f2bdf1-d605-4e70-9217-c68a052bfcb7_thumb.jpg,Chris Prest,5
+Ahmad Hosseinbeig,Sr EMC Design Engineer,https://cdn.theorg.com/fbf381ae-2beb-40ef-ab7b-5cb35fce581d_thumb.jpg,Chris Prest,5
+Ozair Usmani,Design Engineering Manager,https://cdn.theorg.com/90194443-4d96-4bfb-bae8-332331972ca2_thumb.jpg,Chris Prest,5
+Benjamin Brooks,Senior Hardware Design Engineer,no_match,Joy Johnson,6
+Hannah Story,"Product Design Manager, Icloud",https://cdn.theorg.com/8ccfc7ef-f35f-4a06-9b14-ba0c3f8c5901_thumb.jpg,Emery Sanford,5
+Parthiban Mohanraj,Design Manager,https://cdn.theorg.com/f6b0bd30-cfae-4c7b-ad39-d1c16a7fa3c6_thumb.jpg,Wyatt Mitchell,5
+Michelle Chua,Senior Design Manager (vision Pro),https://cdn.theorg.com/b3d41fab-60ac-4669-bf0f-714a4ec973fa_thumb.jpg,Wyatt Mitchell,5
+Kenneth Kuh,Senior Designer,https://cdn.theorg.com/4ed96e00-67a5-46ca-92a8-7f48a4fc82bb_thumb.jpg,Michelle Chua,6
+Cenk Yildiz,Design Verification Manager,https://cdn.theorg.com/44c2f82b-0322-4ad0-afac-8d71fe71bd0a_thumb.jpg,Gaith K.,5
+Eli Shteiner,Design Verification Manager,https://cdn.theorg.com/948ac0d3-c4fa-40a4-9366-99ea1d5c7290_thumb.jpg,Gaith K.,5
+Megha N.,Senior Design Verification Engineer,https://cdn.theorg.com/b9731bf6-539f-486c-8aba-286460ec6cf4_thumb.jpg,Eli Shteiner,6
+Reyhaneh S.,Camera/depth Module Hardware Integration Lead,https://cdn.theorg.com/7622ff3d-e6c5-4864-ab80-ebce14e0b02c_thumb.jpg,Matthew Costello,4
+Allan Ngo,Principal Data Center Network Architect,https://cdn.theorg.com/9b648d7f-d1a6-4d59-9b0e-40a6e69052b3_thumb.jpg,Paul Meade,4
+Adam Adjiwibawa,Hardware Engineering Manager,no_match,Paul Meade,4
+Tiewen Han,Hardware Engineering Manager,no_match,Paul Meade,4
+Imran Khan,Senior PCB Design Engineer,https://cdn.theorg.com/1d11596d-af3b-4113-81fd-b3ff65101ecf_thumb.jpg,Adam Adjiwibawa,5
+Yong-Won Lee,Sr. HW Engineer,https://cdn.theorg.com/5096fa93-c018-4d65-8aa2-234ac73c6570_thumb.jpg,Tiewen Han,5
+Barbara Kruse,Senior Hardware Engineer,https://cdn.theorg.com/598217d3-a6fd-4a04-b487-a72510d3443b_thumb.jpg,Tiewen Han,5
+Sam Miller,"Director, Systems Engineering, Vision Products Group",https://cdn.theorg.com/2e602216-cbc7-4cde-a00b-61f39d82de08_thumb.jpg,Yannick Bertolus,4
+Shailesh Kokad,"Technology Lead, Backup & Recovery",https://cdn.theorg.com/5b9ce312-9c0f-4df3-aba9-e6f1db5bb934_thumb.jpg,Kevin Lynch,4
+Hanns Wolfram Tappeiner,"Director Of Technology, Home",https://cdn.theorg.com/1315c532-d417-4085-bb49-02570b6c5fa1_thumb.jpg,Kevin Lynch,4
+Cheri Voisine,"Head Of Communications And Engagement, Office Of The CIO",https://cdn.theorg.com/86c57842-6fed-4592-94f8-a00ff983a064_thumb.jpg,Kevin Lynch,4
+Freddy Kelly,"Sr. Engineering Manager, Apple Pay",https://cdn.theorg.com/3cd6cd08-a6cb-45ea-a14f-75971f25aff9_thumb.jpg,Kevin Lynch,4
+Jackie Lee,Senior Unix Systems And Storage Engineer,no_match,Greg Kemp,4
+Kenya Sturns,Senior SAP Material Data Management/variant Configuration Programmer,no_match,Sudhir Jain,4
+Krishna Kalyanaraman,"Engineering Manager, Wireless Design",https://cdn.theorg.com/caa7d207-6f8a-4b2d-864d-f49256310c03_thumb.jpg,Mauro Magnaghi,4
+Shun Su,Senior Module Engineer,https://cdn.theorg.com/81eeba8b-761f-4344-b15d-78c17abb3bf0_thumb.jpg,Mauro Magnaghi,4
+Guy Amdur,Senior Computer Vision Engineer,https://cdn.theorg.com/363006dc-db4d-4685-9368-55a25576971e_thumb.jpg,Mauro Magnaghi,4
+Ritesh Shah,Sr. Design Verification Engineer,no_match,Krishna Kalyanaraman,5
+Vignesh Babu Moorthy,Senior Wireless Design Engineer,https://cdn.theorg.com/56d9fe30-41aa-47da-81a0-24f087725a25_thumb.jpg,Krishna Kalyanaraman,5
+Avi Prasad,Engineering Programs Manager,https://cdn.theorg.com/27c475e6-b8fc-44de-b702-4db4d8e50245_thumb.jpg,Minkyong Kim,4
+Ryllian Zhang,Engineering Manager,no_match,Minkyong Kim,4
+Anindya Sinha,"Engineering Manager, Apple Maps",https://cdn.theorg.com/b2bce70b-59d2-4b5e-bf80-66745b96830e_thumb.jpg,Minkyong Kim,4
+Surya N.,Senior Engineering Program Manager - Responsible AI,https://cdn.theorg.com/2c0bf672-d844-496d-8aff-4a1c3171548e_thumb.jpg,Avi Prasad,5
+Wynand Malan,Hardware Development Manager,https://cdn.theorg.com/b08efbd8-97fa-48c5-8dbd-7da2f249db0c_thumb.jpg,Shelly Goldberg,4
+Wu Huawei,Hardware Engineering Manager,https://cdn.theorg.com/a990d0f0-433c-43bd-89ee-11a220992741_thumb.jpg,Shelly Goldberg,4
+Larry Vadakedathu,HW Engineering Manager,https://cdn.theorg.com/98af57ee-9dda-4cb0-842b-5d770aba8cd6_thumb.jpg,Shelly Goldberg,4
+Max Rosenblatt,Senior Manager (m3) — Hardware Engineering,https://cdn.theorg.com/e718bd0e-2b98-493d-b50d-ba6bfeec1a87_thumb.jpg,Shelly Goldberg,4
+Omri Paran,Sensing Hardware Lab Manager,https://cdn.theorg.com/efd20424-edd8-41eb-9d39-d5fbdf7c085d_thumb.jpg,Shelly Goldberg,4
+Cyril Truchot,"Engineering Manager, Battery Testing",https://cdn.theorg.com/b0c34d49-481d-473d-8b96-9e2afec5744c_thumb.jpg,Shelly Goldberg,4
+Neil Evans,"Director, Fleet Operations And Engineering, Apple Services Engineering",no_match,Shelly Goldberg,4
+Soo Jang,"Sr. Director, Hardware Technology Program Management",no_match,Shelly Goldberg,4
+Wynand Malan,Hardware Development Manager,https://cdn.theorg.com/b08efbd8-97fa-48c5-8dbd-7da2f249db0c_thumb.jpg,Shelly Goldberg,4
+Wu Huawei,Hardware Engineering Manager,https://cdn.theorg.com/a990d0f0-433c-43bd-89ee-11a220992741_thumb.jpg,Shelly Goldberg,4
+Larry Vadakedathu,HW Engineering Manager,https://cdn.theorg.com/98af57ee-9dda-4cb0-842b-5d770aba8cd6_thumb.jpg,Shelly Goldberg,4
+Max Rosenblatt,Senior Manager (m3) — Hardware Engineering,https://cdn.theorg.com/e718bd0e-2b98-493d-b50d-ba6bfeec1a87_thumb.jpg,Shelly Goldberg,4
+Omri Paran,Sensing Hardware Lab Manager,https://cdn.theorg.com/efd20424-edd8-41eb-9d39-d5fbdf7c085d_thumb.jpg,Shelly Goldberg,4
+Cyril Truchot,"Engineering Manager, Battery Testing",https://cdn.theorg.com/b0c34d49-481d-473d-8b96-9e2afec5744c_thumb.jpg,Shelly Goldberg,4
+Neil Evans,"Director, Fleet Operations And Engineering, Apple Services Engineering",no_match,Shelly Goldberg,4
+Soo Jang,"Sr. Director, Hardware Technology Program Management",no_match,Shelly Goldberg,4
+Tyler Brandt,Software Development Engineer In Systems Performance Architecture,no_match,Max Rosenblatt,5
+Ozzy O.,Senior R&d Operations Engineer,https://cdn.theorg.com/e3c457c9-ffa6-48ee-8499-27e59ed428bc_thumb.jpg,Cyril Truchot,5
+Santosh Kumar,Senior Design Verification Lead/ Manager,https://cdn.theorg.com/d52b2f5a-7655-4dd3-97ea-713fc0cf4b52_thumb.jpg,Tom Marieb,4
+Gerd Schneider,Hardware Engineering Manager,https://cdn.theorg.com/8c7bdfb7-06db-4322-94f9-56fb60285359_thumb.jpg,Tom Marieb,4
+Grey Mull,"Manager, Systems Engineering",https://cdn.theorg.com/594d72f7-e411-4c0b-b795-bba3898bb1df_thumb.jpg,Tom Marieb,4
+Piyush Sharma,Principal Software Engineer,https://cdn.theorg.com/3549bc78-c405-4c46-ab3e-f7cd6939db3c_thumb.jpg,Andreas Wendker,4
+Charles Ying,Senior Software Engineering Manager,https://cdn.theorg.com/82a66a1d-b427-43ba-8cf9-6cad4bd30944_thumb.jpg,Andreas Wendker,4
+Winston C.,Senior Engineering Manager,https://cdn.theorg.com/605fae9f-8714-42a1-b045-090dc08431a2_thumb.jpg,Andreas Wendker,4
+Andrew Toolson,Software Engineering Manager,https://cdn.theorg.com/269288cd-17fa-4e6f-9c27-6f06ebb3a83e_thumb.jpg,Andreas Wendker,4
+Habib Miranda,Software Engineering Manager,https://cdn.theorg.com/a829a8e8-9a3d-49ab-a725-b4b9435399a2_thumb.jpg,Andreas Wendker,4
+Asif Bashar,Lead Software Engineer,no_match,Andreas Wendker,4
+Nico de Laurentiis,Thermal Software Manager,no_match,Andreas Wendker,4
+Dinesh R,Kafka Architect/aws Engineer/ SRE Engineer/ Devops Lead,https://cdn.theorg.com/4297ff62-8e03-4890-a4fd-9040e6840ea6_thumb.jpg,Andreas Wendker,4
+Grishma Parikh,Software Engineering Manager,no_match,Andreas Wendker,4
+Jitendra Prasad,Senior Software Engineering Manager,https://cdn.theorg.com/65185f91-9e5a-4992-8172-a5bdb7fb39fa_thumb.jpg,Andreas Wendker,4
+Pradip Gajjar,Software Engineering Manager,https://cdn.theorg.com/70c3bc8f-83e1-4da5-9773-cec81c5b6827_thumb.jpg,Andreas Wendker,4
+Sunil Kumar Vitta,Lead AWS Cloud Data Engineer,https://cdn.theorg.com/2ea62dbf-0bb6-433e-a850-a4fb3f2675cb_thumb.jpg,Andreas Wendker,4
+Joelle Lam,"Sr. Engineering Manager, Apple Services",https://cdn.theorg.com/413f7daf-3e31-48a0-8232-754999dbdc4a_thumb.jpg,Andreas Wendker,4
+Karan Miśra,Senior Software Engineering Manager,https://cdn.theorg.com/8536fd16-146b-4a0c-80d5-07a99232bc1f_thumb.jpg,Andreas Wendker,4
+Ray Noppe,Front-end Lead / Fullstack Developer Python (next.js | React.js | Typescript | Python | Aws),https://cdn.theorg.com/efbc564d-4522-456b-abd3-a6dac59a7f5e_thumb.jpg,Andreas Wendker,4
+Sridhar Polishetty,Lead Developer,https://cdn.theorg.com/9f09c624-d304-48a3-8750-24a1d2cf368c_thumb.jpg,Andreas Wendker,4
+Satish Kumar Gurram,"Engineering Manager, SAP",no_match,Andreas Wendker,4
+Soni Mishra Anand,Software Engineering Manager,https://cdn.theorg.com/7efb2b2b-7d07-44c0-ac95-d4a4c1a850eb_thumb.jpg,Andreas Wendker,4
+Mori H,"Senior Software Engineer, Team Lead | Scala, Java, Sql, Nosql",https://cdn.theorg.com/ff1ad2e0-175c-41db-8829-42e78acf1931_thumb.jpg,Andreas Wendker,4
+Joe Davis,Graphics Software Engineering Manager,no_match,Andreas Wendker,4
+Afrooz Family,Senior Software Engineering Manager,https://cdn.theorg.com/1b6fae7e-5b7e-4f9d-873f-ed812046d8da_thumb.jpg,Andreas Wendker,4
+Franck Yelles,Director Infrastructure Engineering,no_match,Andreas Wendker,4
+Ryan M. Lederman,Senior Software Engineer,https://cdn.theorg.com/0d7a8b29-95e3-4c24-91fa-f2cdbc7f604a_thumb.jpg,Charles Ying,5
+Kang Sun,Senior Bluetooth Software Engineer,no_match,Charles Ying,5
+Christian Kellner,Senior Software Engineer,https://cdn.theorg.com/1d780f96-1ef5-46ee-928b-cbb299338450_thumb.jpg,Charles Ying,5
+Shruti Pavagadhi,Sr. Software Engineer,https://cdn.theorg.com/d4a0c247-8895-4073-8964-3dde90288a65_thumb.jpg,Charles Ying,5
+Colin Fitz-Maurice,Senior Software Engineer,https://cdn.theorg.com/36fd4fc3-6479-43f6-a9f2-a0d39b5c359f_thumb.jpg,Charles Ying,5
+Louise Bicker Caarten,Senior Software Engineer,https://cdn.theorg.com/e8c7b5f4-de5e-4908-bf5e-d53719d72ef7_thumb.jpg,Charles Ying,5
+Mahbub Morshed,Senior Software Engineer,https://cdn.theorg.com/1aef0355-d1fd-4274-b344-052f35895d81_thumb.jpg,Charles Ying,5
+Nathaniel Hart,Senior Software Engineer - Music And Audio Tools,no_match,Charles Ying,5
+Hars Vardhan,Senior Software Engineer| SPG,https://cdn.theorg.com/9899864c-f608-4fab-b809-854f22edf406_thumb.jpg,Andrew Toolson,5
+Erez Kashi,Senior Software Engineer,https://cdn.theorg.com/cc4e9cf8-14be-40c9-98a4-057acaa1bb6d_thumb.jpg,Andrew Toolson,5
+Remington Breeze,Senior Software Engineer,https://cdn.theorg.com/bab87bd9-e90b-4742-a89e-2a57d4bb7908_thumb.jpg,Grishma Parikh,5
+Azadeh Sadjedi,Senior Software Engineer,https://cdn.theorg.com/e68ab732-4ea5-4a69-90ac-832e00b1ec8c_thumb.jpg,Grishma Parikh,5
+Nirmal Kumar,Senior Software Engineer,https://cdn.theorg.com/8834e831-916a-425d-9ed2-7467b472acb3_thumb.jpg,Jitendra Prasad,5
+Julian Tejera-Frias,Senior Software Engineer,no_match,Jitendra Prasad,5
+Brad Mallow,Senior Software Engineer Contracting At Apple,https://cdn.theorg.com/14e607e3-8715-4aec-a014-7cca1fb05eca_thumb.jpg,Jitendra Prasad,5
+Poornima Vijayashanker,Senior Software Engineer,https://cdn.theorg.com/70ea628a-bbe5-4a35-92ce-69404df73ef8_thumb.jpg,Jitendra Prasad,5
+Pearce Merritt,Senior Software Engineer,https://cdn.theorg.com/4c502537-8c55-42bd-9fc7-59ea47fbcefb_thumb.jpg,Jitendra Prasad,5
+Demitri Swan,Senior Software Engineer,https://cdn.theorg.com/1c833f6d-9b79-4039-bc6f-9bfd33984aa2_thumb.jpg,Pradip Gajjar,5
+Abhay Amin,Senior Software Engineer,https://cdn.theorg.com/e6a7e0a6-a41b-4804-902f-52d28ef64ad0_thumb.jpg,Pradip Gajjar,5
+Nav Singh,Senior Full Stack Python Engineer,https://cdn.theorg.com/b85f6834-2bfd-4358-9fc7-8bbd7a7c402b_thumb.jpg,Pradip Gajjar,5
+Louie Livon-Bemel,Senior Software Engineer,https://cdn.theorg.com/6185eb01-188f-4f46-bfa2-03d0f7b1d076_thumb.jpg,Karan Miśra,5
+Srivishnu Satyavolu,Senior Software Engineer,https://cdn.theorg.com/779af26c-1de6-4262-82b5-5c56a93c3c15_thumb.jpg,Karan Miśra,5
+Miloš Bovan,Senior Software Engineer,https://cdn.theorg.com/b8b77d16-8862-4c45-b6d4-ef0f1c5fcf13_thumb.jpg,Karan Miśra,5
+Noi Bar,Senior Software Engineer,https://cdn.theorg.com/62171d81-5a91-44c3-a36d-4ef332ae9978_thumb.jpg,Karan Miśra,5
+Marcus Brown,Sr. Ios Engineer,https://cdn.theorg.com/6396989c-4bff-4671-80c7-78899150cae2_thumb.jpg,Karan Miśra,5
+Shahrouz Zolfaghari,Sr. Graphics Engineer,no_match,Joe Davis,5
+Dejan Obradović,"Senior Software Engineer, Engineering, Solutions & Technology",no_match,Afrooz Family,5
+Eng K.,Storage SRE Manager,https://cdn.theorg.com/b996121c-b388-41f4-b88d-fceba6493448_thumb.jpg,Franck Yelles,5
+William Brasseur,"Senior Manager, IT And Infrastructure",https://cdn.theorg.com/877c8d77-284d-4381-ab0f-86fa1b0a71cc_thumb.jpg,Franck Yelles,5
+Senthilvel Rangaswamy,"Sr Manager, Site Reliability Engineering",https://cdn.theorg.com/cc7cc4c9-4eab-4e36-90f8-b0144be17213_thumb.jpg,Franck Yelles,5
+Ramana Damarla,Senior Manager Site Reliability Engineering,https://cdn.theorg.com/27b084f5-f05f-4cda-961f-fe9db59f5a19_thumb.jpg,Franck Yelles,5
+Axel Jessen,Sr. Executive Support Engineer,https://cdn.theorg.com/117510c5-b5f1-46e4-aec9-d0a85f5beead_thumb.jpg,William Brasseur,6
+Chris Stetson,"Cloud Infrastructure, Sr. Manager",no_match,Sebastian Marineau-Mes,4
+Brianna Gamp,"Director, Information Security",no_match,Sebastian Marineau-Mes,4
+Vrunda P. D.,"Manager, Information Security",no_match,Sebastian Marineau-Mes,4
+Pierre-Olivier Martel,Head Of Platform Security — Security Engineering & Architecture,no_match,Sebastian Marineau-Mes,4
+Ivan Krstić,Head Of Security Engineering And Architecture,https://cdn.theorg.com/4d62d8e9-9d21-4673-9aa6-3a75f1aae44d_thumb.jpg,Sebastian Marineau-Mes,4
+Jason Jianhua Zhou,Senior Software Engineer,no_match,Chris Stetson,5
+Sumadhur Y,Sr. Azure Devops Engineer / Site Reliability Engineer,no_match,Chris Stetson,5
+Tamar Kaspi,Sr. Cloud Finops Engineer,no_match,Chris Stetson,5
+Candace Sikora,Information Security Manager,https://cdn.theorg.com/2080f49b-9527-4066-b9af-f667b6525fe1_thumb.jpg,Brianna Gamp,5
+Val Khomchenko,Manager Information Security,https://cdn.theorg.com/fcdfb8ac-ab79-41dd-a20c-529ae9b1a861_thumb.jpg,Brianna Gamp,5
+Ilia Levin,"Sr Engineer, Security Engineering & Architecture",https://cdn.theorg.com/5ab7c8c4-c42e-49a0-a413-05b613479912_thumb.jpg,Pierre-Olivier Martel,5
+Matt Cherniss,"Head of Programming, Apple TV+",no_match,Zack Van Hamburg,4
+Lucian Capellaro,"Head of Custom Content & Photography, Apple TV+",https://cdn.theorg.com/9f2fbac6-8fbf-43c7-bdfb-8e2cd599ba53_thumb.jpg,Zack Van Hamburg,4
+Valentina Monte,"Senior Lead, Apple Tv+ Series Social Marketing",https://cdn.theorg.com/a5a155e5-a351-4a83-8677-84a322b526e8_thumb.jpg,Zack Van Hamburg,4
+Ben Evangelista,Video Producer,https://cdn.theorg.com/74279f77-d445-4670-889f-97f773c494e6_thumb.jpg,Zack Van Hamburg,4
+Ali Shawki,Video Strategy Manager,https://cdn.theorg.com/6d6a0241-bc24-4671-b7b3-b05e6fab95ac_thumb.jpg,Zack Van Hamburg,4
+Chris Parnell,"Creative Executive, Apple TV+",https://cdn.theorg.com/11dd0fc7-b6ff-43fc-be1a-98c371615219_thumb.jpg,Matt Cherniss,5
+Zennen Clifton,Creative Executive,https://cdn.theorg.com/a24cba46-b22c-4fc0-b8de-0920edc5c3be_thumb.jpg,Matt Cherniss,5
+Rachel Voter,"Creative Director, Apple TV+ ",https://cdn.theorg.com/1392fc7d-7648-4248-ab29-5f25fb473e56_thumb.jpg,Lucian Capellaro,5
+Suki Heather,Creative Manager,https://cdn.theorg.com/064ed44b-6159-410b-af2e-b9ac1a9ae4bf_thumb.jpg,Rachel Voter,6
+Korie Cull,Senior Art Director,https://cdn.theorg.com/133f0490-94bf-4a9b-a264-c041b5afc368_thumb.jpg,Rachel Voter,6
+Ana Simões,Senior Art Director,no_match,Suki Heather,7
+Chris Thorne,"Chief Marketing Officer, Beats Electronics",https://cdn.theorg.com/dcbcaa09-8dd1-4002-837a-d94316cc323e_thumb.jpg,Oliver Schusser,4
+Alex Gale,"Head of Editorial, Apple Music",https://cdn.theorg.com/3a8a325a-865c-489c-9117-59435e6fa720_thumb.jpg,Oliver Schusser,4
+Steve Savoca,"Head of Music Business Partnerships, Apple Music",https://cdn.theorg.com/7d3b9159-c742-44d4-8746-46132529a198_thumb.jpg,Oliver Schusser,4
+Stephanie Freese,"Head of Content Programs & Activations, Business Partnerships - Apple Music",https://cdn.theorg.com/483b00f4-7240-4561-bdf4-dfda9c21db98_thumb.jpg,Oliver Schusser,4
+Jeff Bronikowski,Global Head of Strategic Music Initiatives,https://cdn.theorg.com/cebccf7f-5433-4239-a2b4-4f0d201b1fba_thumb.jpg,Oliver Schusser,4
+Amanda Marks,"Global Head of Business Development & Music Partnerships, Internet Software & Services",no_match,Oliver Schusser,4
+Elena Segal,Global Senior Director of Music Publishing,https://cdn.theorg.com/e5539d37-fedc-41bf-8a1f-7e23ec681cb0_thumb.jpg,Oliver Schusser,4
+Matt Plotnik,"Director of Global Marketing - Apple Music, Apple Podcasts & Shazam",https://cdn.theorg.com/087a4ec6-2de2-4ac4-81b2-372f4b83daea_thumb.jpg,Oliver Schusser,4
+Ben Cave,Director of Apple Podcasts,https://cdn.theorg.com/dff38b7d-1223-4a70-971f-1af7fa520491_thumb.jpg,Oliver Schusser,4
+Rayvón Carter,Senior Writer,https://cdn.theorg.com/d976fa66-1d3e-485d-905d-1fb90309477a_thumb.jpg,Alex Gale,5
+Kim Scardino,"Senior Counsel, Online Safety",https://cdn.theorg.com/2002e1d7-fbe4-48c9-8502-ab621a0b7d8f_thumb.jpg,Stephanie Freese,5
+Julie Ruef,"Global Business Development & Partnerships, Apple Services - Music, TV+, Arcade, Fitness+, etc.",https://cdn.theorg.com/03c84f3f-7efc-4f4a-a244-05463dcbfa9c_thumb.jpg,Amanda Marks,5
+Aditya Umrani,"Engineering Manager, Apple Services Engineering",no_match,Cheryl Thomas,4
+Tommaso Lemma,Software Quality Engineer Manager,https://cdn.theorg.com/8fabac72-7782-4408-a680-a9344e640e4f_thumb.jpg,Cheryl Thomas,4
+Pete Augenbergs,Distinguished Engineer - Strategic Design Engineering,no_match,Cheryl Thomas,4
+Cosimo Cecchi,Software Engineering Manager,https://cdn.theorg.com/6c0e6b05-af28-4ec5-882d-9487d53ff509_thumb.jpg,Cheryl Thomas,4
+Corey Carson,"Senior Manager, US Education Systems Engineering",https://cdn.theorg.com/51ae92c1-7260-4fe4-a77c-5e88bf7f41a3_thumb.jpg,Aditya Umrani,5
+Onar Vikingstad,Enterprise & Education Product Engineering Leader,https://cdn.theorg.com/43e8ae7b-5656-4ab5-904f-1d6de384a03b_thumb.jpg,Corey Carson,6
+Patrick Tehvand,"Senior Manager, Enterprise And Education Field Engineering, South Asia",https://cdn.theorg.com/19f25a38-ad65-40f8-a281-12cd7d115909_thumb.jpg,Onar Vikingstad,7
+Stacey Lysik,"Senior Director, OS Program",no_match,Jon Andrews,4
+Zak Burka,Engineering Manager - Apple Silicon GPU Drivers,no_match,Jon Andrews,4
+Ali Nakipoglu,Senior Software Architect - GPU,https://cdn.theorg.com/fd7745c1-bc4e-4b51-a524-095f9edab974_thumb.jpg,Zak Burka,5
+Alellie C.,Platform Specialist Manager - Search Ads SEA,https://cdn.theorg.com/e135ee0f-c2b2-44fe-8591-b0e708e9fe37_thumb.jpg,Todd Teresi,4
+Joseph Cady,"Director, Strategic Ads Initiatives",https://cdn.theorg.com/1aedd36c-e7e0-458c-8734-8b37242ac162_thumb.jpg,Todd Teresi,4
+Sanjay Mathur,"Senior Director - Product Management, Data Insights & Business Operations, Ad Platforms",https://cdn.theorg.com/51bce324-3041-47dc-bfa2-ed11674cf20b_thumb.jpg,Todd Teresi,4
+Arthur Shen,"Head Of Global Revenue Finance & Strategy - App Store Ads, News Ads, & Video Ads",https://cdn.theorg.com/7797a3e1-de50-4f54-b54a-7cf0e3b6dabd_thumb.jpg,Todd Teresi,4
+Renee Appelle,"Head Of Global Enterprise Accounts, Ad Platforms At Apple",https://cdn.theorg.com/f97f2bab-cdb9-474c-84a8-5b61f01064fa_thumb.jpg,Susan Prescott,4
+Pooja Peswani,Enterprise Customer Success Manager,https://cdn.theorg.com/ec92daeb-89f8-4680-bdcc-bc76afcb8f8d_thumb.jpg,Renee Appelle,5
+Michael Ryan,Systems Administrator,https://cdn.theorg.com/341f2b4a-4e09-44de-8081-1f57188ad550_thumb.jpg,Timothy Campos,4
+Thomas Moyer,Head of Global Security,https://cdn.theorg.com/5f8157af-5152-4329-8778-1eeac52a852b_thumb.jpg,Timothy Campos,4
+Namrata Choudhury,"Manager, Security Operations AMP",no_match,Thomas Moyer,5
+Srinath S.,Senior Leader And Security Evangelist,https://cdn.theorg.com/59098717-b8e3-486c-9062-ea89b7c334f5_thumb.jpg,Thomas Moyer,5
+Garret Picchioni,Senior Security Engineer,https://cdn.theorg.com/e0222ae2-8d97-42f0-8126-8a69935e6114_thumb.jpg,Namrata Choudhury,6
+Manasa H.,"Head Of Product & Program, AIML Compute, ML Efficiency & ML Lifecycle",https://cdn.theorg.com/9a7ea086-6bad-43f5-a227-3e4e7cfedd04_thumb.jpg,Kelly Lynn,4
+Matias Sulzberger,"Head Of Product & Program, Siri & Dictation Core Technologies, Ai/ml",https://cdn.theorg.com/85503c0e-125a-404c-bb26-471bf7b80d6f_thumb.jpg,Kelly Lynn,4
+Mittal Kothari,System QA Lead - Vision Products Group (vpg),https://cdn.theorg.com/f9052fbe-b47c-4693-8cd2-2df596ad2e77_thumb.jpg,Kelly Lynn,4
+Ann Thai,"Senior Director, Apple Marketplace Platforms & Technologies",no_match,Kelly Lynn,4
+Rajyashree Mukherjee,"Head Of Search Science, Apple Media Products",no_match,Kelly Lynn,4
+Ronak Shah,Director Of Product Management,https://cdn.theorg.com/0c63398a-2ca8-4192-ae18-d2350d227fcc_thumb.jpg,Kelly Lynn,4
+Raghavender Allam,BI Tableau Product Owner,https://cdn.theorg.com/96f5d549-0347-4862-a08b-779f950189ed_thumb.jpg,Kelly Lynn,4
+Kelsey Peterson,Director Of AIML PM,no_match,Kelly Lynn,4
+Kai Bai,"Sr. Manager, Product RF Definition",https://cdn.theorg.com/f0834344-ac13-4ee5-857f-f306a5959399_thumb.jpg,Kelly Lynn,4
+Ed Zabasajja,Director Of Policy & Product Integration,https://cdn.theorg.com/aee77a4b-740f-4649-9400-ba522cd36305_thumb.jpg,Kelly Lynn,4
+Tom Burke,VP Product,https://cdn.theorg.com/082fe71a-8be6-40a1-bd0c-02682c2a64bd_thumb.jpg,Kelly Lynn,4
+Kathleen Swanson,Worldwide Product Configuration Manager,no_match,Kelly Lynn,4
+Jahan Minoo,Director | Audio Products HW,https://cdn.theorg.com/5a731e42-637d-4c05-9028-7815c536dd25_thumb.jpg,Kelly Lynn,4
+Katalina Arboleda-Guerrero,"Innovation + Standards Lead, Re&d - Global Architecture And Design",https://cdn.theorg.com/e1f0a786-68ab-4018-93bf-b0f8cd87499f_thumb.jpg,Kelly Lynn,4
+Phil M.,"Senior Test Architect: Apple Vision Products Group, Audio Quality Engineering",https://cdn.theorg.com/6d2f13ae-ef07-4967-baed-d8ad62cfe60d_thumb.jpg,Mittal Kothari,5
+Manjulika Bajpai,Systems Quality Manager,https://cdn.theorg.com/ecdeeead-52b4-4db8-bea5-498d48fd513d_thumb.jpg,Mittal Kothari,5
+Eva Chau,"Team Manager, Product Management",no_match,Ronak Shah,5
+Tasan Engin,Manager Of Enterprise And Retail IT Architecture,no_match,Amit Bansal,4
+Khushboo Verma,Senior Ios Engineer/lead,https://cdn.theorg.com/737632b4-68a2-44a9-b230-afc431f771f9_thumb.jpg,Prudhvi Rudraraju,4
+Atakan Esen,Senior Software Engineer,https://cdn.theorg.com/c4ed1378-1d0c-4328-87d5-11ce1c0e3423_thumb.jpg,Prudhvi Rudraraju,4
+Shy Shalom,Senior Software Engineer,https://cdn.theorg.com/0bbfd7aa-8822-4d65-a43d-6622972b89fa_thumb.jpg,Prudhvi Rudraraju,4
+Olya Zarembo,Senior Software Engineer,https://cdn.theorg.com/b212dc46-7283-4c04-9bd4-3a388a64b822_thumb.jpg,Prudhvi Rudraraju,4
+Kui Yang,Sr. CPU Power Engineer At Apple,https://cdn.theorg.com/5964ae7f-e33a-4b1b-a701-44583c9a5521_thumb.jpg,Albert Liu,4
+Preetpal Singh Bindra,Senior Software Engineer,https://cdn.theorg.com/60950c42-edd5-432d-88a3-257aca59a3e7_thumb.jpg,Albert Liu,4
+Stephan Hesse,Senior Software Engineer,https://cdn.theorg.com/21ae2d24-ca28-4c50-a670-603ce78f0e08_thumb.jpg,Nery O.,4
+Roman Poliakov,Senior Software Engineer,https://cdn.theorg.com/a62d0c03-1df6-4f2a-9646-38c2dca30ae6_thumb.jpg,Nery O.,4
+Nishkar Grover,Senior Software Engineer,https://cdn.theorg.com/79331adc-eca4-46ed-a731-beb908dc5568_thumb.jpg,Nery O.,4
+Ray Powers,Senior Software Engineer,no_match,Nery O.,4
+Amey Bhilegaonkar,Senior Data Engineer,https://cdn.theorg.com/b13982c6-9664-4a0d-981f-e3d6492a332e_thumb.jpg,Shyam Ramakrishna,4
+Jennifer Muniz,"Director of Partner Operations, Wallet, Payments & Commerce",https://cdn.theorg.com/355e48c5-b2b9-4860-b500-881308c58692_thumb.jpg,Jennifer Bailey,4
+Vishal Morde,"Head Of Data Science | Wallet, Payments, & Commerce",https://cdn.theorg.com/592cdb73-11c6-48f4-80a1-cd953f27e7e2_thumb.jpg,Jennifer Bailey,4
+Vladimir Bacvanski,"Director - Wallet, Payments & Commerce Architecture",https://cdn.theorg.com/b388ccce-13c1-490f-9929-bc982855bb72_thumb.jpg,Jennifer Bailey,4
+Sheena Sharma,Senior Health Data Scientist,no_match,Vishal Morde,5
+Karikalan K.,Payment Engineering Senior Manager,no_match,Vishal Morde,5
+Vicky Yang,Data Science Manager,https://cdn.theorg.com/3494b0df-4fcf-402a-a590-9a51540b9f82_thumb.jpg,Vishal Morde,5
+Eden Sears,"VP, Marketing Communications",no_match,Tor Myhren,4
+Fred Sainz,Senior Director of Corporate Communications,https://cdn.theorg.com/e4d9d436-504a-4fc4-8d82-1d1fb2f8fa23_thumb.jpg,Tor Myhren,4
+Jared Gosler,Senior Director of WW Marketing Communications,https://cdn.theorg.com/ee4aacbb-5080-4fbf-b6c8-dfe22d10bc68_thumb.jpg,Tor Myhren,4
+Marie Davidheiser,Group Director of Marketing Communications,https://cdn.theorg.com/3a5fe0be-0139-476b-9856-2a208d551f06_thumb.jpg,Tor Myhren,4
+Aaron Ackermann,Director of Marketing Communications,https://cdn.theorg.com/b884c2c3-034a-4feb-bd03-71438db6a1ae_thumb.jpg,Tor Myhren,4
+Lydia Föger,Senior Global Brand Manager,no_match,Tor Myhren,4
+Marie-Claire Upright,"Internal Communications Manager, Emeia",https://cdn.theorg.com/5b4a6759-1e91-4266-9767-08184d980fc6_thumb.jpg,Tor Myhren,4
+Elliot Duck,Campaign Manager,https://cdn.theorg.com/4068118d-8765-46fc-a03b-d3891544ef14_thumb.jpg,Eden Sears,5
+Bora Ahn,Corporate Identity Design Manager,https://cdn.theorg.com/e542e551-f83e-413b-b6e4-5cde968730df_thumb.jpg,Fred Sainz,5
+Lindsey Blumenthal,"Senior Manager, Marketing, Partnerships And Editorial For Apple Maps",https://cdn.theorg.com/30da40e3-c9d8-4047-91d0-8d5ec596161c_thumb.jpg,Marie Davidheiser,5
+Smeeta Newell,Brand Manager,https://cdn.theorg.com/0b3de85b-fb76-4dc3-9ab8-062a9eff18e6_thumb.jpg,Aaron Ackermann,5
+Solomon Elliott,Senior Strategist | Retail Engagement And Marketing,no_match,Aaron Ackermann,5
+Rory Brunner,"Sr. Producer, Apple News",https://cdn.theorg.com/3ca18827-1fbd-459f-b279-dafe328893ec_thumb.jpg,Aaron Ackermann,5
+Josh Elman,Director Of Product Management,https://cdn.theorg.com/0f561a2d-077d-4e12-9b06-0867d8b745c1_thumb.jpg,Bob Borchers,4
+Gene Ikeda,Growth Marketing Manager,https://cdn.theorg.com/29e08bc8-4b11-4e16-82d7-c06fa00aabf3_thumb.jpg,Bob Borchers,4
+Funmi A.,"Manager, Product And Program Management, Apple Store Online L Emeia",https://cdn.theorg.com/b58a22db-91b4-40d5-a94b-064e329fac2d_thumb.jpg,Josh Elman,5
+Sabrina Q. Li,Quality Assurance Manager,no_match,Josh Elman,5
+Linda Frager,"Senior Product Marketing Manager, Apple Watch, Worldwide Product Marketing",https://cdn.theorg.com/f9494dfc-525b-42fe-8924-651c4b35c550_thumb.jpg,Kaiann Drance,4
+Katie Levedahl,"Senior Team Manager, Worldwide Product Marketing",https://cdn.theorg.com/e8ec7d21-1513-474b-a931-3d2781d46505_thumb.jpg,Sowmya Rajagopalan,4
+Aram L.,"Senior Manager, Ipod Media Software",https://cdn.theorg.com/ad39e43c-e9eb-4cfc-9560-7a7235357e45_thumb.jpg,Magdalen Kennedy,4
+Adrianna L.,Content Strategy Manager - Apple Arcade,https://cdn.theorg.com/912f2f50-d36f-4279-bb38-24b1497cbd4a_thumb.jpg,Magdalen Kennedy,4
+Teresa Chang,Post Media Manager,https://cdn.theorg.com/b2549719-76cb-499b-88fe-abdb7e815ebe_thumb.jpg,Magdalen Kennedy,4
+Raisa Mushrafi,Media Manager,https://cdn.theorg.com/21b801a4-1d1c-47c8-bcde-29a5ab89327a_thumb.jpg,Magdalen Kennedy,4
+Jen Ross,Brand Manager,no_match,Devon H.,4
+Adrian Perica,"VP, Corporate Development",https://cdn.theorg.com/6ccb292f-86ac-4aa4-9f70-0ca7ab4e7adc_thumb.jpg,Lilly N.,4
+Danny Duncombe,"Global Head Of Digital Marketing And Media, Apple Services",https://cdn.theorg.com/df2739d0-b7e5-49ca-ab4b-48798d8026f4_thumb.jpg,Lilly N.,4
+Meredith Hoffmann,Director of Real Estate Strategy & Operations,https://cdn.theorg.com/0ebac601-21c3-4662-8b51-fd7321784ed0_thumb.jpg,Adrian Perica,5
+Dan Cath,"Team Manager, Strategic Deals & Partnerships",https://cdn.theorg.com/7486c477-2435-443a-9922-c9e43b4112b8_thumb.jpg,Adrian Perica,5
+Erfan Ahmed,"Senior Director, Worldwide Offers And Business Development",no_match,Adrian Perica,5
+Kurniadih Sutanto,Head Of Commercial & Strategic Business Development | South Asia,https://cdn.theorg.com/2856067e-2e05-4fcb-8e6c-565324f6db81_thumb.jpg,Adrian Perica,5
+Adeana Greenlee,"Worldwide Business Development Lead, Apple Vision Pro",https://cdn.theorg.com/451730d5-6a24-4176-843d-02c50648a2dc_thumb.jpg,Adrian Perica,5
+Hiroshi Nogawa,"Japan Business Lead, Apple Financial Services (afs)",no_match,Adrian Perica,5
+Nir Ayalon,"Director, International Business Development, Apple Services",https://cdn.theorg.com/f3036e12-65d5-4a27-a4c2-d2adafc4e2e8_thumb.jpg,Adrian Perica,5
+Chip Canter,"Director, WW Business Development, App Store",https://cdn.theorg.com/f853fdfa-e75a-4892-b05b-016f4ca5e0c2_thumb.jpg,Adrian Perica,5
+Abdul Muiz,Channel Sales And Distribution Lead,https://cdn.theorg.com/fa1ae555-7bfe-4454-8df0-ee328a7a35d5_thumb.jpg,Erfan Ahmed,6
+Cameron S.,Business Strategy Manager,no_match,Erfan Ahmed,6
+Yicong Sim,"Games Business Manager - App Store, Southeast Asia",https://cdn.theorg.com/532550f8-8324-4344-9491-b6af83d4e4af_thumb.jpg,Erfan Ahmed,6
+Bryce McLaughlin,Global Head Of Music Partnerships And Business Programs,https://cdn.theorg.com/1ef69463-61a9-4287-b0f1-d1bfe0c9c55f_thumb.jpg,Erfan Ahmed,6
+Alfonso Romay,Senior Regional Country Sales Manager @ Apple Mexico,https://cdn.theorg.com/f4aa6bbe-1738-4c5c-bab2-d8cca6f9ff63_thumb.jpg,Sandro Cunningham,4
+Maryana Hrynyuk,AMR Commercial Performance Manager,https://cdn.theorg.com/c7ee1921-027c-48cf-975d-5a18458a0ec8_thumb.jpg,Sandro Cunningham,4
+Tim Parker,Senior Manager - Enterprise Sales Platforms,https://cdn.theorg.com/f8f31db4-5675-40d5-af32-a416f1658657_thumb.jpg,Sandro Cunningham,4
+Cristina Arndt,"Regional Sales Manager, Channel Retail",https://cdn.theorg.com/2d4b0cfe-f397-4dfc-bffe-a60f98592c98_thumb.jpg,Marielli Baldresca,4
+Brian Kotyk,Global Product Quality Manager - Beats By Dre And Accessory Operations,https://cdn.theorg.com/471011a4-6c43-4887-8e48-b20af63dbf99_thumb.jpg,Priya Balasubramaniam,4
+Kartik Jaggi,"Sr. Manager, Data Center Operations",https://cdn.theorg.com/d4645037-aed0-42f0-816b-d8d462c62480_thumb.jpg,Priya Balasubramaniam,4
+Manjesh Nagabhushan,"India Operations Manager, Marcom",no_match,Priya Balasubramaniam,4
+Edwin Koh,"Change Management Lead, Operations And Supply Chain",https://cdn.theorg.com/06be9b68-e977-4de9-b541-fa139d3da638_thumb.jpg,Priya Balasubramaniam,4
+Shubham Gupta,"Manager, WW Supply Demand Planning",https://cdn.theorg.com/64c0dcf6-524f-4da7-b8dd-572b2eafc0c6_thumb.jpg,Priya Balasubramaniam,4
+Rick Deng,Global Supply Manager,no_match,Priya Balasubramaniam,4
+Sarit Israel,Global Supply Manager,https://cdn.theorg.com/cd0e0776-626f-4cda-a3ff-fe57d040eafc_thumb.jpg,Priya Balasubramaniam,4
+Joe Jackson,Business Lead - QLD,https://cdn.theorg.com/4d18c972-6b17-4bfd-805e-8a7ad0711393_thumb.jpg,Priya Balasubramaniam,4
+Brooke Heinsohn,Global Supply Manager,https://cdn.theorg.com/cb6e8bcd-0cfb-4a01-a1ba-eb6c8bc12d2a_thumb.jpg,Priya Balasubramaniam,4
+Cindy Luu,"Senior Global Sourcing & Supply Manager, Depth Sensing Modules",https://cdn.theorg.com/083fed94-452d-406b-8d28-b67b2515d623_thumb.jpg,Priya Balasubramaniam,4
+Sophie le,Global Supply Manager,https://cdn.theorg.com/2176600b-81a2-44ce-850f-d92874c03aa6_thumb.jpg,Priya Balasubramaniam,4
+Walter Steyn,Operations Manager,no_match,Priya Balasubramaniam,4
+Shoba N,"Project Lead, Mphasis Corpn, USA",https://cdn.theorg.com/793f2f76-6833-4ad1-a2c1-f647f9c9ff7e_thumb.jpg,Priya Balasubramaniam,4
+Nikhil Kotasthane,Global Sourcing And Supply Manager,https://cdn.theorg.com/799dc1be-b40b-41b7-a80f-ffa0fb5c6e11_thumb.jpg,Priya Balasubramaniam,4
+Sofiane Berlat,Manufacturing Design Engineering Manager - Additive Manufacturing,https://cdn.theorg.com/ea5f3f06-38ca-453f-a9d6-377efd8f8c01_thumb.jpg,Rob York,4
+Anand Lodha,Senior Global Supply Manager - Manufacturing Design Group,https://cdn.theorg.com/5cfe25e1-2f2b-4481-9ea9-1a21773480d6_thumb.jpg,Rob York,4
+Vishnu Sreenivas,Global Sourcing & Supply Manager,no_match,Daniel Rosckes,4
+Amy Pan,"Global Supply Sourcing Manager, Image Sensor",no_match,Daniel Rosckes,4
+Gilberto Sosa,Global Sourcing And Supply Manager - Capex,https://cdn.theorg.com/47c88cf6-5524-48bf-a9d2-6cd9f2a7dd7b_thumb.jpg,Daniel Rosckes,4
+Emily Syrowik,Manager - Indirect Procurement,https://cdn.theorg.com/d352f048-b813-4db5-ae30-b76f917ca60a_thumb.jpg,Daniel Rosckes,4
+Steven Tran,Global Supply Manager,https://cdn.theorg.com/dfcdd439-7b1b-4b6b-ad2d-55817e3dfa86_thumb.jpg,Daniel Rosckes,4
+Sheryl Daniel,Global Supply Manager,https://cdn.theorg.com/fee52a42-cc50-4d09-9b94-ce5e93ce0bc3_thumb.jpg,Daniel Rosckes,4
+Joulyana Ibrahim,Global Supply Manager,https://cdn.theorg.com/eab08dc1-f62a-4af0-b8b9-24aeb76e5744_thumb.jpg,Daniel Rosckes,4
+Chinmayi Chandrashekar,Global Supply Manager,https://cdn.theorg.com/877cd2b5-21bc-4307-ac9c-fe826a0567dc_thumb.jpg,Daniel Rosckes,4
+Randall Shapiro,Global Supply Manager,https://cdn.theorg.com/a102250d-9c8b-4704-91c4-e7282606f6ac_thumb.jpg,Daniel Rosckes,4
+Raja Sekhar Banda,Senior Program Manager,https://cdn.theorg.com/5776b7ac-6513-411c-a57d-a3b59563c347_thumb.jpg,Iris Cui,4
+Carl Johnson,Global Industrial Hygiene Manager,https://cdn.theorg.com/fe7505b4-6d7c-4f49-9310-f9f8462f3335_thumb.jpg,Amr Gamal,4
+Finny Ho,"Fitness Technologies/fitness+, Senior Program Manager",https://cdn.theorg.com/4ee24778-a26f-4264-9fba-be7ec89df0e8_thumb.jpg,Amr Gamal,4
+Nicole Fung,Strategic Planning Manager,no_match,Amr Gamal,4
+Nolan Enzminger,Senior Manager WW Business Process Reengineering Supply Chain,https://cdn.theorg.com/04168be7-ac6f-4fe3-b339-a18852d6c936_thumb.jpg,Amr Gamal,4
+Bill C.,"Senior Program Manager, Services Special Programs",https://cdn.theorg.com/d2b363f4-37d6-4a8c-a367-72c7736fd44c_thumb.jpg,Amr Gamal,4
+Kalyani Bhangaonkar,Global Supply Manager - Technology,https://cdn.theorg.com/733b8e59-0f2d-45cc-a605-7e03d84919b4_thumb.jpg,Amr Gamal,4
+Ciarán Williams,Accessories Planning Manager - Supply Demand Management Emeia,no_match,Amr Gamal,4
+Hera Naaz,"Manager, Retail Fulfilment Operations",https://cdn.theorg.com/7efc0a8e-5163-4a2d-91c6-cd447032913d_thumb.jpg,Amr Gamal,4
+Sumeet Solanki,"Senior Manager, Product Operations",no_match,Amr Gamal,4
+Mui-Yong Liang,"Senior Manager, Corporate Applications & Reporting Systems",https://cdn.theorg.com/d7262671-5509-4379-a1a3-f55c697bc385_thumb.jpg,Amr Gamal,4
+Bryan Boyet,Global Voice And IVR Operations Manager RCC,https://cdn.theorg.com/b40f63f1-3eb4-4373-b124-bf3deea7b991_thumb.jpg,Amr Gamal,4
+Shrikant Ranade,Senior Manager - WW Supply And Demand Planning BPR,no_match,Amr Gamal,4
+Praveen Kumar Madabushi,Global Supply Manager,https://cdn.theorg.com/279c9744-a43f-46e4-8bad-02e044cacae9_thumb.jpg,Amr Gamal,4
+Sandeep Reddy,Senior Program Manager - WW Supply Chain BPR,https://cdn.theorg.com/ce059218-afb3-45c6-8168-8f399700e6de_thumb.jpg,Nolan Enzminger,5
+Sherry Sandhu,Senior Business Process & Program Manager,https://cdn.theorg.com/7063af35-0a8f-4980-b5f1-48899826579a_thumb.jpg,Mui-Yong Liang,5
+Kenny Jeong,"Commodity Finance Manager, WW Engineering & Ops Finance",https://cdn.theorg.com/6fdfa752-c519-41a1-a984-761caaef5b74_thumb.jpg,Marco Roccasalva,4
+Maggie Wang,Global Supply Manager,https://cdn.theorg.com/f2e1d3b6-f651-4b79-905c-5df0b7c4ff2c_thumb.jpg,Christine Defilippo,4
+Lourdes Gino Dominic Savio,Information Security Engineer,https://cdn.theorg.com/ceef0f09-4739-4543-b1ba-8cb468b1010b_thumb.jpg,George Stathakopoulos,4
+Adair Zdroik,Global Supply Manager,no_match,Sarah Chandler,4
+Emre Çilem,"Manager, Closed Loop Materials, Environment & Supply Chain Innovation",https://cdn.theorg.com/7fd8a4ec-d17c-400f-b64c-37e2e13d169c_thumb.jpg,Sarah Chandler,4
+Reuben Miller,Chief Of Staff & Business Ops Lead For Inclusion & Diversity,https://cdn.theorg.com/968f7508-09f2-4ac0-88c6-86418d21fccb_thumb.jpg,Tanya White,4
+Stephen Ross,Strategy & Business Planning Manager,no_match,Carson Oliver,4
+Chantal Morgan,"Global Supply Manager - Health, Wellness And Benefits",https://cdn.theorg.com/8b2172ea-0c3e-4da7-ae28-8e300667e03a_thumb.jpg,Sumbul Ahmad Desai,4
+Tracey L. Scott,Environment Health And Safety Manager - AMR,https://cdn.theorg.com/94c3d8c2-8904-490b-9f2b-fb3cef2ec811_thumb.jpg,Sumbul Ahmad Desai,4
+Divya Nag Nahesh,Director Of Health,https://cdn.theorg.com/59aa99ce-c5d2-4e4d-9a23-ae4543b1b4a1_thumb.jpg,Sumbul Ahmad Desai,4
+Lily Peng,"Director, Health & AI",no_match,Sumbul Ahmad Desai,4
+Aldy Duffield (She,"Senior Manager, Global Health Programs",https://cdn.theorg.com/403112a4-8be7-4a8b-a85d-feed326feb7b_thumb.jpg,Lily Peng,5
+Dereck Ferdaws,Senior Epm- Imaging & Sensing Incubation,no_match,Lily Peng,5
+Mayank Gupta,"Senior Engineering Manager, Health Research",https://cdn.theorg.com/77160008-21e2-47c9-9402-d7673aa50210_thumb.jpg,Lily Peng,5
+Zack Van Hamburg, "Head of Worldwide Video",https://cdn.theorg.com/265be03f-3b20-46c4-a73c-13ea30544eb4_thumb.jpg,Craig Federighi,3

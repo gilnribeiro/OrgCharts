@@ -1,0 +1,625 @@
+name,title,image_src,reports_to,chart_status
+Elliot Hill, "President & CEO",https://cdn.theorg.com/127901ea-a569-414d-955b-d4a8263b9cfd_thumb.jpg,,1
+Thomas Clarke,"President, Innovation",https://cdn.theorg.com/52ff0743-a5f8-445b-8046-5e5312317061_thumb.jpg,Elliott Hill,2
+Matthew Friend,EVP & CFO,https://cdn.theorg.com/a4ba41f0-6964-40bb-8f01-e67a07467e83_thumb.jpg,Elliott Hill,2
+Monique Matheson,EVP & CHRO,https://cdn.theorg.com/3aa6d044-93e6-4584-b3d4-23fc22c7305f_thumb.jpg,Elliott Hill,2
+Muge Erdirik Dogan,EVP & CTO,https://cdn.theorg.com/28d716e0-1449-4c84-b5a5-9145d14742a1_thumb.jpg,Elliott Hill,2
+Ann Miller,"EVP, Global Sports Marketing",https://cdn.theorg.com/c40a032f-6083-4856-aefd-47a318250080_thumb.jpg,Elliott Hill,2
+Craig Williams,"President, Geographies & Marketplace",no_match,Elliott Hill,2
+KeJuan Wilkins,EVP & Chief Communications Officer,no_match,Elliott Hill,2
+Heidi O’Neill,"President, Consumer, Product & Brand",https://cdn.theorg.com/fc48abe2-321a-4239-befc-330cfefdc41e_thumb.jpg,Elliott Hill,2
+Venkatesh Alagirisamy,Chief Supply Chain Officer,https://cdn.theorg.com/d5d29bbb-58f1-4811-99a5-1d96c9c1c74b_thumb.jpg,Elliott Hill,2
+Rob Leinwand,EVP & Chief Legal Officer,https://cdn.theorg.com/5badfcac-3812-48ec-b692-0036cb4671bd_thumb.jpg,Elliott Hill,2
+Janett Nichol,"VP, Apparel Innovation",https://cdn.theorg.com/cc61163c-4757-4798-bf5c-86787d6f7781_thumb.jpg,Thomas Clarke,3
+Robert Barnette,"VP, Digital Innovation",https://cdn.theorg.com/1fef0610-672b-4960-9e62-5e8349585c7f_thumb.jpg,Thomas Clarke,3
+Shane Wilson,"Global VP, Innovation",https://cdn.theorg.com/b0c2ee8d-3004-4b7b-9f60-9ce3f817a360_thumb.jpg,Thomas Clarke,3
+Jeanine Hayes,"VP, Innovation Labs",no_match,Thomas Clarke,3
+Harry Wu,"Director of Product, Nike Run Club & Nike Training Club",https://cdn.theorg.com/6285d6a9-735c-459d-81f3-e57f81f5042d_thumb.jpg,Thomas Clarke,3
+Daniel Heaf,Chief Strategy & Transformation Officer,https://cdn.theorg.com/d33a8414-e50c-4dba-aab6-1cbeec761415_thumb.jpg,Thomas Clarke,3
+Johanna Nielsen,"VP, Corporate Controller",no_match,Matthew Friend,3
+Manish Jain,"Chief Financial Officer, Corporate Fp&a, Dtc, Commercial Operations",https://cdn.theorg.com/36856f28-1d0b-495f-be90-5d0369f417f3_thumb.jpg,Matthew Friend,3
+Jaycee Pribulsky,"VP, Global Footwear Sourcing & Manufacturing",https://cdn.theorg.com/7dc65d21-2ddd-478c-b73a-8778d188def2_thumb.jpg,Matthew Friend,3
+Amanda Tomkoria,"Global Vice President, Talent Management",https://cdn.theorg.com/a4bcf94a-0751-45fd-b959-2e092bdf8b1d_thumb.jpg,Monique Matheson,3
+Tamara Patrick,Global Head Of Global Learning & Development,https://cdn.theorg.com/993a55ab-de59-4a77-98b2-1051dd13d130_thumb.jpg,Monique Matheson,3
+Emily Wagner,"Senior Director, Global Head of Executive Recruiting & Talent Sourcing, Attraction, Experience",https://cdn.theorg.com/c39ce61d-2954-4d23-90b8-ae3fb4781eb0_thumb.jpg,Monique Matheson,3
+Blake Robinson,Lead Executive Sourcing Researcher (global Tech.),https://cdn.theorg.com/4b785623-98ab-4b4e-9124-d5b7b6392629_thumb.jpg,Monique Matheson,3
+Michelle McCray,Vice President People Solutions Teammate Experience Delivery,https://cdn.theorg.com/d2573bee-14e5-4174-bbc8-108426553705_thumb.jpg,Monique Matheson,3
+Paul Jones,"Director Talent Acquisition, Global Executive Recruiting",no_match,Monique Matheson,3
+Moira Ault,"Director, Talent Brand & Experiences",https://cdn.theorg.com/f512ae80-d41a-41f5-8992-ac7995f4be9c_thumb.jpg,Monique Matheson,3
+Deidre Parris,"Director, Executive Recruitment",no_match,Monique Matheson,3
+Marvin Stickel,"Global Talent Sourcing Director: Consumer, Product & Brand",https://cdn.theorg.com/8947c4a5-ecea-4b5d-90ee-e6b19c233edc_thumb.jpg,Monique Matheson,3
+Eric Barnum,"Talent Acquisition Director, Global Technology",https://cdn.theorg.com/47b932d8-2f9b-4324-8d5b-88a1e70cd9ff_thumb.jpg,Monique Matheson,3
+Lacie V,Lead Technical Recruiter - Global Tech,https://cdn.theorg.com/f5b9943a-353b-4de3-bf9c-f5338ac2d70d_thumb.jpg,Monique Matheson,3
+Linda Newnham,"Talent Acquisition Director, Apla, North America & Global Jordan Brand",https://cdn.theorg.com/c607f53f-2bb0-4956-a6fc-b6b4bf9d8a05_thumb.jpg,Monique Matheson,3
+Glenn E. Newman Jr.,"Sr Principal, DEI Business Partner",https://cdn.theorg.com/de2a247f-e66f-4e4e-ad68-9dcd5795fff3_thumb.jpg,Monique Matheson,3
+Venka Luo,"Lead Recruiter, Global Talent Acquisition",https://cdn.theorg.com/b816958b-f600-4d09-ab25-93e8fb6dcbc2_thumb.jpg,Monique Matheson,3
+Wendy Sun,Lead Recruiter & Employer Branding,https://cdn.theorg.com/08e97e9c-77fe-46ef-90a4-4eac9dadf4b1_thumb.jpg,Monique Matheson,3
+Emily White,"VP, Enterprise Data & Analytics",https://cdn.theorg.com/98e3eee4-baf9-41d8-8f22-241d0386d5e2_thumb.jpg,Muge Erdirik Dogan,3
+Alan John,Global Head Of Data & AI,https://cdn.theorg.com/55036526-692d-4c4d-a2f1-101795ee011d_thumb.jpg,Muge Erdirik Dogan,3
+Cheryan Jacob,Chief Information Officer,https://cdn.theorg.com/0a61fd06-e17a-44ee-bb62-c76ae1c32407_thumb.jpg,Muge Erdirik Dogan,3
+Zoe Braithwaite,"Vp, Global Counsel | Brand Marketing, Sports Marketing + Biz Affairs",https://cdn.theorg.com/07618c8a-4bb3-4c96-85ff-c1e756cc3692_thumb.jpg,Ann Miller,3
+Sarah Mensah,"VP & GM, North America",https://cdn.theorg.com/070ed5c8-d067-4cd4-88ab-6476b8738079_thumb.jpg,Craig Williams,3
+Amy Montagne,"VP & GM, APLA",https://cdn.theorg.com/f5203bb7-d9fb-4e41-b712-08824f9722b3_thumb.jpg,Craig Williams,3
+Angela Dong,"Global VP, Greater China",https://cdn.theorg.com/105ab535-e947-4ecb-88c8-429492e79cf3_thumb.jpg,Craig Williams,3
+Carl Grebert,"VP & GM, EMEA",https://cdn.theorg.com/c6932319-4a71-4d37-ba69-e5ac0e81332b_thumb.jpg,Craig Williams,3
+Mary Remuzzi,"VP, Consumer Creation Communications",https://cdn.theorg.com/bb724331-afea-46cc-a3e4-f28754a98ea8_thumb.jpg,KeJuan Wilkins,3
+Patrick Simpson-Nairn,"VP, EMEA Communications",https://cdn.theorg.com/439dd780-bd51-4a38-b289-2751c8e76ef9_thumb.jpg,KeJuan Wilkins,3
+Kristen Commander,"Senior Director, Global Communications, Consumer, Product And Brand",https://cdn.theorg.com/6696a3d7-a57c-4bb4-9a85-6c98c3a1b148_thumb.jpg,KeJuan Wilkins,3
+Vanessa Garcia-Brito,"Vp, Chief Impact Officer",https://cdn.theorg.com/933dfbd7-ba39-4ad4-ab6d-8ba5a5070279_thumb.jpg,KeJuan Wilkins,3
+Sara Blasing,"VP, Corporate Narrative Communications",https://cdn.theorg.com/19bfcf81-d680-43aa-9892-7c8b5a90ad1a_thumb.jpg,KeJuan Wilkins,3
+Sajo Jacob,"Vice President, Senior Executive - Consumer, Product & Innovation",https://cdn.theorg.com/f0fbead0-a357-42d5-8764-69af7a5f29bf_thumb.jpg,KeJuan Wilkins,3
+Tim Yu,"Vice President, Global Communications And Purpose // Jordan Brand",https://cdn.theorg.com/8fe04d77-df46-436a-af72-51156732bab7_thumb.jpg,KeJuan Wilkins,3
+Álvaro Maruenda Rodrigo,"Director Of Strategic Partnerships & Business Development, Advanced Innovation (nxt)",https://cdn.theorg.com/1a7b6f4a-3ca5-4f0c-9e41-b7a98d042b92_thumb.jpg,KeJuan Wilkins,3
+William Fang,"Director Of Strategy, Global Marketplace",https://cdn.theorg.com/0444deeb-e026-41a0-a12b-6d0b4bc89f83_thumb.jpg,KeJuan Wilkins,3
+Ruairi Hatchell,"Senior Manager, Marketplace Operations SEA & India",https://cdn.theorg.com/95cf002a-7c1c-46bc-821a-411ccd401158_thumb.jpg,KeJuan Wilkins,3
+Jesse P. Stollak,"Vp, North America Marketing",https://cdn.theorg.com/eeb358da-8608-4575-b867-843748b5fb77_thumb.jpg,Heidi O’Neill,3
+Ebony Njoku-Turner,"Global Communications Director, Jordan Brand",https://cdn.theorg.com/e1f1f69c-a781-45a8-bb46-a5d4fd66532c_thumb.jpg,Heidi O’Neill,3
+Devon Petersmeyer Johnson,"VP, Global Brand Planning & Operations",https://cdn.theorg.com/93c7b17a-4538-414f-9807-6227a9ec6f1a_thumb.jpg,Heidi O’Neill,3
+Whitney Larsen,"Global Marketing Manager, Jordan Brand, Women & Kids Division",https://cdn.theorg.com/07632b9d-805f-4cff-8ba8-4d8ca3eda2fb_thumb.jpg,Heidi O’Neill,3
+Chris Lewis,"Senior Director, Global Brand Marketing Men’s, Jordan Brand",no_match,Heidi O’Neill,3
+Reggie Saunders,"VP, Entertainment Marketing, Jordan Brand",no_match,Heidi O’Neill,3
+Patrick Seehafer,"VP, Merchandising, North America",https://cdn.theorg.com/41fb01dc-7175-41b5-9a19-f941ebce6de4_thumb.jpg,Heidi O’Neill,3
+Bert Stevens,"Global VP, Marketplace Supply Chain",no_match,Heidi O’Neill,3
+Adam Wilson,"Global VP, Catalyst Footwear & NBHD Merchandising",https://cdn.theorg.com/02c3b075-bd03-4be3-85ed-8951de895455_thumb.jpg,Heidi O’Neill,3
+John Hoke,Chief Design Officer,https://cdn.theorg.com/fa508ff3-2fe0-414f-9a6f-923764b78369_thumb.jpg,Heidi O’Neill,3
+Jared Carver,"CEO, Converse",https://cdn.theorg.com/c3aec2f6-cdc9-414d-b9a3-eac9ac9cf4e8_thumb.jpg,Heidi O’Neill,3
+Cara Harvey,"VP, Sports Marketing, APLA",https://cdn.theorg.com/94c20672-7739-49ea-93f9-847efa9fa1bc_thumb.jpg,Heidi O’Neill,3
+Tanya Hvizdak,"VP, Women’s Global Sports Marketing",https://cdn.theorg.com/ece7cd7c-129a-44b4-8b1c-577f002df37f_thumb.jpg,Heidi O’Neill,3
+Adrian Bell,"VP, Global Men's Sports Marketing",https://cdn.theorg.com/e0526e4e-d957-4cb5-b780-1316defc0f1d_thumb.jpg,Heidi O’Neill,3
+Aaron Cain,"VP & GM, Men's",https://cdn.theorg.com/554421c8-465c-48da-b361-a6e3502fcca8_thumb.jpg,Heidi O’Neill,3
+McCallester Dowers,"VP & GM, Global Kids",no_match,Heidi O’Neill,3
+Phil McCartney,"VP & GM, Nike Footwear",https://cdn.theorg.com/53f31cdc-cc6a-40d4-b970-a2456a3f3fd5_thumb.jpg,Heidi O’Neill,3
+Adam Roth,"VP, Marketing, North America",https://cdn.theorg.com/ac077743-d392-4807-a4ba-08d5c9cf853c_thumb.jpg,Heidi O’Neill,3
+Chloe Shattock Speed,"VP, Marketing, EMEA",https://cdn.theorg.com/afd99e26-0bc2-43b8-a70a-234235a75a6b_thumb.jpg,Heidi O’Neill,3
+Deepak Arora,"VP, Marketing Technology",https://cdn.theorg.com/ba5c1078-3845-446d-950f-b87635e43679_thumb.jpg,Heidi O’Neill,3
+Caitlin Sargent,Chief Marketing Officer,no_match,Heidi O’Neill,3
+Shauncey Mashia,"Global Senior Manager, Jordan Brand, Black Community Commitment",https://cdn.theorg.com/47a968d9-73a2-4212-9ff5-0c917a3f1c66_thumb.jpg,Heidi O’Neill,3
+Ian Tang,"Senior Director, Global Supply Chain Strategy",https://cdn.theorg.com/a10933c1-2e3c-462d-a7b9-a1b59c33d68c_thumb.jpg,Venkatesh Alagirisamy,3
+Brian Fogarty,"Vp, Global IP And Global Litigation",https://cdn.theorg.com/b699b63d-4292-43c1-bf5d-02a277143bd9_thumb.jpg,Rob Leinwand,3
+Joshua Simko,"VP, Corporate Governance & Securities Counsel",https://cdn.theorg.com/4f6c8359-5cab-4ed8-817b-68e29f85a277_thumb.jpg,Rob Leinwand,3
+Jaime Lemons,"VP, Privacy, Ethics & Compliance",no_match,Rob Leinwand,3
+Dina Stults,Public Policy & Social Impact Operations Director,no_match,Rob Leinwand,3
+Shelly Grossman,"Director, Apparel Innovation",https://cdn.theorg.com/7d0074c8-c2aa-460a-92d0-e8261f4df7ea_thumb.jpg,Janett Nichol,4
+Shannon Sheehan,"Sr. Director Operations, Digital Product Design",no_match,Robert Barnette,4
+Jason Loveland,VP Of Enterprise Ai/ml Engineering,https://cdn.theorg.com/93b46404-2913-42e5-a8f8-44b4426da681_thumb.jpg,Robert Barnette,4
+Clare Hamill,VP Innovation Integration,no_match,Robert Barnette,4
+Silvia Soriano,"Director, Principal Business Architect",https://cdn.theorg.com/2e629eb9-dd8f-40aa-905c-d7426d687cb6_thumb.jpg,Shane Wilson,4
+Alina Black,"Director Of Innovation Insights And Strategy, Valiant Labs",no_match,Jeanine Hayes,4
+Austin Ramsland,Digital Capability Lead,https://cdn.theorg.com/c2bfdcfb-d2f9-448e-b069-51925c709634_thumb.jpg,Jeanine Hayes,4
+Ann Baxter,Bowerman Footwear Lab Experience Director,no_match,Jeanine Hayes,4
+Katelyn Harker,Lead Apparel Innovation Researcher,https://cdn.theorg.com/574d3c6e-eab0-4862-ab35-6089db93f5f7_thumb.jpg,Jeanine Hayes,4
+Dan Judelson,Director Of Apparel Research,https://cdn.theorg.com/ee501da6-899b-4218-af8e-663a126d3436_thumb.jpg,Jeanine Hayes,4
+Linai Vaz,"Sr. Director, Applied Apparel Research (nsrl) Innovation",https://cdn.theorg.com/36fdeb6f-4215-4ccd-8a3b-18468e2c1267_thumb.jpg,Jeanine Hayes,4
+Joanie Larose,Lead Researcher - Apparel Innovation - Thermoregulation,https://cdn.theorg.com/eddc3271-9b46-4fe1-b0fd-e2b6e89c06ed_thumb.jpg,Jeanine Hayes,4
+Marlon Rainville,Lead Biomechanics Researcher - Nike Sport Research Lab,https://cdn.theorg.com/743efb1a-3378-483a-aa6f-c55cb4a61f18_thumb.jpg,Jeanine Hayes,4
+Rajat Shetty,Digital Operations & Support Manager At Nike,https://cdn.theorg.com/531beade-8123-45eb-8ef0-d33df2a74408_thumb.jpg,Shannon Sheehan,5
+Amarjit Sharma,Vice President Of Engineering,https://cdn.theorg.com/024feabd-f9c6-4b63-aaf4-71179f7d4da7_thumb.jpg,Jason Loveland,5
+Benjamin Schoener,"Senior Director, Ai/ml Engineering",https://cdn.theorg.com/4808c75a-5413-451e-b2e9-bd4bee7640a6_thumb.jpg,Jason Loveland,5
+Zhiyu Liang,"Director, Consumer Ai/ml Engineering",no_match,Jason Loveland,5
+Grant Babb,Principal Machine Learning Engineer,https://cdn.theorg.com/1f4d17e4-78d2-4a37-81bb-6c74d6f73917_thumb.jpg,Jason Loveland,5
+Sohail M.,"Manager, Data Engineering",https://cdn.theorg.com/18455f24-a417-45d3-bf66-99a5d3eccdc6_thumb.jpg,Jason Loveland,5
+Sourabh Mondal,Data Engineering Manager,https://cdn.theorg.com/88d8c0d3-f4b5-43c9-8ae9-a142673d40e8_thumb.jpg,Jason Loveland,5
+Andrew Garcia,"Director, Global Application Security",no_match,Amarjit Sharma,6
+Angie Eastman-Aytes,Engineering Operations Lead,no_match,Amarjit Sharma,6
+Seb Mirabile,Ios Engineering Manager - Nike Snkrs,https://cdn.theorg.com/2398566e-e109-475e-b9b4-dd87010fb7af_thumb.jpg,Amarjit Sharma,6
+Jordan Rice,Head Of Innovation Business Operations & Portfolio - Sr. Director,no_match,Amarjit Sharma,6
+Praveen Gupta,"Director Of Engineering, North America",https://cdn.theorg.com/b35699ec-98d2-4798-bc84-eea8b8b90190_thumb.jpg,Amarjit Sharma,6
+Lamont Powell,"Senior Director, Global Network Engineering",https://cdn.theorg.com/af2e6018-9c38-4937-ad78-8eb4e5b70b43_thumb.jpg,Amarjit Sharma,6
+Sandipan Choudhury,Director - SAP Security Engineering,https://cdn.theorg.com/8b208fd7-1f3c-46b8-b83b-08ca6eb3234e_thumb.jpg,Amarjit Sharma,6
+Muyiwa Olufon Fbcs,Senior Director - Global Information Security,no_match,Amarjit Sharma,6
+Dale Compton,"Senior Director, Application Security",https://cdn.theorg.com/9ce786d1-6e26-4fe0-aba1-b87c14acb5d3_thumb.jpg,Amarjit Sharma,6
+Gaurav Sharma,"Director Of Engineering, Consumer Data And Analytics",no_match,Amarjit Sharma,6
+Bryan Lenz,"Director, Infrastructure Engineering - Cloud & Core",https://cdn.theorg.com/d52c4967-1b37-4ba3-ba88-a5e8491431f4_thumb.jpg,Amarjit Sharma,6
+Wes Mosby,Sr. Director Of Global Cloud Pipeline And Tool Engineering At Nike,https://cdn.theorg.com/71d80ea0-7842-4627-acf0-8761f469364b_thumb.jpg,Amarjit Sharma,6
+Twinkle Desai,Senior Director Of Technology- Cloud Business Office,https://cdn.theorg.com/604b52eb-808a-4f95-ab10-cdadc8380ca7_thumb.jpg,Amarjit Sharma,6
+Priyanka Jammidiguntla,"Director Of Engineering, Order Management",https://cdn.theorg.com/7398df24-b3e8-47b7-a71d-7e77ae70e937_thumb.jpg,Amarjit Sharma,6
+Madhav Deverkonda,Sr Director Of Engineering - Marketplace Supply Chain Tech,https://cdn.theorg.com/3921cda7-6a77-4e73-b8d2-34e99f9152e5_thumb.jpg,Amarjit Sharma,6
+Vignesh Pratap,"Senior Director Of Engineering, Global Technology",https://cdn.theorg.com/bf7c13e8-ed0d-40bc-b105-1603fc7de3c0_thumb.jpg,Amarjit Sharma,6
+Gopi Parasurama,Sr Director Of Engineering - Inventory & Store Fulfillment Platforms,https://cdn.theorg.com/c794079f-28b3-42c4-b0e8-cdd9e93d56bc_thumb.jpg,Amarjit Sharma,6
+Jingzi Tan,Director Of Engineering,https://cdn.theorg.com/9c1d4aa4-d314-46a3-a07c-26c85ce1c131_thumb.jpg,Amarjit Sharma,6
+Smita Hegde,"Director Of Engineering, Supply Chain Analytics Inventory",https://cdn.theorg.com/962f603b-e3a6-47fa-95f3-28b181ce8dd8_thumb.jpg,Amarjit Sharma,6
+Sowmya Srikanth,Lead Engineering Program Manager,https://cdn.theorg.com/8b07fb87-7ea2-45d1-8c13-0c17b7b525e9_thumb.jpg,Amarjit Sharma,6
+Todd Underwood,Senior Software Engineer - Contract,https://cdn.theorg.com/65ca8416-1aaa-4d9b-be65-e6bfcf2d36df_thumb.jpg,Angie Eastman-Aytes,7
+Crystal Melby,"Senior Director, Global Head Of Nike Direct And Marketplace Portfolio",https://cdn.theorg.com/38016ff5-1c1d-4c42-bdcb-5f376be0bf31_thumb.jpg,Jordan Rice,7
+Anusha Gopu,Senior Java Developer,no_match,Praveen Gupta,7
+Art Bahrs,Sr IAM Security Engineer,no_match,Muyiwa Olufon Fbcs,7
+Tery Hodges,Senior Information Security Analyst,no_match,Muyiwa Olufon Fbcs,7
+Jacob Monaco,Senior Cyber Security Data Analyst,https://cdn.theorg.com/6deb2d04-c202-48e1-8e0b-7fe7c845d56f_thumb.jpg,Gaurav Sharma,7
+Harsha Ponde,Senior Devops Engineer,https://cdn.theorg.com/eb4aead6-fa5e-4713-aefd-f3ce0baa4913_thumb.jpg,Gaurav Sharma,7
+Kraig Tapang,Senior Devops Innovation Engineer,https://cdn.theorg.com/290385c1-fc0a-412b-80b3-c344de75953f_thumb.jpg,Gaurav Sharma,7
+Radu Fleseriu,"Manager, Public Cloud Engineering",https://cdn.theorg.com/b42f9c79-59c4-41eb-9277-33d56e2dee52_thumb.jpg,Twinkle Desai,7
+Salim Zayat,Software Engineering Manager,https://cdn.theorg.com/4c4e626b-11ca-478d-8f1d-e61d4bef626e_thumb.jpg,Vignesh Pratap,7
+Vishwas Adoor Vittal,"Senior Engineering Manager, Finance Data Analytics",https://cdn.theorg.com/9ce49357-fa43-43f2-a636-66143a42f17c_thumb.jpg,Vignesh Pratap,7
+Jose Berretta Moreno,Sr Software Engineer,https://cdn.theorg.com/0a2e58ef-25b1-4d48-918a-c96a32666f2e_thumb.jpg,Salim Zayat,8
+Karl Rutledge,"Senior Manager, Marketplace Supply Chain Foundational Data Products",https://cdn.theorg.com/165a882e-a921-43e1-95f7-4dad3981e2ce_thumb.jpg,Gopi Parasurama,6
+Monika Folske,Senior Materials Developer,https://cdn.theorg.com/ac55bd8d-3e1f-445a-9c98-ccaab7956a05_thumb.jpg,Gopi Parasurama,6
+Roxana Deleanu,Senior Java Backend Engineer,https://cdn.theorg.com/0cbfb6c8-1cc6-40bb-a187-78ecfa2ee354_thumb.jpg,Jingzi Tan,6
+Kellie Holscher,"Senior Footwear Developer - North America, Global Express Lane",https://cdn.theorg.com/4f2e7d2d-af91-42e2-b1cd-636c46a5b8b7_thumb.jpg,Jingzi Tan,6
+Attilio D'Onofrio,Senior Devops Engineer,https://cdn.theorg.com/468fda92-b134-4cfd-bc55-53113d4ecb44_thumb.jpg,Jingzi Tan,6
+Devin Bailly,Cushioning Engineering Manager,https://cdn.theorg.com/86accc1e-f32e-4e06-98bd-49a78304cb6d_thumb.jpg,Jingzi Tan,6
+Frank 🦄 Huffener,Senior Engineer,https://cdn.theorg.com/318eefe2-8771-413b-a9b8-fc91a8552f5b_thumb.jpg,Jingzi Tan,6
+Seungin Han,Senior Product Engineer,no_match,Jingzi Tan,6
+Silvia Soriano,"Director, Principal Business Architect",https://cdn.theorg.com/2e629eb9-dd8f-40aa-905c-d7426d687cb6_thumb.jpg,Shane Wilson,4
+Alina Black,"Director Of Innovation Insights And Strategy, Valiant Labs",no_match,Jeanine Hayes,4
+Austin Ramsland,Digital Capability Lead,https://cdn.theorg.com/c2bfdcfb-d2f9-448e-b069-51925c709634_thumb.jpg,Jeanine Hayes,4
+Ann Baxter,Bowerman Footwear Lab Experience Director,no_match,Jeanine Hayes,4
+Katelyn Harker,Lead Apparel Innovation Researcher,https://cdn.theorg.com/574d3c6e-eab0-4862-ab35-6089db93f5f7_thumb.jpg,Jeanine Hayes,4
+Dan Judelson,Director Of Apparel Research,https://cdn.theorg.com/ee501da6-899b-4218-af8e-663a126d3436_thumb.jpg,Jeanine Hayes,4
+Linai Vaz,"Sr. Director, Applied Apparel Research (nsrl) Innovation",https://cdn.theorg.com/36fdeb6f-4215-4ccd-8a3b-18468e2c1267_thumb.jpg,Jeanine Hayes,4
+Joanie Larose,Lead Researcher - Apparel Innovation - Thermoregulation,https://cdn.theorg.com/eddc3271-9b46-4fe1-b0fd-e2b6e89c06ed_thumb.jpg,Jeanine Hayes,4
+Marlon Rainville,Lead Biomechanics Researcher - Nike Sport Research Lab,https://cdn.theorg.com/743efb1a-3378-483a-aa6f-c55cb4a61f18_thumb.jpg,Jeanine Hayes,4
+Nikki Heyer Borg,"Director, Global Tax - External Reporting And Compliance",https://cdn.theorg.com/73667a18-0421-4386-9f95-3d2f1d37d99e_thumb.jpg,Johanna Nielsen,4
+Vitor Martins,Global Tax Controversy & Tax Policy Director,no_match,Johanna Nielsen,4
+Lutfi Kalpaklioglu,"Finance Director, Fp&a, EMEA Consumer & Product",https://cdn.theorg.com/6957f21e-97d7-4096-9a16-990d84252e4f_thumb.jpg,Johanna Nielsen,4
+Natalie Atkinson,"Lead Manager, NA Benefits",no_match,Michelle McCray,4
+Megan Lawrence,Senior Director Of Accessibility And Disability Inclusion,https://cdn.theorg.com/4847a500-ca65-4b94-be27-8d5b582c292e_thumb.jpg,Michelle McCray,4
+Tia Milne,"Director, Training And Delivery, Nike Athlete Experience (nax)",https://cdn.theorg.com/61de7b69-4f77-4b9b-ae3c-ba97d16ff230_thumb.jpg,Michelle McCray,4
+Jake Saunders,"Senior Technical Recruiter, Global Technology",no_match,Paul Jones,4
+Victor Hodges,"Senior Talent Researcher - Global Talent Research, Intelligence & Tools",no_match,Moira Ault,4
+Bruna Felix,Brand Experiences & Events Senior Coordinator,https://cdn.theorg.com/729fc354-6328-4c01-988e-b626948bf0d9_thumb.jpg,Moira Ault,4
+Cate Yu,"Sr. Executive Recruiter - Ai, Data, & Machine Learning",https://cdn.theorg.com/17e1c47a-1605-408c-a88f-128525cf21de_thumb.jpg,Deidre Parris,4
+Yahaira Maldonado,Senior Executive Talent Sourcer,https://cdn.theorg.com/2a3b2f89-aebd-4021-a8a6-475872b0c707_thumb.jpg,Deidre Parris,4
+Edric Sedeno,Technology Sourcing Manager,https://cdn.theorg.com/ef3f2b1b-05fb-4a18-913b-13f0c110e164_thumb.jpg,Eric Barnum,4
+Hans van der Steen,EMEA - Enterprise Data & Analytics Program Lead,https://cdn.theorg.com/9d47e2cb-fdd3-4e50-8fec-2210f9a7f216_thumb.jpg,Emily White,4
+Nishika Abeytunge,Senior Data Analytics Manager,https://cdn.theorg.com/ff13ee27-f6e2-4aa7-b579-57543959fb90_thumb.jpg,Emily White,4
+Tami Dalley,"Vice President, Global Marketing Science",https://cdn.theorg.com/9aef9a03-2b6d-488a-94e1-01d5cbf4a4ed_thumb.jpg,Emily White,4
+Ibrahim Agoro,Director Data Governance - Data Privacy,no_match,Emily White,4
+Najib Bounouane,Manager Data & Analytics,https://cdn.theorg.com/ea4f8521-bcdc-4d34-8390-7d10503fc0a3_thumb.jpg,Emily White,4
+Irene Kujembola,Director Architecture- Data & Analytics EMEA,https://cdn.theorg.com/b87bf25b-0ab0-4c52-95e4-dc944eadd24f_thumb.jpg,Emily White,4
+Dj Brown,Sr. Diversity Talent Sourcer - Global Technology,no_match,Emily White,4
+Tollman Owens,Lead Software Engineer - Enterprise Data And Analytics,no_match,Emily White,4
+Kevin Turner,"Senior Director, Data Science & Analytics, Snkrs & Launch",https://cdn.theorg.com/c5c14a25-9017-4af2-be9f-73c5915bce48_thumb.jpg,Emily White,4
+Shawn Davis,VP Of Enterprise Data Science,no_match,Emily White,4
+Mark Nakamura,"Vp, Macro And Competitive Intelligence Insights",https://cdn.theorg.com/d02fa86a-71a2-4a1d-8fb6-0f07215ce400_thumb.jpg,Emily White,4
+Sandeep Bhargava,"Senior Director, Online Data Platform",https://cdn.theorg.com/6116aab9-683f-4d1d-af64-063243fdef05_thumb.jpg,Emily White,4
+Zachary Watts,"Principal, Business Data Analytics",no_match,Emily White,4
+Les Spicer,VP Of Enterprise Analytics & Data Engineering,https://cdn.theorg.com/6a9b535a-ef13-40a7-8358-83763369c717_thumb.jpg,Emily White,4
+Zubair Fazal,"Sr. Director Of Marketplace, Planning, Sourcing & Sustainability Analytics Engineering",https://cdn.theorg.com/197cdb67-33cd-4360-a24c-c0f4bda644bc_thumb.jpg,Emily White,4
+Joe Hollow,"Sr Director, Data & Analytics, Asia Pacific & Latin America (apla)",https://cdn.theorg.com/cd322a32-2388-4ded-a7a6-825627d53343_thumb.jpg,Emily White,4
+Kacie Wise,"Lead, Product Insights",https://cdn.theorg.com/d96658ab-d1d0-46d9-baa3-067ed7c7a5c9_thumb.jpg,Emily White,4
+Reisa K.,Senior Director North America Insights & Analytics,https://cdn.theorg.com/b997a6b7-1694-428b-b15c-a8c998453c47_thumb.jpg,Emily White,4
+Brandon Rivera,"Lead Manager, Nike Global Marketplace Partners, Membership",https://cdn.theorg.com/7ef9743e-7926-405d-89ed-d1701473c3b3_thumb.jpg,Emily White,4
+Anubhavi Gupta,"Director, Personalization & Marketing Optimization - Enterprise Data Science",https://cdn.theorg.com/05fe7040-d613-411a-b4bb-7d59e217242c_thumb.jpg,Emily White,4
+Sebastyan Zaborowski,"Sr Director, Customer Success, Data Products And Ecosystem",https://cdn.theorg.com/1aeac20b-8ef5-4b4c-a947-8689e7859d88_thumb.jpg,Emily White,4
+Brinda Rama,Global Sr. Marketing Director,https://cdn.theorg.com/9d085d24-57f6-490a-a530-43e02b3b0ee3_thumb.jpg,Tami Dalley,5
+Sander Hooijer,"Director, Marketing Platforms & Technology",https://cdn.theorg.com/a8b9d6c9-2ec9-49db-9f13-8e86742fcbfb_thumb.jpg,Tami Dalley,5
+Brittany Grosvenor,"Director, Integrated Media Seasonal Strategy And Programming, Global",https://cdn.theorg.com/0b060a54-b6c6-4c9e-b6db-7232ba451350_thumb.jpg,Tami Dalley,5
+Duane Wee,"Senior Director, Jordan Brand Marketplace Asia Pacific & Latin America",no_match,Tami Dalley,5
+Kara Puidokas,Senior Devops Engineer,no_match,Ibrahim Agoro,5
+Yasin Ünlü,Senior Data Scientist,https://cdn.theorg.com/8c042be4-bd3b-46dd-9b1b-d15b06989d61_thumb.jpg,Kevin Turner,5
+Drew Carpenter,"Vice President, Enterprise Analytics, Data Science & Business Intelligence",https://cdn.theorg.com/518080a7-002a-40b2-a8fe-d3423f92a99f_thumb.jpg,Shawn Davis,5
+Anastasia Egorova,"Vice President, Commercial Analytics",https://cdn.theorg.com/a61079bb-193c-4491-9e1e-d16a7596d7d8_thumb.jpg,Shawn Davis,5
+Kathleen Poe,"Senior Director, Services, Nike Sports Research Lab",https://cdn.theorg.com/0b219659-4aa4-420b-a25e-b5aacef422d5_thumb.jpg,Shawn Davis,5
+Merrin Bartley,Senior Director Of Market And Brand Insights,no_match,Anastasia Egorova,6
+Dana Alpert,Head Of Global City Insights,https://cdn.theorg.com/9823cc2e-1396-4fe3-8281-2658da11b299_thumb.jpg,Mark Nakamura,5
+Haris Stanley Kolandai Raj,Data Engineering Manager,https://cdn.theorg.com/ff82a177-51d6-45be-a2a5-cf0d21372316_thumb.jpg,Les Spicer,5
+Nitin Saraswat,"Director Of Engineering, Data And Analytics",no_match,Les Spicer,5
+Jorge Varona,"Sr. Director, Enterprise Data Software Engineering",https://cdn.theorg.com/ae6a93cb-ffa4-4a58-8a61-9c57deb8497c_thumb.jpg,Les Spicer,5
+Mikita Sakalouski,Lead Data Engineer@planning Department In EMEA Data&analytics,https://cdn.theorg.com/81cb5163-224c-4d45-b69b-6bfbbec28757_thumb.jpg,Les Spicer,5
+Allan Lombos,Director - Finance Business Intelligence Data Governance,no_match,Les Spicer,5
+Debabrata Datta,Data Engineering Manager,https://cdn.theorg.com/91d6691f-5c41-4b15-a0f9-3149b7633e34_thumb.jpg,Les Spicer,5
+Akhilesh Singhal,Director Data Engineering And Dataops,https://cdn.theorg.com/3a94cb6b-ce72-4e01-aec1-2c8e68b9c035_thumb.jpg,Les Spicer,5
+Helena Chew,Data Analytics Manager,https://cdn.theorg.com/4832d2e2-d929-4a18-bc56-0472ff006e76_thumb.jpg,Nitin Saraswat,6
+Atirek Khare,Engineering Manager,https://cdn.theorg.com/d4e082c1-3147-463d-91e7-e59dfa339207_thumb.jpg,Nitin Saraswat,6
+Gauri Bhogle,Senior Data Engineer,https://cdn.theorg.com/f2570636-7aed-43fc-aa83-b01ef7074025_thumb.jpg,Nitin Saraswat,6
+Bhargav Rao,Sr. Product Analyst,no_match,Reisa K.,5
+Maureen Murphy,VP Global Nike Direct Digital Commerce,https://cdn.theorg.com/676a9357-55e3-47f9-8588-9cd4c1cb4821_thumb.jpg,Sarah Mensah,4
+Steve Scarpetta,"Vice President/gm Digital Commerce, North America",https://cdn.theorg.com/7cf2452b-556a-423f-85cd-34bb8a30462f_thumb.jpg,Sarah Mensah,4
+Jennifer Tangen,"Director, Digital Commerce: Seasonal Initiatives & Promotions",https://cdn.theorg.com/b1ee455a-67a4-4987-a42e-01929089da1b_thumb.jpg,Maureen Murphy,5
+Susie Lange,Director Digital Platform & Performance EMEA (b2b Ecommerce),https://cdn.theorg.com/33a5fab4-ad1c-4c36-a8e5-5ce9d297cde7_thumb.jpg,Maureen Murphy,5
+Teryl Walthaw,"Director, Product Merchandising Women's Sportswear Apparel Asia Pacific Latin America",https://cdn.theorg.com/ae018f50-e019-4f96-a68f-a689af7789f6_thumb.jpg,Maureen Murphy,5
+Andi Dhillon,"Sr. Director, Digital Commerce North America - Men's, Women's, Kids Business & Experience",https://cdn.theorg.com/4c55d1df-c988-4568-9b8a-6408955d0279_thumb.jpg,Steve Scarpetta,5
+Jamel Walker,Director Of E-commerce Operations - Canada (west),no_match,Steve Scarpetta,5
+MacKenzie Anderson,"Global Director, Corporate & Executive Communications",no_match,Sara Blasing,4
+Matilda Barrowcliff,Strategy Director: Advanced Product Innovation,https://cdn.theorg.com/a46e3f74-b611-4a53-8933-e82bd2b0585b_thumb.jpg,Sajo Jacob,4
+Melanie Moteberg,Product Creation Director - Nike Footwear Innovation,https://cdn.theorg.com/61bad5a8-f5af-4228-be16-4fc2ac48c25b_thumb.jpg,Sajo Jacob,4
+Dharini Govindarajan,Head Of Consumer Experiences - Products & Platforms,https://cdn.theorg.com/4f84abe2-83a4-48df-83ff-104f340adfa4_thumb.jpg,Sajo Jacob,4
+Kylee Rettmann,Lead Global Product Line Manager | Accessories,https://cdn.theorg.com/beb45150-f244-4692-96bf-32243b506e17_thumb.jpg,Sajo Jacob,4
+Maxine Garcia-Reilly,"Director, Product Integrity",https://cdn.theorg.com/f6a02ec6-f250-47fe-9a7f-e161efeafebd_thumb.jpg,Sajo Jacob,4
+Vageesh Murthy,"Global Product Director, Inventory And Fulfillment Services",https://cdn.theorg.com/ad4baa19-8041-4387-a33a-938f30797e01_thumb.jpg,Sajo Jacob,4
+Konstantinos Argyropoulos Msc,Lead Product Manager In Privacy,no_match,Sajo Jacob,4
+Grace Chang,"Global Director, Consumer, Product & Brand Communications",https://cdn.theorg.com/5597a93d-e15b-4119-9414-e39a59fc174d_thumb.jpg,Sajo Jacob,4
+Sky Kelley,"Co-global General Manager, Digital Product Innovation",https://cdn.theorg.com/4d4bc9fc-9c60-4785-9be5-018a0c502cfd_thumb.jpg,Sajo Jacob,4
+Simba Jangira,Product Line Manager II - Men's Basketball Apparel,https://cdn.theorg.com/a42ad180-3a9c-424a-80f1-0eda393be36c_thumb.jpg,Vageesh Murthy,5
+Kendra S. Powell,Sr. Director HRBP Jordan Brand,https://cdn.theorg.com/ac4a30c0-e1e7-4e64-be89-b417a5575a11_thumb.jpg,Tim Yu,4
+Nikhil Pandit,Global Business Director - Nike Virtual Studios,https://cdn.theorg.com/b67d2ddb-cb39-4f7a-bf96-51db9f6498ee_thumb.jpg,Tim Yu,4
+Cliff King,"Director, Sports Marketing – Jordan Brand",no_match,Tim Yu,4
+Sushant Sharma,Sr. Marketing Director - Southeast Asia & India,https://cdn.theorg.com/c7e104c1-a9ad-414d-8ba4-8e496cf68d11_thumb.jpg,Tim Yu,4
+Jay Paavonpera,Senior Global Communications Director,https://cdn.theorg.com/db2ca497-105e-4594-a1fe-395831b7ddea_thumb.jpg,Tim Yu,4
+Lisa B.,"Global Director Strategic Communications, Jordan Brand",https://cdn.theorg.com/e9a327b3-1603-44f6-89c3-bc15056c627d_thumb.jpg,Tim Yu,4
+Pascal Relf,Manager Supply Chain & Operations - NIKE Owned & WHLS Partner Stores,https://cdn.theorg.com/b91a4ce7-3042-4182-865a-ed8ea5e0cdff_thumb.jpg,Ian Tang,4
+Sunayana Chenna,Senior Business Analyst,https://cdn.theorg.com/d3c029e7-06ef-4030-9a41-4d27c7eb23a8_thumb.jpg,Ian Tang,4
+Neha Das,Lead Associate General Counsel,no_match,Joshua Simko,4
+Rodrigo Matos,Global Senior Director Of Workplace Services,no_match,Joshua Simko,4
+Tony Lim,"Senior Counsel, Supply Chain - Global Manufacturing And Sustainability",https://cdn.theorg.com/0e599d55-2dd8-4157-8bc4-e8cf106d3906_thumb.jpg,Neha Das,5
+Michael Gerrits,"Sr Director | Sr Counsel, Product Safety & Compliance",no_match,Jaime Lemons,4
+Seth Fuller,Director Of Information Risk Management,https://cdn.theorg.com/e356b181-ab82-45eb-85ca-47c08f4148aa_thumb.jpg,Jaime Lemons,4
+Gannon Kelly,"Sr. Director, Infosec Governance, Risk & Compliance",no_match,Jaime Lemons,4
+Jimit Ladha,"Vice President, Global Technology",no_match,Jaime Lemons,4
+Dan Feehan,IT Compliance Director,no_match,Jaime Lemons,4
+Irini D.,Lead Privacy Advisor,https://cdn.theorg.com/ef99fa33-d3bf-4374-9a5e-db3a2e765744_thumb.jpg,Jaime Lemons,4
+Blais Hickey,Sr Compliance Performance Manager,no_match,Jaime Lemons,4
+Jeff Smith,Principal Technical Program Manager,https://cdn.theorg.com/37af76bf-b0e9-44cb-bfd5-56fb0ea35636_thumb.jpg,Jimit Ladha,5
+Rajeev Aikkara,"Vice President, Global Technology (planning, Manufacturing And Supply Chain)",https://cdn.theorg.com/a5a08a2f-1410-46f6-8ca7-595e2bcc7bbd_thumb.jpg,Jimit Ladha,5
+Amy Fabian-Crump,"Sr. Director, Global Technology, Asia Pacific Latin America (apla)",https://cdn.theorg.com/34e8ec7b-6932-43ff-814b-6918a1a9f3be_thumb.jpg,Jimit Ladha,5
+Claud Rusnac,Principal Information Security Analyst,no_match,Jimit Ladha,5
+Gordon McDonnell,"Senior Director, Global Technology, Digital Transformation, Program & Portfolio Office",https://cdn.theorg.com/d1ffa137-5daa-4980-9aad-d9f2129ead04_thumb.jpg,Jimit Ladha,5
+Lance Miller,"Director, Technology Program Management (sec Program)",https://cdn.theorg.com/ef84fa30-48d1-409a-b473-55278dde5947_thumb.jpg,Jimit Ladha,5
+Randy Seale,principal Cyber Defense Incident Responder,https://cdn.theorg.com/f24a9a37-828c-43d9-af90-6f7920db7d7f_thumb.jpg,Jimit Ladha,5
+Tom Sedory,North America Information Technology Director,https://cdn.theorg.com/0932d85c-724c-4805-86ad-178837daabdb_thumb.jpg,Jimit Ladha,5
+Jovita Alphonse,Senior Director (int) Insider Threat,https://cdn.theorg.com/1853763c-6667-456b-bdd5-485b455a6ce9_thumb.jpg,Jimit Ladha,5
+Sunil Bhardwaj,"Vp, Global Consumer And Marketplace Technology",https://cdn.theorg.com/ee817af0-f823-4913-91d9-174a64d87384_thumb.jpg,Jimit Ladha,5
+Felix Crepaz,"Business Operations & Enablement Director, Nike Technology",no_match,Jimit Ladha,5
+Shantanu Tengshe,Principal Architect - Global Technology,https://cdn.theorg.com/28e56d2b-cc5b-4916-9aa4-cf29f4a788c0_thumb.jpg,Jimit Ladha,5
+Tim Slavin,"Director, Procurement And Customer Finance Technology",https://cdn.theorg.com/b3006933-9394-4a38-a50f-9b3fbead51f4_thumb.jpg,Rajeev Aikkara,6
+Raje Kantamneni,Senior Director Procurement,no_match,Rajeev Aikkara,6
+Bharti Gupta,"Director, Product Management - Global Logistics",https://cdn.theorg.com/1ac773d5-e447-4e5d-a35c-af82bb2eeae6_thumb.jpg,Rajeev Aikkara,6
+Jeremy Venema,Lead Supply And Inventory Planning Manager,https://cdn.theorg.com/aea4462a-292f-45be-ae86-c567e327903b_thumb.jpg,Rajeev Aikkara,6
+Micah Stanfield,"Director Of Operations, Central And South America",https://cdn.theorg.com/94ceec0f-3cea-4edb-b16f-49dbdf06cd64_thumb.jpg,Rajeev Aikkara,6
+Uma Nimmagadda,"Director Of Product Management - Accounting, Close Management And Reporting",https://cdn.theorg.com/bd6db896-d3a0-45d0-98bd-fe84e88d1ce6_thumb.jpg,Rajeev Aikkara,6
+Elizabeth Garvey,Senior Program Development Manager - Sustainable Manufacturing & Sourcing Business Integration,https://cdn.theorg.com/b4db501e-5cbe-4cf5-aa0a-3a75b12ba417_thumb.jpg,Rajeev Aikkara,6
+Philippe Verstraeten,EMEA Strategic Enterprise Capabilities Process Lead,https://cdn.theorg.com/5bb47f32-12e0-454b-b9f3-d42231726773_thumb.jpg,Rajeev Aikkara,6
+Loré Hunsicker,"Director, Program & Portfolio Management – Planning & Manufacturing Technology",https://cdn.theorg.com/791075c9-9bdf-4e79-a2ed-c8eedae12049_thumb.jpg,Rajeev Aikkara,6
+Harpreet Mithra,"Vice President Logistics And Transportation, Nike, NA",https://cdn.theorg.com/f31639b2-a02e-4b9e-af6a-7803728865f0_thumb.jpg,Rajeev Aikkara,6
+Greg Stiver,"Senior Manager, Supply Chain Operations",no_match,Rajeev Aikkara,6
+Courtenay McHugh,"Director, Climate & Energy, Global Supply Chain",https://cdn.theorg.com/cbfb00dd-d0c2-4bf8-b8d8-d8252432cc09_thumb.jpg,Rajeev Aikkara,6
+Xiao Xi Wang,GC Merch Operations Director,https://cdn.theorg.com/1b18f2a5-a3ac-4f62-83af-ca4a76595a36_thumb.jpg,Rajeev Aikkara,6
+Ewald Neve,Director EMEA Real Estate & Facilities Procurement,https://cdn.theorg.com/14770bcd-a79e-4758-ad29-4cbe0a260db7_thumb.jpg,Rajeev Aikkara,6
+Maggie Wrona,"Lead Business Operations & Planning, Global Technology",https://cdn.theorg.com/b0999f53-e22b-476a-a927-88f284ab1541_thumb.jpg,Rajeev Aikkara,6
+Sandra Leon Carrion,Supply And Inventory Planning Manager,https://cdn.theorg.com/461fad57-d5ee-4b5c-8ffc-f496368793d7_thumb.jpg,Raje Kantamneni,7
+Jungeun Jessica Lee,APLA Demand Supply Management - Supply & Inventory Planning Manager For Japan/korea/nsw,https://cdn.theorg.com/2cfa4e4d-4182-4283-93da-851a9ef633ef_thumb.jpg,Jeremy Venema,7
+Shayna Hodge,Public Policy And Social Impact Operations Manager,https://cdn.theorg.com/3beabe61-368a-4fb9-a53b-1376a9340f3b_thumb.jpg,Dina Stults,4
+Chris Bennett,"Senior Director, Nike Global Running",no_match,Jesse P. Stollak,4
+Rafael Dante,Art Director - Global Kids Studio,https://cdn.theorg.com/80b10cf8-0db0-4d38-a2bf-be4d6a4a3783_thumb.jpg,Jesse P. Stollak,4
+Tim Degner,Principal Business Storyteller,https://cdn.theorg.com/4264ae01-b21b-48ff-beb4-d505fed17395_thumb.jpg,Jesse P. Stollak,4
+Jenny Tondera,"Sr. Creative Director, Retail Design Storytelling — North America",https://cdn.theorg.com/f17da55c-3564-483f-8929-29ea35e453bd_thumb.jpg,Jesse P. Stollak,4
+Nico Sala,Sr. Creative Director - Global Lifestyle,no_match,Jesse P. Stollak,4
+Daniella de Carlo,Global Brand Creative- Sr Creative Director Retail Design Storytelling,no_match,Jesse P. Stollak,4
+Matt Beal,Brand Creative Senior Design Director,no_match,Jesse P. Stollak,4
+Martha Moore,VP Creative Director,https://cdn.theorg.com/d1d85601-b8db-4037-b4d0-69ed3d734956_thumb.jpg,Jesse P. Stollak,4
+Kelly Letourneau,"Global Brand Creative, Fitness - Sr. Creative Director",https://cdn.theorg.com/ff739e9b-0230-4db1-b00c-268d99ca87d8_thumb.jpg,Jesse P. Stollak,4
+So-Hee Woo,Lead Global Brand Experience Innovation Designer,https://cdn.theorg.com/29e65500-d10e-41de-b8bf-5027deb3a5ba_thumb.jpg,Jesse P. Stollak,4
+Madison Hartman,Director Of Content And Community,https://cdn.theorg.com/4d355160-b407-4cb1-942a-8acc59a4045c_thumb.jpg,Jesse P. Stollak,4
+Gabby Cool,"Storytelling Art Director, Global Brand Experience + Innovation",https://cdn.theorg.com/86d2b9d3-5d0e-4e10-bfc5-5aee70eb43e6_thumb.jpg,Jesse P. Stollak,4
+Katie Allen,"Vice President, Global Digital Creative",https://cdn.theorg.com/93545f8c-54f8-42a9-bf56-2edb05a9ca0b_thumb.jpg,Jesse P. Stollak,4
+Dave Braithwaite,"Lead, People Brand & Creative",https://cdn.theorg.com/f4359e83-f05b-4a05-ade1-72fb47e027bf_thumb.jpg,Jesse P. Stollak,4
+Jenn Lee,"Director, Global Brand Creative",https://cdn.theorg.com/145fa1cd-b73e-4333-bafd-e3edb8e3c8b2_thumb.jpg,Jesse P. Stollak,4
+Tricia Chamberlain,"Sr. Creative Director, Global Brand Creative — Nike Running",https://cdn.theorg.com/23486ca7-924b-4954-84b2-5bbec6b8425d_thumb.jpg,Jesse P. Stollak,4
+Hannah J. Kim,"Lead Designer, Global Brand Creative",https://cdn.theorg.com/4788ac0c-8f07-4e48-a09a-765107b12638_thumb.jpg,Jesse P. Stollak,4
+Alison Scharkey,Global Social Director - @nikebasketball + @nikefootball,https://cdn.theorg.com/cc1ce00b-bbc6-4ac1-b13b-64a548fa06a3_thumb.jpg,Jesse P. Stollak,4
+Renee Ramraj,"Sr Art Director, Global Brand Experience + Innovation",https://cdn.theorg.com/80485bbd-3bb9-4de4-bcb8-58384eee1d3b_thumb.jpg,Jesse P. Stollak,4
+Kimou Meyer,Sr. Creative Director Global Energy,https://cdn.theorg.com/132eab91-0266-4178-8ef9-4a34fb17c529_thumb.jpg,Martha Moore,5
+Jane Chung,"Sr. Creative Director, North America",https://cdn.theorg.com/537c181f-2fc4-4a83-b17b-0b401c0c1ad9_thumb.jpg,Martha Moore,5
+Frazer Howie,Senior Creative Lead,https://cdn.theorg.com/4ee43382-f469-4185-8721-3028d7d1ff92_thumb.jpg,Martha Moore,5
+Alexia Nahai,"Global Social Creative Lead, Women's",https://cdn.theorg.com/c029dea7-6fc4-4926-b5c1-ecb21d8df551_thumb.jpg,Martha Moore,5
+Tucker Cool,Lead 3d Technical Creative,https://cdn.theorg.com/96ec681b-16f2-4126-9594-e58bb48212ec_thumb.jpg,Martha Moore,5
+Madelin Otterbein,Social Media Support Manager,https://cdn.theorg.com/84af66c6-1c44-4908-8691-9380054e3531_thumb.jpg,Madison Hartman,5
+Bryon Panaia,Global Sr Creative Director // Brand Experience + Innovation,https://cdn.theorg.com/540ae3fb-4160-4b40-a637-c08c82df30a1_thumb.jpg,Katie Allen,5
+Kamauri Yeh,"Vice President, Global Digital Marketing",https://cdn.theorg.com/0f78ec37-0601-43ca-8507-cb75a43d5e6c_thumb.jpg,Katie Allen,5
+Hadar Manor,Marketing Operation Manager,https://cdn.theorg.com/ed338d75-b5e4-4ee0-821a-918444d217c6_thumb.jpg,Kamauri Yeh,6
+Amaya Lathrop,Global Director Digital Experiences,https://cdn.theorg.com/ed03e63c-a2d1-403e-8122-52392ca7b098_thumb.jpg,Kamauri Yeh,6
+Will Lemay,"Senior Director, Global Digital Marketing - Kids, Brand Moments And Membership",https://cdn.theorg.com/fec6d32c-889d-4b2f-9d79-ef58f335a9b2_thumb.jpg,Kamauri Yeh,6
+Suraj Balasubramanian,"Manager, Digital Marketing Nike.com/app Womens Sea&i",https://cdn.theorg.com/08399498-1521-414b-965a-322264d7bed4_thumb.jpg,Kamauri Yeh,6
+Lawrence Hee,"Digital Marketing Director, Southeast Asia & India",https://cdn.theorg.com/1db01944-209a-4595-90fa-27e64d427ec1_thumb.jpg,Kamauri Yeh,6
+Trevor Kaminski,"Lead, Global Digital Marketing, Men's Lifestyle",https://cdn.theorg.com/389941d5-7df9-4f45-99ba-f76a6987f079_thumb.jpg,Kamauri Yeh,6
+Sonja Garelick,"Consumer Direct Marketing, Dick's Sporting Goods Marketing Lead",https://cdn.theorg.com/0790c25e-cec9-4080-991e-af81b32e1883_thumb.jpg,Kamauri Yeh,6
+Courtney Ratkowiak,"Senior Director, Consumer, Concepts & Sport Research",https://cdn.theorg.com/83f80a79-ef69-4142-8af8-30cc973b0891_thumb.jpg,Devon Petersmeyer Johnson,4
+Casey Garth,Sr. Director Product Insights,https://cdn.theorg.com/116d0eb1-f2c7-4137-b732-95de8754f3fd_thumb.jpg,Devon Petersmeyer Johnson,4
+Graham Norwood,"Senior Insights Director, Global Consumer Knowledge",no_match,Devon Petersmeyer Johnson,4
+Mike Ziegler,Director - Nike Direct Consumer Insights,https://cdn.theorg.com/3148e1e8-de0f-42a1-a472-f5ef64b56e13_thumb.jpg,Devon Petersmeyer Johnson,4
+Holly Clancey,Lifestyle & Purpose Marketing Director,https://cdn.theorg.com/2aa1907d-d01d-4805-9d59-34e3d8fa7b0e_thumb.jpg,Devon Petersmeyer Johnson,4
+Colby White,Director - Project Management - Digital Marketing,https://cdn.theorg.com/2fbbcf6e-2d12-4010-a6d4-dbfa31cc82ef_thumb.jpg,Devon Petersmeyer Johnson,4
+Shine Thomas,"Global Vice President, Talent Acquisition And Executive Recruitment",no_match,Devon Petersmeyer Johnson,4
+Madeleine Turner,Digital Project,no_match,Devon Petersmeyer Johnson,4
+Chuck Gatchell,"Vp, Brand Concepts & Olympics",https://cdn.theorg.com/df1645e6-7a0b-4c90-9060-837e7a6d9273_thumb.jpg,Devon Petersmeyer Johnson,4
+Maddie Parrott,"Director, North America Brand Merchandising",https://cdn.theorg.com/22337761-b5a8-490c-a76c-46f2ea9d3bf9_thumb.jpg,Devon Petersmeyer Johnson,4
+Linnea Dinatale,Senior Director Of Strategy & Operations - Jordan Footwear,no_match,Devon Petersmeyer Johnson,4
+Christopher Murphy,Global Retail Operations Director - Nike Direct,https://cdn.theorg.com/458a2ac7-91d1-4293-bbc7-610a73db5262_thumb.jpg,Devon Petersmeyer Johnson,4
+Jean Gordon,"Sr. Brand Director, Global Community Impact",https://cdn.theorg.com/9de3ca96-517d-4093-9df5-efe3aa6945ac_thumb.jpg,Devon Petersmeyer Johnson,4
+Alika Nileshwar,"Lead, EMEA Kid's Strategy",https://cdn.theorg.com/2988dfa5-5f72-4677-85fc-19ed72f49831_thumb.jpg,Devon Petersmeyer Johnson,4
+Frenchie G.,"Global Director, Financial Operations Strategy",https://cdn.theorg.com/cbd706c4-b8c9-412a-8942-bbd82c059d2d_thumb.jpg,Devon Petersmeyer Johnson,4
+Dóra Putz,"EMEA Brand Planning, Strategy & Operations Manager",https://cdn.theorg.com/142d2cac-de6b-4de2-9446-34b1e8f6f566_thumb.jpg,Devon Petersmeyer Johnson,4
+Kemi Benjamin,"Senior Brand Director, Brand Defining, Purpose And Athlete Marketing.",https://cdn.theorg.com/0630d236-4a3a-479f-9394-596c28f4c411_thumb.jpg,Devon Petersmeyer Johnson,4
+Sharon Garland,"Manager, Core Operations",https://cdn.theorg.com/604dc1ed-011e-449e-a1c6-70e1242410d6_thumb.jpg,Devon Petersmeyer Johnson,4
+Quentin Dereims,Global Senior Brand Director - Nike Football (soccer),no_match,Devon Petersmeyer Johnson,4
+Bonnie Zeihlund,Club & Federation Business Director,https://cdn.theorg.com/b54e5280-06c7-4e5b-8c96-48ab866922ed_thumb.jpg,Devon Petersmeyer Johnson,4
+Ashley Riehl Ashman,Senior Data And Insights Analyst,https://cdn.theorg.com/aa63a822-859a-48bb-8a24-1abbdd9f2961_thumb.jpg,Mike Ziegler,5
+Dan Zhao,Talent Acquisition Manager (merchandizing & Insights &gel),https://cdn.theorg.com/62b14930-fed4-4647-8242-5774c1191834_thumb.jpg,Shine Thomas,5
+Phoebe Batkin,"Director Talent Acquisition, EMEA",https://cdn.theorg.com/31d0d6d5-34c7-44d0-a0c5-7ccebc05c1ef_thumb.jpg,Shine Thomas,5
+Foucauld Dufour,Retail Talent Acquisition Lead Central And Northern Europe,https://cdn.theorg.com/016a9ecd-ce88-486d-ac80-7b2fcf370558_thumb.jpg,Shine Thomas,5
+Byron Wallace,"Lead Recruiter, Global Tech, Idsa, & Digital Product",https://cdn.theorg.com/85980ce8-7a5a-4529-bfad-5d73b1b7791f_thumb.jpg,Shine Thomas,5
+Nicki Granadier,Director Of Brand Marketing,https://cdn.theorg.com/3f6006b7-67c2-4198-ac85-8ba6391abf49_thumb.jpg,Chuck Gatchell,5
+Sam van der Burg,Transportation Network Operations Manager,https://cdn.theorg.com/c667f246-184b-4820-92fe-17d3c9ba8a47_thumb.jpg,Maddie Parrott,5
+Allie Hurford,Footwear Operations Manager - Core Footwear,no_match,Linnea Dinatale,5
+Justin Amago,Senior Footwear Designer - Jordan Brand,https://cdn.theorg.com/f5d557bb-2a61-4aa8-8371-0c8c4958b562_thumb.jpg,Chris Lewis,4
+Gabrielle Bozza,"Vp, Global Entertainment + Celebrity Partnerships",no_match,Reggie Saunders,4
+Cagney Spears,"Global Brand Marketing, Lead, Kids Streetwear - Jordan Brand",no_match,Reggie Saunders,4
+Marcus Arman,"Global Creative Director, Jordan Brand | New Media Innovation",https://cdn.theorg.com/e4f3171e-1332-4939-ab20-92b60f587dee_thumb.jpg,Reggie Saunders,4
+Julia Barrett,Strategic Partnerships & Business Development Director - Innovation,https://cdn.theorg.com/dbb65ff5-4cc4-4922-b1dd-80a7757fa8a1_thumb.jpg,Gabrielle Bozza,5
+Vic Marshall,Director Of Connected Partnerships,no_match,Gabrielle Bozza,5
+Kaitlyn Peale,Business Operations Principal - Women's Running & Fitness,https://cdn.theorg.com/fa42080a-3a0d-4a82-86fc-adf748ae1bbc_thumb.jpg,Patrick Seehafer,4
+Alex Yu,"Director, Women's Merchandising Analytics, Global",https://cdn.theorg.com/dbfa5a29-12dd-4abd-916c-c1afd632fb9f_thumb.jpg,Patrick Seehafer,4
+Debbie Lushenko-Young,"Sr. Director, Merchandising Business Operations",https://cdn.theorg.com/ec5ef0ce-0181-496f-928d-ba779169c1ff_thumb.jpg,Patrick Seehafer,4
+Jenni Jezierski,"Merchandising Director, Womens Lifestyle Apparel",https://cdn.theorg.com/c37c9ffd-11bc-4ad5-bddf-9e252fd13b8c_thumb.jpg,Patrick Seehafer,4
+Marc Sehn,Merchandising Director Womens Sport Footwear | EMEA At Nike,https://cdn.theorg.com/bf79983f-0b13-48bd-960a-3871b84dcdbf_thumb.jpg,Patrick Seehafer,4
+Kim Dumas,NA Territory Visual Merchandising Director,no_match,Patrick Seehafer,4
+J. Adrián Hernández P,Merchandising Financial & Assortment Planning Manager,https://cdn.theorg.com/7a3b2de5-f3e3-4541-9854-6cad21eac9d2_thumb.jpg,Debbie Lushenko-Young,5
+Lizzett Reyes,Buying Operations Manager,no_match,Debbie Lushenko-Young,5
+Kennedy McCleskey,"Senior Director, HRBP - Operations - Planning, Procurement",https://cdn.theorg.com/9bcf6dea-c11f-4bb9-8f2f-c13ee48fd8ee_thumb.jpg,Bert Stevens,4
+Yuan-Chan Hsu,"Director, Global Supply Chain Innovation & Partnerships",https://cdn.theorg.com/277e795b-a501-4500-a242-ce3e54ecf9ad_thumb.jpg,Bert Stevens,4
+Syam Antony,"Senior Director Of Integrated Fulfillment Planning, NA Marketplace Operations",https://cdn.theorg.com/53b26055-1a00-4b99-89ac-f4f6a8042cd1_thumb.jpg,Bert Stevens,4
+Cheryl Benson,"Director Of Engineering, NA Supply Chain",https://cdn.theorg.com/da6514d6-e511-4a24-8d38-919002f69524_thumb.jpg,Bert Stevens,4
+Hein Droog,Supply Chain Performance Manager,https://cdn.theorg.com/35d2f2b2-4b5f-4f97-9fdf-8a8cbe55a507_thumb.jpg,Bert Stevens,4
+Stephen Son,Marketplace Operations Seasonal Execution Manager (southeast Asia & India),https://cdn.theorg.com/3e6fd574-c0e2-4fa3-9b95-11b0f7cfd7a3_thumb.jpg,Bert Stevens,4
+Juanjo Llopis,Senior Director Retail Operations And Service Excellence,no_match,Bert Stevens,4
+Imke Stuurman,"Senior Director - Consumer X Marketplace Operations, EMEA",https://cdn.theorg.com/37ff844d-4538-4359-b2d4-5e0e0fb497ea_thumb.jpg,Bert Stevens,4
+Jill Truskolaski,Supply & Inventory Planning (s&ip) Lead (demand Supply Management) North America (na) Kid’s,https://cdn.theorg.com/efd755e7-991d-4d3c-9fe8-369dadc55b37_thumb.jpg,Bert Stevens,4
+Luciana do Vale,"Marketplace Operations Manager, Latam",https://cdn.theorg.com/8b12312a-cac7-41ab-863d-3db59c25a291_thumb.jpg,Bert Stevens,4
+Minh-Chau Tran,Marketplace Operations Director - Asia Pacific Latin America Region,https://cdn.theorg.com/63b81c9e-978f-4684-b51b-c62ae7e4cad8_thumb.jpg,Bert Stevens,4
+Oscar Ovalle,"Transformation Change Director - (global Operations, Logistics, And Cross-functional Business)",https://cdn.theorg.com/a9e57f55-f810-46a0-8c07-44a10848b7f2_thumb.jpg,Bert Stevens,4
+Amina Warner,Director Global Service And Store Operations,https://cdn.theorg.com/0409bb7d-43d0-46fb-bcd5-fa82c9da44f3_thumb.jpg,Bert Stevens,4
+Becky Wethern,"Senior Director, Demand Supply Management, NA Stores Allocation",https://cdn.theorg.com/b67b7149-126a-4740-9204-336f71d2cfbd_thumb.jpg,Bert Stevens,4
+Rob Reekmans,Director Nike Logistics Lean System,no_match,Bert Stevens,4
+Adrienn Győr,Marketplace Operations Manager / Supply Chain Manager,https://cdn.theorg.com/4ed48c52-2985-4d6e-977e-1e88a41a8d4a_thumb.jpg,Bert Stevens,4
+Nazanin Rahnama,"Director, Portfolio And Strategy, Global Continuity And Resilience",https://cdn.theorg.com/f9965ab8-24a4-480b-81ea-289548bdf51f_thumb.jpg,Bert Stevens,4
+Stefania Mataloni,"Director Supply Chain Seasonal Excellence In-season, EMEA",https://cdn.theorg.com/2498f9e3-f45f-4e4e-a67c-a901a10eeda5_thumb.jpg,Bert Stevens,4
+Katia Ilicheva,Retail Operations Director,https://cdn.theorg.com/4abce568-8900-42b3-9342-cb9d855840f7_thumb.jpg,Bert Stevens,4
+Bernd Frenzel,Marketplace Supply Chain Senior Manager Power Players EMEA,https://cdn.theorg.com/345fbe17-9804-4206-b2d0-c3e2803335f0_thumb.jpg,Bert Stevens,4
+Eamonn O'Brien,Vendor Manager EMEA Digital Consumer Services,no_match,Yuan-Chan Hsu,5
+Cynthia Rodriguez Cañedo,Strategic Account Operations Manager,https://cdn.theorg.com/12a81238-6cbf-497a-ab2e-2f04a72e3554_thumb.jpg,Syam Antony,5
+Suzanne Raleigh,Supply And Inventory Planning Manager,https://cdn.theorg.com/fad7ec26-e81b-410c-9479-c8eefcecd1fc_thumb.jpg,Syam Antony,5
+Simone Veldhuis,Inventory Operations Manager,no_match,Syam Antony,5
+Kay Aelmans,Logistics Operations Manager,no_match,Juanjo Llopis,5
+Mohit Goel,"Senior Technical Program Manager | Consumer & Marketplace | Bot Mitigation, Ai/ml & Launch Services",no_match,Juanjo Llopis,5
+Susanne Nieuwenkamp,Marketplace Operations Manager,no_match,Imke Stuurman,5
+Henk Hassett,"Event Operations Manager, EMEA",https://cdn.theorg.com/49b39118-0aef-45ce-a4d0-1f8bf7a2606d_thumb.jpg,Imke Stuurman,5
+Noel Roy,Manager Supply Chain Consumer X FOP,https://cdn.theorg.com/1c3d9c9f-8c79-4e80-8c2e-09bee54cf507_thumb.jpg,Imke Stuurman,5
+Vinsensius Bob,Marketplace Operations Manager,no_match,Imke Stuurman,5
+Marianthe Tufts,"Senior Director, Global Head Of Apparel Operations",no_match,Becky Wethern,5
+Ashlie Snider,Senior Supply And Inventory Planner,https://cdn.theorg.com/c592d337-a69a-4178-b78f-2db3fe7977bd_thumb.jpg,Becky Wethern,5
+Jenna Pisciotta,Director Kids Footwear Merchandising,no_match,Adam Wilson,4
+Mia Kumagai,"Senior Director Of Merchandising, Global - Nbhd/snkrs",https://cdn.theorg.com/f3ce8856-7091-4cd0-804a-fcfac4107b97_thumb.jpg,Adam Wilson,4
+Jarett Reynolds,"VP, NRG Apparel Design",no_match,John Hoke,4
+Tinker Hatfield,"VP, Design & Special Projects",https://cdn.theorg.com/398543ec-ed7a-4676-b16b-5dd412836c94_thumb.jpg,John Hoke,4
+Alexander Dedman,Senior Design Director,https://cdn.theorg.com/b65fa586-13c3-4e6d-a7d4-9cef72523dea_thumb.jpg,John Hoke,4
+Wil Green,"Senior Creative Director, Nike Team Sports",https://cdn.theorg.com/bdd1e357-b342-4f28-ad0c-1c5045aff42b_thumb.jpg,John Hoke,4
+Valentina Azizova,"Design Director, Apparel, Performance Collections",https://cdn.theorg.com/bedd0e31-5133-4c57-aa2c-b68e5641a2ba_thumb.jpg,John Hoke,4
+Emily Duell,"Design Director, Global Retail Brand Creative",https://cdn.theorg.com/e6cfd52e-b3be-40a4-a382-a72099df038d_thumb.jpg,John Hoke,4
+Martin Lotti,"VP, Chief Design Officer, Jordan Brand",https://cdn.theorg.com/2d523470-7fe3-475f-9591-4d3a17f9b3cf_thumb.jpg,John Hoke,4
+Jessica Thornton,"Senior Designer, GSA Digital",https://cdn.theorg.com/0e5cfcb0-18df-402a-9286-7bc60c25cdde_thumb.jpg,Jarett Reynolds,5
+Juliana Sagat,Expert Lead Footwear Designer - Exploration/ NRG Special Project,https://cdn.theorg.com/9d356608-ebfa-482c-8a65-c30afd17f5a6_thumb.jpg,Tinker Hatfield,5
+Marisa Griselda Chavez,Sr. Technical Designer,no_match,Alexander Dedman,5
+Malia Smith,Design Operations Manager,no_match,Emily Duell,5
+Elise Granados,"Senior Design Director, Digital Product Design",no_match,Martin Lotti,5
+Louisa Page,"Senior Director, Jordan Global Footwear Design Excellence",https://cdn.theorg.com/e40305df-bee1-4e10-96cd-b0add1191fe9_thumb.jpg,Martin Lotti,5
+Salvatore Lo Leggio,"Operations Director, Men's Apparel Design",https://cdn.theorg.com/c277b3dc-f19a-449a-9694-d867a83130fe_thumb.jpg,Martin Lotti,5
+Kareem le-Mar Blair,"Design Director, Graphic Design - Jordan Streetwear",https://cdn.theorg.com/bf069122-c5b5-45a7-8b29-d892db86322f_thumb.jpg,Martin Lotti,5
+Lindsay Mataya,Digital Product Design Manager,https://cdn.theorg.com/950aeba9-aa67-4967-836d-a98e58db62b4_thumb.jpg,Elise Granados,6
+Erik Gelderblom,Senior Product Designer,https://cdn.theorg.com/21f1f2fb-ce10-42a7-a2b6-84df9ef2d68a_thumb.jpg,Elise Granados,6
+Janella Polack,Senior Product Designer,https://cdn.theorg.com/747c3708-e8ef-4ff2-a432-7e36b6619789_thumb.jpg,Elise Granados,6
+Carmen Dowling,Senior Designer,https://cdn.theorg.com/7ff4b1ce-b6ff-4c77-8e42-bc0d77311dc2_thumb.jpg,Lindsay Mataya,7
+Amy Lepper,"Senior Technical Designer, GSA",https://cdn.theorg.com/d93b9dbd-1418-454c-b8c2-913cd2d58c52_thumb.jpg,Louisa Page,6
+Andres Kiger,"VP, Marketing, Global Partner Markets, Converse",https://cdn.theorg.com/d8a990dd-45b2-44b5-8980-9b4ddda60461_thumb.jpg,Jared Carver,4
+Dan Brausch,"VP & GM, Global Partner Markets, Converse",https://cdn.theorg.com/8b5e411c-c3fa-4414-82e9-aa025f9d782b_thumb.jpg,Jared Carver,4
+Jonathan Tappan,"VP & GM, Global Apparel, Converse",https://cdn.theorg.com/ef43b1b1-0ee3-4ebd-a40c-864f50f08d81_thumb.jpg,Jared Carver,4
+Sejal Shah Miller,"Chief Marketing Officer, Converse",https://cdn.theorg.com/81751890-c796-4f10-a857-c9bfd69f4a82_thumb.jpg,Jared Carver,4
+Caroline Heaton,Partner Marketing Lead,https://cdn.theorg.com/0be38bec-b4d0-45d1-a5e0-5c8018c1af2d_thumb.jpg,Andres Kiger,5
+Monica Kondos,"Director Portfolio Management, Consumer & Marketplace",no_match,Dan Brausch,5
+Katherine Rotow,Global Nike Marketplace Partners Finance Director,no_match,Dan Brausch,5
+Olga Bykova,Digital Transformation Portfolio Director,https://cdn.theorg.com/611bc377-aaf2-4edb-be5c-56c6b2308d9a_thumb.jpg,Dan Brausch,5
+Nancy Zucco,Director Of Sports Marketing,https://cdn.theorg.com/980f1cc6-6162-48b7-bae5-5688a84b9210_thumb.jpg,Cara Harvey,4
+Alice Kwon,"Senior Director, Integrated Media (apla)",https://cdn.theorg.com/ffc80b98-05ef-4c41-b99f-1a13c70994c2_thumb.jpg,Cara Harvey,4
+Avery Strasser Becker,"Marketplace Events Director, Asia Pacific/latin America",no_match,Cara Harvey,4
+Jamiel Morris,"Senior Professional, Sports Marketing, College",no_match,Nancy Zucco,5
+Kyle Scott,"Global Brand Marketing Lead, Women's Running",https://cdn.theorg.com/cec39eba-852b-4d96-8b50-92b9d4d989b3_thumb.jpg,Tanya Hvizdak,4
+Caterina Natale,Brand Marketing Manager EMEA - Women Sports,https://cdn.theorg.com/38d3892a-fdcb-4c82-8c08-097062d415bd_thumb.jpg,Tanya Hvizdak,4
+Xiaojie Qiu,Sports Marketing CSL Director,no_match,Adrian Bell,4
+Lucas Maniezo,Football Sports Marketing Director,https://cdn.theorg.com/eb65e5a5-0e9f-40e3-a52f-c73c8e481fb4_thumb.jpg,Adrian Bell,4
+Tunç Saral,"Sports Marketing Director, Central Europe & Türkiye & Middle East",https://cdn.theorg.com/c228f191-ff48-4e70-a113-1f11f1c407fa_thumb.jpg,Adrian Bell,4
+Cesar Garcia,"VP & GM, Men's, APLA",https://cdn.theorg.com/571318e5-e3ff-421d-af28-857770ceb73e_thumb.jpg,Aaron Cain,5
+Heidi O'Neill,"President, Consumer, Product & Brand",https://cdn.theorg.com/dce0fe40-5efd-4e1e-859a-5cfb40843b18_thumb.jpg,Aaron Cain,5
+Mimi Hunter,"VP, Corporate Secretary & Corporate Governance & Securities Counsel",no_match,Aaron Cain,5
+David Frank,VP Global Brand Creative - Mens And Catalyst,https://cdn.theorg.com/b15c1e48-a453-4304-b565-283bbc80e9a1_thumb.jpg,Aaron Cain,5
+Prithvi Narina,Sr. Principal Product Manager,no_match,Aaron Cain,5
+Dr. Muge Erdirik Dogan,"EVP & Chief Technology Officer, Nike, Inc.",https://cdn.theorg.com/a197bb69-12bf-42ab-81cc-49618a9521eb_thumb.jpg,Heidi O'Neill,6
+Fazal Khan,VP Human Resources,https://cdn.theorg.com/6d5d3f67-d38b-47df-9630-8fc3a3d09b04_thumb.jpg,Dr. Muge Erdirik Dogan,7
+Jay Chandrashekaran,"Vice President Of Technology - Enterprise Architecture, Tech Modernization And Developer Platforms",https://cdn.theorg.com/c3e94a87-cadc-406c-95c3-54abab81c886_thumb.jpg,Dr. Muge Erdirik Dogan,7
+Eugene Cook,Vice President Of Technology Operations,https://cdn.theorg.com/29c01076-40c4-4a2f-b3ca-bae480e14a2b_thumb.jpg,Dr. Muge Erdirik Dogan,7
+Ananda Shenoy,Vice President Of Technology,https://cdn.theorg.com/82257edb-c016-44b4-b910-68cbe3d12b00_thumb.jpg,Dr. Muge Erdirik Dogan,7
+Mitali Mathur,Vice President Engineering - Digital And Marketing,https://cdn.theorg.com/ff85b792-05f7-4f42-8ced-4cdad4accaa8_thumb.jpg,Dr. Muge Erdirik Dogan,7
+Artie Copeland,VP Of Engineering,https://cdn.theorg.com/3514068e-17f5-4b51-895a-1b8fbc82661c_thumb.jpg,Dr. Muge Erdirik Dogan,7
+Anna Schoborg,VP Global Nike Air Manufacturing & Innovation,https://cdn.theorg.com/9a5e99d7-f7a0-4d99-b57c-2fbc7975fe2e_thumb.jpg,Dr. Muge Erdirik Dogan,7
+Jarvis Hambrick,Director Of Greater China Corporate Information Security,no_match,Dr. Muge Erdirik Dogan,7
+Jeanette Melgarejo,Director Of Diversity Talent Innovation Programs,https://cdn.theorg.com/43ae5745-d089-4fba-a69e-4ffbbcb95a9e_thumb.jpg,Fazal Khan,7
+Dan McConnell,Head Of Global People Strategy,https://cdn.theorg.com/acf1cdfc-a0d6-4dc5-aa33-d8d81b63b0b6_thumb.jpg,Fazal Khan,7
+Nick Boyd,"Sr. Director, Head Of Global TA COE",https://cdn.theorg.com/9b2bf64e-0605-450f-9c19-1653c3a5f5d1_thumb.jpg,Fazal Khan,7
+Christa Maguire,"Director, Talent Sourcing | Global Enterprise Functions",https://cdn.theorg.com/6cee9236-bffa-4643-9451-a256449ab538_thumb.jpg,Fazal Khan,7
+Bernard Bedon,"Vice President, Lead Human Resources Business Partner - Nike Inc.",https://cdn.theorg.com/71e652c2-19a6-4b40-9d81-c9bfd8920fa5_thumb.jpg,Fazal Khan,7
+Bruce Henderson,Vice President HR - Global Supply Chain,https://cdn.theorg.com/48702f58-9d02-4f3b-bb77-92f70c6adc59_thumb.jpg,Fazal Khan,7
+Erin Sanesi,"Vp, People Solutions Americas",https://cdn.theorg.com/18008eb5-774b-47c4-97dd-2a1dff8efe60_thumb.jpg,Fazal Khan,7
+Janaiya Johnson,"Senior Director, DEI And Culture Transformation Strategy",https://cdn.theorg.com/c0ea91d3-6c41-433c-9c1a-e0d0b6689772_thumb.jpg,Fazal Khan,7
+Denise Hadley,"Global Vice President, Human Resources Converse (nike, Inc.)",no_match,Fazal Khan,7
+Leslie Manu,"Senior Director, HR Enablement",https://cdn.theorg.com/62fe96fe-86cc-4de0-90a9-eb0085cf9736_thumb.jpg,Fazal Khan,7
+Gabbie Lindeman,Global Talent Practices Senior Specialist,https://cdn.theorg.com/d38f2090-2613-47df-aa38-32d6abb51613_thumb.jpg,Nick Boyd,8
+Ozenc Yegit,Talent Acquisition Senior Recruiter,https://cdn.theorg.com/7198d84e-dd69-4048-9f9d-06b6e2b267d2_thumb.jpg,Christa Maguire,8
+Tamaraye Sawacha,"Senior Principal, Talent Business Lead - Nike Corporate Funtions",https://cdn.theorg.com/b745ce9e-ed6d-453e-a12a-cd386c6c5d62_thumb.jpg,Bernard Bedon,8
+Jon Bond,Strategic Partner Director,https://cdn.theorg.com/4d21bffc-deb9-4f98-b467-5be28fa9c5ff_thumb.jpg,Bernard Bedon,8
+Karol Collymore,"Senior Director, Sport & Society, Social & Community Impact",https://cdn.theorg.com/a2b8e153-6a0e-4222-90b5-c546c1c63d9e_thumb.jpg,Bernard Bedon,8
+Alize V. Garcia,"Director, Social Community Impact, North America",https://cdn.theorg.com/73d909b6-35cb-429e-8653-813751106e6c_thumb.jpg,Bernard Bedon,8
+Shelby Cabral Smither,Human Resources Director,no_match,Bernard Bedon,8
+Rochelle McIntire,"Global Director, Benefits And Time Off Solutions GPO",no_match,Bernard Bedon,8
+Irina Kochetkova,Administrative And Procurement Lead,https://cdn.theorg.com/40e2f1e4-3eb4-4d3a-af1f-89d6822b0e98_thumb.jpg,Bruce Henderson,8
+Adonica Altringer,Director - NA Service Experience & Business Operations,https://cdn.theorg.com/82e3b414-f9a1-4d45-8082-6ecf5726ab0b_thumb.jpg,Bruce Henderson,8
+Bee Animashaun,"Director, Strategy & Business Transformation, Nike Acceleration Office",https://cdn.theorg.com/05ef93dc-859f-4172-aec3-74c8e2603281_thumb.jpg,Denise Hadley,8
+Jitendra Solanki,Director - Global Technology Operations & Support,no_match,Eugene Cook,7
+Remco Alsemgeest,"Director, EMEA Technology Operations - Retail, Digital & Corporate Support",https://cdn.theorg.com/4d62d5ae-384f-430b-b8ca-0f3c6143fa50_thumb.jpg,Eugene Cook,7
+Chase Ulicny,"Director, Technology Procurement",https://cdn.theorg.com/0a42bb09-81c1-459e-aee1-3d2f234a4fb4_thumb.jpg,Eugene Cook,7
+Narasimha Rao G H,ITC Operations Director,no_match,Eugene Cook,7
+Bikram Barman,"India Site Leader, Senior Director, Nike India Technology Center",https://cdn.theorg.com/a19c729d-6908-43ee-b988-fc5e30d99369_thumb.jpg,Eugene Cook,7
+Rosie Hawke,Senior Director Business Transformation,https://cdn.theorg.com/3f54e312-825d-48d9-830a-a698efd171e3_thumb.jpg,Eugene Cook,7
+Fabrizio Pedrazzini,Southern Europe IT Manager,no_match,Remco Alsemgeest,8
+Sushma Nemani,"Manager, Business Systems Analysis",no_match,Rosie Hawke,8
+Abhishek Belokar,Director - SAP Security,https://cdn.theorg.com/83f0462d-6c55-4218-a58f-caf87e34020b_thumb.jpg,Ananda Shenoy,7
+Lata Panjabi,Director - Platform Engineering SAP Basis,https://cdn.theorg.com/f00a61a1-cc0a-473b-819f-9d5761c0e829_thumb.jpg,Ananda Shenoy,7
+Maurice Sprague,Principal Cyber Defense Threat Analytics Engineer,https://cdn.theorg.com/57e94279-5003-45b1-9e88-dc92e85fbbc5_thumb.jpg,Ananda Shenoy,7
+Liz Salas,Director Of Data Protection Engineering,no_match,Ananda Shenoy,7
+Claire Cochran,Lead Apparel Developer,https://cdn.theorg.com/236731b0-793e-442d-b92d-5208a9a4d1c7_thumb.jpg,Ananda Shenoy,7
+Evelien Sauren,Privacy Analyst Director,https://cdn.theorg.com/1030d659-a297-456f-b9fd-a29be5edefdc_thumb.jpg,Ananda Shenoy,7
+Thaine Allison,"Director Of Technology, Airmi",https://cdn.theorg.com/9dd49ed5-f7cc-4fe0-9025-87bd3844ffb0_thumb.jpg,Ananda Shenoy,7
+Ben Mazhary Clark,Sr. Basis Systems Engineer,https://cdn.theorg.com/61cfdb9d-0098-449d-8769-891e1d56558e_thumb.jpg,Lata Panjabi,8
+Marsha,VP Digital Product,no_match,Mitali Mathur,7
+Tracy Gregory,Sr Director Of Product Management - Corporate Functions & SEC,no_match,Marsha,8
+Veronica Morales Frieling,"Principal Program Manager, Nike Virtual Studios",https://cdn.theorg.com/7d7c8997-60ad-447a-97df-508d31a83692_thumb.jpg,Marsha,8
+Sharath C K,"lead Technical Product Manager, SAP S/4 HANA At Nike",https://cdn.theorg.com/2bd6c595-57ee-4a2c-b816-848b084f87ca_thumb.jpg,Marsha,8
+Charlie Nyara,"Sr Manager, 3d Apparel Design & Visualization",https://cdn.theorg.com/5fd1c914-10a4-4759-8265-95050471d496_thumb.jpg,Marsha,8
+Nathan Frerichs,Director Of Product Management,no_match,Marsha,8
+Kt Wilson,"Director, SEC Tech Program Management - Product, Planning & Manufacturing",https://cdn.theorg.com/4497bf17-7387-4d16-8744-27de9e184294_thumb.jpg,Marsha,8
+Melissa Hardaker,Director Of Product Management - Product Data Management,https://cdn.theorg.com/39079146-3d49-4547-9606-de046455473c_thumb.jpg,Marsha,8
+Nichole Stein Jones,"Senior Director Product Management: Search, Browse, And Recommendations Platforms (discover)",no_match,Marsha,8
+Yaquarri Adams,"Product Capability Delivery Lead, Enterprise Performance Management",no_match,Marsha,8
+Harsimran Singh,Senior Product Leader,https://cdn.theorg.com/ab522546-2917-4444-8b24-526fe9d51dea_thumb.jpg,Tracy Gregory,9
+Traci Michaud,Senior Product Developer,no_match,Nathan Frerichs,9
+Ushang Thakker,Lead Software Engineer,https://cdn.theorg.com/ced8c8e3-ad5f-4029-a378-637294bd61bd_thumb.jpg,Artie Copeland,7
+Ned Wilde,Principal Software Engineer,https://cdn.theorg.com/b569c665-f4bf-4e0a-829d-ab77e12fae26_thumb.jpg,Artie Copeland,7
+Tomer Brostowsky,Senior Engineering Manager - Data Engineering,https://cdn.theorg.com/583b0026-2937-490d-a719-0a70187d7bb8_thumb.jpg,Artie Copeland,7
+Sameh A.,"IT Director, Software Engineering, Global Trade & Transportation",no_match,Artie Copeland,7
+Hai Nguyen,Senior Software Engineer,no_match,Artie Copeland,7
+Srikanth Vanka,Data Engineering Manager,https://cdn.theorg.com/7826865e-4057-4e6f-885b-60c0f2476d5a_thumb.jpg,Artie Copeland,7
+Durga Kalyan Inampudi,Engineering Manager,https://cdn.theorg.com/ca3dca60-9239-496c-bc5b-9dc8fbdde860_thumb.jpg,Artie Copeland,7
+Sriram Poondi Chinappa,Lead Software Engineer,https://cdn.theorg.com/a251cb7e-8002-4222-9f3e-cbe85465372c_thumb.jpg,Artie Copeland,7
+Niharika Maheshwari,Ai/ml Senior Engineering Manager,https://cdn.theorg.com/a87606a4-ef5a-4da6-91c4-0811732cd325_thumb.jpg,Artie Copeland,7
+Sally Lohan,"Senior Creative Director, Central Creative Studios | Nike Design",https://cdn.theorg.com/655bbada-9812-4e98-bec7-a785ef5b0bf0_thumb.jpg,David Frank,5
+Miles Johnson,"Global Art Director, Running",https://cdn.theorg.com/1bb982f3-d47b-4801-9952-2ff37d6bedad_thumb.jpg,David Frank,5
+Bas Tacoma,"Global Digital Brand Director, Nike Football",https://cdn.theorg.com/7b6beeba-5362-45c3-bc45-ce81314ede70_thumb.jpg,David Frank,5
+Noah Wilson,Art Director - Brand Design (global),https://cdn.theorg.com/18f7c060-627e-404a-939c-7d4dbeae4843_thumb.jpg,David Frank,5
+Dónal MacCrann,"Brand Director, Catalyst Brand Management",https://cdn.theorg.com/82800471-a5da-4126-9261-e5447a503689_thumb.jpg,David Frank,5
+Josh Toussaint,"Relationship Manager, Catalyst Brand Management",no_match,David Frank,5
+Rami Jabaji,Vice President - Global Brand Management - Mens,https://cdn.theorg.com/e68c02be-132d-42bc-be1f-fe0d4e4ebb2e_thumb.jpg,David Frank,5
+Gbenoba Idah,"Director, Global Brand And Marketing Strategy",https://cdn.theorg.com/74bf0c16-5315-4409-bde4-c83d886a3ef9_thumb.jpg,David Frank,5
+Mario Turza,"Senior Director, Global Brand Creative",no_match,David Frank,5
+Gunnar Harrison,"Lead Designer, Global Brand Creative, Basketball CDS",https://cdn.theorg.com/07400344-bf22-4811-b587-7d8a868c9b38_thumb.jpg,David Frank,5
+Andre Simmons,Sr Creative Director - Brand Creative,no_match,David Frank,5
+Julie Igarashi,"Vp, Creative Director",https://cdn.theorg.com/f6320378-752a-462b-af15-7b484aefa084_thumb.jpg,David Frank,5
+Andy Walker,"Vp, Global Brand Design, Nike Inc",https://cdn.theorg.com/8739412f-8e5c-4f85-a09a-ae16f18cbdef_thumb.jpg,David Frank,5
+Timothy Cheng,"Director, Global Brand Creative, Nike Running",https://cdn.theorg.com/4c5d18a7-9b1d-4ae0-ac7e-9723ad6ea225_thumb.jpg,David Frank,5
+Kent Geisel,"Global Director, Creative & Production Procurement",https://cdn.theorg.com/3a1f6e82-4245-4e66-89e9-934ce61789d5_thumb.jpg,David Frank,5
+Ayca Acun,"Senior Creative Director, NA Men’s & Kid’s",https://cdn.theorg.com/6465c012-c003-4407-b641-f0f2c1d408a7_thumb.jpg,David Frank,5
+Mica Gallino,Senior Manager Brand Creative Latam,https://cdn.theorg.com/424d3c31-6932-4650-9b15-871d198a5f89_thumb.jpg,Sally Lohan,6
+Keyana T.,"Creative Trends Studio, Manager",https://cdn.theorg.com/8ce8826c-7d1d-4b71-bc5e-ec492167178e_thumb.jpg,Sally Lohan,6
+Rinchen Lama,"Sr Creative Studio Manager, ICON Studios",https://cdn.theorg.com/72465ff9-61af-48c6-936f-13fdf24045a9_thumb.jpg,Sally Lohan,6
+Wes Collett,"Lead, Integrated Media Seasonal Strategy And Programming, Global",https://cdn.theorg.com/d83b875d-4143-4553-8a5d-482e44d67003_thumb.jpg,Rami Jabaji,6
+Liz Weldon,VP Global Womens Brand Management,https://cdn.theorg.com/67c22be0-91bd-4f68-a22c-8596d5790b46_thumb.jpg,Rami Jabaji,6
+Anton de Avila,"Global Brand Marketing Lead, Men's Running",https://cdn.theorg.com/e7f3b743-818e-4cc8-909e-adebcee96469_thumb.jpg,Rami Jabaji,6
+Virna Hireche,Lead Brand Protection Manager,https://cdn.theorg.com/666728ec-984f-4b95-808a-9bca2425cdee_thumb.jpg,Rami Jabaji,6
+Cameron Shick,"Senior Director, Product Management, Jordan Brand Footwear",https://cdn.theorg.com/256ca6ea-d0ab-4416-8dc5-d0823656a39c_thumb.jpg,Rami Jabaji,6
+Tyler Willingham,"Global Brand Marketing Director, Women’s Lifestyle",https://cdn.theorg.com/774a57e3-4e62-4a7e-92ea-ec11357d518a_thumb.jpg,Liz Weldon,7
+Henrietta Toch,"Sr. Manager, Content Design & Delivery",https://cdn.theorg.com/008df80d-cd01-4ef0-a6c3-a0739110e555_thumb.jpg,Mario Turza,6
+Everett Vangsnes,"Senior Director, Brand Creative Digital Design Global",no_match,Andy Walker,6
+Makena Rockstroh,Senior PDP Editor - Global Post Production,https://cdn.theorg.com/7e7f0194-508b-4601-b5ca-261d745bdba9_thumb.jpg,Kent Geisel,6
+Camilla Meager,"Lead, Product Maturity & Performance",https://cdn.theorg.com/6409e04d-f243-4dd8-8c12-8c8f2d17f4b6_thumb.jpg,Prithvi Narina,5
+Karie Conner,"VP & GM, North America Kids",https://cdn.theorg.com/0bd3cebd-b9f2-4f8a-a9d8-c02070f214e9_thumb.jpg,McCallester Dowers,4
+Missy Philippi,"VP, Kids Apparel Product Merchandising",https://cdn.theorg.com/4522c9ce-e530-4368-8451-1dcdc4db308a_thumb.jpg,McCallester Dowers,4
+Ronnie Wright,Vice President Design,no_match,McCallester Dowers,4
+Morgan Scheper,Sr. Product Line Manager: ACG Apparel,https://cdn.theorg.com/e82b1b03-4476-4697-9bdb-c600bda03abc_thumb.jpg,Missy Philippi,5
+Isaiah Andrew,Senior Design Director,https://cdn.theorg.com/784fbe7a-ac4f-4dd2-90c7-7b37f47fdceb_thumb.jpg,Ronnie Wright,5
+Gemma Charlotte Brown,"Director, Design Footwear - Knit & Materials Innovation",no_match,Ronnie Wright,5
+Tim Hamilton,Global VP Design,https://cdn.theorg.com/a085ff5e-011d-4186-ad70-7073fe2cff69_thumb.jpg,Ronnie Wright,5
+Joel Kashuba,"Head Of Design At Nike Advance Innovation, Digital Capabilities",https://cdn.theorg.com/e2437c0d-1062-4576-a714-73c69d31ce49_thumb.jpg,Ronnie Wright,5
+Lori Knight,Senior Director “product Innovation & Consumer Creation Technologies” Technical Product Management,https://cdn.theorg.com/f69fde14-043d-4ffa-96cf-283c9ea2745f_thumb.jpg,Ronnie Wright,5
+Alyssa Levison,Senior Principal Design Ops,https://cdn.theorg.com/11a39b11-983e-49f2-a0e6-b411d2b3de51_thumb.jpg,Ronnie Wright,5
+Ryan Lingard,Store Design Director - Global Retail Design,https://cdn.theorg.com/46673f11-43b7-4420-82ae-79d71e919f41_thumb.jpg,Ronnie Wright,5
+Chul Lee,"Digital Design Lead, Studio",https://cdn.theorg.com/902d4917-72cd-45cf-ac9b-d2f17e81fb85_thumb.jpg,Ronnie Wright,5
+Noelle Bullock,"Design Director, Brand Experience, LA",https://cdn.theorg.com/221c1cf8-2b9d-47e0-81a2-7c25a788a133_thumb.jpg,Ronnie Wright,5
+Maria Lopez,UX Research Lead,https://cdn.theorg.com/0aa68d61-9ee3-4265-865d-1a2878beeec6_thumb.jpg,Ronnie Wright,5
+Kort Neumann,Senior Design Lead,https://cdn.theorg.com/b554d782-48a1-46b5-8ad3-aafc34ca599a_thumb.jpg,Ronnie Wright,5
+Andrea Fideler,"Design Director, Footwear Color: Men’s Performance",https://cdn.theorg.com/181f7783-2345-4914-adfa-91e306bbd5de_thumb.jpg,Ronnie Wright,5
+Jimmy Soat,Principal Designer,https://cdn.theorg.com/f5eec698-67d2-403a-bd7f-39609291bf83_thumb.jpg,Ronnie Wright,5
+Ari Joseph,Lead Designer,https://cdn.theorg.com/4d7b4b11-1c95-4282-8e26-dead2a3a7644_thumb.jpg,Ronnie Wright,5
+Merritt Ollinger,Design Studio Manager,https://cdn.theorg.com/8ef1e4e1-cee1-4966-976a-b5edfbf4abab_thumb.jpg,Ronnie Wright,5
+Risa Dixon,"Lead Technical Designer, Promo NCAA Basketball",no_match,Ronnie Wright,5
+Yuchung Chen,Senior Footwear Designer,https://cdn.theorg.com/9c8dfba9-2051-4984-933d-ac2eed7e38d3_thumb.jpg,Gemma Charlotte Brown,6
+Harshith Ravoori,Lead Product Manager,https://cdn.theorg.com/78fdbcbc-b0c1-4eb6-8e1a-8784b6ac454b_thumb.jpg,Tim Hamilton,6
+Rachel Denti,Lead Designer,https://cdn.theorg.com/7ef5de0b-a9fa-4bc6-b394-c4d712479531_thumb.jpg,Tim Hamilton,6
+Monina Dolan,"Director, Global Retail Experience Design",https://cdn.theorg.com/37b7f2f4-a1d0-47fb-8086-5cde4124927c_thumb.jpg,Tim Hamilton,6
+Sudeshna Pantham,Principal Designer,https://cdn.theorg.com/c4e33fc4-cb7b-4770-bc57-a03f9cf0581e_thumb.jpg,Tim Hamilton,6
+Chiayu Chang,Brand Design Director,https://cdn.theorg.com/ffddd8f8-f00c-4b2d-b921-183f2201732e_thumb.jpg,Tim Hamilton,6
+Haley Toelle,"Senior Design Manager, Innovation, NXT Space",https://cdn.theorg.com/1a7be260-1243-4dc5-abea-3a1298252822_thumb.jpg,Tim Hamilton,6
+Serifcan Ozcan,"Vp, Concepts (design)",https://cdn.theorg.com/ff8bf3d1-041d-4b4b-9eef-b5c786519754_thumb.jpg,Tim Hamilton,6
+Lily Steiner,Lead Color Designer Men’s Performance Running,https://cdn.theorg.com/a0c55005-1d00-4b71-b40d-f8bddb106a18_thumb.jpg,Tim Hamilton,6
+Ella Kirk,"Director Color Design, Global Women’s Lifestyle",https://cdn.theorg.com/c731d81a-d095-4ec2-880b-91d71b6b4a81_thumb.jpg,Tim Hamilton,6
+Claudia Simoes,"Director, Accessories Color Design",no_match,Tim Hamilton,6
+Laurence Jaccottet,Global Design Director,https://cdn.theorg.com/de269f61-f6c2-457d-abf7-040f3b14c2af_thumb.jpg,Tim Hamilton,6
+Soomin Jung,Design Lead,https://cdn.theorg.com/7d802e25-bf3f-4660-a4de-68503ecdd33c_thumb.jpg,Tim Hamilton,6
+Allison Olson,Design Director,no_match,Tim Hamilton,6
+Russ McMurdie,Director - 3d Design Men's Performance Footwear,https://cdn.theorg.com/ab6979a8-238a-4d58-9774-c43440185677_thumb.jpg,Tim Hamilton,6
+Jonas Hjertberg,Global Design Director - Consumer Direct Retail Design At Nike,https://cdn.theorg.com/4a6ba9b7-1cbd-4de7-b40e-1053231afe6c_thumb.jpg,Tim Hamilton,6
+Aquila Hussain,"Senior Director, Product, Design And Merchandising Strategy",https://cdn.theorg.com/a01e9ddc-3028-46a1-a65c-d41b5981bcca_thumb.jpg,Tim Hamilton,6
+Stephanie Che,Senior Designer - Advanced Concepts And Visual Direction Team (ccs),https://cdn.theorg.com/f4354175-1bea-414a-a4a4-9cb9314d4991_thumb.jpg,Joel Kashuba,6
+Vincent Clervi,"Senior Designer, Advanced Innovation, Deep Exploration",https://cdn.theorg.com/5010022d-d22e-4f11-9c8c-c8bea2dce5da_thumb.jpg,Joel Kashuba,6
+Lilian Jang,Senior Design Manager - Men’s Lifestyle Apparel Color,https://cdn.theorg.com/2e001fe7-4c59-400f-bb30-ebe66f6fc68c_thumb.jpg,Andrea Fideler,6
+Terri Larson,Senior Technical Designer,https://cdn.theorg.com/1abdebf8-c5c6-47f2-bbca-503f88eaaaa9_thumb.jpg,Merritt Ollinger,6
+Lauren Gallo-Rodriguez,"Senior Director, Head Of Creative For Women's - North America",https://cdn.theorg.com/f7a1c974-fc67-47f2-ba51-5c0858740315_thumb.jpg,Adam Roth,4
+Sophie Croysdill,Marketing Manager,https://cdn.theorg.com/d525ea05-cd39-4941-b187-d64f7cb36c1f_thumb.jpg,Adam Roth,4
+James McCluskey,Director Of Brand Marketing,https://cdn.theorg.com/5094c56e-2155-4228-bbba-892467627bb2_thumb.jpg,Adam Roth,4
+Malitza A.,North America Senior Energy Marketing Operations Manager,https://cdn.theorg.com/832a7a47-ad14-42cc-a2e3-7d812c87e657_thumb.jpg,Adam Roth,4
+Staci Kurick,"Senior Director, Digital Marketing, North America",https://cdn.theorg.com/fce187a7-6060-4e22-b828-52ff152a55ef_thumb.jpg,Adam Roth,4
+Ali Cameron,Head Of Marketing & Brand - Canada,https://cdn.theorg.com/8af87f83-9ac8-4bee-bf7b-f313d7656170_thumb.jpg,Adam Roth,4
+Newton Vieira Jr,Brand Protection Director - Americas,https://cdn.theorg.com/af94ccf0-b67a-4028-9006-4a4d9507d1a9_thumb.jpg,Adam Roth,4
+Allegra Farina,NA Energy Marketing Director - RNWY,https://cdn.theorg.com/fde95981-e019-42cd-a874-5e04648153aa_thumb.jpg,Adam Roth,4
+Albert Ceniceros,"North America Brand Director, Snkrs",no_match,Adam Roth,4
+Ian Shepherd,"Head Of Marketing, Nike Los Angeles",https://cdn.theorg.com/c78b9fe9-c9f6-4d96-a865-401adf45e5e9_thumb.jpg,Adam Roth,4
+Jackie Harshman,"Director, NA Integrated Media",https://cdn.theorg.com/34cb10ee-1501-4d32-8665-d7df8fddcd85_thumb.jpg,Adam Roth,4
+Charlotte Taquet,"Brand Protection Manager, France",https://cdn.theorg.com/747762af-154d-493c-ac07-62d80d89d538_thumb.jpg,Newton Vieira Jr,5
+Siddhant Narayan,Head Of Marketing : India,https://cdn.theorg.com/fa41510c-6686-4a6d-abb3-936c5a14ba1d_thumb.jpg,Chloe Shattock Speed,4
+Sebastian Niemeyer,Senior Brand Director Sport Performance EMEA,https://cdn.theorg.com/f7b29167-381d-477b-9936-bed3b6ad09dc_thumb.jpg,Chloe Shattock Speed,4
+Ben Loney,Uk+ire Sports & Lifestyle Brand Director,https://cdn.theorg.com/773f25aa-f8b8-444b-b15e-3d1e14768b11_thumb.jpg,Chloe Shattock Speed,4
+Marco Palermo,Integrated Retail Marketing Director - Converse Europe,https://cdn.theorg.com/d29b2636-444e-46cd-aca7-a69e720568ad_thumb.jpg,Chloe Shattock Speed,4
+Niels Sleuyter,EMEA Brand Director Jordan Streetwear,https://cdn.theorg.com/7433aa2c-67ac-43b3-b8c7-0ecbb88a27c2_thumb.jpg,Chloe Shattock Speed,4
+Lester Harmsen,"Sr. Director Brand Marketing, Football EMEA",no_match,Chloe Shattock Speed,4
+Kayla Kaminski,"Senior Manager Targeted Communications, EMEA",https://cdn.theorg.com/9a608a4e-557d-430d-8213-312710a4a560_thumb.jpg,Chloe Shattock Speed,4
+Connie Legris,London Brand Planning Manager,no_match,Sebastian Niemeyer,5
+Rebecca Nefsky,"Senior Director Of Global Brand Merchandising, Analytics & Insights | Jordan Brand",https://cdn.theorg.com/c927045f-651d-4144-a5ab-90873dc37e1e_thumb.jpg,Deepak Arora,4
+Avishek Mazumdar,"Director Of Engineering, Marketing Technology",https://cdn.theorg.com/647911f8-c250-4e04-b59f-f061bdd8a076_thumb.jpg,Deepak Arora,4
+Shikha Bhargava,"Sr Director Product Management, Marketing Technologies",https://cdn.theorg.com/2ce365ea-ceb1-411a-8169-9edb2d1539fd_thumb.jpg,Deepak Arora,4
+Pascal Relf,Manager Supply Chain & Operations - NIKE Owned & WHLS Partner Stores,https://cdn.theorg.com/b91a4ce7-3042-4182-865a-ed8ea5e0cdff_thumb.jpg,Ian Tang,4
+Sunayana Chenna,Senior Business Analyst,https://cdn.theorg.com/d3c029e7-06ef-4030-9a41-4d27c7eb23a8_thumb.jpg,Ian Tang,4
+Neha Das,Lead Associate General Counsel,no_match,Joshua Simko,4
+Rodrigo Matos,Global Senior Director Of Workplace Services,no_match,Joshua Simko,4
+Tony Lim,"Senior Counsel, Supply Chain - Global Manufacturing And Sustainability",https://cdn.theorg.com/0e599d55-2dd8-4157-8bc4-e8cf106d3906_thumb.jpg,Neha Das,5
+Michael Gerrits,"Sr Director | Sr Counsel, Product Safety & Compliance",no_match,Jaime Lemons,4
+Seth Fuller,Director Of Information Risk Management,https://cdn.theorg.com/e356b181-ab82-45eb-85ca-47c08f4148aa_thumb.jpg,Jaime Lemons,4
+Gannon Kelly,"Sr. Director, Infosec Governance, Risk & Compliance",no_match,Jaime Lemons,4
+Jimit Ladha,"Vice President, Global Technology",no_match,Jaime Lemons,4
+Dan Feehan,IT Compliance Director,no_match,Jaime Lemons,4
+Irini D.,Lead Privacy Advisor,https://cdn.theorg.com/ef99fa33-d3bf-4374-9a5e-db3a2e765744_thumb.jpg,Jaime Lemons,4
+Blais Hickey,Sr Compliance Performance Manager,no_match,Jaime Lemons,4
+Jeff Smith,Principal Technical Program Manager,https://cdn.theorg.com/37af76bf-b0e9-44cb-bfd5-56fb0ea35636_thumb.jpg,Jimit Ladha,5
+Rajeev Aikkara,"Vice President, Global Technology (planning, Manufacturing And Supply Chain)",https://cdn.theorg.com/a5a08a2f-1410-46f6-8ca7-595e2bcc7bbd_thumb.jpg,Jimit Ladha,5
+Amy Fabian-Crump,"Sr. Director, Global Technology, Asia Pacific Latin America (apla)",https://cdn.theorg.com/34e8ec7b-6932-43ff-814b-6918a1a9f3be_thumb.jpg,Jimit Ladha,5
+Claud Rusnac,Principal Information Security Analyst,no_match,Jimit Ladha,5
+Gordon McDonnell,"Senior Director, Global Technology, Digital Transformation, Program & Portfolio Office",https://cdn.theorg.com/d1ffa137-5daa-4980-9aad-d9f2129ead04_thumb.jpg,Jimit Ladha,5
+Lance Miller,"Director, Technology Program Management (sec Program)",https://cdn.theorg.com/ef84fa30-48d1-409a-b473-55278dde5947_thumb.jpg,Jimit Ladha,5
+Randy Seale,principal Cyber Defense Incident Responder,https://cdn.theorg.com/f24a9a37-828c-43d9-af90-6f7920db7d7f_thumb.jpg,Jimit Ladha,5
+Tom Sedory,North America Information Technology Director,https://cdn.theorg.com/0932d85c-724c-4805-86ad-178837daabdb_thumb.jpg,Jimit Ladha,5
+Jovita Alphonse,Senior Director (int) Insider Threat,https://cdn.theorg.com/1853763c-6667-456b-bdd5-485b455a6ce9_thumb.jpg,Jimit Ladha,5
+Sunil Bhardwaj,"Vp, Global Consumer And Marketplace Technology",https://cdn.theorg.com/ee817af0-f823-4913-91d9-174a64d87384_thumb.jpg,Jimit Ladha,5
+Felix Crepaz,"Business Operations & Enablement Director, Nike Technology",no_match,Jimit Ladha,5
+Shantanu Tengshe,Principal Architect - Global Technology,https://cdn.theorg.com/28e56d2b-cc5b-4916-9aa4-cf29f4a788c0_thumb.jpg,Jimit Ladha,5
+Tim Slavin,"Director, Procurement And Customer Finance Technology",https://cdn.theorg.com/b3006933-9394-4a38-a50f-9b3fbead51f4_thumb.jpg,Rajeev Aikkara,6
+Raje Kantamneni,Senior Director Procurement,no_match,Rajeev Aikkara,6
+Bharti Gupta,"Director, Product Management - Global Logistics",https://cdn.theorg.com/1ac773d5-e447-4e5d-a35c-af82bb2eeae6_thumb.jpg,Rajeev Aikkara,6
+Jeremy Venema,Lead Supply And Inventory Planning Manager,https://cdn.theorg.com/aea4462a-292f-45be-ae86-c567e327903b_thumb.jpg,Rajeev Aikkara,6
+Micah Stanfield,"Director Of Operations, Central And South America",https://cdn.theorg.com/94ceec0f-3cea-4edb-b16f-49dbdf06cd64_thumb.jpg,Rajeev Aikkara,6
+Uma Nimmagadda,"Director Of Product Management - Accounting, Close Management And Reporting",https://cdn.theorg.com/bd6db896-d3a0-45d0-98bd-fe84e88d1ce6_thumb.jpg,Rajeev Aikkara,6
+Elizabeth Garvey,Senior Program Development Manager - Sustainable Manufacturing & Sourcing Business Integration,https://cdn.theorg.com/b4db501e-5cbe-4cf5-aa0a-3a75b12ba417_thumb.jpg,Rajeev Aikkara,6
+Philippe Verstraeten,EMEA Strategic Enterprise Capabilities Process Lead,https://cdn.theorg.com/5bb47f32-12e0-454b-b9f3-d42231726773_thumb.jpg,Rajeev Aikkara,6
+Loré Hunsicker,"Director, Program & Portfolio Management – Planning & Manufacturing Technology",https://cdn.theorg.com/791075c9-9bdf-4e79-a2ed-c8eedae12049_thumb.jpg,Rajeev Aikkara,6
+Harpreet Mithra,"Vice President Logistics And Transportation, Nike, NA",https://cdn.theorg.com/f31639b2-a02e-4b9e-af6a-7803728865f0_thumb.jpg,Rajeev Aikkara,6
+Greg Stiver,"Senior Manager, Supply Chain Operations",no_match,Rajeev Aikkara,6
+Courtenay McHugh,"Director, Climate & Energy, Global Supply Chain",https://cdn.theorg.com/cbfb00dd-d0c2-4bf8-b8d8-d8252432cc09_thumb.jpg,Rajeev Aikkara,6
+Xiao Xi Wang,GC Merch Operations Director,https://cdn.theorg.com/1b18f2a5-a3ac-4f62-83af-ca4a76595a36_thumb.jpg,Rajeev Aikkara,6
+Ewald Neve,Director EMEA Real Estate & Facilities Procurement,https://cdn.theorg.com/14770bcd-a79e-4758-ad29-4cbe0a260db7_thumb.jpg,Rajeev Aikkara,6
+Maggie Wrona,"Lead Business Operations & Planning, Global Technology",https://cdn.theorg.com/b0999f53-e22b-476a-a927-88f284ab1541_thumb.jpg,Rajeev Aikkara,6
+Sandra Leon Carrion,Supply And Inventory Planning Manager,https://cdn.theorg.com/461fad57-d5ee-4b5c-8ffc-f496368793d7_thumb.jpg,Raje Kantamneni,7
+Jungeun Jessica Lee,APLA Demand Supply Management - Supply & Inventory Planning Manager For Japan/korea/nsw,https://cdn.theorg.com/2cfa4e4d-4182-4283-93da-851a9ef633ef_thumb.jpg,Jeremy Venema,7
+Shayna Hodge,Public Policy And Social Impact Operations Manager,https://cdn.theorg.com/3beabe61-368a-4fb9-a53b-1376a9340f3b_thumb.jpg,Dina Stults,4

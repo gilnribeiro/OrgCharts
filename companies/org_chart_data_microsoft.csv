@@ -1,0 +1,430 @@
+name,title,image_src,reports_to,chart_status
+Satya Nadella,Chairman & CEO,https://cdn.theorg.com/ecbb3a7e-940d-4cd4-bf10-46142f41336b_thumb.jpg,Satya Nadella,1
+Judson Althoff,EVP & Chief Commercial Officer,https://cdn.theorg.com/f4c3e208-a9d4-4923-a623-04f9f570afbf_thumb.jpg,Satya Nadella,2
+Brad Smith,President & Vice Chair,https://cdn.theorg.com/ba38b0bf-2f65-49a0-9d41-b420dc8e5e7a_thumb.jpg,Satya Nadella,2
+Kevin Scott,"CTO & EVP, Technology & Research",https://cdn.theorg.com/a1c903ec-d683-46f9-85b1-56e9e1b3751b_thumb.jpg,Satya Nadella,2
+Amy Hood,EVP & CFO,https://cdn.theorg.com/6f3ac5dd-2282-438b-b228-e7e7385d41d3_thumb.jpg,Satya Nadella,2
+Phil Spencer,"EVP, Gaming",https://cdn.theorg.com/24917ebb-7b72-44b4-8baf-420d4121b779_thumb.jpg,Satya Nadella,2
+Kathleen Hogan,Chief People Officer,https://cdn.theorg.com/2fd8c93d-2833-4a74-a57d-6e2feb146d12_thumb.jpg,Satya Nadella,2
+Ryan Roslansky,"CEO, LinkedIn",https://cdn.theorg.com/63912c80-6d46-4c94-8b18-2d4791773253_thumb.jpg,Satya Nadella,2
+Christopher Young,"Executive Vice President, Business Development, Strategy and Ventures",https://cdn.theorg.com/9c24b2d0-7ac3-485d-b2d4-9ef467fa5744_thumb.jpg,Satya Nadella,2
+Charlie Bell,"EVP, Security, Compliance, Identity & Management",https://cdn.theorg.com/1e3dbd95-a394-4ea7-bba8-403ab7371a3f_thumb.jpg,Satya Nadella,2
+Jason Zander,"EVP, Strategic Missions & Technologies",https://cdn.theorg.com/11de02c9-bd38-43af-b663-2e51d087055e_thumb.jpg,Satya Nadella,2
+Scott Guthrie,"EVP, Cloud & AI",https://cdn.theorg.com/623ad1d2-21bc-457b-9655-a2302c0d357d_thumb.jpg,Satya Nadella,2
+Takeshi Numoto,EVP & Commercial Chief Marketing Officer,https://cdn.theorg.com/e18fc7d5-61f5-4b12-966b-e5b86ca8b584_thumb.jpg,Satya Nadella,2
+Ralph Haupter,"President, Microsoft EMEA",https://cdn.theorg.com/1270ead6-de92-4643-ac0d-e06e6af46f94_thumb.jpg,Satya Nadella,2
+Samer Abu-Ltaif,"President, Microsoft CEMA",https://cdn.theorg.com/ad5392e7-797c-4bbf-afac-8e14c5b17a69_thumb.jpg,Satya Nadella,2
+Andrea Della Mattea,"President, APAC",https://cdn.theorg.com/f9916b93-4aa3-4beb-9204-f09e12fc565b_thumb.jpg,Satya Nadella,2
+Mustafa Suleyman,"CEO, Microsoft AI",https://cdn.theorg.com/f6328f8b-fe61-49dc-a957-8b4a277b547c_thumb.jpg,Satya Nadella,2
+Carolina Dybeck Happe,COO,https://cdn.theorg.com/687b8448-417a-4e6a-9ec8-53fec4c682e5_thumb.jpg,Satya Nadella,2
+Jon Friedman,"CVP, Design & Research",https://cdn.theorg.com/2184a4b6-cba0-4085-b8b1-4128cb9f99cc_thumb.jpg,Satya Nadella,2
+Emma Williams,"CVP, Microsoft Office Modern Workplace Transformations",no_match,Satya Nadella,2
+Guarav Sareen,"CVP, Global Experiences & Platforms",https://cdn.theorg.com/47f5db17-803d-41a6-9f51-46d31aebc3af_thumb.jpg,Satya Nadella,2
+Jeff Teper,"President, Collaborative Apps & Platforms",https://cdn.theorg.com/bdbbc4fc-af7e-4787-823d-e69730514545_thumb.jpg,Satya Nadella,2
+Brett Ostrum,"CVP, Surface Devices",https://cdn.theorg.com/4cefa32b-0731-4abc-be47-039c5ded01d4_thumb.jpg,Satya Nadella,2
+Deb Cupp,"President, North America",https://cdn.theorg.com/bea44982-1719-4c86-9b48-76f0b8259d88_thumb.jpg,Judson Althoff,3
+Yvonne Chebib Brao,"Executive Senior Director, One Commercial Partner leader",https://cdn.theorg.com/2df42882-d708-4874-b8ce-e2ba7619cc3f_thumb.jpg,Judson Althoff,3
+Shelley Bransten,"CVP, Global Retail & Consumer Goods",https://cdn.theorg.com/931891fc-142b-4cf9-ba16-f08ad4bdb2db_thumb.jpg,Judson Althoff,3
+Nick Parker,"President, Industry & Partnerships",https://cdn.theorg.com/4f3853c5-54db-4ee1-9558-0a94c2a851ca_thumb.jpg,Judson Althoff,3
+Nicole Dezen,"Chief Partner Officer & Corporate VP, Global Partner Solutions",https://cdn.theorg.com/3b9fe3e0-cfd5-4a0a-aa6d-62163227723a_thumb.jpg,Judson Althoff,3
+Melanie Nakagawa,Chief Sustainability Officer,https://cdn.theorg.com/22cab62c-d5cf-4463-bb17-86ee6d03d6e2_thumb.jpg,Brad Smith,3
+Fred Humphries,"CVP, US Government Affairs",no_match,Brad Smith,3
+Shelley McKinley,"VP, Microsoft Technology and Corporate Responsibility Group",https://cdn.theorg.com/a13205cc-1dc5-4f66-92d7-6ed30e4b3d23_thumb.jpg,Brad Smith,3
+Julie Brill,"Corporate VP, Deputy General Counsel, & Chief Privacy Officer",https://cdn.theorg.com/ada73f39-abad-4ed2-a7ae-f67026741104_thumb.jpg,Brad Smith,3
+Edna Conway,"VP, Global Security, Risk & Compliance, Azure",https://cdn.theorg.com/b7ef9502-4190-4dc5-b6a9-f62c703a7947_thumb.jpg,Brad Smith,3
+Hossein Nowbar,"General Counsel, Corporate Legal Affairs & Corporate Secretary",https://cdn.theorg.com/ac286aab-68b3-4082-9301-a3667b8cb4fc_thumb.jpg,Brad Smith,3
+Peter Lee,"Corporate VP, Microsoft Research & Incubations",https://cdn.theorg.com/44d76607-900f-4172-b23f-16745c60a8c6_thumb.jpg,Kevin Scott,3
+Ali Akgun,"Corporate VP, Software Engineering, Microsoft Devices",https://cdn.theorg.com/afb25fe1-37cb-408e-9e90-f3380b02bba7_thumb.jpg,Kevin Scott,3
+Benoit Barabe,"CVP, Office Calc Engineering Director",https://cdn.theorg.com/395da0ee-fb0c-43c5-b121-fad8580993db_thumb.jpg,Kevin Scott,3
+Darren Laybourn,"CVP, Office of the CTO",https://cdn.theorg.com/587f338d-960b-4f0d-a20f-c396142b8292_thumb.jpg,Kevin Scott,3
+Lan Ye,CVP,https://cdn.theorg.com/85288335-0f86-486b-95a3-88e15610d9cf_thumb.jpg,Kevin Scott,3
+Rubén Caballero,"Corporate VP, Engineering, Hardware Design & Technologies",https://cdn.theorg.com/54391037-163b-425c-b9b5-3aec58eda7ab_thumb.jpg,Kevin Scott,3
+Vanessa Feliberti,"CVP, M365 Services Platform Engineering",https://cdn.theorg.com/9e5550b7-2e69-4f2b-b057-c73448c22e95_thumb.jpg,Kevin Scott,3
+John Maeda,"VP, Design & Artificial Intelligence",https://cdn.theorg.com/03e7dc62-075e-4a21-a599-9d6ce7d410ef_thumb.jpg,Kevin Scott,3
+Gopal Kakivaya,"CVP & Technical Fellow, Office of the CTO",https://cdn.theorg.com/70c309f7-017d-4a7c-a44a-598033c78656_thumb.jpg,Kevin Scott,3
+Mike Ehrenberg,Technical Fellow,https://cdn.theorg.com/56fea3cc-0a93-4917-a3ea-e6e6ac7d28b2_thumb.jpg,Kevin Scott,3
+Julia Liuson,"President, Developer Division",https://cdn.theorg.com/11c091f9-5391-4f92-a241-f770e2fe6d6a_thumb.jpg,Kevin Scott,3
+Dr. Rohini Srivathsa,Chief Technology Officer - Microsoft India & South Asia,https://cdn.theorg.com/90a31b20-df8f-44bb-880a-6ea337f91054_thumb.jpg,Kevin Scott,3
+Tara Roth,"CVP, Office Customer Success Engineering",https://cdn.theorg.com/2404987c-0446-4767-93a4-957f83e9fae5_thumb.jpg,Kevin Scott,3
+Ales Holecek,"CVP, Engineering, Office Experience Group",https://cdn.theorg.com/c583cfcb-c9fc-40e4-b444-f20be2badc37_thumb.jpg,Kevin Scott,3
+Amanda Langowski,Head of Microsoft Insider Program,https://cdn.theorg.com/fbb87172-701f-452d-8e3a-421f34e94eef_thumb.jpg,Kevin Scott,3
+Bill Duff,"CVP & CFO, Consumer & Devices",https://cdn.theorg.com/f5789386-bcb3-4bbc-a058-3dec268518f4_thumb.jpg,Amy Hood,3
+Daniel Goff,"CVP, Worldwide Tax & Trade",https://cdn.theorg.com/40b60775-be75-4522-81e1-604c34ae3069_thumb.jpg,Amy Hood,3
+Julia Charter,Chief Audit & Risk Executive,https://cdn.theorg.com/473bca53-05a2-4230-87f6-ef13732b9738_thumb.jpg,Amy Hood,3
+John Min,"GM, Corporate Services Finance",https://cdn.theorg.com/6c996b29-e015-4631-a60b-0fac69c3b7a1_thumb.jpg,Amy Hood,3
+Seth Eisner,"Corporate Vice President & CFO, Commercial Products (Cloud +AI, Modern Work, Security, Bus Apps)",https://cdn.theorg.com/d8cf2c03-333c-4744-8574-e9126bf3b01a_thumb.jpg,Amy Hood,3
+Matt Booty,"CVP, Head of Microsoft Studios",https://cdn.theorg.com/806e0280-9c54-4e53-b43e-680fd8e2875a_thumb.jpg,Phil Spencer,3
+Dave McCarthy,"CVP, Xbox Operations",https://cdn.theorg.com/c8ab440f-405b-48d3-a14b-569a90737882_thumb.jpg,Phil Spencer,3
+Kareem Choudhry,"CVP, Gaming Cloud",https://cdn.theorg.com/502e2fcf-fb9c-439f-9092-88f3e94efcd3_thumb.jpg,Phil Spencer,3
+Chuck Edward,"CVP, Human Resources",https://cdn.theorg.com/1f7d58f7-b2ba-4d99-8f35-d5dff2b218e9_thumb.jpg,Kathleen Hogan,3
+Kristen Roby Dimlow,"CVP, Total Rewards, Performance, & HRBI",https://cdn.theorg.com/16294c99-97be-4a97-97bc-1fca69c992b2_thumb.jpg,Kathleen Hogan,3
+Lindsay-Rae McIntyre,Chief Diversity Officer And Corporate Vice President Of Talent And Learning,https://cdn.theorg.com/ebbdfbea-4519-4cf3-ba7a-1003ea6190ba_thumb.jpg,Kathleen Hogan,3
+Christopher J. Fernandez,"CVP, Human Resources",https://cdn.theorg.com/8b077c2d-323c-4a5b-a1ce-298a55217fad_thumb.jpg,Kathleen Hogan,3
+Bobby Yerramilli-Rao,"Chief Strategy Officer & CVP, Corporate Strategy",https://cdn.theorg.com/638490eb-fc97-4bab-ad05-2c0c183b38e8_thumb.jpg,Christopher Young,3
+Mamata Bhopatkar,"Vice President WW Sales Strategy Enablement, Business & Sales Operations",no_match,Christopher Young,3
+Kya Sainsbury-Carter,"Corporate Vice President, Microsoft Advertising",https://cdn.theorg.com/15a5b3ae-ab10-45fc-bd62-b2ca6df19f93_thumb.jpg,Christopher Young,3
+Tarun Mehra,"Vp, Healthcare Strategy And Partnerships (nuance)",https://cdn.theorg.com/7c2305fd-db9d-4609-b784-fd2e9b50de99_thumb.jpg,Christopher Young,3
+Bret Arsenault,Corporate Vice President And Chief Cybersecurity Advisor,https://cdn.theorg.com/a71b6b0e-eec6-444a-8513-ce68c41eb95c_thumb.jpg,Charlie Bell,3
+Michal Braverman-Blumenstyk,"CTO, Security, Compliance, Identity & Management Division",https://cdn.theorg.com/137be740-7e27-42b1-aa2c-da35d23dcae0_thumb.jpg,Charlie Bell,3
+Rob Lefferts,"CVP, Program Management, Microsoft 365 Security & Compliance",no_match,Charlie Bell,3
+Marcus Ash,Corporate Vice President,https://cdn.theorg.com/4ef89015-eec8-42ff-9010-16311bbff26e_thumb.jpg,Jason Zander,3
+Sharon Schoenborn,Corporate Vice President - EMEA SMC At Microsoft,https://cdn.theorg.com/c48e7537-3847-4ad3-a309-b7caaaddae88_thumb.jpg,Jason Zander,3
+Corey Sanders,Corporate Vice President of Microsoft Cloud for Industry & Global Expansion Team,no_match,Scott Guthrie,3
+Mark Russinovich,"CTO, Microsoft Azure",https://cdn.theorg.com/29c80f8e-b2db-40a8-972b-6b039230db04_thumb.jpg,Scott Guthrie,3
+Jordi Ribas,"CVP, Search & AI",no_match,Scott Guthrie,3
+Sandeep Bhanot,"Corporate Vice President, Engineering And Data",no_match,Scott Guthrie,3
+Fatima Kardar,"Corporate Vice President, Gaming AI",https://cdn.theorg.com/c5b6554c-fc61-4fc5-bd9d-bf0a925100f6_thumb.jpg,Scott Guthrie,3
+Christiano Faig,Vice President Of Solution Sales & Technology,https://cdn.theorg.com/da588f3a-f485-4056-87a2-a74938182e12_thumb.jpg,Scott Guthrie,3
+Rajkumar Mohanram,"Vice President And Head Of Engineering And Product, Windows + Devices, India Development Center",https://cdn.theorg.com/b3a7c7fa-1f17-4a96-9363-653f15fca189_thumb.jpg,Scott Guthrie,3
+Ahmad al Qadi,Principal Regional IT Manager -microsoft Gulf,https://cdn.theorg.com/031de64b-0204-453e-930c-9ab7ccdc5210_thumb.jpg,Scott Guthrie,3
+Jason Graefe,"Corporate Vice President, ISV and Digital Natives",https://cdn.theorg.com/5b10433b-0ac7-4f0a-8c3c-da2ce73991fd_thumb.jpg,Scott Guthrie,3
+Girish Bablani,"CVP, Azure Core",no_match,Scott Guthrie,3
+Ahmed Sabbour,"Senior Product Marketing Manager, Azure",https://cdn.theorg.com/410462a3-6530-4bdf-a7ef-e474276455c7_thumb.jpg,Takeshi Numoto,3
+Jared Spataro,"Corporate VP, Microsoft 365 Marketing",https://cdn.theorg.com/c5ee665d-4a55-4687-8ee2-50a69622f1a5_thumb.jpg,Takeshi Numoto,3
+Frank X. Shaw,"CVP, Communications",https://cdn.theorg.com/8d5eb26a-fb7a-404f-927a-8f3d70efb457_thumb.jpg,Takeshi Numoto,3
+Vasu Jakkal,"CVP, CMO, Security, Compliance & Identity",https://cdn.theorg.com/7b652b79-021c-438c-9ed2-f2c6ae22d0a1_thumb.jpg,Takeshi Numoto,3
+Rosie Mastrandrea,"Sr. Director, Sustainability Product Marketing",https://cdn.theorg.com/48bcb9d9-b54c-41ad-a0bd-2545616274f6_thumb.jpg,Takeshi Numoto,3
+Matt Barlow,"CVP, Surface Marketing",https://cdn.theorg.com/1995b07d-dae7-4b8f-958f-b5c1432af264_thumb.jpg,Takeshi Numoto,3
+Kathleen Hall,"Chief Brand Officer & CVP, Brand, Advertising & Research",https://cdn.theorg.com/6e4728c7-d1d8-4cd9-94cf-a6710dc114ad_thumb.jpg,Takeshi Numoto,3
+Alysa Taylor,"CVP, Cloud & AI Commercial Marketing",https://cdn.theorg.com/5bcd581c-8ce2-4d7d-8c4b-86c2b7d23d94_thumb.jpg,Takeshi Numoto,3
+Soraya Scott,"COO, Microsoft UK",https://cdn.theorg.com/a51ab3e7-ecfa-4678-b066-8b9eef545fb3_thumb.jpg,Ralph Haupter,3
+Lillian Barnard,"CEO & GM, Microsoft South Africa",https://cdn.theorg.com/5b0aa390-29ca-4e28-a94e-cbd2b34715d9_thumb.jpg,Samer Abu-Ltaif,3
+Chiew Khim Lee,"Smart Nation & Digital Government Lead, Singapore",no_match,Andrea Della Mattea,3
+Lili Cheng,"CVP, Microsoft AI & Research",https://cdn.theorg.com/cf3f308a-23a1-4b88-ad9b-7ce97e9431a7_thumb.jpg,Mustafa Suleyman,3
+Pamela Maynard,"Chief AI Transformation Officer, Customer and Partner Solutions",https://cdn.theorg.com/84cb5af3-6b65-40a8-b5cb-d36d94f342bc_thumb.jpg,Mustafa Suleyman,3
+Jonathan Tinter,"CVP, Business Development, Microsoft 365 & Search, Ads, & News",https://cdn.theorg.com/9ba30de0-e71d-4a73-a267-0b8444210898_thumb.jpg,Carolina Dybeck Happe,3
+Yannis Paniaras,Principal Design Lead - Microsoft Digital AI Center of Excellence,no_match,Jon Friedman,3
+Edvard Hofmann,Sr. Modern Work Specialist,https://cdn.theorg.com/bc8e0142-c614-4fa7-8630-103a20e6d4c8_thumb.jpg,Emma Williams,3
+Edvard Hofmann,Sr. Modern Work Specialist,https://cdn.theorg.com/bc8e0142-c614-4fa7-8630-103a20e6d4c8_thumb.jpg,Emma Williams,3
+Noelle Walsh,"CVP, Cloud Operations & Innovation",https://cdn.theorg.com/fa2cd2cd-daca-4396-a4e5-4c1ebf704ca4_thumb.jpg,Kirk Koenigsbauer,4
+Tom Robertson,"CVP, Deputy General Counsel, Experiences & Devices Group",https://cdn.theorg.com/0103f463-2325-44c0-bacb-93ba1bee7648_thumb.jpg,Kirk Koenigsbauer,4
+Manik Gupta,"CVP, Teams",https://cdn.theorg.com/a96daeb5-5671-4d07-b0c6-ab696c110a06_thumb.jpg,Jeff Teper,3
+Charles Lamanna,"CVP, Citizen Applications Platform",https://cdn.theorg.com/38b4fa08-c318-44e4-b4a2-a4db60acf07e_thumb.jpg,Jeff Teper,3
+Roanne Sones,"CVP, OS Platforms",no_match,Jeff Teper,3
+Bernando Caldas,"VP, Program Management",no_match,Roanne Sones,4
+Greg Cusanza,Principal Program Manager,no_match,Bernando Caldas,5
+Erica Millado,Senior Program Manager,https://cdn.theorg.com/12cf9f94-fc11-476f-877a-131f0e0a45c6_thumb.jpg,Greg Cusanza,6
+Ronel Vosloo,Sr Program Manager Fasttrack For Azure,no_match,Greg Cusanza,6
+Lorraine Bardeen,"Corporate VP & CTO, Industry Solutions",https://cdn.theorg.com/87191923-f635-4615-a41c-228cb2b33800_thumb.jpg,Deb Cupp,4
+David Willis,"Corporate Vice President, U.S., One Commercial Partner Group",no_match,Deb Cupp,4
+Eric Horvitz,Chief Scientific Officer,https://cdn.theorg.com/d083f5d4-35c1-4bc7-856c-ca3f0f543fda_thumb.jpg,Deb Cupp,4
+David Rhew,"Chief Medical Officer & VP, Healthcare, Worldwide Commercial Business",https://cdn.theorg.com/c471c029-dafb-4e29-bc4c-49a1ef4b5447_thumb.jpg,Deb Cupp,4
+Michael Schwarz,"Corporate Vice President, Microsoft Research & Chief Economist",https://cdn.theorg.com/e885e5c8-3370-4e4f-9a80-4f5adcee3ae4_thumb.jpg,Deb Cupp,4
+Richard Qian,"CVP, AI & Technology",https://cdn.theorg.com/52618a5c-8085-49af-82b6-14f05dcb8ed2_thumb.jpg,Deb Cupp,4
+William Borden,"CVP, Worldwide Financial Services",https://cdn.theorg.com/c7296dad-1048-403e-9569-98b544697cf5_thumb.jpg,Deb Cupp,4
+Eduardo Kassner,"Chief Data Officer & General Manager, US SDP, Customer Success Data & AI Team",https://cdn.theorg.com/c0e9eff4-e22a-45d8-90bb-bbb307aeb444_thumb.jpg,Yvonne Chebib Brao,4
+Toby Richards,"Sr. Director, Customer Success Strategy, Data & Technology",no_match,Yvonne Chebib Brao,4
+Garrett Clarke,"Managing Director, Strategic Partnerships",no_match,Nick Parker,4
+Alejandro Kozin,"Managing Director, Strategic Partnerships - Digital Natives & Isvs",https://cdn.theorg.com/ef8ed445-5159-44bc-bcff-c55f44b2bb7c_thumb.jpg,Nick Parker,4
+Angelo Pileggi,Director Of Digital Sales,https://cdn.theorg.com/b6249327-475d-43c9-8bcc-7ad676a14b5b_thumb.jpg,David Willis,5
+Gwenael Bellec,"Director, Sales Enablement",https://cdn.theorg.com/4abe8365-d351-4c5f-a885-8722e1bd977f_thumb.jpg,David Willis,5
+Wale Olokodana,Regional Support Sales & Enablement Director (americas),https://cdn.theorg.com/fbf7094f-a58d-484a-8fe8-c5ed2af1dc88_thumb.jpg,David Willis,5
+James McKellar II,Sr. Business Strategy Manager (global Partner Enablement),https://cdn.theorg.com/684a540f-9f95-47a6-8e84-da64b939a6ac_thumb.jpg,David Willis,5
+Donna Little,"Sr. Director, Sales Excellence",no_match,David Willis,5
+Demi Pissanos,"Director, US Go To Market Strategy, Device Partner Sales",no_match,David Willis,5
+Juliane Parsons,"Director Business Management & Sales Enablement Lead, Commercial Sales Excellence",no_match,David Willis,5
+Akash Srikewal,"Global Director Business Strategy, Strategy And Operations, Commercial Solution Areas",https://cdn.theorg.com/511d6d7e-64bb-4304-b03a-d30bca2bd0de_thumb.jpg,David Willis,5
+Serina David Shetty,"Director, Business Development, Data, AI And Emerging Technologies",no_match,David Willis,5
+Bryan Tomlinson,Partner Sales Lead - Accenture-avanade/microsoft Alliance,https://cdn.theorg.com/86e62687-9299-4e34-8a0f-7ee0b9c40208_thumb.jpg,David Willis,5
+Harish Varma Sachidanandan,Senior Director - Corporate Business Development,https://cdn.theorg.com/97cc303f-2af0-4ccb-bdb4-ed949cc4361b_thumb.jpg,David Willis,5
+Marcel Garaud,"General Manager, Business Development",https://cdn.theorg.com/5ac40006-f130-41b6-bed9-f2f942a9fed3_thumb.jpg,David Willis,5
+Brendan McCabe,"Director, Enterprise Commercial Business - Pacific West",no_match,David Willis,5
+Merle Fernandez,"Sales Excellence Director - Global Partner Solutions At Microsoft Americas (us, Canada & Latam)",no_match,David Willis,5
+Geethike de Silva,Director - Azure Core Sales - Energy Industry,no_match,David Willis,5
+Pedro Fuentes,Azure Federal Civilian Sales Director,no_match,David Willis,5
+Udaiya Karuppasamy,"Sr. Director, Solution Sales - Azure, Microsoft ANZ",no_match,David Willis,5
+Brion Reusche,Technology Sales Senior Director - Business Applications,no_match,David Willis,5
+Kody Henning,"Director, Strategic Azure Sales",no_match,David Willis,5
+Raluca Olteanu,Sr. Sales Excellence Manager - US GPS,https://cdn.theorg.com/f4f89b55-3cad-4e49-b84c-1552f853ddfb_thumb.jpg,Donna Little,6
+Kjersti Phillips,Sr. Sales Excellence Manager,no_match,Donna Little,6
+Kate Rendall,"Director, Sales Excellence",no_match,Donna Little,6
+Meredith Black,Sr. Manager Sales Excellence,https://cdn.theorg.com/9b3f69b4-758f-405b-95ff-1456147d9401_thumb.jpg,Donna Little,6
+Drew Simpson,Senior Sales Excellence Manager,https://cdn.theorg.com/a143d694-3537-4d45-994f-26396a551b07_thumb.jpg,Donna Little,6
+Róisín Bonner,"Team Leader, Americas Commercial Industries",https://cdn.theorg.com/ae3e2d83-ecc5-41e2-9ce3-8f935f430072_thumb.jpg,Juliane Parsons,6
+Yonnie Tauschek,Senior Automation Business Process Manager,https://cdn.theorg.com/df9c7a75-4ee7-4a1d-952e-47ad06333098_thumb.jpg,Juliane Parsons,6
+Alana Phillips,Global Category Manager - Operations,no_match,Akash Srikewal,6
+Juliana Damcevski,Partner Business Development Manager,no_match,Marcel Garaud,6
+Amir Bukan,Sr. Partner Development Manager | ANZ Distribution | Surface Commercial At Microsoft,no_match,Udaiya Karuppasamy,6
+Danni Kristian Evers,Senior Field IT Manager,no_match,Kody Henning,6
+Ole Henrik Ree,Industry Lead / Strategic Client Director,https://cdn.theorg.com/0a2eb206-16ef-4f0c-9f53-bb02311e3fad_thumb.jpg,Tyler Bryson,6
+Jim McNamara,Senior Director Of Healthcare Sales,https://cdn.theorg.com/848c73d0-2d1d-492a-8502-35afe469d8b8_thumb.jpg,Tyler Bryson,6
+Puneet Sawhny,"Director - Cross Solution Sales, Public Sector, Healthcare",no_match,Tyler Bryson,6
+Ty Abrams,Director Of Sales - Business Applications SLG West,no_match,Tyler Bryson,6
+Britney Whitmire,"Southeast Sales Director, Education And Academic Medical Centers",https://cdn.theorg.com/3a4bd7f9-51a4-4a49-a4ca-7a93a8adf394_thumb.jpg,Tyler Bryson,6
+Itir Aloba-Curi,"Senior Sales Director, Health & Wellness",no_match,Tyler Bryson,6
+Thy Nguyen,"Director, US Healthcare",https://cdn.theorg.com/9640a54a-677a-414a-a158-6c2a5dc3e119_thumb.jpg,Tyler Bryson,6
+Atossa Montaser,"Global Director, GTM Business Architecture For Security",https://cdn.theorg.com/cc42063c-3fa8-4e46-8733-dc1bccb47f87_thumb.jpg,Tyler Bryson,6
+Hoifung Poon,"General Manager, Health Futures",https://cdn.theorg.com/1c393ef0-dd7c-4943-96ed-0662404aa55d_thumb.jpg,Tyler Bryson,6
+Amy Edelman,"Senior Manager, Global Customer Engagement | Health And Life Sciences",https://cdn.theorg.com/78673f8b-7cd0-4035-bc6e-a54fcb1748f0_thumb.jpg,Tyler Bryson,6
+Rod Nirens,Victorian Health Director,no_match,Tyler Bryson,6
+Tavis Hudson,Dir. Tech Sales Manager - Modern Work - Healthcare & Life Sciences,https://cdn.theorg.com/2659ccbb-9006-4de6-a5bb-db76b71c0cc7_thumb.jpg,Jim McNamara,7
+Eric Boyd,"CVP, AI Platform",https://cdn.theorg.com/70e5d896-a3f9-417b-af69-83223a89a209_thumb.jpg,Eduardo Kassner,5
+Ulrich Homann,"CVP, Cloud & AI",https://cdn.theorg.com/266c75dc-ad4b-4d69-ba45-41de1ad4a37c_thumb.jpg,Eduardo Kassner,5
+Billy Anders,"CVP, Azure Engineering, Microsoft Cloud & AI",no_match,Eduardo Kassner,5
+Jessica Murphy,Partner Solution Sales - Security ANZ,https://cdn.theorg.com/ead28d39-0a78-44ac-acf6-71509a323a85_thumb.jpg,Toby Richards,5
+Isabel Boniface,ANZ Customer Success Unit Manager,https://cdn.theorg.com/fbc77712-2e83-42b0-a58e-28a942278897_thumb.jpg,Toby Richards,5
+Jaclyn Blumenfeld,"Senior Security Research Manager, Threat Intelligence",no_match,Edna Conway,4
+Tracy Chen,"Director Of Compliance, WW Public Sector",no_match,Edna Conway,4
+Lee Grigsby,Director Support Engineering - Security Global Lead,https://cdn.theorg.com/1af9a8c7-511b-4924-a077-921cabc68343_thumb.jpg,Edna Conway,4
+Assaf Berenson,Principal Product Manager - Defender For Cloud Security,https://cdn.theorg.com/f2601a9d-44ec-473d-9bcf-7e0538b3e196_thumb.jpg,Edna Conway,4
+Leticia Gammill,EMEA Security GTM Lead - Enterprise,no_match,Edna Conway,4
+Giri Govindarajulu,Director Of Cyber Security,https://cdn.theorg.com/399d6222-9a62-4646-a939-31c975852a16_thumb.jpg,Edna Conway,4
+Mathew Williams,IT Audit Director,no_match,Edna Conway,4
+Anitta Miller,Principal Sec Detection Analyst Manager,no_match,Edna Conway,4
+Jordan Rabet,Principal Security Software Engineer,no_match,Edna Conway,4
+Denis Levin,Principal Security Assurance Engineer,https://cdn.theorg.com/a244bf4c-afb9-40ed-9f40-40a511aa5a46_thumb.jpg,Edna Conway,4
+Vidya Sekhar,"Consultant Manager, Engineering And Architecture Group Security Services",https://cdn.theorg.com/514a47ab-ea2e-4c9b-a728-68a7e12f6c7a_thumb.jpg,Edna Conway,4
+Lawren Ahuna,Principal Security Program Manager,no_match,Edna Conway,4
+Nate Bruneau,Principal Security Software Manager - Pki/licensing/manufacturing/security At Microsoft,no_match,Edna Conway,4
+Paulo Arruda,Technical Director - Cybersecurity And Compliance,https://cdn.theorg.com/a1563321-904f-47ab-8969-411f1ae8a8e4_thumb.jpg,Edna Conway,4
+Lee Walker,Principal Security Architect,no_match,Edna Conway,4
+Jamie Blair,Principal Security PM Manager Within Cloud And Enterprise Division,no_match,Edna Conway,4
+Gerard Morisseau,Head Of Privacy Group Program For The Microsoft Security Division,https://cdn.theorg.com/8625949a-4a26-4a58-adb5-27601a813d71_thumb.jpg,Edna Conway,4
+Arjun Dabir,General Manager - Security - Financial Services,https://cdn.theorg.com/81828e07-e518-43fb-a43e-bdeaedc514c2_thumb.jpg,Edna Conway,4
+Ken Sexsmith,"Sr. Director Security Education, Awareness And Training | Chief Of Staff At Microsoft",https://cdn.theorg.com/8be9b8ae-9715-451e-a2ea-a64140cc994e_thumb.jpg,Edna Conway,4
+Raul Rojas,Principal Security Compliance Manager,no_match,Edna Conway,4
+Halaa Menasy,Senior Customer Engineer,https://cdn.theorg.com/f53f7023-0e7f-4b10-9c99-52ebba676cf3_thumb.jpg,Lee Grigsby,5
+Pat Caldwell,Sr. IT Service Manager,https://cdn.theorg.com/1cdcff60-b634-4c0e-bf55-ba5caa8deb55_thumb.jpg,Lee Grigsby,5
+Glenn Leifheit,"Senior Security Program Manager, Customer Security Policy And Assurance",https://cdn.theorg.com/4649c443-8163-4414-9f82-36f1c38d5258_thumb.jpg,Giri Govindarajulu,5
+Omar Rodriguez,Sr. Network Security Engineer,no_match,Giri Govindarajulu,5
+Madeline Carmichael,Principal Threat Intel Librarian Manager (mstic),https://cdn.theorg.com/27a94e58-e629-4fba-bf46-0c754b58d305_thumb.jpg,Giri Govindarajulu,5
+Jovan Fitzgerald,Sr Security Incident Responder,https://cdn.theorg.com/e9e044fe-20cd-471b-aa9c-7a425cedcdd3_thumb.jpg,Giri Govindarajulu,5
+Omprakash Singh,Sr. Security Detections & Analytics Manager,https://cdn.theorg.com/84d5ed4d-1133-472e-9b72-897773b74475_thumb.jpg,Vidya Sekhar,5
+Arik Firman,"Marketing Technology, Senior Program Manager",https://cdn.theorg.com/6cd28abc-aa87-4a66-a98c-abef0d81526f_thumb.jpg,Lawren Ahuna,5
+Ian Hoyle,Senior Security Technical Specialist,no_match,Nate Bruneau,5
+Padde Duijn,Microsoft Datacenter Security Operations Manager (dsom),https://cdn.theorg.com/8921db5b-bc8a-4249-a00b-571443483958_thumb.jpg,Nate Bruneau,5
+Zana Pekmez,Global Client Technology Lead,https://cdn.theorg.com/b0ecc47f-0736-4c4d-8dd3-b56884b41416_thumb.jpg,Nate Bruneau,5
+Maqbool Malik,Senior Cloud Security Architect,https://cdn.theorg.com/55ddaeb6-d482-4dd2-9180-489854b79b37_thumb.jpg,Lee Walker,5
+Dan West,Senior Security Incident Responder,https://cdn.theorg.com/134400bb-3457-4c5a-a833-1043b6940aca_thumb.jpg,Jamie Blair,5
+Ankur Tarnacha,"Director, Growth Innovation Strategy, Strategic Missions & Technologies",https://cdn.theorg.com/2e2fc526-ec4e-42bc-aeb9-e6d57e60676f_thumb.jpg,Peter Lee,4
+Brissa Quiroz,Accessibility Education Director,https://cdn.theorg.com/f3677473-6c5f-4471-b787-bcfdb5e84f71_thumb.jpg,Peter Lee,4
+Amy Luers,"Senior Global Director Sustainability, Science & Innovation",no_match,Peter Lee,4
+Ishani Chakraborty,Principal Researcher @ Hololens,no_match,Peter Lee,4
+Taylor Black,"Director Of AI & Venture Ecosystems, Strategic Programs & Communities Team",https://cdn.theorg.com/e528e4b5-caab-4db9-814e-124b553b3a37_thumb.jpg,Peter Lee,4
+Colleen M Daly,"Director, Occupational Health, Safety And Research",https://cdn.theorg.com/9d03185b-03b4-4368-b3db-6b1db569d13e_thumb.jpg,Peter Lee,4
+Danwei Chen,"Senior Program Manager, New Technologies | Energy Strategy & Partnerships",https://cdn.theorg.com/266a2d03-3410-47f9-8b8a-c1f721a6a4b8_thumb.jpg,Ankur Tarnacha,5
+Michael Keating,Principle Software Engineer Manager,https://cdn.theorg.com/1a73052b-7a04-4225-95de-d5918a801cb6_thumb.jpg,Ali Akgun,4
+Furaha Damién,Software Engineer II,https://cdn.theorg.com/84073585-a277-4889-8b6a-d6d6b93f809b_thumb.jpg,Ali Akgun,4
+Andy Robb,"Director, Program Management Lead - Early Stage Technology",https://cdn.theorg.com/d841e3f8-514e-44a6-b3af-3d05e36c5bba_thumb.jpg,Ali Akgun,4
+Max Zilberman,Principal Software Engineering Manager,https://cdn.theorg.com/b53708f1-dfc8-49c6-ba0c-a687597b5eb6_thumb.jpg,Ali Akgun,4
+Danny Garber,Principal Software Engineer,https://cdn.theorg.com/94c7d2a0-733b-4fce-8714-97b4259a3498_thumb.jpg,Ali Akgun,4
+Stephen Bohlen,Principal Software Engineering Lead,https://cdn.theorg.com/da51be67-3556-4956-880c-4f537dd3d1ab_thumb.jpg,Ali Akgun,4
+Jim Edelen,Principal Lead Program Manager,https://cdn.theorg.com/c17b866e-6672-4208-a1b9-bd69fe723ab8_thumb.jpg,Ali Akgun,4
+Haishi Bai,Principal Software Architect,no_match,Ali Akgun,4
+Jennelle Crothers,Principal Technical Program Manager,no_match,Ali Akgun,4
+Lorenzo Gajardo,IT Manager,https://cdn.theorg.com/5c8a5a40-a4e7-484b-8e2c-d54dfc794737_thumb.jpg,Ali Akgun,4
+Nicolas Brechet,Director Of IT,no_match,Ali Akgun,4
+Ugur Yilmaz,Director - Microsoft IT | Middle East & Africa Region,https://cdn.theorg.com/94564af6-566a-4105-bf93-9acf8a417ac2_thumb.jpg,Ali Akgun,4
+Colin Aylward,Principal Group Software Engineering Manager At Microsoft,https://cdn.theorg.com/f345f724-41b9-4217-a639-961c0d674617_thumb.jpg,Ali Akgun,4
+Jesse Silverstein,Principal Software Engineering Manager,https://cdn.theorg.com/5261a6d1-0d9b-430d-81be-b8041467f5f1_thumb.jpg,Ali Akgun,4
+Dharamvir Mahida,Principal Software Engineering Manager,https://cdn.theorg.com/a548326c-c6d6-4aa2-8701-10fc67d5dc13_thumb.jpg,Ali Akgun,4
+Srinivas Akyana,Sr Principal Software Engineering Manager,no_match,Ali Akgun,4
+Niamh Breslin,Principal Software Engineer,no_match,Ali Akgun,4
+Sergey Shantyr,Principal IT Manager,no_match,Ali Akgun,4
+Filip Krzeminski,Principal Software Engineering Manager,no_match,Ali Akgun,4
+Or Adler,Senior Software Engineer (tech Lead),https://cdn.theorg.com/3276da17-4210-466c-ae3a-59675993bd35_thumb.jpg,Max Zilberman,5
+Vishal Chandwani,Senior Software Engineer,no_match,Max Zilberman,5
+Kévin Szkudlapski,Senior Software Engineer,no_match,Max Zilberman,5
+Vincent Bersagol,Senior Service / Software Engineer,no_match,Max Zilberman,5
+Farah Farzana,Engineering Manager,no_match,Max Zilberman,5
+Timish Garg,Senior Technical Program Manager,no_match,Jim Edelen,5
+Usha Raman,Senior Program Manager | Cloud + AI,https://cdn.theorg.com/b374f220-5c61-473d-9216-162f4e951df0_thumb.jpg,Jim Edelen,5
+Tapan Shah,Senior Program Manager,https://cdn.theorg.com/5eda0458-3607-4c2e-b1d6-3027b4e238f2_thumb.jpg,Jim Edelen,5
+Binh Tran,Sr Program Manager,https://cdn.theorg.com/d6d19276-988f-4274-a285-cb3eecc1893e_thumb.jpg,Jim Edelen,5
+Ben Nick,"Senior Program Manager, Azure C&e Security Team",no_match,Jim Edelen,5
+Mika Saarela,Senior Program Manager,https://cdn.theorg.com/62303e27-8e91-4ed2-807e-1accff3e6f72_thumb.jpg,Jim Edelen,5
+Frédéric Lavarde,"Microsoft Datacenter Site Operations Manager, PMP",https://cdn.theorg.com/ea2eeeeb-4aaf-4bba-ade7-1cac7397bf28_thumb.jpg,Jennelle Crothers,5
+Roy Barron,IT Manager,https://cdn.theorg.com/a515f354-6b5b-4516-be02-2e159b74b99a_thumb.jpg,Nicolas Brechet,5
+Cory Gehr,Senior Security Engineer,https://cdn.theorg.com/51a5f268-549e-4e63-864b-3d3a91749095_thumb.jpg,Colin Aylward,5
+Nav Mehta,Software Engineering Manager,no_match,Dharamvir Mahida,5
+Mayank Mahajan,Senior Software Engineer,no_match,Srinivas Akyana,5
+Salvador de la Cruz,IT Operations Manager,https://cdn.theorg.com/01bcc0de-30ee-4aae-8158-b1bf25d86f6b_thumb.jpg,Sergey Shantyr,5
+Melissa Larsen,Principal Delivery Pursuit Lead,https://cdn.theorg.com/d27d7a26-cb9e-492f-876d-8c5256da0690_thumb.jpg,Rubén Caballero,4
+Hao Zhang,Principal PM Manager,no_match,Rubén Caballero,4
+Madelyn Driscoll,Principal Group Product Manager,https://cdn.theorg.com/e63a3009-1e87-44ef-9674-0b54eda05f09_thumb.jpg,Rubén Caballero,4
+Laxminarayana Korada,Principal Partner Solutions Architect,https://cdn.theorg.com/82cbf10f-1e22-46aa-9d6e-1eb3ebb72a80_thumb.jpg,Rubén Caballero,4
+Stuart Dwyer,Senior Director Payment Product,https://cdn.theorg.com/a494ca3c-7749-4705-b0c9-e89fcbcd4f20_thumb.jpg,Rubén Caballero,4
+Suzana Ilić,Principal Product Manager,https://cdn.theorg.com/6a76b1b2-c0bf-4fed-8252-465b55e3a075_thumb.jpg,Rubén Caballero,4
+Cliff Treais,Senior Regional IT Manager,no_match,Rubén Caballero,4
+Eddie Lau,Principal Product Manager,https://cdn.theorg.com/2fcd8bbe-f724-4ba3-968d-52dddeac2345_thumb.jpg,Rubén Caballero,4
+Jorge G. Gonzalez,Amer-w CSA Datacenter Engineering Manager,https://cdn.theorg.com/4a5963ef-975d-45c3-ab7d-c472619b2175_thumb.jpg,Rubén Caballero,4
+Nir Hendler,Principal PM Manager - Microsoft Defender For Endpoint & Defender For Identity Cxe Lead,no_match,Rubén Caballero,4
+Marina Abelev,Principal Supportability Manager,no_match,Rubén Caballero,4
+Ben Finney,"Sr. Director Of Hardware Engineering, Surface",https://cdn.theorg.com/0bf9cbea-aa86-44a6-8c1e-ccc761d74331_thumb.jpg,Rubén Caballero,4
+Bugra Karabey,Principal Group PM Manager,https://cdn.theorg.com/333934e5-191a-41b9-bf2f-4db0477e5a1c_thumb.jpg,Rubén Caballero,4
+Alok Srivastava,Senior Director Architecture And Product Management,no_match,Rubén Caballero,4
+Chandrasekhar Sarma,Principal PM Manager,https://cdn.theorg.com/cea6a57b-55b1-4d3f-af4d-b919419935f8_thumb.jpg,Rubén Caballero,4
+Vivek Mittagunta,Senior Engineering Manager,https://cdn.theorg.com/582b8d4e-1ffc-4217-b8af-31a30af1cadf_thumb.jpg,Rubén Caballero,4
+Gurupada Mandal,"Principal Engineer, AI Silicon Development",https://cdn.theorg.com/92f89def-9d43-4271-b8e5-e8ef0d52c720_thumb.jpg,Rubén Caballero,4
+Ferdous Rubaiyat,Principal Software Engineer,https://cdn.theorg.com/191442c9-9e2f-4787-aa76-7072ac9bb399_thumb.jpg,Rubén Caballero,4
+Hamzeh Dessouki,Principal Hardware Engineer,https://cdn.theorg.com/341c4972-dc7c-4799-bccf-54fdd319f6b6_thumb.jpg,Rubén Caballero,4
+Gaurav Jain,Principal Engineering Manager,https://cdn.theorg.com/367f4c2f-3df7-45fa-8495-de959b4f76c2_thumb.jpg,Rubén Caballero,4
+Melissa Larsen,Principal Delivery Pursuit Lead,https://cdn.theorg.com/d27d7a26-cb9e-492f-876d-8c5256da0690_thumb.jpg,Rubén Caballero,5
+Hao Zhang,Principal PM Manager,no_match,Rubén Caballero,5
+Madelyn Driscoll,Principal Group Product Manager,https://cdn.theorg.com/e63a3009-1e87-44ef-9674-0b54eda05f09_thumb.jpg,Rubén Caballero,5
+Laxminarayana Korada,Principal Partner Solutions Architect,https://cdn.theorg.com/82cbf10f-1e22-46aa-9d6e-1eb3ebb72a80_thumb.jpg,Rubén Caballero,5
+Stuart Dwyer,Senior Director Payment Product,https://cdn.theorg.com/a494ca3c-7749-4705-b0c9-e89fcbcd4f20_thumb.jpg,Rubén Caballero,5
+Suzana Ilić,Principal Product Manager,https://cdn.theorg.com/6a76b1b2-c0bf-4fed-8252-465b55e3a075_thumb.jpg,Rubén Caballero,5
+Cliff Treais,Senior Regional IT Manager,no_match,Rubén Caballero,5
+Eddie Lau,Principal Product Manager,https://cdn.theorg.com/2fcd8bbe-f724-4ba3-968d-52dddeac2345_thumb.jpg,Rubén Caballero,5
+Jorge G. Gonzalez,Amer-w CSA Datacenter Engineering Manager,https://cdn.theorg.com/4a5963ef-975d-45c3-ab7d-c472619b2175_thumb.jpg,Rubén Caballero,5
+Nir Hendler,Principal PM Manager - Microsoft Defender For Endpoint & Defender For Identity Cxe Lead,no_match,Rubén Caballero,5
+Marina Abelev,Principal Supportability Manager,no_match,Rubén Caballero,5
+Ben Finney,"Sr. Director Of Hardware Engineering, Surface",https://cdn.theorg.com/0bf9cbea-aa86-44a6-8c1e-ccc761d74331_thumb.jpg,Rubén Caballero,5
+Bugra Karabey,Principal Group PM Manager,https://cdn.theorg.com/333934e5-191a-41b9-bf2f-4db0477e5a1c_thumb.jpg,Rubén Caballero,5
+Alok Srivastava,Senior Director Architecture And Product Management,no_match,Rubén Caballero,5
+Chandrasekhar Sarma,Principal PM Manager,https://cdn.theorg.com/cea6a57b-55b1-4d3f-af4d-b919419935f8_thumb.jpg,Rubén Caballero,5
+Vivek Mittagunta,Senior Engineering Manager,https://cdn.theorg.com/582b8d4e-1ffc-4217-b8af-31a30af1cadf_thumb.jpg,Rubén Caballero,5
+Gurupada Mandal,"Principal Engineer, AI Silicon Development",https://cdn.theorg.com/92f89def-9d43-4271-b8e5-e8ef0d52c720_thumb.jpg,Rubén Caballero,5
+Ferdous Rubaiyat,Principal Software Engineer,https://cdn.theorg.com/191442c9-9e2f-4787-aa76-7072ac9bb399_thumb.jpg,Rubén Caballero,5
+Hamzeh Dessouki,Principal Hardware Engineer,https://cdn.theorg.com/341c4972-dc7c-4799-bccf-54fdd319f6b6_thumb.jpg,Rubén Caballero,5
+Gaurav Jain,Principal Engineering Manager,https://cdn.theorg.com/367f4c2f-3df7-45fa-8495-de959b4f76c2_thumb.jpg,Rubén Caballero,5
+Ashish Jaiman,Director Of Product Management,https://cdn.theorg.com/50089f37-f700-4516-abdf-6a44f74ea008_thumb.jpg,Rubén Caballero,5
+Janice Wu,Product Marketing Manager,https://cdn.theorg.com/860e7aa5-0411-4785-abd5-d4b4234bf683_thumb.jpg,Ashish Jaiman,6
+Sergei Bekeshkin,Product Lead,https://cdn.theorg.com/6e6347b8-29a8-4ee1-9f7c-20e6c8a5fb42_thumb.jpg,Eddie Lau,5
+Bernd Zimmermann,Technical Program Director Consumption IN Delivery,no_match,Bugra Karabey,5
+Cathy Holmes,"Director, Delivery Management",no_match,Chandrasekhar Sarma,5
+Sanjay Soni,"Director, Global Analytics And AI Sales Enablement Leader",https://cdn.theorg.com/7106ac8a-2c9f-489d-91c1-ba485843a0f7_thumb.jpg,John Maeda,4
+Marty D.,Principal PM | Marketplace Fasttrack Team,https://cdn.theorg.com/f048cba1-0edc-46a0-b75d-5419bd7eba41_thumb.jpg,John Maeda,4
+Cindy Niemeyer,Data And AI Director Specialist,https://cdn.theorg.com/1862669c-598b-4d11-9c10-bd3ba7acf771_thumb.jpg,John Maeda,4
+Fabricio Simoes,"Sr. Director, Sales Operations | Artificial Intelligence",no_match,John Maeda,4
+Liz Friedman,"Senior Director, HR AI Transformation",https://cdn.theorg.com/12b14589-94dc-49c2-84a6-95cfa48157e3_thumb.jpg,John Maeda,4
+Summer Frederickson,"Audit Director, Engineering",no_match,John Maeda,4
+Ashok Misra,Principal PM Manager,https://cdn.theorg.com/d6a3251b-0087-4785-a5a8-a3a5e2782c90_thumb.jpg,John Maeda,4
+Charlotte Tang,"Principal Design Manager (microsoft Teams, Frontline Workers)",https://cdn.theorg.com/528406b1-3be1-414f-99a6-935c51910d92_thumb.jpg,John Maeda,4
+Henry Sanders,"CVP, Software Development, Core Operating System",no_match,Julia Liuson,4
+Jitesh K. Tokas,Software Engineer,no_match,Dr. Rohini Srivathsa,4
+Jaime Teevan,"Chief Scientist & Technical Fellow, Experience & Devices",https://cdn.theorg.com/81f67cd0-d609-4a80-aade-9a0544d1fc8b_thumb.jpg,Ales Holecek,4
+Sumit Chauhan,"CVP, Office Engineering",https://cdn.theorg.com/0524e7dd-5ff2-4c26-849e-0064542027b9_thumb.jpg,Ales Holecek,4
+Pierre Hintze,"Head of 343 Studios, Halo Franchise",https://cdn.theorg.com/2849a3f4-cb38-485c-a558-62d3ec657802_thumb.jpg,Matt Booty,4
+Sarah Bond,"CVP, Game Creator Experience & Ecosystem, Xbox",https://cdn.theorg.com/fa5051da-2093-4881-b794-55ec04a1d49d_thumb.jpg,Dave McCarthy,4
+George Ayad,Global Head Of Strategic Partnerships And M&a,no_match,Bobby Yerramilli-Rao,4
+Renee Salamone,Senior Director Digital Sales,https://cdn.theorg.com/e8125fdb-1fe0-4f59-bc5b-4bb46c42281b_thumb.jpg,Mamata Bhopatkar,4
+Kristi Schwartz,"Senior Director, Worldwide Learning Strategy & GTM",https://cdn.theorg.com/27c9df11-0c86-41d4-b3cf-e722abb4e1d5_thumb.jpg,Mamata Bhopatkar,4
+Ray Conner,"Senior Director, SMC (small Medium Corporate) + DS (digital Sales) Global Sales Excellence Director",no_match,Mamata Bhopatkar,4
+Megan Barnard,Director Of SMB Sales Excellence,no_match,Mamata Bhopatkar,4
+Elena Torres,"Director, Sales Excellence",no_match,Mamata Bhopatkar,4
+Paige McNamara,"Director, Partner Development",https://cdn.theorg.com/ee3da3f5-7236-4619-bedd-3aa1e5a0718e_thumb.jpg,Mamata Bhopatkar,4
+Cassie Meyhoff,Sales Excellence And Strategy Director At Microsoft,no_match,Mamata Bhopatkar,4
+Marla Fox,Global SMC Tech And Sales Capability Director,https://cdn.theorg.com/ba0076e7-2d89-40eb-b4e3-1f1519a106b6_thumb.jpg,Mamata Bhopatkar,4
+Ben Ellgass,Sales Skilling Lead - Microsoft Solution Area,no_match,Mamata Bhopatkar,4
+Jake Mannino,Global Sales Director,https://cdn.theorg.com/8a3447f3-ca5d-489a-9dbc-d6ebec140e94_thumb.jpg,Mamata Bhopatkar,4
+Donnie Miltz,Director Of Support Specialist Sales,https://cdn.theorg.com/1d20cf7a-2dae-4e83-a611-cb80eb47ccc7_thumb.jpg,Mamata Bhopatkar,4
+Genevieve Hebbring,"Sales Director, Modern Work Cloud",https://cdn.theorg.com/1f115892-ffc6-4c21-ae89-cf0b1de1722a_thumb.jpg,Mamata Bhopatkar,4
+Navin Raigaga,"Director - Global AI Go-to-market Strategy, Sales Enablement",https://cdn.theorg.com/b6f54e93-df1c-49ef-b50f-845531d01bb4_thumb.jpg,Mamata Bhopatkar,4
+Selvan Loganathan,"Director, Modern Work Sales - Asia",no_match,Mamata Bhopatkar,4
+Drewe Letchford,"Regional Partner Sales Director, Gaming, Asia & ANZ",https://cdn.theorg.com/3a526732-de71-4182-85f5-c5bafb26fe08_thumb.jpg,Mamata Bhopatkar,4
+Marc Bilotti,General Manager | Global Enterprise Sales,https://cdn.theorg.com/6552e5fc-6d76-4a95-b879-a059a84acdee_thumb.jpg,Mamata Bhopatkar,4
+Jack Auld,Global Sales Team Director (m1) - Enterprise,https://cdn.theorg.com/a7a19704-3df0-4725-b1ab-f290b25aa490_thumb.jpg,Mamata Bhopatkar,4
+Manuela Goulden,"Specialist Sales Director, Modern Work",https://cdn.theorg.com/27672759-b267-4d55-b573-e95291ced8d0_thumb.jpg,Mamata Bhopatkar,4
+Adrea Simmons,"Sales Director, Business Applications",no_match,Mamata Bhopatkar,4
+Elisa Graceffo,"General Manager, Technical Content, Worldwide Learning",https://cdn.theorg.com/a58e831e-2a08-4307-b31b-7bac9a8085f1_thumb.jpg,Kristi Schwartz,5
+Brooke Salisbury,"Sr Learning Manager, AI And GTM Skilling",https://cdn.theorg.com/07487d78-04ee-4f86-a03a-f9c5e18b414d_thumb.jpg,Kristi Schwartz,5
+Janine Stanton,Senior Sales Excellence Manager,https://cdn.theorg.com/1502d64b-64b0-4416-a631-e0a81def10af_thumb.jpg,Elena Torres,5
+Dejan Pervulov,Senior Partner Solutions Architect - Business Applications And Power Platform,https://cdn.theorg.com/d12c5f0a-0b09-4a53-8c41-9d05ead1656b_thumb.jpg,Paige McNamara,5
+Ben Raphael,Enterprise Sales Manager,https://cdn.theorg.com/7847d609-6982-4f41-b44d-845c4595eab9_thumb.jpg,Genevieve Hebbring,5
+Elba Fernandez Novoa,Cloud Distribution Manager,https://cdn.theorg.com/363b4f00-4bc3-4675-a02c-b7c1790b4d19_thumb.jpg,Genevieve Hebbring,5
+Ulrike Graichen,Technical Sales Manager Modern Work - Manufacturing Sector,https://cdn.theorg.com/1998e0f3-733f-4aef-91a5-d39706c4202f_thumb.jpg,Genevieve Hebbring,5
+Josephine Princi,"Azure GTM Manager, Public Sector",https://cdn.theorg.com/eb3521b6-d9b7-4df7-b900-547b3d58c6b4_thumb.jpg,Navin Raigaga,5
+Tine Petric,Go-to-market Manager - Data And AI,https://cdn.theorg.com/a88fda46-c80e-433e-93de-bb90b2744451_thumb.jpg,Navin Raigaga,5
+Adil Boushib,Manager Enterprise Partner Sales,https://cdn.theorg.com/3a3ac0e7-5d80-4763-a0a1-126bf50149ed_thumb.jpg,Jack Auld,5
+Trudi Grant,ANZ Asean & India Enterprise Security Sales Manager,https://cdn.theorg.com/e5b3e0f7-a5c0-48d1-b10f-ae8c0f348a02_thumb.jpg,Jack Auld,5
+Jonne van Gils,Sr. Global Black Belt Sustainability - EMEA Sustainability Sales,no_match,Jack Auld,5
+Neil Gordon,"General Manager (partner), Channel Sales, Devices & Creativity Americas, Consumer Sales Organization",https://cdn.theorg.com/315fab90-d76d-47c0-ac6e-f695e3ef708b_thumb.jpg,Jack Auld,5
+Alex Pepperl,"Director, Head Of Retail Media Adtech Partnerships",https://cdn.theorg.com/52ac3fe6-8a40-4648-b558-4941564752be_thumb.jpg,Kya Sainsbury-Carter,4
+Dilraj Kundi,"Sr. Director, Global Strategic Pursuits",https://cdn.theorg.com/e1b5b2d8-ca11-4c10-8864-7683d7fb2243_thumb.jpg,Kya Sainsbury-Carter,4
+Dawn Conner,"Director, Content Experience",https://cdn.theorg.com/e6fcb8a8-c591-438f-9ef6-0d7a6dd8e291_thumb.jpg,Kya Sainsbury-Carter,4
+Ashmita Tailor Vardy,"Director, Integrated Marketing Campaigns, Americas",https://cdn.theorg.com/44c714b2-0c3c-4d8b-9e3e-549ece1e48dd_thumb.jpg,Kya Sainsbury-Carter,4
+Aaron Pitts,"Director, Event Brand Creative",no_match,Kya Sainsbury-Carter,4
+Tyrone Sheffey,Sr. Director Strategic Partnership Sales,https://cdn.theorg.com/974f624c-a4ef-4ca2-b337-dc6797ff639e_thumb.jpg,Kya Sainsbury-Carter,4
+Dorota Zimnoch,WW Executive Director - Innovation & Digital Strategy- Financial Services,https://cdn.theorg.com/6bb2a5c6-1f31-4371-847d-7967e4dd45e8_thumb.jpg,Kya Sainsbury-Carter,4
+Hal Bond,GPM / Principal Program Manager,no_match,Kya Sainsbury-Carter,4
+Nevine Farag,Sr Business Operations Program Manager,https://cdn.theorg.com/0eaff797-8c0e-4401-9002-7018ca1e9691_thumb.jpg,Dilraj Kundi,5
+Rebecka Andreasson Berne,Senior Communications Manager,https://cdn.theorg.com/476be2cc-4cd8-449c-a415-322d4bed97bf_thumb.jpg,Ashmita Tailor Vardy,5
+Robin van Setten,Global Client Director,https://cdn.theorg.com/3f2e4905-669a-4600-8401-d43c6f1ca1fe_thumb.jpg,Tarun Mehra,4
+Jim Kilroy,Director Client Management,https://cdn.theorg.com/ae42b76d-fc32-45fe-8a04-283f1643bd62_thumb.jpg,Tarun Mehra,4
+Kapil Chawla,"Director, ISV & SAAS Partnerships",https://cdn.theorg.com/b2a92e88-f2bd-4d4b-973f-3499235cc922_thumb.jpg,Tarun Mehra,4
+Lynnette Spanola Eastlake,Global Employee Engagement & Culture Lead,https://cdn.theorg.com/bbb9a338-a4c0-4968-a886-182083f21574_thumb.jpg,Tarun Mehra,4
+Geraldo Correia,Partner Channel Manager,https://cdn.theorg.com/47b49b55-0675-46f4-8f29-219f29090c49_thumb.jpg,Kapil Chawla,5
+Joy Chik,"President, Identity & Network Access",https://cdn.theorg.com/a868f709-b193-46e5-b161-4a8b915bb421_thumb.jpg,Bret Arsenault,4
+Sachin Gupta,Global Business Architecture and Sales Strategy Leader - Security,no_match,Michal Braverman-Blumenstyk,4
+Liz Smith,Principal Enterprise Program Manager,https://cdn.theorg.com/fd93148c-d815-464e-aad3-c69fbe3bf7bb_thumb.jpg,Marcus Ash,4
+Giovanna Dughera,Business Manager | Office Of The Microsoft Switzerland CEO,https://cdn.theorg.com/8076787e-ab4f-4e21-81de-30ad5d040ffe_thumb.jpg,Marcus Ash,4
+Audrey Lee,"Senior Director, Energy Partnerships",no_match,Marcus Ash,4
+Deanna Garcia,Principal Program Manager,https://cdn.theorg.com/3a7504f0-a645-4dc9-9b31-62fc91d62efa_thumb.jpg,Marcus Ash,4
+Aakash Mehta,Senior Account Lead (strategic Customer),no_match,Marcus Ash,4
+Ann Johnson,"CVP, Cybersecurity Solutions",https://cdn.theorg.com/8cedfd2d-7411-4887-8907-54f713e566b0_thumb.jpg,Corey Sanders,4
+Mark Souza,"CVP, Strategic Customer Success, Cloud & AI Platform",https://cdn.theorg.com/80f59229-9aab-4427-b939-af96b98295cb_thumb.jpg,Corey Sanders,4
+Hayete Gallot,"CVP, Commercial Solution Areas",https://cdn.theorg.com/0899d7ef-b5c6-4826-946c-44b47368c113_thumb.jpg,Corey Sanders,4
+Douglas Phillips,"CVP, Azure Storage, Media & Edge",no_match,Mark Russinovich,4
+Eric Lockard,"CVP, Azure Specialized Workloads",https://cdn.theorg.com/e4da476d-3a3f-462e-ad1c-973f7c4fd461_thumb.jpg,Mark Russinovich,4
+Rani Borkar,"CVP, Azure Hardware Systems & Infrastructure",https://cdn.theorg.com/f7c36504-e204-417b-99e4-b8c22f922d2c_thumb.jpg,Mark Russinovich,4
+Rohan Kumar,"CVP, Azure Data, Engineering",https://cdn.theorg.com/7fc35371-74de-41d3-a51e-5c2670d8ddb9_thumb.jpg,Mark Russinovich,4
+Allen Pyree,"Managing Director, Azure Data & AI",https://cdn.theorg.com/ae3f17b5-724f-4f78-ac99-7b81cb83b7fd_thumb.jpg,Mark Russinovich,4
+Jen Martinsen,Sr Director SMC Strategy,no_match,Sandeep Bhanot,4
+Shadab Hussain,Data & AI Sales Director,https://cdn.theorg.com/3f4ab8f7-68a3-4341-a5ac-a78305f5b195_thumb.jpg,Sandeep Bhanot,4
+Susan Indridason,"Director, Strategy And Innovation, Microsoft Customer Support",https://cdn.theorg.com/eab5c9b4-1b49-41af-a4f3-2ba01f108898_thumb.jpg,Sandeep Bhanot,4
+Cristina Daescu,Principal Applied Data Science Manager,https://cdn.theorg.com/efc4d0dd-2604-45eb-b6a0-c82a65a04792_thumb.jpg,Sandeep Bhanot,4
+Imad Abuyabes,Data Center Manager & Technical Manager,no_match,Sandeep Bhanot,4
+Venkat Narayanan,Partner Group Engineering Manager,no_match,Sandeep Bhanot,4
+Abdullah Kaplan,Senior IT Manager,https://cdn.theorg.com/3c5760f5-31ce-4c3a-8c1d-81323df21f89_thumb.jpg,Sandeep Bhanot,4
+Krishnan R.,Principal Group Program Manager At Azure AI Platform ( Azure Openai + Azureml+azure AI Services ),https://cdn.theorg.com/d74d33cd-497b-46d8-929f-7a5a6bce3156_thumb.jpg,Sandeep Bhanot,4
+Ignacio de la Morena,Principal IT Manager (it Director),no_match,Sandeep Bhanot,4
+Guoqing Li,"Principal Software Engineering Manager, E+d Group",https://cdn.theorg.com/adf9f280-0627-413c-9d16-8780e8aa3836_thumb.jpg,Sandeep Bhanot,4
+Indrani Choudhury,Director Strategy And Programs (global Delivery Center),https://cdn.theorg.com/1d251d61-3f69-4319-a33f-f3241a15b155_thumb.jpg,Sandeep Bhanot,4
+Fion Liu,"Director Corporate Bd, Strategy & Investment, Industrial AI",https://cdn.theorg.com/c1f8d7f4-6d16-477b-bef0-a65f5e47d226_thumb.jpg,Sandeep Bhanot,4
+Arjuna Shunn,Principal Architect,no_match,Sandeep Bhanot,4
+Bart Robertson,Principal Software Engineering Manager,https://cdn.theorg.com/6e43f131-fc6a-4fd0-a58a-42ce66e4ac18_thumb.jpg,Sandeep Bhanot,4
+Nitin Goel,Engineering Manager At Microsoft,https://cdn.theorg.com/6416765e-a611-400a-98a4-631ddbd77da7_thumb.jpg,Sandeep Bhanot,4
+Natalie E. Wood,Sr. Director Client Technology Strategy - Strategic Retail Accounts,https://cdn.theorg.com/34d838ff-a41b-4405-b570-601d0fad15d8_thumb.jpg,Sandeep Bhanot,4
+Eoin Gallagher,Principal Engineering Manager - Digital Transformation,https://cdn.theorg.com/27ed77f5-bca0-4fec-b237-f7e580e7fb93_thumb.jpg,Sandeep Bhanot,4
+Euan Grant,Partner Group Engineering Manager,https://cdn.theorg.com/296541a4-4bbc-431d-a8a8-77a4bd34c397_thumb.jpg,Sandeep Bhanot,4
+Monte Holyfield,Senior Data Scientist,https://cdn.theorg.com/bc77edf8-f757-4600-a1cb-4ae52c286a93_thumb.jpg,Cristina Daescu,5
+Carlo Curino,Partner Scientist Group Manager,https://cdn.theorg.com/ae6d0253-fee8-4d36-b48a-140b5804ac42_thumb.jpg,Cristina Daescu,5
+Aman Gokrani,Senior Research Scientist,no_match,Carlo Curino,6
+Keith Priester,Sr. IT Manager,https://cdn.theorg.com/a9cb240e-e392-4ae9-aa61-d220a68126f1_thumb.jpg,Ignacio de la Morena,5
+Sebastien Saumier,IT Lead @ Microsoft France & EMEA Paris Hub,https://cdn.theorg.com/4dfa9bff-5df5-491a-87aa-6103f07e256e_thumb.jpg,Ignacio de la Morena,5
+Ran Landsberg,Director Field IT Employee Experience | Microsoft Digital,https://cdn.theorg.com/66bb5e61-5208-4ccf-9d9c-e710a3e2e6ea_thumb.jpg,Ignacio de la Morena,5
+Albert Pantoja,Regional Information Technology Manager,https://cdn.theorg.com/7dc45f45-7665-47f3-9906-8cc62dfdd0d2_thumb.jpg,Ignacio de la Morena,5
+Carrie Parks,Software Digital Platforms US Security Technical Sales Director,no_match,Christiano Faig,4
+Amit Pradhan,"Regional Sales Lead, APAC - Dynamics",https://cdn.theorg.com/f4333a06-5427-4fa5-b381-b33eae266528_thumb.jpg,Christiano Faig,4
+Anuj Trivedi,"Head Of Pre Sales For Dynamics 365, APAC",https://cdn.theorg.com/4f06ef05-0b3d-463d-bdde-c13fc96f5265_thumb.jpg,Christiano Faig,4
+Simon Cole,"Canadian Sales Director, SAP On Azure",https://cdn.theorg.com/cca5e880-8b69-413b-bac5-a7ef382f58ad_thumb.jpg,Christiano Faig,4
+Steve Honn,Director Of Services Solution Sales | SLG & EDU | US At Microsoft Corporation,https://cdn.theorg.com/08184cd8-23c3-4c94-a326-fabbe6335fe2_thumb.jpg,Christiano Faig,4
+Wes Neubeck,Azure Cloud Sales Manager,https://cdn.theorg.com/9d3ffee0-bbcb-4661-bd8b-1e1400e72678_thumb.jpg,Christiano Faig,4
+Ashley Lochen,Senior Sales Director | US Banking & Payments,https://cdn.theorg.com/f5648234-c0ab-42e8-919c-9fbf77f0c862_thumb.jpg,Christiano Faig,4
+Lori Arriola,Enterprise Sales Director,https://cdn.theorg.com/8c70d0f0-3f3b-4b34-8864-aef0d8b3ae86_thumb.jpg,Christiano Faig,4
+Rodrigo Astiazaran,Commercial Sales Director,https://cdn.theorg.com/1d9ee7b1-416b-4782-a0db-ffbb1643f3df_thumb.jpg,Christiano Faig,4
+Basim Allam,"Director, Enterprise Sales",https://cdn.theorg.com/76572d72-4db9-4342-990e-49e181cc5cce_thumb.jpg,Christiano Faig,4
+Jeremiah Lambo,Sales Director - Enterprise Manufacturing,https://cdn.theorg.com/4c7a3dec-3a3c-464c-a296-06b111723ab6_thumb.jpg,Christiano Faig,4
+Lee Cox,Principal Azure Global Black Belt - Advanced Migration And AI Infrastructure,https://cdn.theorg.com/e1b9136b-75aa-4df2-916a-e4aa717c2fd7_thumb.jpg,Christiano Faig,4
+Hussam Saba,CEMA Vendor Digital Sales Lead,https://cdn.theorg.com/f5ba275b-e6be-4892-989e-1e9541d14fc2_thumb.jpg,Christiano Faig,4
+Jim Brown,Principal Account Technology Strategist,no_match,Christiano Faig,4
+Roan Daley,Global Black Belt - Sales Director - Azure Vmware Services,no_match,Christiano Faig,4
+Raid Alzahrani,Gov Sales Director,https://cdn.theorg.com/1c4377d9-4137-4e9c-9999-103cee6623ee_thumb.jpg,Christiano Faig,4
+Fiona Sims,"Director, Modern Work Enterprise Sales",no_match,Christiano Faig,4
+Florian Müller,Global Client Director BMW AG At Microsoft [sen. Sales Manager],https://cdn.theorg.com/77df0b8c-ec6f-4e8a-b9e6-6b186fc9f959_thumb.jpg,Christiano Faig,4
+Darryn O'Brien,Cyber Security Manager: Ireland & Northern Ireland,https://cdn.theorg.com/e1642161-a475-4859-92c7-b3a2609ba952_thumb.jpg,Christiano Faig,4
+Rose Alvarado,Senior Enterprise Security Sales Specialist,https://cdn.theorg.com/353605f7-8680-4d56-aad8-8d6d9fc0fbf0_thumb.jpg,Christiano Faig,4
+Giuseppe Esposito,Cloud Solution Architect Manager- Western Europe,https://cdn.theorg.com/e0aa5446-bc91-4390-ab72-414defc6a777_thumb.jpg,Wes Neubeck,5
+Evan Zaleschuk,Sr. Cloud Solution Architect,https://cdn.theorg.com/da60a721-0059-4296-a790-ce8de7813dde_thumb.jpg,Giuseppe Esposito,6
+Ajay Bhojwani,Sr Cloud Solution Architect,https://cdn.theorg.com/8c0a3cf9-fc38-4fed-b949-f76cf69ea0c7_thumb.jpg,Giuseppe Esposito,6
+Shrikant Kothari,Head Of IT - India,https://cdn.theorg.com/f65e6aaa-5336-4db8-9bb5-2a10be3500b7_thumb.jpg,Ahmad al Qadi,4
+Maneesh Sah,"CVP, Azure Storage Engineering",https://cdn.theorg.com/29e33c5e-3128-4596-9c92-3f319720d79c_thumb.jpg,Girish Bablani,4
+Erin Chapple,"CVP, Azure Core",https://cdn.theorg.com/19e8e72e-8b21-4f54-807b-0f23ee3fc87c_thumb.jpg,Girish Bablani,4
+Jegan Devaraju,Partner Group Software Engineering Manager,https://cdn.theorg.com/c25f945a-a893-4c77-95ee-c01dde357520_thumb.jpg,Maneesh Sah,5
+Giovanni Mezgec,"VP, Field & Partner Marketing",https://cdn.theorg.com/dd7b024c-8348-490d-9a30-7215c39a580e_thumb.jpg,Jared Spataro,4
+Angela Byers,Senior Director | Head Of SMB Copilot & Growth Marketing,no_match,Jared Spataro,4
+Mandy Rutledge,"Sales Director, Northeast Region",https://cdn.theorg.com/26a9280d-4651-45b6-bf80-733ca9c4d909_thumb.jpg,Jared Spataro,4
+Amy Geiger,"Director, Global Sales Strategy - AI For Modern Work M365 Copilot",no_match,Jared Spataro,4
+Keaton Guess,"Director, Media & Ad Tech Solutions | WPP N.a.",no_match,Jared Spataro,4
+Kathy Richardson,Director Global Marketing 3rd Party Games,https://cdn.theorg.com/41d2f350-8148-4d98-8300-68cc6f4f5c8a_thumb.jpg,Jared Spataro,4
+Loretto Kane,"Director, Global Events / Senior Executive Producer",https://cdn.theorg.com/5ca134ac-2dfa-470a-8743-f110463a217d_thumb.jpg,Jared Spataro,4
+Pascal Walschots,Senior Director Business Applications Solutions Play,no_match,Giovanni Mezgec,5
+Joe Gura,"Director, Global Partner Enablement",https://cdn.theorg.com/43690a27-33b3-4bd7-ac32-f4d85679e80f_thumb.jpg,Giovanni Mezgec,5
+Amrutha Srinivas,Director | Industry Partner Marketing,no_match,Giovanni Mezgec,5
+Christina de Guzman,"Sr. Marketing Manager, Microsoft Advertising, Americas",https://cdn.theorg.com/dc97450c-82c8-41a7-a3be-1137ac92dc64_thumb.jpg,Angela Byers,5
+Regina N. Johnson,Senior Manager ~ Partner Engagement,https://cdn.theorg.com/05d4eb61-0fa8-4760-bc8a-c0dcbe8b14b3_thumb.jpg,Mandy Rutledge,5
+Wina Wichienwidhtaya,Senior Product Marketing Manager,https://cdn.theorg.com/a769852b-a36a-449d-ad76-0fa982a7a801_thumb.jpg,Rosie Mastrandrea,4
+Leon Wright,"Snr Product Marketing Manager, Teams Phone (telco/systems Integrators)",https://cdn.theorg.com/ea0d3c52-5f3e-4f70-8310-c511e4702631_thumb.jpg,Rosie Mastrandrea,4
+Bilal Alam,"Technical Fellow, Developer Division",https://cdn.theorg.com/7e366df7-d153-402d-ae9c-f743e96d20f2_thumb.jpg,Alysa Taylor,4
